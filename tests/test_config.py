@@ -23,4 +23,4 @@ def test_microsoft_org_map_keys_match_keywords():
 def test_tuning_constants():
     assert config.MAX_CANDIDATES_PER_JUDGE == 60
     assert config.SKIP_OLDER_THAN_HOURS == 48
-    assert config.DEEPSEEK_MODEL == "deepseek-chat"
+    assert config.DEEPSEEK_MODEL == "deepseek-flash"

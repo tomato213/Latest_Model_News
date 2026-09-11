@@ -20,7 +20,7 @@ def test_llm_success_path():
     with patch("src.judge.post_json", return_value=llm_resp) as p:
         out = judge(cs)
     body = p.call_args.args[1]
-    assert body["model"] == "deepseek-chat"
+    assert body["model"] == "deepseek-flash"
     assert "Introducing GPT-6" in body["messages"][1]["content"]
     assert out[0] == {"id": "a", "is_event": True, "event_type": "release",
                       "summary": "GPT-6发布", "decided": True}

@@ -25,7 +25,8 @@ DRY_RUN = os.environ.get("DRY_RUN", "")
 
 # ---- LLM ----
 DEEPSEEK_BASE_URL = "https://api.deepseek.com"
-DEEPSEEK_MODEL = "deepseek-chat"
+# 旧名 deepseek-chat 已于 2026-07-24 停用，现用 deepseek-flash（=DeepSeek-V4.1-Flash）
+DEEPSEEK_MODEL = "deepseek-flash"
 
 # ---- 信息源端点（均已实测验证）----
 OPENAI_RSS_URL = "https://openai.com/news/rss.xml"
