@@ -3,7 +3,6 @@ import re
 
 from .config import DEEPSEEK_API_KEY, DEEPSEEK_BASE_URL, DEEPSEEK_MODEL
 from .http_client import post_json
-from .models import Candidate
 
 SYSTEM_PROMPT = """你是AI模型发布监控助手。给你一批候选条目(JSON数组，含id/title/source/published_at/extra)。
 判断每条是否为"硬事件"，硬事件只包括：
@@ -56,6 +55,7 @@ def judge(candidates):
                         [c.to_dict() for c in candidates], ensure_ascii=False)},
                 ],
                 "temperature": 0.1,
+                "max_tokens": 8192,
             },
             headers={"Authorization": f"Bearer {DEEPSEEK_API_KEY}",
                      "Content-Type": "application/json"},

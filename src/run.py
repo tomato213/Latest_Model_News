@@ -4,7 +4,6 @@ from datetime import datetime, timezone
 from .config import (EVENTS_MD_PATH, MAX_CANDIDATES_PER_JUDGE,
                      SKIP_OLDER_THAN_HOURS, STATE_PATH)
 from .judge import judge
-from .models import Candidate
 from .notify import push_events
 from .sources import ALL_SOURCES
 from .state import SeenStore
@@ -19,7 +18,7 @@ def _is_stale(c, now):
         return False
     try:
         pub = datetime.fromisoformat(c.published_at.replace("Z", "+00:00"))
-    except ValueError:
+    except (TypeError, ValueError):
         return False
     age_h = (now - pub).total_seconds() / 3600
     return age_h > SKIP_OLDER_THAN_HOURS or age_h < -2
@@ -65,10 +64,19 @@ def main():
         print(f"bootstrap: marked {len(candidates)} seen, no push")
         return 0
 
-    to_judge = fresh[:MAX_CANDIDATES_PER_JUDGE]
-    store.add_pending(fresh[MAX_CANDIDATES_PER_JUDGE:])
-
-    all_c = to_judge + store.pop_pending()
+    all_c = fresh + store.pop_pending()
+    # Final-review fix: an undecided item sitting in pending is not marked seen,
+    # so its source re-emitting it would put the same id in both fresh and
+    # pending → judged twice → duplicate push bullets / events.md entries.
+    # Dedupe by id (dict preserves order; first occurrence wins → fresh beats
+    # pending) before judging.
+    all_c = list({c.id: c for c in all_c}.values())
+    # Final-review fix: cap the TOTAL batch (fresh + pending) so the judge
+    # output (≈one JSON entry per input) stays within the LLM token budget;
+    # overflow waits in pending for later rounds instead of feeding a
+    # truncated-output → keyword-fallback → ever-growing-pending wedge.
+    store.add_pending(all_c[MAX_CANDIDATES_PER_JUDGE:])
+    all_c = all_c[:MAX_CANDIDATES_PER_JUDGE]
     # DEVIATION from brief: skip judge on empty batch (judge() with no
     # candidates is a no-op anyway; avoids spurious LLM/mock calls).
     judgments = judge(all_c) if all_c else []
@@ -94,7 +102,10 @@ def main():
     else:
         all_events = events + store.pop_pending_push()
         if push_events(all_events):
-            append_events_md(all_events, _now_iso())
+            # Final-review fix: quiet rounds (empty all_events) must not append
+            # an empty `## <iso>` section to events.md.
+            if all_events:
+                append_events_md(all_events, _now_iso())
         else:
             store.add_pending_push(all_events)
 
