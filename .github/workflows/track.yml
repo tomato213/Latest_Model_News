@@ -1,0 +1,44 @@
+name: track-model-news
+
+on:
+  schedule:
+    # 每 30 分钟一轮，错开整点（GitHub cron 高峰延迟小一些）
+    - cron: "7,37 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: model-news
+  cancel-in-progress: false
+
+jobs:
+  track:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Run tracker
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          SERVERCHAN_SENDKEY: ${{ secrets.SERVERCHAN_SENDKEY }}
+        run: python -m src.run
+
+      - name: Commit state
+        run: |
+          git config user.name "model-news-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add state/seen.json events.md
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update state [skip ci]"
+            git push
+          fi
