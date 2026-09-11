@@ -36,6 +36,15 @@ def test_non_2xx_raises():
             http_client.get_text("https://x/404")
 
 
+def test_error_message_redacts_url_secrets():
+    # ServerChan URL 含 SENDKEY，报错信息只暴露 host
+    url = "https://sctapi.ftqq.com/92push.send?secret=SENDKEY123"
+    with patch("src.http_client.requests.get", return_value=_resp(status=500)):
+        with pytest.raises(HttpClientError, match="sctapi.ftqq.com -> HTTP 500") as ei:
+            http_client.get_json(url)
+    assert "SENDKEY123" not in str(ei.value)
+
+
 def test_retry_once_on_network_error_then_success():
     with patch("src.http_client.requests.get", side_effect=[requests.ConnectionError("boom"), _resp(json_data={})]), \
          patch("src.http_client.time.sleep") as s:

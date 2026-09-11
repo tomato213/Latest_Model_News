@@ -20,6 +20,7 @@ Server酱 推送（多条合并一条，失败下轮重推）→ 事件追加到
    - `DEEPSEEK_API_KEY` — [DeepSeek 开放平台](https://platform.deepseek.com/) 申请
    - `SERVERCHAN_SENDKEY` — [Server酱](https://sct.ftqq.com/) 微信扫码后获取
 3. Actions 页面手动触发一次 `track-model-news`（bootstrap），之后每 30 分钟自动运行
+4. 微信扫码关注 Server酱 的「方糖」服务号，消息才会送达微信
 
 ## 本地调试
 

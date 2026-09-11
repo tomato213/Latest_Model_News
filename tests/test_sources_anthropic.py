@@ -1,7 +1,5 @@
 from pathlib import Path
 
-import pytest
-
 from src.sources import anthropic
 
 FIXTURE = Path(__file__).parent / "fixtures" / "anthropic_news.html"
