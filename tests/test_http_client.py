@@ -50,10 +50,18 @@ def test_both_attempts_fail_raises():
             http_client.get_json("https://x")
 
 
+def test_200_with_invalid_json_raises_http_client_error():
+    r = _resp(status=200)
+    r.json.side_effect = requests.exceptions.JSONDecodeError("Expecting value", "<html>", 0)
+    with patch("src.http_client.requests.get", return_value=r):
+        with pytest.raises(HttpClientError, match="invalid JSON"):
+            http_client.get_json("https://x/portal")
+
+
 def test_put_json_and_post_form():
     with patch("src.http_client.requests.put", return_value=_resp(json_data={"Code": 200})) as p:
         assert http_client.put_json("https://x", {"a": 1}) == {"Code": 200}
-        p.call_args.kwargs["json"] == {"a": 1}
+        assert p.call_args.kwargs["json"] == {"a": 1}
     with patch("src.http_client.requests.post", return_value=_resp(text="ok")) as p:
         assert http_client.post_form("https://x", {"title": "t"}) == "ok"
         assert p.call_args.kwargs["data"] == {"title": "t"}
