@@ -2004,8 +2004,84 @@
   "hn:49656218": "2026-09-11T19:08:19.485225+00:00",
   "hn:49646061": "2026-09-11T19:08:19.485225+00:00",
   "hn:49645189": "2026-09-11T19:08:19.485225+00:00",
-  "hn:49642803": "2026-09-11T19:08:19.485225+00:00"
+  "hn:49642803": "2026-09-11T19:08:19.485225+00:00",
+  "modelscope:deepseek-ai/DeepSeek-V3.2": "2026-09-11T21:52:56.573594+00:00",
+  "modelscope:ZhipuAI/GLM-5.3-BF16": "2026-09-11T21:52:56.573594+00:00",
+  "modelscope:moonshotai/Kimi-Linear-48B-A3B-Instruct": "2026-09-11T21:52:56.573594+00:00"
  },
- "pending": [],
+ "pending": [
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wdrvru/nvidia_rtx_5090_with_96gb_of_vram",
+   "source": "reddit",
+   "title": "nvidia rtx 5090 with 96gb of vram.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdrvru/nvidia_rtx_5090_with_96gb_of_vram/",
+   "published_at": "2026-09-11T20:32:04+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wdrvd4/is_anyone_using_k2horizonmova36ba4b_if_yes_what",
+   "source": "reddit",
+   "title": "Is anyone using K2-Horizon-MoVA-36B-A4B? If yes, what is the usecase?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdrvd4/is_anyone_using_k2horizonmova36ba4b_if_yes_what/",
+   "published_at": "2026-09-11T20:31:38+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wdqujp/comparing_continued_pretraining_to_rag_accuracy",
+   "source": "reddit",
+   "title": "Comparing Continued Pretraining to RAG (accuracy and performance)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdqujp/comparing_continued_pretraining_to_rag_accuracy/",
+   "published_at": "2026-09-11T19:53:35+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wdqnpq/is_a_zima_board_2_rtx_2000_ada_the_cheapest_path",
+   "source": "reddit",
+   "title": "Is a ZIMA Board 2 + RTX 2000 ADA the cheapest path to a decent Qwen-3.8 27b self-contained endpoint?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdqnpq/is_a_zima_board_2_rtx_2000_ada_the_cheapest_path/",
+   "published_at": "2026-09-11T19:46:27+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wdqn1x/deterministic_v_nondeterministic_local_training",
+   "source": "reddit",
+   "title": "Deterministic v. Non-deterministic local training run issue.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdqn1x/deterministic_v_nondeterministic_local_training/",
+   "published_at": "2026-09-11T19:45:47+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wdqit1/running_qwen3827bq4_at_max_context_on_a_32_gb_gpu",
+   "source": "reddit",
+   "title": "Running Qwen3.8-27B-Q4 at max context on a 32 GB GPU while avoiding kvcache quantization",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdqit1/running_qwen3827bq4_at_max_context_on_a_32_gb_gpu/",
+   "published_at": "2026-09-11T19:41:29+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wdqcxu/is_this_the_real_deal_5090_96gb",
+   "source": "reddit",
+   "title": "Is this the real deal? 5090 96GB",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdqcxu/is_this_the_real_deal_5090_96gb/",
+   "published_at": "2026-09-11T19:35:28+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wdq136/psa_lmstudio_accepts_llamacpp_parameter_override",
+   "source": "reddit",
+   "title": "PSA: LMStudio accepts llama.cpp parameter override: Try --yarn-attn-factor 1.2 (it seems to improve creativity)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdq136/psa_lmstudio_accepts_llamacpp_parameter_override/",
+   "published_at": "2026-09-11T19:23:30+00:00",
+   "extra": ""
+  },
+  {
+   "id": "hn:49664570",
+   "source": "hn",
+   "title": "Is open-weight AI banned yet?",
+   "url": "https://isopenweightaibannedyet.com/",
+   "published_at": "2026-09-11T20:05:42Z",
+   "extra": "points=2"
+  }
+ ],
  "pending_push": []
 }
