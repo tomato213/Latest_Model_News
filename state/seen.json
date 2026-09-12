@@ -2020,7 +2020,9 @@
   "hn:49513287": "2026-09-12T04:57:32.273462+00:00",
   "hn:49510787": "2026-09-12T04:57:32.273462+00:00",
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1we2rp2/concerning_humanlike_models_and_chatbot_rp_in": "2026-09-12T04:57:32.632254+00:00",
-  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wdxz12/i_finetuned_a_2b_llm_on_our_whatsapp_group_chat": "2026-09-12T04:57:32.632254+00:00"
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wdxz12/i_finetuned_a_2b_llm_on_our_whatsapp_group_chat": "2026-09-12T04:57:32.632254+00:00",
+  "hn:49571537": "2026-09-12T09:13:18.695498+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1we6u8h/the_perfect_models": "2026-09-12T09:13:19.064620+00:00"
  },
  "pending": [
   {
@@ -2046,6 +2048,46 @@
    "url": "https://openrouter.ai/inference-net/schematron-v2-small",
    "published_at": "2026-09-12T01:35:33+00:00",
    "extra": "context=128000"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1we7ay2/deepseek_v41_flash_at_41_toks_on_8_a40_on",
+   "source": "reddit",
+   "title": "DeepSeek V4.1 Flash at 41 tok/s on 8× A40 on TensorSharp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1we7ay2/deepseek_v41_flash_at_41_toks_on_8_a40_on/",
+   "published_at": "2026-09-12T08:47:09+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1we6tau/qwen38_flash_next_llamacpp_config_tuning",
+   "source": "reddit",
+   "title": "Qwen3.8 Flash Next llama.cpp config tuning",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1we6tau/qwen38_flash_next_llamacpp_config_tuning/",
+   "published_at": "2026-09-12T08:18:04+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1we6mkg/matrix_bros_a_mashup_of_matrix_and_super_mario",
+   "source": "reddit",
+   "title": "\"Matrix Bros\", a mash-up of Matrix and Super Mario vibe coded using Ornith-1.5-35B-Q4_K_M with 6GB VRAM with (almost) a single prompt :-)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1we6mkg/matrix_bros_a_mashup_of_matrix_and_super_mario/",
+   "published_at": "2026-09-12T08:07:09+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1we6lrn/agnesaiagnes30flash_33b_multimodal_aa_score_36",
+   "source": "reddit",
+   "title": "Agnes-AI/Agnes-3.0-Flash 33B Multimodal, AA score: 36",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1we6lrn/agnesaiagnes30flash_33b_multimodal_aa_score_36/",
+   "published_at": "2026-09-12T08:05:53+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1we5jne/antirez_deepseek_41_flash_gguf_on_hf",
+   "source": "reddit",
+   "title": "Antirez Deepseek 4.1 flash gguf on HF",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1we5jne/antirez_deepseek_41_flash_gguf_on_hf/",
+   "published_at": "2026-09-12T07:05:31+00:00",
+   "extra": ""
   },
   {
    "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1we2fi6/unsloth_udquants_qwen_38_27b_for_example_worth",
@@ -2168,6 +2210,22 @@
    "extra": ""
   },
   {
+   "id": "hn:49664570",
+   "source": "hn",
+   "title": "Is open-weight AI banned yet?",
+   "url": "https://isopenweightaibannedyet.com/",
+   "published_at": "2026-09-11T20:05:42Z",
+   "extra": "points=2"
+  },
+  {
+   "id": "hn:49670455",
+   "source": "hn",
+   "title": "GoatCode – open-source terminal AI agent with provider failover",
+   "url": "https://news.ycombinator.com/item?id=49670455",
+   "published_at": "2026-09-12T09:02:29Z",
+   "extra": "points=2"
+  },
+  {
    "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wdqcxu/is_this_the_real_deal_5090_96gb",
    "source": "reddit",
    "title": "Is this the real deal? 5090 96GB",
@@ -2182,14 +2240,6 @@
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdq136/psa_lmstudio_accepts_llamacpp_parameter_override/",
    "published_at": "2026-09-11T19:23:30+00:00",
    "extra": ""
-  },
-  {
-   "id": "hn:49664570",
-   "source": "hn",
-   "title": "Is open-weight AI banned yet?",
-   "url": "https://isopenweightaibannedyet.com/",
-   "published_at": "2026-09-11T20:05:42Z",
-   "extra": "points=2"
   }
  ],
  "pending_push": [
@@ -2232,6 +2282,16 @@
    "extra": "",
    "event_type": "release",
    "summary": "I fine-tuned a 2B LLM on our WhatsApp group chat, and shared how to do it on GitHub as a cookbook."
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1we6u8h/the_perfect_models",
+   "source": "reddit",
+   "title": "The perfect model(s).",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1we6u8h/the_perfect_models/",
+   "published_at": "2026-09-12T08:19:36+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "The perfect model(s)."
   }
  ]
 }
