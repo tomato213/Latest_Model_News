@@ -2011,7 +2011,16 @@
   "openai:https://openai.com/index/perplexity-improving-accuracy-with-astra": "2026-09-12T00:11:06.315708+00:00",
   "modelscope:moonshotai/Kimi-Audio-7B": "2026-09-12T00:11:06.315708+00:00",
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wdushp/this_is_why_we_need_opensource_harnesses_local": "2026-09-12T00:11:06.644112+00:00",
-  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wduplw/what_is_a_good_toolmodel_for_nearrealtime_voice": "2026-09-12T00:11:06.644112+00:00"
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wduplw/what_is_a_good_toolmodel_for_nearrealtime_voice": "2026-09-12T00:11:06.644112+00:00",
+  "modelscope:Qwen/Qwen3-Embedding-8B": "2026-09-12T04:57:32.273462+00:00",
+  "hn:49479878": "2026-09-12T04:57:32.273462+00:00",
+  "hn:49507259": "2026-09-12T04:57:32.273462+00:00",
+  "hn:49499789": "2026-09-12T04:57:32.273462+00:00",
+  "hn:49497451": "2026-09-12T04:57:32.273462+00:00",
+  "hn:49513287": "2026-09-12T04:57:32.273462+00:00",
+  "hn:49510787": "2026-09-12T04:57:32.273462+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1we2rp2/concerning_humanlike_models_and_chatbot_rp_in": "2026-09-12T04:57:32.632254+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wdxz12/i_finetuned_a_2b_llm_on_our_whatsapp_group_chat": "2026-09-12T04:57:32.632254+00:00"
  },
  "pending": [
   {
@@ -2020,6 +2029,70 @@
    "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
    "url": "https://openai.com/index/cognition-devin-testing-with-astra",
    "published_at": "2026-09-11T16:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openrouter:inference-net/schematron-v2-turbo",
+   "source": "openrouter",
+   "title": "Inference.net: Schematron V2 Turbo",
+   "url": "https://openrouter.ai/inference-net/schematron-v2-turbo",
+   "published_at": "2026-09-12T01:35:49+00:00",
+   "extra": "context=128000"
+  },
+  {
+   "id": "openrouter:inference-net/schematron-v2-small",
+   "source": "openrouter",
+   "title": "Inference.net: Schematron V2 Small",
+   "url": "https://openrouter.ai/inference-net/schematron-v2-small",
+   "published_at": "2026-09-12T01:35:33+00:00",
+   "extra": "context=128000"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1we2fi6/unsloth_udquants_qwen_38_27b_for_example_worth",
+   "source": "reddit",
+   "title": "Unsloth UD-quants - Qwen 3.8 27b for example - worth using 8-bit or stick with faster 6 bit for coding?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1we2fi6/unsloth_udquants_qwen_38_27b_for_example_worth/",
+   "published_at": "2026-09-12T04:18:53+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1we1a62/messaging_ai_on_discord",
+   "source": "reddit",
+   "title": "Messaging AI on Discord",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1we1a62/messaging_ai_on_discord/",
+   "published_at": "2026-09-12T03:21:59+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wdyprr/got_an_old_slow_low_vram_gpu_laying_around_might",
+   "source": "reddit",
+   "title": "Got an old slow low vram GPU laying around? Might be worth it to use for Just Vision mmproj llama.cpp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdyprr/got_an_old_slow_low_vram_gpu_laying_around_might/",
+   "published_at": "2026-09-12T01:18:43+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wdynzw/token_count_weirdness_ollama_vs_llamacpp_with",
+   "source": "reddit",
+   "title": "Token count weirdness Ollama vs llama.cpp with Opencode",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdynzw/token_count_weirdness_ollama_vs_llamacpp_with/",
+   "published_at": "2026-09-12T01:16:21+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wdybqd/old_z6402x_p100s_no_idea",
+   "source": "reddit",
+   "title": "old z640,2x p100's, no idea",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdybqd/old_z6402x_p100s_no_idea/",
+   "published_at": "2026-09-12T01:00:49+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wdxspd/countering_misuse_of_ai_september_2026_anthropic",
+   "source": "reddit",
+   "title": "Countering misuse of AI: September 2026 / Anthropic",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdxspd/countering_misuse_of_ai_september_2026_anthropic/",
+   "published_at": "2026-09-12T00:36:16+00:00",
    "extra": ""
   },
   {
@@ -2139,6 +2212,26 @@
    "extra": "",
    "event_type": "release",
    "summary": "What is a good tool+model for near-realtime voice conversation?"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1we2rp2/concerning_humanlike_models_and_chatbot_rp_in",
+   "source": "reddit",
+   "title": "Concerning \"humanlike models\" and chatbot RP in general...",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1we2rp2/concerning_humanlike_models_and_chatbot_rp_in/",
+   "published_at": "2026-09-12T04:36:59+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "Concerning \"humanlike models\" and chatbot RP in general..."
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wdxz12/i_finetuned_a_2b_llm_on_our_whatsapp_group_chat",
+   "source": "reddit",
+   "title": "I fine-tuned a 2B LLM on our WhatsApp group chat, and shared how to do it on GitHub as a cookbook.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdxz12/i_finetuned_a_2b_llm_on_our_whatsapp_group_chat/",
+   "published_at": "2026-09-12T00:44:36+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "I fine-tuned a 2B LLM on our WhatsApp group chat, and shared how to do it on GitHub as a cookbook."
   }
  ]
 }
