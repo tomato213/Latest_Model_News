@@ -2007,9 +2007,45 @@
   "hn:49642803": "2026-09-11T19:08:19.485225+00:00",
   "modelscope:deepseek-ai/DeepSeek-V3.2": "2026-09-11T21:52:56.573594+00:00",
   "modelscope:ZhipuAI/GLM-5.3-BF16": "2026-09-11T21:52:56.573594+00:00",
-  "modelscope:moonshotai/Kimi-Linear-48B-A3B-Instruct": "2026-09-11T21:52:56.573594+00:00"
+  "modelscope:moonshotai/Kimi-Linear-48B-A3B-Instruct": "2026-09-11T21:52:56.573594+00:00",
+  "openai:https://openai.com/index/perplexity-improving-accuracy-with-astra": "2026-09-12T00:11:06.315708+00:00",
+  "modelscope:moonshotai/Kimi-Audio-7B": "2026-09-12T00:11:06.315708+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wdushp/this_is_why_we_need_opensource_harnesses_local": "2026-09-12T00:11:06.644112+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wduplw/what_is_a_good_toolmodel_for_nearrealtime_voice": "2026-09-12T00:11:06.644112+00:00"
  },
  "pending": [
+  {
+   "id": "openai:https://openai.com/index/cognition-devin-testing-with-astra",
+   "source": "openai",
+   "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+   "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+   "published_at": "2026-09-11T16:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wdx463/qwennext_seems_worse_to_me_then_38_27b_for_coding",
+   "source": "reddit",
+   "title": "Qwen-Next seems worse to me then 3.8 27b for coding, but I feel like I must be missing something?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdx463/qwennext_seems_worse_to_me_then_38_27b_for_coding/",
+   "published_at": "2026-09-12T00:05:36+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wdwmwh/learningrsi_through_ngrams",
+   "source": "reddit",
+   "title": "Learning/RSI through ngrams?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdwmwh/learningrsi_through_ngrams/",
+   "published_at": "2026-09-11T23:45:03+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wdwhu0/looking_for_input_on_legit_best_open_router",
+   "source": "reddit",
+   "title": "Looking for input on legit best open router alternatives",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdwhu0/looking_for_input_on_legit_best_open_router/",
+   "published_at": "2026-09-11T23:38:47+00:00",
+   "extra": ""
+  },
   {
    "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wdrvru/nvidia_rtx_5090_with_96gb_of_vram",
    "source": "reddit",
@@ -2083,5 +2119,26 @@
    "extra": "points=2"
   }
  ],
- "pending_push": []
+ "pending_push": [
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wdushp/this_is_why_we_need_opensource_harnesses_local",
+   "source": "reddit",
+   "title": "This is why we need open-source harnesses + local models",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdushp/this_is_why_we_need_opensource_harnesses_local/",
+   "published_at": "2026-09-11T22:25:34+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "This is why we need open-source harnesses + local models"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wduplw/what_is_a_good_toolmodel_for_nearrealtime_voice",
+   "source": "reddit",
+   "title": "What is a good tool+model for near-realtime voice conversation?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wduplw/what_is_a_good_toolmodel_for_nearrealtime_voice/",
+   "published_at": "2026-09-11T22:22:14+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "What is a good tool+model for near-realtime voice conversation?"
+  }
+ ]
 }
