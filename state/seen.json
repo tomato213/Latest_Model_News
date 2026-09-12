@@ -2023,7 +2023,12 @@
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wdxz12/i_finetuned_a_2b_llm_on_our_whatsapp_group_chat": "2026-09-12T04:57:32.632254+00:00",
   "hn:49571537": "2026-09-12T09:13:18.695498+00:00",
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1we6u8h/the_perfect_models": "2026-09-12T09:13:19.064620+00:00",
-  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1web1jd/anybody_use_frontier_models_like_astrafable_for": "2026-09-12T13:05:17.984769+00:00"
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1web1jd/anybody_use_frontier_models_like_astrafable_for": "2026-09-12T13:05:17.984769+00:00",
+  "modelscope:deepseek-ai/DeepSeek-R1-Distill-Qwen-7B": "2026-09-12T16:15:31.422968+00:00",
+  "modelscope:deepseek-ai/DeepSeek-V3": "2026-09-12T16:15:31.422968+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wefo21/a_mysterious_new_model_tops_my_efficiency_index": "2026-09-12T16:15:32.002401+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1weevsu/best_moe_llm_for_m5_macbook_air_24gb": "2026-09-12T16:15:32.002401+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1weersc/this_draft_model_is_op_on_16_gb_cards_for_qwen_38": "2026-09-12T16:15:32.002401+00:00"
  },
  "pending": [
   {
@@ -2049,6 +2054,70 @@
    "url": "https://openrouter.ai/inference-net/schematron-v2-small",
    "published_at": "2026-09-12T01:35:33+00:00",
    "extra": "context=128000"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wef22g/how_to_automate_long_running_tasks",
+   "source": "reddit",
+   "title": "How to automate long running tasks?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wef22g/how_to_automate_long_running_tasks/",
+   "published_at": "2026-09-12T15:08:30+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1weepjr/deepseek_v41_flash_on_ds4_m3u_3280c",
+   "source": "reddit",
+   "title": "DeepSeek v4.1 Flash on DS4 (M3U 32/80c)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1weepjr/deepseek_v41_flash_on_ds4_m3u_3280c/",
+   "published_at": "2026-09-12T14:54:48+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1weekio/releasing_smolbenchmark_helps_you_choose_the_best",
+   "source": "reddit",
+   "title": "Releasing smolbenchmark: Helps you choose the best model for your hardware!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1weekio/releasing_smolbenchmark_helps_you_choose_the_best/",
+   "published_at": "2026-09-12T14:49:04+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wedw86/anyone_had_luck_with_converted_3070s",
+   "source": "reddit",
+   "title": "Anyone had luck with converted 3070s?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wedw86/anyone_had_luck_with_converted_3070s/",
+   "published_at": "2026-09-12T14:20:30+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wedimm/settings_to_avoid_vram_overload_lm_studio",
+   "source": "reddit",
+   "title": "Settings to avoid VRAM overload? LM Studio",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wedimm/settings_to_avoid_vram_overload_lm_studio/",
+   "published_at": "2026-09-12T14:04:36+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wed7cg/intel_linux_npu_driver_only_now_officially",
+   "source": "reddit",
+   "title": "Intel Linux NPU driver only now officially supports Ubuntu 26.04 LTS",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wed7cg/intel_linux_npu_driver_only_now_officially/",
+   "published_at": "2026-09-12T13:51:31+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wecqfc/glm_53_flash_is_borderline_unusable_for_assistant",
+   "source": "reddit",
+   "title": "GLM 5.3 Flash is borderline unusable for assistant chat",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wecqfc/glm_53_flash_is_borderline_unusable_for_assistant/",
+   "published_at": "2026-09-12T13:31:17+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wecf25/tencentaukflash_hugging_face",
+   "source": "reddit",
+   "title": "tencent/AuK-Flash · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wecf25/tencentaukflash_hugging_face/",
+   "published_at": "2026-09-12T13:17:22+00:00",
+   "extra": ""
   },
   {
    "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wec0aa/2x3090_setup_need_some_recommendations",
@@ -2147,6 +2216,38 @@
    "extra": ""
   },
   {
+   "id": "hn:49664570",
+   "source": "hn",
+   "title": "Is open-weight AI banned yet?",
+   "url": "https://isopenweightaibannedyet.com/",
+   "published_at": "2026-09-11T20:05:42Z",
+   "extra": "points=2"
+  },
+  {
+   "id": "hn:49673323",
+   "source": "hn",
+   "title": "Reddit Now Blocking Firefox for Android with uBlock Origin",
+   "url": "https://news.ycombinator.com/item?id=49673323",
+   "published_at": "2026-09-12T15:28:53Z",
+   "extra": "points=6"
+  },
+  {
+   "id": "hn:49671509",
+   "source": "hn",
+   "title": "Show HN: Rust-split – save your tokens on large Rust source files",
+   "url": "https://news.ycombinator.com/item?id=49671509",
+   "published_at": "2026-09-12T12:10:15Z",
+   "extra": "points=4"
+  },
+  {
+   "id": "hn:49670455",
+   "source": "hn",
+   "title": "GoatCode – open-source terminal AI agent with provider failover",
+   "url": "https://news.ycombinator.com/item?id=49670455",
+   "published_at": "2026-09-12T09:02:29Z",
+   "extra": "points=2"
+  },
+  {
    "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1we6lrn/agnesaiagnes30flash_33b_multimodal_aa_score_36",
    "source": "reddit",
    "title": "Agnes-AI/Agnes-3.0-Flash 33B Multimodal, AA score: 36",
@@ -2217,30 +2318,6 @@
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdx463/qwennext_seems_worse_to_me_then_38_27b_for_coding/",
    "published_at": "2026-09-12T00:05:36+00:00",
    "extra": ""
-  },
-  {
-   "id": "hn:49664570",
-   "source": "hn",
-   "title": "Is open-weight AI banned yet?",
-   "url": "https://isopenweightaibannedyet.com/",
-   "published_at": "2026-09-11T20:05:42Z",
-   "extra": "points=2"
-  },
-  {
-   "id": "hn:49671509",
-   "source": "hn",
-   "title": "Show HN: Rust-split – save your tokens on large Rust source files",
-   "url": "https://news.ycombinator.com/item?id=49671509",
-   "published_at": "2026-09-12T12:10:15Z",
-   "extra": "points=4"
-  },
-  {
-   "id": "hn:49670455",
-   "source": "hn",
-   "title": "GoatCode – open-source terminal AI agent with provider failover",
-   "url": "https://news.ycombinator.com/item?id=49670455",
-   "published_at": "2026-09-12T09:02:29Z",
-   "extra": "points=2"
   },
   {
    "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wdwmwh/learningrsi_through_ngrams",
@@ -2383,6 +2460,36 @@
    "extra": "",
    "event_type": "release",
    "summary": "Anybody use frontier models like Astra/Fable for planning/judging, and qwen3.8 as the main workhorse? Curious to hear about your setups!"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wefo21/a_mysterious_new_model_tops_my_efficiency_index",
+   "source": "reddit",
+   "title": "A mysterious new model tops my efficiency index",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wefo21/a_mysterious_new_model_tops_my_efficiency_index/",
+   "published_at": "2026-09-12T15:33:16+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "A mysterious new model tops my efficiency index"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1weevsu/best_moe_llm_for_m5_macbook_air_24gb",
+   "source": "reddit",
+   "title": "Best MoE/ LLM for m5 MacBook Air 24gb?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1weevsu/best_moe_llm_for_m5_macbook_air_24gb/",
+   "published_at": "2026-09-12T15:01:36+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "Best MoE/ LLM for m5 MacBook Air 24gb?"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1weersc/this_draft_model_is_op_on_16_gb_cards_for_qwen_38",
+   "source": "reddit",
+   "title": "This draft model is OP on 16 GB cards for Qwen 3.8 27b",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1weersc/this_draft_model_is_op_on_16_gb_cards_for_qwen_38/",
+   "published_at": "2026-09-12T14:57:22+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "This draft model is OP on 16 GB cards for Qwen 3.8 27b"
   }
  ]
 }
