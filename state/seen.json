@@ -2125,153 +2125,22 @@
   "hn:49724690": "2026-09-16T14:51:55.261364+00:00",
   "hn:49727072": "2026-09-16T14:51:55.261364+00:00",
   "hn:49726343": "2026-09-16T14:51:55.261364+00:00",
-  "hn:49727627": "2026-09-16T14:51:55.261364+00:00"
+  "hn:49727627": "2026-09-16T14:51:55.261364+00:00",
+  "openrouter:~deepseek/deepseek-pro-latest": "2026-09-16T18:50:50.423280+00:00",
+  "openrouter:~deepseek/deepseek-flash-latest": "2026-09-16T18:50:50.423280+00:00",
+  "hn:49701054": "2026-09-16T18:50:50.423280+00:00",
+  "hn:49699591": "2026-09-16T18:50:50.423280+00:00",
+  "hn:49699267": "2026-09-16T18:50:50.423280+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wi60d8/can_current_minicpm52bany_best_sota_under_10b": "2026-09-16T18:50:50.943837+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wi5rx2/frontier_llm_development_simplified_for": "2026-09-16T18:50:50.943837+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wi5e8v/whats_the_best_model_you_have_running_on_strix": "2026-09-16T18:50:50.943837+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wi2zuc/xeboostlm_native_c_local_llms_for_intel_npus_igpus": "2026-09-16T18:50:50.943837+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wi28lv/whats_the_current_best_llm_uncensoring_method": "2026-09-16T18:50:50.943837+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wi19tk/el_pulpo_010_released": "2026-09-16T18:50:50.943837+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wi12vl/release_b11003_ggmlorgllamacpp": "2026-09-16T18:50:50.943837+00:00",
+  "hn:49731282": "2026-09-16T18:50:50.943837+00:00"
  },
  "pending": [
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wfzokx/interesting_video_by_asionometry_on_the_state_of",
-   "source": "reddit",
-   "title": "Interesting Video by Asionometry on the state of SF Chips",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfzokx/interesting_video_by_asionometry_on_the_state_of/",
-   "published_at": "2026-09-14T10:30:35+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1weisve/fablequality_novel_rewrite_private_host",
-   "source": "reddit",
-   "title": "Fable-quality novel rewrite, private host",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1weisve/fablequality_novel_rewrite_private_host/",
-   "published_at": "2026-09-12T17:35:43+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wgz34f/a_question_regarding_ds_v41_flash_architecture",
-   "source": "reddit",
-   "title": "A question regarding DS V4.1 flash architecture",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgz34f/a_question_regarding_ds_v41_flash_architecture/",
-   "published_at": "2026-09-15T12:31:52+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wgyqnm/closed_source_ai_is_more_dangerous_than_open",
-   "source": "reddit",
-   "title": "Closed source AI is more dangerous than open source AI.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgyqnm/closed_source_ai_is_more_dangerous_than_open/",
-   "published_at": "2026-09-15T12:16:01+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wgy6tm/deepseek_v41f_q4_on_m3_ultra_with_native_dspark",
-   "source": "reddit",
-   "title": "DeepSeek V4.1F Q4 on M3 Ultra with native DSpark MTP (40tps / 800tps)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgy6tm/deepseek_v41f_q4_on_m3_ultra_with_native_dspark/",
-   "published_at": "2026-09-15T11:51:26+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wgxuiw/same_gb300_same_workload_the_serving_engine_moved",
-   "source": "reddit",
-   "title": "Same GB300, same workload: the serving engine moved the benchmark result by 11x",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgxuiw/same_gb300_same_workload_the_serving_engine_moved/",
-   "published_at": "2026-09-15T11:34:37+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wgxnhi/qwen38_27b_with_embeddings",
-   "source": "reddit",
-   "title": "Qwen3.8 27B with embeddings",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgxnhi/qwen38_27b_with_embeddings/",
-   "published_at": "2026-09-15T11:25:14+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wgwh7k/qwen3827bturbofablecoldfusion735882hereticuncensor",
-   "source": "reddit",
-   "title": "Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgwh7k/qwen3827bturbofablecoldfusion735882hereticuncensor/",
-   "published_at": "2026-09-15T10:24:20+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wgvw4j/best_hardware_for_qwen_38",
-   "source": "reddit",
-   "title": "Best hardware for qwen 3.8",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgvw4j/best_hardware_for_qwen_38/",
-   "published_at": "2026-09-15T09:52:37+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wguq4i/lm_studio_gemma426ba4bqat_issues_with_exa_mcp",
-   "source": "reddit",
-   "title": "LM Studio \"gemma-4-26b-a4b-qat\" issues with Exa MCP",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wguq4i/lm_studio_gemma426ba4bqat_issues_with_exa_mcp/",
-   "published_at": "2026-09-15T08:44:24+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wgun9i/can_anyone_take_a_look_at_my_qwen38_27b_setup_and",
-   "source": "reddit",
-   "title": "Can anyone take a look at my Qwen3.8 27B setup, and suggest improvements?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgun9i/can_anyone_take_a_look_at_my_qwen38_27b_setup_and/",
-   "published_at": "2026-09-15T08:39:19+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wgu62z/jinfer_an_opensource_ai_inference_engine_for_the",
-   "source": "reddit",
-   "title": "jinfer: An open-source AI inference engine for the JVM. Finally, AI in jar.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgu62z/jinfer_an_opensource_ai_inference_engine_for_the/",
-   "published_at": "2026-09-15T08:09:43+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wgtto9/harness_for_short_context_lengths_strategies",
-   "source": "reddit",
-   "title": "Harness for short context lengths (strategies needed)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgtto9/harness_for_short_context_lengths_strategies/",
-   "published_at": "2026-09-15T07:49:05+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wgt6cs/radeon_ai_pro_r9700_which_one_to_choose",
-   "source": "reddit",
-   "title": "Radeon AI PRO R9700 - Which one to choose?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgt6cs/radeon_ai_pro_r9700_which_one_to_choose/",
-   "published_at": "2026-09-15T07:09:52+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wgszma/voodoo_dynamic_quant_now_mit_licensed",
-   "source": "reddit",
-   "title": "Voodoo Dynamic Quant - Now MIT Licensed",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgszma/voodoo_dynamic_quant_now_mit_licensed/",
-   "published_at": "2026-09-15T06:59:33+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wgr0tb/harness_am_i_doing_something_wrong_or_are_my",
-   "source": "reddit",
-   "title": "Harness: Am I doing something wrong? Or are my expectations unreasonable",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgr0tb/harness_am_i_doing_something_wrong_or_are_my/",
-   "published_at": "2026-09-15T05:10:05+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wgq48x/dual_amd_radeon_ai_pro_r9700_or_dual_nvidia_or",
-   "source": "reddit",
-   "title": "Dual AMD Radeon AI Pro R9700 or dual NVIDIA or RTX 3090.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgq48x/dual_amd_radeon_ai_pro_r9700_or_dual_nvidia_or/",
-   "published_at": "2026-09-15T04:24:44+00:00",
-   "extra": ""
-  },
-  {
-   "id": "hn:49685838",
-   "source": "hn",
-   "title": "Ask HN: If embeddings are so powerful, why are they mostly used for retrieval?",
-   "url": "https://news.ycombinator.com/item?id=49685838",
-   "published_at": "2026-09-13T16:38:42Z",
-   "extra": "points=1"
-  },
   {
    "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1weiizd/unpopular_opinion_ai_on_android_is_useless_with",
    "source": "reddit",
@@ -2919,14 +2788,6 @@
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wh40rq/planned_on_another_5090_but_getting_2_more_sparks/",
    "published_at": "2026-09-15T15:45:47+00:00",
    "extra": ""
-  },
-  {
-   "id": "hn:49706032",
-   "source": "hn",
-   "title": "Show HN: Chess Cheater Detector",
-   "url": "https://chesscheaterdetector.com/",
-   "published_at": "2026-09-15T00:14:36Z",
-   "extra": "points=1"
   },
   {
    "id": "hn:49702339",
@@ -3721,22 +3582,6 @@
    "extra": ""
   },
   {
-   "id": "openai:https://openai.com/index/reimagining-advertising-with-ai",
-   "source": "openai",
-   "title": "Reimagining advertising with AI",
-   "url": "https://openai.com/index/reimagining-advertising-with-ai",
-   "published_at": "2026-09-16T13:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "openrouter:stealth/union-alpha",
-   "source": "openrouter",
-   "title": "Union Alpha",
-   "url": "https://openrouter.ai/stealth/union-alpha",
-   "published_at": "2026-09-16T14:42:03+00:00",
-   "extra": "context=262144"
-  },
-  {
    "id": "openrouter:~deepseek/deepseek-pro-latest",
    "source": "openrouter",
    "title": "DeepSeek: DeepSeek Pro Latest",
@@ -3753,51 +3598,11 @@
    "extra": "context=1048576"
   },
   {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1whz401/deepseek_harness_vs_omp",
-   "source": "reddit",
-   "title": "Deepseek Harness vs OMP",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whz401/deepseek_harness_vs_omp/",
-   "published_at": "2026-09-16T14:39:31+00:00",
-   "extra": ""
-  },
-  {
    "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1whyq3t/open_source_will_push_the_new_frontier_heres_why",
    "source": "reddit",
    "title": "Open source will push the new frontier, here's why",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whyq3t/open_source_will_push_the_new_frontier_heres_why/",
    "published_at": "2026-09-16T14:24:41+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1why9ao/apple_may_return_to_server_market_with_nvidia",
-   "source": "reddit",
-   "title": "Apple May Return to Server Market With Nvidia Technology",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1why9ao/apple_may_return_to_server_market_with_nvidia/",
-   "published_at": "2026-09-16T14:07:07+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1why0um/minicpm52b_vs_sparkx254b_64_thinking_x15_speed",
-   "source": "reddit",
-   "title": "MiniCPM5-2B vs. Spark-X2.5-4B / -64% thinking, x1.5 speed while keeping the accuracy of xhigh",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1why0um/minicpm52b_vs_sparkx254b_64_thinking_x15_speed/",
-   "published_at": "2026-09-16T13:58:25+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1whxf90/localjev",
-   "source": "reddit",
-   "title": "LocalJev?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whxf90/localjev/",
-   "published_at": "2026-09-16T13:34:50+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1whxb4j/recurrent_looped_transformer",
-   "source": "reddit",
-   "title": "Recurrent Looped Transformer",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whxb4j/recurrent_looped_transformer/",
-   "published_at": "2026-09-16T13:30:10+00:00",
    "extra": ""
   },
   {
@@ -3889,54 +3694,6 @@
    "extra": ""
   },
   {
-   "id": "hn:49720965",
-   "source": "hn",
-   "title": "A mnemonic-free wallet where the private key never leaves the phone's TEE",
-   "url": "https://news.ycombinator.com/item?id=49720965",
-   "published_at": "2026-09-16T01:07:33Z",
-   "extra": "points=2"
-  },
-  {
-   "id": "hn:49724215",
-   "source": "hn",
-   "title": "Ask HN: What's the most economical approach to the most tokens?",
-   "url": "https://news.ycombinator.com/item?id=49724215",
-   "published_at": "2026-09-16T10:02:29Z",
-   "extra": "points=2"
-  },
-  {
-   "id": "hn:49716388",
-   "source": "hn",
-   "title": "Show HN: A writing coach that's not allowed to write your sentences",
-   "url": "https://app.oghmere.com/try/HACKERNEWS2026",
-   "published_at": "2026-09-15T18:05:41Z",
-   "extra": "points=1"
-  },
-  {
-   "id": "hn:49713894",
-   "source": "hn",
-   "title": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
-   "url": "https://github.com/pizza-bot-app/pizza-bot",
-   "published_at": "2026-09-15T15:20:26Z",
-   "extra": "points=15"
-  },
-  {
-   "id": "hn:49712278",
-   "source": "hn",
-   "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
-   "url": "https://withcapsule.app/",
-   "published_at": "2026-09-15T13:31:40Z",
-   "extra": "points=168"
-  },
-  {
-   "id": "hn:49708628",
-   "source": "hn",
-   "title": "Show HN: Jinfer – AI inference engine for the JVM. AI in a jar",
-   "url": "https://qxotic.ai/",
-   "published_at": "2026-09-15T06:42:32Z",
-   "extra": "points=2"
-  },
-  {
    "id": "hn:49701054",
    "source": "hn",
    "title": "Show HN: Threshyr – An offline automatic time tracker with on-device AI",
@@ -3959,38 +3716,6 @@
    "url": "https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks/",
    "published_at": "2026-09-14T16:07:58Z",
    "extra": "points=34"
-  },
-  {
-   "id": "hn:49727511",
-   "source": "hn",
-   "title": "Show HN: Swift-Qwen3.8-27B, -58.3% thinking, x1.95 speed, accuracy of xhigh",
-   "url": "https://huggingface.co/ukisai/Swift-Qwen3.8-27b",
-   "published_at": "2026-09-16T14:24:05Z",
-   "extra": "points=4"
-  },
-  {
-   "id": "hn:49727345",
-   "source": "hn",
-   "title": "Switched to Claude Code's open-source rival, stopped worrying about rate limits",
-   "url": "https://www.xda-developers.com/switched-to-claude-code-open-source-rival-and-stopped-worrying-about-rate-limits/",
-   "published_at": "2026-09-16T14:12:17Z",
-   "extra": "points=1"
-  },
-  {
-   "id": "hn:49714268",
-   "source": "hn",
-   "title": "Show HN: Eulix - Code navigation for large codebases",
-   "url": "https://news.ycombinator.com/item?id=49714268",
-   "published_at": "2026-09-15T15:41:18Z",
-   "extra": "points=4"
-  },
-  {
-   "id": "hn:49708069",
-   "source": "hn",
-   "title": "Show HN: Chronicle – Local-first, open-source authoring software for writers",
-   "url": "https://pazvanti.github.io/Chronicle/",
-   "published_at": "2026-09-15T05:23:08Z",
-   "extra": "points=2"
   },
   {
    "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wdrvd4/is_anyone_using_k2horizonmova36ba4b_if_yes_what",
@@ -4127,6 +3852,422 @@
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfzqwh/interns2397b_multimodal_reasoning_coding_and/",
    "published_at": "2026-09-14T10:34:13+00:00",
    "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+   "source": "openai",
+   "title": "Helping older adults use AI in everyday life",
+   "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+   "published_at": "2026-09-16T16:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/reimagining-advertising-with-ai",
+   "source": "openai",
+   "title": "Reimagining advertising with AI",
+   "url": "https://openai.com/index/reimagining-advertising-with-ai",
+   "published_at": "2026-09-16T13:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/unlocking-new-ways-of-working",
+   "source": "openai",
+   "title": "How workers are unlocking new ways of working",
+   "url": "https://openai.com/index/unlocking-new-ways-of-working",
+   "published_at": "2026-09-16T09:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openrouter:stealth/union-alpha",
+   "source": "openrouter",
+   "title": "Union Alpha",
+   "url": "https://openrouter.ai/stealth/union-alpha",
+   "published_at": "2026-09-16T14:42:03+00:00",
+   "extra": "context=262144"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wi5pwg/enable_cuda_graph_for_mtp_draft_by_gaugargnv_pull",
+   "source": "reddit",
+   "title": "Enable CUDA graph for MTP draft by gaugarg-nv · Pull Request #28549 · ggml-org/llama.cpp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi5pwg/enable_cuda_graph_for_mtp_draft_by_gaugargnv_pull/",
+   "published_at": "2026-09-16T18:36:19+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wi5ej8/seeking_qwen_38_flash_guidance_for_shit_build",
+   "source": "reddit",
+   "title": "Seeking qwen 3.8 flash guidance for shit build - 32gb ram, 7900xtx, 128gb ssd, xeon 2224g: Anyone have an applicable config or recommended template?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi5ej8/seeking_qwen_38_flash_guidance_for_shit_build/",
+   "published_at": "2026-09-16T18:25:15+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wi46on/qwen38_flash_on_12gb_vram_15_tokenss",
+   "source": "reddit",
+   "title": "Qwen3.8 Flash on 12GB VRAM - 15 tokens/s",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi46on/qwen38_flash_on_12gb_vram_15_tokenss/",
+   "published_at": "2026-09-16T17:41:49+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wi32jg/chinas_openweight_ai_models_are_now_just_4_months",
+   "source": "reddit",
+   "title": "China's open-weight AI models are now just 4 months behind frontier US offerings, Mozilla report claims — models still lag in some benchmarks but are drastically cheaper to use",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi32jg/chinas_openweight_ai_models_are_now_just_4_months/",
+   "published_at": "2026-09-16T17:02:19+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wi2en4/what_benchmarks_do_you_run_locally",
+   "source": "reddit",
+   "title": "What benchmarks do you run locally?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi2en4/what_benchmarks_do_you_run_locally/",
+   "published_at": "2026-09-16T16:38:55+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wi1zjk/benchmarks_are_misleading",
+   "source": "reddit",
+   "title": "Benchmarks are misleading?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi1zjk/benchmarks_are_misleading/",
+   "published_at": "2026-09-16T16:23:45+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wi17z6/is_there_a_coding_harness_that_will_not",
+   "source": "reddit",
+   "title": "Is there a coding harness that will not invalidate the entire context cache at each prompt?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi17z6/is_there_a_coding_harness_that_will_not/",
+   "published_at": "2026-09-16T15:56:52+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wi0p4p/internal_bechmarks_share_them",
+   "source": "reddit",
+   "title": "Internal Bechmarks- share them!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi0p4p/internal_bechmarks_share_them/",
+   "published_at": "2026-09-16T15:37:55+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wi0dme/qwen38_max_0902_scores_45_on_the_artificial",
+   "source": "reddit",
+   "title": "Qwen3.8 Max (0902) scores 45 on the Artificial Analysis Intelligence Index, up 5 points in a month and back on top of China's leaderboard, nosing out GLM-5.3 (44.9) and Kimi K3 (43.8)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi0dme/qwen38_max_0902_scores_45_on_the_artificial/",
+   "published_at": "2026-09-16T15:26:03+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wi0c78/dreamrsi_recursive_selfimprovement_through",
+   "source": "reddit",
+   "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi0c78/dreamrsi_recursive_selfimprovement_through/",
+   "published_at": "2026-09-16T15:24:34+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wi0a18/qwen3827b_uncensored_q6_k_at_156k_context_on_one",
+   "source": "reddit",
+   "title": "Qwen3.8-27B uncensored Q6_K at 156K context on one RTX 5090, 140-190 tok/s with DFlash2",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi0a18/qwen3827b_uncensored_q6_k_at_156k_context_on_one/",
+   "published_at": "2026-09-16T15:22:20+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wi04aj/weird_bug_when_pushing_close_to_max_vram",
+   "source": "reddit",
+   "title": "Weird bug when pushing close to max vram",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi04aj/weird_bug_when_pushing_close_to_max_vram/",
+   "published_at": "2026-09-16T15:16:38+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1whzy7j/qwen35_4b_grabbing_logits_is_almost_jev_or_even",
+   "source": "reddit",
+   "title": "Qwen3.5 4B + grabbing logits is almost \"Jev\"? Or even just Qwen Reranker?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whzy7j/qwen35_4b_grabbing_logits_is_almost_jev_or_even/",
+   "published_at": "2026-09-16T15:10:28+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1whz401/deepseek_harness_vs_omp",
+   "source": "reddit",
+   "title": "Deepseek Harness vs OMP",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whz401/deepseek_harness_vs_omp/",
+   "published_at": "2026-09-16T14:39:31+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1why9ao/apple_may_return_to_server_market_with_nvidia",
+   "source": "reddit",
+   "title": "Apple May Return to Server Market With Nvidia Technology",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1why9ao/apple_may_return_to_server_market_with_nvidia/",
+   "published_at": "2026-09-16T14:07:07+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1why0um/minicpm52b_vs_sparkx254b_64_thinking_x15_speed",
+   "source": "reddit",
+   "title": "MiniCPM5-2B vs. Spark-X2.5-4B / -64% thinking, x1.5 speed while keeping the accuracy of xhigh",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1why0um/minicpm52b_vs_sparkx254b_64_thinking_x15_speed/",
+   "published_at": "2026-09-16T13:58:25+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1whxf90/localjev",
+   "source": "reddit",
+   "title": "LocalJev?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whxf90/localjev/",
+   "published_at": "2026-09-16T13:34:50+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1whxb4j/recurrent_looped_transformer",
+   "source": "reddit",
+   "title": "Recurrent Looped Transformer",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whxb4j/recurrent_looped_transformer/",
+   "published_at": "2026-09-16T13:30:10+00:00",
+   "extra": ""
+  },
+  {
+   "id": "hn:49720965",
+   "source": "hn",
+   "title": "A mnemonic-free wallet where the private key never leaves the phone's TEE",
+   "url": "https://news.ycombinator.com/item?id=49720965",
+   "published_at": "2026-09-16T01:07:33Z",
+   "extra": "points=2"
+  },
+  {
+   "id": "hn:49724215",
+   "source": "hn",
+   "title": "Ask HN: What's the most economical approach to the most tokens?",
+   "url": "https://news.ycombinator.com/item?id=49724215",
+   "published_at": "2026-09-16T10:02:29Z",
+   "extra": "points=2"
+  },
+  {
+   "id": "hn:49716388",
+   "source": "hn",
+   "title": "Show HN: A writing coach that's not allowed to write your sentences",
+   "url": "https://app.oghmere.com/try/HACKERNEWS2026",
+   "published_at": "2026-09-15T18:05:41Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:49713894",
+   "source": "hn",
+   "title": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
+   "url": "https://github.com/pizza-bot-app/pizza-bot",
+   "published_at": "2026-09-15T15:20:26Z",
+   "extra": "points=15"
+  },
+  {
+   "id": "hn:49712278",
+   "source": "hn",
+   "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
+   "url": "https://withcapsule.app/",
+   "published_at": "2026-09-15T13:31:40Z",
+   "extra": "points=168"
+  },
+  {
+   "id": "hn:49708628",
+   "source": "hn",
+   "title": "Show HN: Jinfer – AI inference engine for the JVM. AI in a jar",
+   "url": "https://qxotic.ai/",
+   "published_at": "2026-09-15T06:42:32Z",
+   "extra": "points=2"
+  },
+  {
+   "id": "hn:49706032",
+   "source": "hn",
+   "title": "Show HN: Chess Cheater Detector",
+   "url": "https://chesscheaterdetector.com/",
+   "published_at": "2026-09-15T00:14:36Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:49730649",
+   "source": "hn",
+   "title": "Show HN: TabMail. Open-source AI email for Thunderbird and iPhone",
+   "url": "https://tabmail.ai/",
+   "published_at": "2026-09-16T17:59:03Z",
+   "extra": "points=2"
+  },
+  {
+   "id": "hn:49727511",
+   "source": "hn",
+   "title": "Show HN: Swift-Qwen3.8-27B, -58.3% thinking, x1.95 speed, accuracy of xhigh",
+   "url": "https://huggingface.co/ukisai/Swift-Qwen3.8-27b",
+   "published_at": "2026-09-16T14:24:05Z",
+   "extra": "points=4"
+  },
+  {
+   "id": "hn:49727345",
+   "source": "hn",
+   "title": "Switched to Claude Code's open-source rival, stopped worrying about rate limits",
+   "url": "https://www.xda-developers.com/switched-to-claude-code-open-source-rival-and-stopped-worrying-about-rate-limits/",
+   "published_at": "2026-09-16T14:12:17Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:49714268",
+   "source": "hn",
+   "title": "Show HN: Eulix - Code navigation for large codebases",
+   "url": "https://news.ycombinator.com/item?id=49714268",
+   "published_at": "2026-09-15T15:41:18Z",
+   "extra": "points=4"
+  },
+  {
+   "id": "hn:49708069",
+   "source": "hn",
+   "title": "Show HN: Chronicle – Local-first, open-source authoring software for writers",
+   "url": "https://pazvanti.github.io/Chronicle/",
+   "published_at": "2026-09-15T05:23:08Z",
+   "extra": "points=2"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wfzokx/interesting_video_by_asionometry_on_the_state_of",
+   "source": "reddit",
+   "title": "Interesting Video by Asionometry on the state of SF Chips",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfzokx/interesting_video_by_asionometry_on_the_state_of/",
+   "published_at": "2026-09-14T10:30:35+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1weisve/fablequality_novel_rewrite_private_host",
+   "source": "reddit",
+   "title": "Fable-quality novel rewrite, private host",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1weisve/fablequality_novel_rewrite_private_host/",
+   "published_at": "2026-09-12T17:35:43+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wgz34f/a_question_regarding_ds_v41_flash_architecture",
+   "source": "reddit",
+   "title": "A question regarding DS V4.1 flash architecture",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgz34f/a_question_regarding_ds_v41_flash_architecture/",
+   "published_at": "2026-09-15T12:31:52+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wgyqnm/closed_source_ai_is_more_dangerous_than_open",
+   "source": "reddit",
+   "title": "Closed source AI is more dangerous than open source AI.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgyqnm/closed_source_ai_is_more_dangerous_than_open/",
+   "published_at": "2026-09-15T12:16:01+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wgy6tm/deepseek_v41f_q4_on_m3_ultra_with_native_dspark",
+   "source": "reddit",
+   "title": "DeepSeek V4.1F Q4 on M3 Ultra with native DSpark MTP (40tps / 800tps)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgy6tm/deepseek_v41f_q4_on_m3_ultra_with_native_dspark/",
+   "published_at": "2026-09-15T11:51:26+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wgxuiw/same_gb300_same_workload_the_serving_engine_moved",
+   "source": "reddit",
+   "title": "Same GB300, same workload: the serving engine moved the benchmark result by 11x",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgxuiw/same_gb300_same_workload_the_serving_engine_moved/",
+   "published_at": "2026-09-15T11:34:37+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wgxnhi/qwen38_27b_with_embeddings",
+   "source": "reddit",
+   "title": "Qwen3.8 27B with embeddings",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgxnhi/qwen38_27b_with_embeddings/",
+   "published_at": "2026-09-15T11:25:14+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wgwh7k/qwen3827bturbofablecoldfusion735882hereticuncensor",
+   "source": "reddit",
+   "title": "Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgwh7k/qwen3827bturbofablecoldfusion735882hereticuncensor/",
+   "published_at": "2026-09-15T10:24:20+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wgvw4j/best_hardware_for_qwen_38",
+   "source": "reddit",
+   "title": "Best hardware for qwen 3.8",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgvw4j/best_hardware_for_qwen_38/",
+   "published_at": "2026-09-15T09:52:37+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wguq4i/lm_studio_gemma426ba4bqat_issues_with_exa_mcp",
+   "source": "reddit",
+   "title": "LM Studio \"gemma-4-26b-a4b-qat\" issues with Exa MCP",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wguq4i/lm_studio_gemma426ba4bqat_issues_with_exa_mcp/",
+   "published_at": "2026-09-15T08:44:24+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wgun9i/can_anyone_take_a_look_at_my_qwen38_27b_setup_and",
+   "source": "reddit",
+   "title": "Can anyone take a look at my Qwen3.8 27B setup, and suggest improvements?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgun9i/can_anyone_take_a_look_at_my_qwen38_27b_setup_and/",
+   "published_at": "2026-09-15T08:39:19+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wgu62z/jinfer_an_opensource_ai_inference_engine_for_the",
+   "source": "reddit",
+   "title": "jinfer: An open-source AI inference engine for the JVM. Finally, AI in jar.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgu62z/jinfer_an_opensource_ai_inference_engine_for_the/",
+   "published_at": "2026-09-15T08:09:43+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wgtto9/harness_for_short_context_lengths_strategies",
+   "source": "reddit",
+   "title": "Harness for short context lengths (strategies needed)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgtto9/harness_for_short_context_lengths_strategies/",
+   "published_at": "2026-09-15T07:49:05+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wgt6cs/radeon_ai_pro_r9700_which_one_to_choose",
+   "source": "reddit",
+   "title": "Radeon AI PRO R9700 - Which one to choose?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgt6cs/radeon_ai_pro_r9700_which_one_to_choose/",
+   "published_at": "2026-09-15T07:09:52+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wgszma/voodoo_dynamic_quant_now_mit_licensed",
+   "source": "reddit",
+   "title": "Voodoo Dynamic Quant - Now MIT Licensed",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgszma/voodoo_dynamic_quant_now_mit_licensed/",
+   "published_at": "2026-09-15T06:59:33+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wgr0tb/harness_am_i_doing_something_wrong_or_are_my",
+   "source": "reddit",
+   "title": "Harness: Am I doing something wrong? Or are my expectations unreasonable",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgr0tb/harness_am_i_doing_something_wrong_or_are_my/",
+   "published_at": "2026-09-15T05:10:05+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wgq48x/dual_amd_radeon_ai_pro_r9700_or_dual_nvidia_or",
+   "source": "reddit",
+   "title": "Dual AMD Radeon AI Pro R9700 or dual NVIDIA or RTX 3090.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgq48x/dual_amd_radeon_ai_pro_r9700_or_dual_nvidia_or/",
+   "published_at": "2026-09-15T04:24:44+00:00",
+   "extra": ""
+  },
+  {
+   "id": "hn:49685838",
+   "source": "hn",
+   "title": "Ask HN: If embeddings are so powerful, why are they mostly used for retrieval?",
+   "url": "https://news.ycombinator.com/item?id=49685838",
+   "published_at": "2026-09-13T16:38:42Z",
+   "extra": "points=1"
   }
  ],
  "pending_push": [
@@ -4989,6 +5130,86 @@
    "extra": "points=4",
    "event_type": "release",
    "summary": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wi60d8/can_current_minicpm52bany_best_sota_under_10b",
+   "source": "reddit",
+   "title": "Can current MiniCPM5-2B/any best SOTA under 10B + modern harness beat pre-March 2025 frontier models like Grok 3/GPT-4o?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi60d8/can_current_minicpm52bany_best_sota_under_10b/",
+   "published_at": "2026-09-16T18:46:31+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "Can current MiniCPM5-2B/any best SOTA under 10B + modern harness beat pre-March 2025 frontier models like Grok 3/GPT-4o?"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wi5rx2/frontier_llm_development_simplified_for",
+   "source": "reddit",
+   "title": "Frontier LLM development simplified for politicians:",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi5rx2/frontier_llm_development_simplified_for/",
+   "published_at": "2026-09-16T18:38:20+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "Frontier LLM development simplified for politicians:"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wi5e8v/whats_the_best_model_you_have_running_on_strix",
+   "source": "reddit",
+   "title": "What's the best model you have running on strix halo 128GB?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi5e8v/whats_the_best_model_you_have_running_on_strix/",
+   "published_at": "2026-09-16T18:24:56+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "What's the best model you have running on strix halo 128GB?"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wi2zuc/xeboostlm_native_c_local_llms_for_intel_npus_igpus",
+   "source": "reddit",
+   "title": "XeBoostLM: Native C++ Local LLMs for Intel NPUs & iGPUs",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi2zuc/xeboostlm_native_c_local_llms_for_intel_npus_igpus/",
+   "published_at": "2026-09-16T16:59:50+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "XeBoostLM: Native C++ Local LLMs for Intel NPUs & iGPUs"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wi28lv/whats_the_current_best_llm_uncensoring_method",
+   "source": "reddit",
+   "title": "What's the current best LLM uncensoring method?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi28lv/whats_the_current_best_llm_uncensoring_method/",
+   "published_at": "2026-09-16T16:32:39+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "What's the current best LLM uncensoring method?"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wi19tk/el_pulpo_010_released",
+   "source": "reddit",
+   "title": "El Pulpo 0.1.0 released",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi19tk/el_pulpo_010_released/",
+   "published_at": "2026-09-16T15:58:42+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "El Pulpo 0.1.0 released"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wi12vl/release_b11003_ggmlorgllamacpp",
+   "source": "reddit",
+   "title": "Release b11003 · ggml-org/llama.cpp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi12vl/release_b11003_ggmlorgllamacpp/",
+   "published_at": "2026-09-16T15:51:51+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "Release b11003 · ggml-org/llama.cpp"
+  },
+  {
+   "id": "hn:49731282",
+   "source": "hn",
+   "title": "Reverse-engineered Jev-like model",
+   "url": "https://github.com/vinnylarouge/jevlike",
+   "published_at": "2026-09-16T18:49:57Z",
+   "extra": "points=1",
+   "event_type": "release",
+   "summary": "Reverse-engineered Jev-like model"
   }
  ]
 }
