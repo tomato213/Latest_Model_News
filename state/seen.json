@@ -2378,25 +2378,12 @@
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1woie1t/i_made_a_go_adapter_that_gives_local_llamacpp": "2026-09-23T21:26:32.885458+00:00",
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wogzdm/lemonade_fixes_amd_apu_model_streaming_drops": "2026-09-23T21:26:32.885458+00:00",
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wof9kk/introducing_support_for_local_ai_models_in_the": "2026-09-23T21:26:32.885458+00:00",
-  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1woe70t/jev_isnt_new_tech_its_marketing_targets_people": "2026-09-23T21:26:32.885458+00:00"
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1woe70t/jev_isnt_new_tech_its_marketing_targets_people": "2026-09-23T21:26:32.885458+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wom0sd/im_feeling_on_the_skin_the_price_of_using": "2026-09-23T23:55:21.101369+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wol7zc/using_uncensored_models_makes_working_less_of_a": "2026-09-23T23:55:21.101369+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1woj51u/i_am_new_to_playing_with_ai_and_local_models_what": "2026-09-23T23:55:21.101369+00:00"
  },
  "pending": [
-  {
-   "id": "hn:49804932",
-   "source": "hn",
-   "title": "Show HN: Optimized runtimes for three VLAs on Jetson Thor",
-   "url": "https://github.com/Agents2AgentsAI/vla-edge",
-   "published_at": "2026-09-22T17:26:37Z",
-   "extra": "points=2"
-  },
-  {
-   "id": "hn:49803473",
-   "source": "hn",
-   "title": "I built a linter/skill that ensures requests to jev are structured correctly",
-   "url": "https://news.ycombinator.com/item?id=49803473",
-   "published_at": "2026-09-22T16:02:02Z",
-   "extra": "points=1"
-  },
   {
    "id": "hn:49802308",
    "source": "hn",
@@ -7838,6 +7825,30 @@
    "extra": ""
   },
   {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1woib5j/there_are_a_lot_of_good_scraping_tools_like",
+   "source": "reddit",
+   "title": "There are a lot of good scraping tools like Firecrawl, but the best one is the on you make.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1woib5j/there_are_a_lot_of_good_scraping_tools_like/",
+   "published_at": "2026-09-23T21:08:11+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wobk5f/gui_harness_video",
+   "source": "reddit",
+   "title": "GUI harness [video]",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wobk5f/gui_harness_video/",
+   "published_at": "2026-09-23T16:55:57+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wobhs6/windows_nvidia_deepseek_harness_smoketest_a_gpu",
+   "source": "reddit",
+   "title": "Windows + NVIDIA + DeepSeek Harness smoke-test a GPU monitor plugin? (local inference)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wobhs6/windows_nvidia_deepseek_harness_smoketest_a_gpu/",
+   "published_at": "2026-09-23T16:53:40+00:00",
+   "extra": ""
+  },
+  {
    "id": "openai:https://openai.com/index/two-years-of-openai-academy",
    "source": "openai",
    "title": "Two years of OpenAI Academy",
@@ -7916,6 +7927,14 @@
    "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
    "published_at": "2026-09-23T00:00:00+00:00",
    "extra": ""
+  },
+  {
+   "id": "openrouter:z-ai/glm-5.3-prime",
+   "source": "openrouter",
+   "title": "Z.ai: GLM 5.3 Prime",
+   "url": "https://openrouter.ai/z-ai/glm-5.3-prime",
+   "published_at": "2026-09-23T21:40:51+00:00",
+   "extra": "context=1000000"
   },
   {
    "id": "openrouter:qwen/qwen3.8-max-prime",
@@ -8046,11 +8065,19 @@
    "extra": "context=1000000"
   },
   {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1woib5j/there_are_a_lot_of_good_scraping_tools_like",
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wom3fe/qwen_38_flash_next_q4_k_m_130k_context_q8_cache",
    "source": "reddit",
-   "title": "There are a lot of good scraping tools like Firecrawl, but the best one is the on you make.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1woib5j/there_are_a_lot_of_good_scraping_tools_like/",
-   "published_at": "2026-09-23T21:08:11+00:00",
+   "title": "Qwen 3.8 Flash Next q4_k_m, 130k context, q8 cache on 16GB VRAM ann 64GB RAM, 15-20 t/s on 4080",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wom3fe/qwen_38_flash_next_q4_k_m_130k_context_q8_cache/",
+   "published_at": "2026-09-23T23:46:41+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wokpsx/inference_on_one_node_is_easy_but_scaling_to",
+   "source": "reddit",
+   "title": "Inference on one node is easy, but scaling to millions of users taught me about new things on a job",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wokpsx/inference_on_one_node_is_easy_but_scaling_to/",
+   "published_at": "2026-09-23T22:46:50+00:00",
    "extra": ""
   },
   {
@@ -8174,22 +8201,6 @@
    "extra": ""
   },
   {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wobk5f/gui_harness_video",
-   "source": "reddit",
-   "title": "GUI harness [video]",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wobk5f/gui_harness_video/",
-   "published_at": "2026-09-23T16:55:57+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wobhs6/windows_nvidia_deepseek_harness_smoketest_a_gpu",
-   "source": "reddit",
-   "title": "Windows + NVIDIA + DeepSeek Harness smoke-test a GPU monitor plugin? (local inference)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wobhs6/windows_nvidia_deepseek_harness_smoketest_a_gpu/",
-   "published_at": "2026-09-23T16:53:40+00:00",
-   "extra": ""
-  },
-  {
    "id": "hn:49814729",
    "source": "hn",
    "title": "Show HN: BuildABrowser (Java) – Passes Acid2, Has CSS Grid and an Android port",
@@ -8230,6 +8241,14 @@
    "extra": "points=3"
   },
   {
+   "id": "hn:49823733",
+   "source": "hn",
+   "title": "Show HN: The Mouse Is Coming Too – Easy Switch for Legacy Logitech Devices",
+   "url": "https://github.com/ensoenso/the-mouse-is-coming-too",
+   "published_at": "2026-09-23T22:53:06Z",
+   "extra": "points=1"
+  },
+  {
    "id": "hn:49819551",
    "source": "hn",
    "title": "Show HN: Diff Pro Max – File Compare App",
@@ -8268,6 +8287,22 @@
    "url": "https://news.ycombinator.com/item?id=49805911",
    "published_at": "2026-09-22T18:26:11Z",
    "extra": "points=4"
+  },
+  {
+   "id": "hn:49804932",
+   "source": "hn",
+   "title": "Show HN: Optimized runtimes for three VLAs on Jetson Thor",
+   "url": "https://github.com/Agents2AgentsAI/vla-edge",
+   "published_at": "2026-09-22T17:26:37Z",
+   "extra": "points=2"
+  },
+  {
+   "id": "hn:49803473",
+   "source": "hn",
+   "title": "I built a linter/skill that ensures requests to jev are structured correctly",
+   "url": "https://news.ycombinator.com/item?id=49803473",
+   "published_at": "2026-09-22T16:02:02Z",
+   "extra": "points=1"
   }
  ],
  "pending_push": [
@@ -10810,6 +10845,36 @@
    "extra": "",
    "event_type": "release",
    "summary": "Jev isn't new tech. Its marketing targets people who think AI started with LLMs."
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wom0sd/im_feeling_on_the_skin_the_price_of_using",
+   "source": "reddit",
+   "title": "I'm feeling on the skin the price of using proprietary models",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wom0sd/im_feeling_on_the_skin_the_price_of_using/",
+   "published_at": "2026-09-23T23:43:24+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "I'm feeling on the skin the price of using proprietary models"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wol7zc/using_uncensored_models_makes_working_less_of_a",
+   "source": "reddit",
+   "title": "Using uncensored models makes working less of a headache",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wol7zc/using_uncensored_models_makes_working_less_of_a/",
+   "published_at": "2026-09-23T23:08:47+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "Using uncensored models makes working less of a headache"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1woj51u/i_am_new_to_playing_with_ai_and_local_models_what",
+   "source": "reddit",
+   "title": "I am new to playing with AI and local models, what is the explanation for this?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1woj51u/i_am_new_to_playing_with_ai_and_local_models_what/",
+   "published_at": "2026-09-23T21:41:11+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "I am new to playing with AI and local models, what is the explanation for this?"
   }
  ]
 }
