@@ -2368,7 +2368,17 @@
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wo81si/space_bunny_is_the_new_stealth_model_in_opencode": "2026-09-23T17:57:30.475393+00:00",
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wo6zvj/same_model_same_prompt_yet_worse_extraction_on": "2026-09-23T17:57:30.475393+00:00",
   "hn:49819252": "2026-09-23T17:57:30.475393+00:00",
-  "hn:49818175": "2026-09-23T17:57:30.475393+00:00"
+  "hn:49818175": "2026-09-23T17:57:30.475393+00:00",
+  "hf:microsoft/rho-roboeval": "2026-09-23T21:26:32.442766+00:00",
+  "openrouter:xiaomi/mimo-v2.6-pro-ultraspeed": "2026-09-23T21:26:32.442766+00:00",
+  "openrouter:xiaomi/mimo-v2.6-flash": "2026-09-23T21:26:32.442766+00:00",
+  "openrouter:xiaomi/mimo-v2.6-pro": "2026-09-23T21:26:32.442766+00:00",
+  "openai:https://openai.com/index/introducing-mentalhealthbench": "2026-09-23T21:26:32.885458+00:00",
+  "openai:https://openai.com/index/airbnb-gpt-6-astra": "2026-09-23T21:26:32.885458+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1woie1t/i_made_a_go_adapter_that_gives_local_llamacpp": "2026-09-23T21:26:32.885458+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wogzdm/lemonade_fixes_amd_apu_model_streaming_drops": "2026-09-23T21:26:32.885458+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wof9kk/introducing_support_for_local_ai_models_in_the": "2026-09-23T21:26:32.885458+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1woe70t/jev_isnt_new_tech_its_marketing_targets_people": "2026-09-23T21:26:32.885458+00:00"
  },
  "pending": [
   {
@@ -7676,6 +7686,158 @@
    "extra": "points=1"
   },
   {
+   "id": "hf:microsoft/rho-roboeval",
+   "source": "hf",
+   "title": "microsoft/rho-roboeval",
+   "url": "https://huggingface.co/microsoft/rho-roboeval",
+   "published_at": "2026-09-21T19:13:53.000Z",
+   "extra": "downloads=0 likes=1"
+  },
+  {
+   "id": "openrouter:xiaomi/mimo-v2.6-pro-ultraspeed",
+   "source": "openrouter",
+   "title": "Xiaomi: MiMo-V2.6-Pro-UltraSpeed",
+   "url": "https://openrouter.ai/xiaomi/mimo-v2.6-pro-ultraspeed",
+   "published_at": "2026-09-21T20:07:47+00:00",
+   "extra": "context=1048576"
+  },
+  {
+   "id": "openrouter:xiaomi/mimo-v2.6-flash",
+   "source": "openrouter",
+   "title": "Xiaomi: MiMo-V2.6-Flash",
+   "url": "https://openrouter.ai/xiaomi/mimo-v2.6-flash",
+   "published_at": "2026-09-21T20:07:44+00:00",
+   "extra": "context=1048576"
+  },
+  {
+   "id": "openrouter:xiaomi/mimo-v2.6-pro",
+   "source": "openrouter",
+   "title": "Xiaomi: MiMo-V2.6-Pro",
+   "url": "https://openrouter.ai/xiaomi/mimo-v2.6-pro",
+   "published_at": "2026-09-21T20:07:39+00:00",
+   "extra": "context=1048576"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wociuw/testing_space_bunny_on_a_codingagent_proxy",
+   "source": "reddit",
+   "title": "Testing Space Bunny on a coding-agent proxy uncovered an overly broad request filter",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wociuw/testing_space_bunny_on_a_codingagent_proxy/",
+   "published_at": "2026-09-23T17:31:15+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wob8ej/pi_agent_qwen_38_flash_next_plays_baldurs_gate_2",
+   "source": "reddit",
+   "title": "Pi agent qwen 3.8 flash next plays Baldur's Gate 2",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wob8ej/pi_agent_qwen_38_flash_next_plays_baldurs_gate_2/",
+   "published_at": "2026-09-23T16:44:15+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1woazuk/those_of_you_with_beefy_workstations_how_you_tune",
+   "source": "reddit",
+   "title": "Those of you with beefy workstations, how you tune the fan curves?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1woazuk/those_of_you_with_beefy_workstations_how_you_tune/",
+   "published_at": "2026-09-23T16:35:28+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1woameh/jevals_locally_runnable_evals_for_agents_using",
+   "source": "reddit",
+   "title": "jevals: locally runnable evals for agents using Jev-style decisions",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1woameh/jevals_locally_runnable_evals_for_agents_using/",
+   "published_at": "2026-09-23T16:22:26+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1woa5d3/mimov26_both_pro_and_flash_is_a_benchmaxxed_scam",
+   "source": "reddit",
+   "title": "MiMo-V2.6 (both Pro and Flash) is a benchmaxxed scam",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1woa5d3/mimov26_both_pro_and_flash_is_a_benchmaxxed_scam/",
+   "published_at": "2026-09-23T16:05:14+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wo9sbu/user_perception",
+   "source": "reddit",
+   "title": "User perception",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wo9sbu/user_perception/",
+   "published_at": "2026-09-23T15:52:09+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wo905s/user_interface_for_coding_runs",
+   "source": "reddit",
+   "title": "user interface for coding runs",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wo905s/user_interface_for_coding_runs/",
+   "published_at": "2026-09-23T15:23:04+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wo8tr5/streaming_nemotron_3_diarization",
+   "source": "reddit",
+   "title": "Streaming Nemotron 3 Diarization",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wo8tr5/streaming_nemotron_3_diarization/",
+   "published_at": "2026-09-23T15:16:30+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wo84pa/parakeetjava_automatic_speech_recognition_in_pure",
+   "source": "reddit",
+   "title": "Parakeet.java: Automatic Speech Recognition in pure Java.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wo84pa/parakeetjava_automatic_speech_recognition_in_pure/",
+   "published_at": "2026-09-23T14:50:24+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wo7sfo/perhaps_the_highest_quality_mainline_quants_of",
+   "source": "reddit",
+   "title": "Perhaps the highest quality mainline quants of Qwen3.8 27B?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wo7sfo/perhaps_the_highest_quality_mainline_quants_of/",
+   "published_at": "2026-09-23T14:37:26+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wo7otf/extending_context_window_past_262144",
+   "source": "reddit",
+   "title": "Extending context window past 262144?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wo7otf/extending_context_window_past_262144/",
+   "published_at": "2026-09-23T14:33:28+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wo7mr6/mimov3_is_getting_a_new_architecture_the_core_of",
+   "source": "reddit",
+   "title": "MiMo-V3 is getting a new architecture. The core of it, HySparse2, is out today.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wo7mr6/mimov3_is_getting_a_new_architecture_the_core_of/",
+   "published_at": "2026-09-23T14:31:12+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wo6x7e/i_turned_qwen3827b_q2_64_llamacpp_into_a_fully",
+   "source": "reddit",
+   "title": "I turned Qwen3.8-27B Q2_64 + llama.cpp into a fully TypeSafe AI-compatible Jev-like system. OpenAI API still intact! World’s first Vision-enabled Jev-like model! <10 GB VRAM, 170 ms on an RTX 3090 and ~140 tok/s in chat. 76% vs. 88% Jev-1.13 Acc. on a diverse 22,000-request typed-decision benchmark",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wo6x7e/i_turned_qwen3827b_q2_64_llamacpp_into_a_fully/",
+   "published_at": "2026-09-23T14:03:53+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wo6qcf/deepseek_v41_flash_inside_codex_is_amazing",
+   "source": "reddit",
+   "title": "Deepseek V4.1 flash inside Codex is amazing",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wo6qcf/deepseek_v41_flash_inside_codex_is_amazing/",
+   "published_at": "2026-09-23T13:56:43+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wo6o0f/mods_can_we_do_something_about_half_the_forum",
+   "source": "reddit",
+   "title": "Mods: can we do something about half the forum getting filled with these advertising posts for Jev?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wo6o0f/mods_can_we_do_something_about_half_the_forum/",
+   "published_at": "2026-09-23T13:54:12+00:00",
+   "extra": ""
+  },
+  {
    "id": "openai:https://openai.com/index/two-years-of-openai-academy",
    "source": "openai",
    "title": "Two years of OpenAI Academy",
@@ -7689,6 +7851,30 @@
    "title": "OpenAI extends cyber access to Ukraine for civilian defense",
    "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
    "published_at": "2026-09-23T13:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/sam-altman-un-security-council-remarks",
+   "source": "openai",
+   "title": "Sam Altman’s remarks at the United Nations Security Council",
+   "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+   "published_at": "2026-09-23T12:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+   "source": "openai",
+   "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+   "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+   "published_at": "2026-09-23T12:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/invideo-builds-with-gpt-6-astra",
+   "source": "openai",
+   "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+   "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+   "published_at": "2026-09-23T12:00:00+00:00",
    "extra": ""
   },
   {
@@ -7724,12 +7910,20 @@
    "extra": ""
   },
   {
-   "id": "hf:microsoft/rho-roboeval",
-   "source": "hf",
-   "title": "microsoft/rho-roboeval",
-   "url": "https://huggingface.co/microsoft/rho-roboeval",
-   "published_at": "2026-09-21T19:13:53.000Z",
-   "extra": "downloads=0 likes=1"
+   "id": "anthropic:claude-discovers-novel-enzyme-system",
+   "source": "anthropic",
+   "title": "Claude Discovers Novel Enzyme System",
+   "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+   "published_at": "2026-09-23T00:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openrouter:qwen/qwen3.8-max-prime",
+   "source": "openrouter",
+   "title": "Qwen: Qwen3.8 Max Prime",
+   "url": "https://openrouter.ai/qwen/qwen3.8-max-prime",
+   "published_at": "2026-09-23T19:20:28+00:00",
+   "extra": "context=1000000"
   },
   {
    "id": "openrouter:stealth/space-bunny-alpha",
@@ -7852,28 +8046,124 @@
    "extra": "context=1000000"
   },
   {
-   "id": "openrouter:xiaomi/mimo-v2.6-pro-ultraspeed",
-   "source": "openrouter",
-   "title": "Xiaomi: MiMo-V2.6-Pro-UltraSpeed",
-   "url": "https://openrouter.ai/xiaomi/mimo-v2.6-pro-ultraspeed",
-   "published_at": "2026-09-21T20:07:47+00:00",
-   "extra": "context=1048576"
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1woib5j/there_are_a_lot_of_good_scraping_tools_like",
+   "source": "reddit",
+   "title": "There are a lot of good scraping tools like Firecrawl, but the best one is the on you make.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1woib5j/there_are_a_lot_of_good_scraping_tools_like/",
+   "published_at": "2026-09-23T21:08:11+00:00",
+   "extra": ""
   },
   {
-   "id": "openrouter:xiaomi/mimo-v2.6-flash",
-   "source": "openrouter",
-   "title": "Xiaomi: MiMo-V2.6-Flash",
-   "url": "https://openrouter.ai/xiaomi/mimo-v2.6-flash",
-   "published_at": "2026-09-21T20:07:44+00:00",
-   "extra": "context=1048576"
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1woi2ho/qwen_fn_vs_27b_think_im_saturated",
+   "source": "reddit",
+   "title": "Qwen FN vs 27B --- Think I'm saturated.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1woi2ho/qwen_fn_vs_27b_think_im_saturated/",
+   "published_at": "2026-09-23T20:58:59+00:00",
+   "extra": ""
   },
   {
-   "id": "openrouter:xiaomi/mimo-v2.6-pro",
-   "source": "openrouter",
-   "title": "Xiaomi: MiMo-V2.6-Pro",
-   "url": "https://openrouter.ai/xiaomi/mimo-v2.6-pro",
-   "published_at": "2026-09-21T20:07:39+00:00",
-   "extra": "context=1048576"
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wohy4v/selfhosted_control_panel_for_local_ai_on_your_own",
+   "source": "reddit",
+   "title": "Self-hosted control panel for local AI on your own GPU box: run llama.cpp chat models, stable-diffusion.cpp images and audio.cpp speech, music and sound from one browser tab. Instances per GPU, 200+ explained settings, launch previews, VRAM/RAM estimates, benchmarks, build updates, power caps & CLI",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wohy4v/selfhosted_control_panel_for_local_ai_on_your_own/",
+   "published_at": "2026-09-23T20:54:13+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wohvds/this_time_i_tested_reflex_vs_semif_vs_laya_vs_von",
+   "source": "reddit",
+   "title": "This time I tested reflex vs SemIf vs Laya vs Von vs jev",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wohvds/this_time_i_tested_reflex_vs_semif_vs_laya_vs_von/",
+   "published_at": "2026-09-23T20:51:13+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wohl0q/tensorsharp_a_local_jevcompatible_api_extended_to",
+   "source": "reddit",
+   "title": "TensorSharp: a local Jev-compatible API, extended to image analysis with DiffusionGemma GGUF",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wohl0q/tensorsharp_a_local_jevcompatible_api_extended_to/",
+   "published_at": "2026-09-23T20:39:56+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wogz1a/nvfp4_what_does_the_quality_usually_equate_to_5090",
+   "source": "reddit",
+   "title": "NVFP4 - what does the quality usually equate to? (5090)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wogz1a/nvfp4_what_does_the_quality_usually_equate_to_5090/",
+   "published_at": "2026-09-23T20:16:30+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wogvcx/what_finetune_under_40b_is_good_for_mimicking",
+   "source": "reddit",
+   "title": "What finetune under 40B is good for mimicking writing style?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wogvcx/what_finetune_under_40b_is_good_for_mimicking/",
+   "published_at": "2026-09-23T20:12:38+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wogkj4/made_an_open_source_full_featured_ai_desktop",
+   "source": "reddit",
+   "title": "Made an open source full featured AI desktop client app",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wogkj4/made_an_open_source_full_featured_ai_desktop/",
+   "published_at": "2026-09-23T20:01:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wogfjx/please_google_for_the_love_of_god",
+   "source": "reddit",
+   "title": "Please Google, for the love of God.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wogfjx/please_google_for_the_love_of_god/",
+   "published_at": "2026-09-23T19:56:04+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wog184/i_optimised_cybertiel_for_my_setup_8_gb_vram",
+   "source": "reddit",
+   "title": "I optimised CyberTiel for my setup (8 GB VRAM laptop 4060 + 16 GB RAM, WIndows) at 131K context.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wog184/i_optimised_cybertiel_for_my_setup_8_gb_vram/",
+   "published_at": "2026-09-23T19:40:53+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wofway/weird_thinking_blocks_in_qwen_flash_next_from",
+   "source": "reddit",
+   "title": "Weird thinking blocks in Qwen Flash Next from time to time",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wofway/weird_thinking_blocks_in_qwen_flash_next_from/",
+   "published_at": "2026-09-23T19:35:43+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wofivy/built_a_terminal_coding_agent_in_go_would_rather",
+   "source": "reddit",
+   "title": "Built a terminal coding agent in Go — would rather have it torn apart than upvoted",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wofivy/built_a_terminal_coding_agent_in_go_would_rather/",
+   "published_at": "2026-09-23T19:21:47+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1woeeon/rsi_achieved_at_reefrumours_again_lol_and_its",
+   "source": "reddit",
+   "title": "RSI ACHIEVED at Reef(Rumours again lol) and it's open source",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1woeeon/rsi_achieved_at_reefrumours_again_lol_and_its/",
+   "published_at": "2026-09-23T18:41:16+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1woedly/m5u_base_96gb_inference_numbers_for_q38fn_after",
+   "source": "reddit",
+   "title": "M5U base 96GB inference numbers for Q3.8FN after 112M tokens",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1woedly/m5u_base_96gb_inference_numbers_for_q38fn_after/",
+   "published_at": "2026-09-23T18:40:12+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wodf84/applelensvlm9b_hugging_face",
+   "source": "reddit",
+   "title": "apple/LensVLM-9B · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wodf84/applelensvlm9b_hugging_face/",
+   "published_at": "2026-09-23T18:04:25+00:00",
+   "extra": ""
   },
   {
    "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wod07t/deepseekv4flash0731_at_4050_toks_on_2_radeon_ai",
@@ -7881,14 +8171,6 @@
    "title": "DeepSeek-V4-Flash-0731 at ~40–50 tok/s on 2× Radeon AI PRO R9700 with the affinity engine (prebuilt quant + fixes)",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wod07t/deepseekv4flash0731_at_4050_toks_on_2_radeon_ai/",
    "published_at": "2026-09-23T17:49:14+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wociuw/testing_space_bunny_on_a_codingagent_proxy",
-   "source": "reddit",
-   "title": "Testing Space Bunny on a coding-agent proxy uncovered an overly broad request filter",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wociuw/testing_space_bunny_on_a_codingagent_proxy/",
-   "published_at": "2026-09-23T17:31:15+00:00",
    "extra": ""
   },
   {
@@ -7905,118 +8187,6 @@
    "title": "Windows + NVIDIA + DeepSeek Harness smoke-test a GPU monitor plugin? (local inference)",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wobhs6/windows_nvidia_deepseek_harness_smoketest_a_gpu/",
    "published_at": "2026-09-23T16:53:40+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wob8ej/pi_agent_qwen_38_flash_next_plays_baldurs_gate_2",
-   "source": "reddit",
-   "title": "Pi agent qwen 3.8 flash next plays Baldur's Gate 2",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wob8ej/pi_agent_qwen_38_flash_next_plays_baldurs_gate_2/",
-   "published_at": "2026-09-23T16:44:15+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1woazuk/those_of_you_with_beefy_workstations_how_you_tune",
-   "source": "reddit",
-   "title": "Those of you with beefy workstations, how you tune the fan curves?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1woazuk/those_of_you_with_beefy_workstations_how_you_tune/",
-   "published_at": "2026-09-23T16:35:28+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1woameh/jevals_locally_runnable_evals_for_agents_using",
-   "source": "reddit",
-   "title": "jevals: locally runnable evals for agents using Jev-style decisions",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1woameh/jevals_locally_runnable_evals_for_agents_using/",
-   "published_at": "2026-09-23T16:22:26+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1woa5d3/mimov26_both_pro_and_flash_is_a_benchmaxxed_scam",
-   "source": "reddit",
-   "title": "MiMo-V2.6 (both Pro and Flash) is a benchmaxxed scam",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1woa5d3/mimov26_both_pro_and_flash_is_a_benchmaxxed_scam/",
-   "published_at": "2026-09-23T16:05:14+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wo9sbu/user_perception",
-   "source": "reddit",
-   "title": "User perception",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wo9sbu/user_perception/",
-   "published_at": "2026-09-23T15:52:09+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wo905s/user_interface_for_coding_runs",
-   "source": "reddit",
-   "title": "user interface for coding runs",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wo905s/user_interface_for_coding_runs/",
-   "published_at": "2026-09-23T15:23:04+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wo8tr5/streaming_nemotron_3_diarization",
-   "source": "reddit",
-   "title": "Streaming Nemotron 3 Diarization",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wo8tr5/streaming_nemotron_3_diarization/",
-   "published_at": "2026-09-23T15:16:30+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wo84pa/parakeetjava_automatic_speech_recognition_in_pure",
-   "source": "reddit",
-   "title": "Parakeet.java: Automatic Speech Recognition in pure Java.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wo84pa/parakeetjava_automatic_speech_recognition_in_pure/",
-   "published_at": "2026-09-23T14:50:24+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wo7sfo/perhaps_the_highest_quality_mainline_quants_of",
-   "source": "reddit",
-   "title": "Perhaps the highest quality mainline quants of Qwen3.8 27B?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wo7sfo/perhaps_the_highest_quality_mainline_quants_of/",
-   "published_at": "2026-09-23T14:37:26+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wo7otf/extending_context_window_past_262144",
-   "source": "reddit",
-   "title": "Extending context window past 262144?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wo7otf/extending_context_window_past_262144/",
-   "published_at": "2026-09-23T14:33:28+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wo7mr6/mimov3_is_getting_a_new_architecture_the_core_of",
-   "source": "reddit",
-   "title": "MiMo-V3 is getting a new architecture. The core of it, HySparse2, is out today.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wo7mr6/mimov3_is_getting_a_new_architecture_the_core_of/",
-   "published_at": "2026-09-23T14:31:12+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wo6x7e/i_turned_qwen3827b_q2_64_llamacpp_into_a_fully",
-   "source": "reddit",
-   "title": "I turned Qwen3.8-27B Q2_64 + llama.cpp into a fully TypeSafe AI-compatible Jev-like system. OpenAI API still intact! World’s first Vision-enabled Jev-like model! <10 GB VRAM, 170 ms on an RTX 3090 and ~140 tok/s in chat. 76% vs. 88% Jev-1.13 Acc. on a diverse 22,000-request typed-decision benchmark",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wo6x7e/i_turned_qwen3827b_q2_64_llamacpp_into_a_fully/",
-   "published_at": "2026-09-23T14:03:53+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wo6qcf/deepseek_v41_flash_inside_codex_is_amazing",
-   "source": "reddit",
-   "title": "Deepseek V4.1 flash inside Codex is amazing",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wo6qcf/deepseek_v41_flash_inside_codex_is_amazing/",
-   "published_at": "2026-09-23T13:56:43+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wo6o0f/mods_can_we_do_something_about_half_the_forum",
-   "source": "reddit",
-   "title": "Mods: can we do something about half the forum getting filled with these advertising posts for Jev?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wo6o0f/mods_can_we_do_something_about_half_the_forum/",
-   "published_at": "2026-09-23T13:54:12+00:00",
    "extra": ""
   },
   {
@@ -10580,6 +10750,66 @@
    "extra": "points=2",
    "event_type": "release",
    "summary": "Open-weight models now carry 56% of production tokens and 14% of the spend"
+  },
+  {
+   "id": "openai:https://openai.com/index/introducing-mentalhealthbench",
+   "source": "openai",
+   "title": "Introducing MentalHealthBench",
+   "url": "https://openai.com/index/introducing-mentalhealthbench",
+   "published_at": "2026-09-23T10:00:00+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "Introducing MentalHealthBench"
+  },
+  {
+   "id": "openai:https://openai.com/index/airbnb-gpt-6-astra",
+   "source": "openai",
+   "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
+   "url": "https://openai.com/index/airbnb-gpt-6-astra",
+   "published_at": "2026-09-23T01:00:00+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1woie1t/i_made_a_go_adapter_that_gives_local_llamacpp",
+   "source": "reddit",
+   "title": "I made a Go adapter that gives local llama.cpp models a Jev-like decision API",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1woie1t/i_made_a_go_adapter_that_gives_local_llamacpp/",
+   "published_at": "2026-09-23T21:11:27+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "I made a Go adapter that gives local llama.cpp models a Jev-like decision API"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wogzdm/lemonade_fixes_amd_apu_model_streaming_drops",
+   "source": "reddit",
+   "title": "Lemonade fixes AMD APU model streaming, drops OpenMOSS ROCm as ~40x slower than Vulkan",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wogzdm/lemonade_fixes_amd_apu_model_streaming_drops/",
+   "published_at": "2026-09-23T20:16:51+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "Lemonade fixes AMD APU model streaming, drops OpenMOSS ROCm as ~40x slower than Vulkan"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wof9kk/introducing_support_for_local_ai_models_in_the",
+   "source": "reddit",
+   "title": "Introducing Support for Local AI Models in the Antigravity SDK",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wof9kk/introducing_support_for_local_ai_models_in_the/",
+   "published_at": "2026-09-23T19:12:18+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "Introducing Support for Local AI Models in the Antigravity SDK"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1woe70t/jev_isnt_new_tech_its_marketing_targets_people",
+   "source": "reddit",
+   "title": "Jev isn't new tech. Its marketing targets people who think AI started with LLMs.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1woe70t/jev_isnt_new_tech_its_marketing_targets_people/",
+   "published_at": "2026-09-23T18:33:21+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "Jev isn't new tech. Its marketing targets people who think AI started with LLMs."
   }
  ]
 }
