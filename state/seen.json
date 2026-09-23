@@ -2356,9 +2356,69 @@
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wo5v8z/what_framework_do_you_prefer_of_late_for_localllm": "2026-09-23T13:35:34.381804+00:00",
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wo5uuf/best_stt_or_literal_transcription_model_does_that": "2026-09-23T13:35:34.381804+00:00",
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wo1ott/do_you_think_frontier_multimodal_models_will": "2026-09-23T13:35:34.381804+00:00",
-  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wnzu2f/engram_gone_wild_2b_model_update": "2026-09-23T13:35:34.381804+00:00"
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wnzu2f/engram_gone_wild_2b_model_update": "2026-09-23T13:35:34.381804+00:00",
+  "openai:https://openai.com/index/ringg": "2026-09-23T17:57:30.002004+00:00",
+  "openrouter:x-ai/grok-4.7": "2026-09-23T17:57:30.002004+00:00",
+  "hn:49789356": "2026-09-23T17:57:30.002004+00:00",
+  "hn:49787411": "2026-09-23T17:57:30.002004+00:00",
+  "hn:49790833": "2026-09-23T17:57:30.002004+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wod7l0/bfl_releases_flux_3_action_a_7b_robot_model": "2026-09-23T17:57:30.475393+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wocypq/creating_evals_for_a_trained_tuned_trained_local": "2026-09-23T17:57:30.475393+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wobcm2/opensource_alternative_to_grokbot_called": "2026-09-23T17:57:30.475393+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wo81si/space_bunny_is_the_new_stealth_model_in_opencode": "2026-09-23T17:57:30.475393+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wo6zvj/same_model_same_prompt_yet_worse_extraction_on": "2026-09-23T17:57:30.475393+00:00",
+  "hn:49819252": "2026-09-23T17:57:30.475393+00:00",
+  "hn:49818175": "2026-09-23T17:57:30.475393+00:00"
  },
  "pending": [
+  {
+   "id": "hn:49804932",
+   "source": "hn",
+   "title": "Show HN: Optimized runtimes for three VLAs on Jetson Thor",
+   "url": "https://github.com/Agents2AgentsAI/vla-edge",
+   "published_at": "2026-09-22T17:26:37Z",
+   "extra": "points=2"
+  },
+  {
+   "id": "hn:49803473",
+   "source": "hn",
+   "title": "I built a linter/skill that ensures requests to jev are structured correctly",
+   "url": "https://news.ycombinator.com/item?id=49803473",
+   "published_at": "2026-09-22T16:02:02Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:49802308",
+   "source": "hn",
+   "title": "Show HN: Piary – Rethinking the human-agent interface beyond chat",
+   "url": "https://piary.dev/",
+   "published_at": "2026-09-22T14:51:35Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:49795171",
+   "source": "hn",
+   "title": "Show HN: Jevopt: Making intelligent compiler optimisation decisions with Jev",
+   "url": "https://github.com/Ramneet-Singh/jevopt",
+   "published_at": "2026-09-22T00:11:59Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:49818914",
+   "source": "hn",
+   "title": "Show HN: Ox – A local agent that uses the internet for you",
+   "url": "https://openox.ai/",
+   "published_at": "2026-09-23T16:47:35Z",
+   "extra": "points=2"
+  },
+  {
+   "id": "hn:49818611",
+   "source": "hn",
+   "title": "Show HN: Tenderness – open-source synthetic data generation for VLM/OCR",
+   "url": "https://github.com/paperchase-labs/tenderness",
+   "published_at": "2026-09-23T16:31:01Z",
+   "extra": "points=1"
+  },
   {
    "id": "hn:49803683",
    "source": "hn",
@@ -7432,174 +7492,6 @@
    "extra": "points=1"
   },
   {
-   "id": "openai:https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-   "source": "openai",
-   "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-   "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-   "published_at": "2026-09-23T13:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "openai:https://openai.com/index/grab-openai-ai-skills-southeast-asia",
-   "source": "openai",
-   "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-   "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
-   "published_at": "2026-09-23T00:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "openai:https://openai.com/index/better-prompt-caching-for-gpt-6",
-   "source": "openai",
-   "title": "Better prompt caching for GPT-6",
-   "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-   "published_at": "2026-09-22T21:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "openai:https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
-   "source": "openai",
-   "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
-   "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
-   "published_at": "2026-09-22T12:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "openai:https://openai.com/index/priorities-principles-third-party-assessments",
-   "source": "openai",
-   "title": "Priorities and principles for effective third party assessments",
-   "url": "https://openai.com/index/priorities-principles-third-party-assessments",
-   "published_at": "2026-09-22T00:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "hf:microsoft/rho-roboeval",
-   "source": "hf",
-   "title": "microsoft/rho-roboeval",
-   "url": "https://huggingface.co/microsoft/rho-roboeval",
-   "published_at": "2026-09-21T19:13:53.000Z",
-   "extra": "downloads=0 likes=1"
-  },
-  {
-   "id": "openrouter:upstage/solar-mini4",
-   "source": "openrouter",
-   "title": "Upstage: Solar Mini 4",
-   "url": "https://openrouter.ai/upstage/solar-mini4",
-   "published_at": "2026-09-23T10:45:58+00:00",
-   "extra": "context=524288"
-  },
-  {
-   "id": "openrouter:cohere/command-a-plus",
-   "source": "openrouter",
-   "title": "Cohere: Command A+",
-   "url": "https://openrouter.ai/cohere/command-a-plus",
-   "published_at": "2026-09-22T18:48:16+00:00",
-   "extra": "context=192000"
-  },
-  {
-   "id": "openrouter:openai/gpt-6-luna-pro",
-   "source": "openrouter",
-   "title": "OpenAI: GPT-6 Luna Pro",
-   "url": "https://openrouter.ai/openai/gpt-6-luna-pro",
-   "published_at": "2026-09-22T18:13:11+00:00",
-   "extra": "context=1050000"
-  },
-  {
-   "id": "openrouter:openai/gpt-6-luna-pro:batch",
-   "source": "openrouter",
-   "title": "OpenAI: GPT-6 Luna Pro (batch)",
-   "url": "https://openrouter.ai/openai/gpt-6-luna-pro:batch",
-   "published_at": "2026-09-22T18:13:11+00:00",
-   "extra": "context=1050000"
-  },
-  {
-   "id": "openrouter:openai/gpt-6-luna",
-   "source": "openrouter",
-   "title": "OpenAI: GPT-6 Luna",
-   "url": "https://openrouter.ai/openai/gpt-6-luna",
-   "published_at": "2026-09-22T18:13:06+00:00",
-   "extra": "context=1050000"
-  },
-  {
-   "id": "openrouter:openai/gpt-6-luna:batch",
-   "source": "openrouter",
-   "title": "OpenAI: GPT-6 Luna (batch)",
-   "url": "https://openrouter.ai/openai/gpt-6-luna:batch",
-   "published_at": "2026-09-22T18:13:06+00:00",
-   "extra": "context=1050000"
-  },
-  {
-   "id": "openrouter:openai/gpt-6-sol-pro",
-   "source": "openrouter",
-   "title": "OpenAI: GPT-6 Sol Pro",
-   "url": "https://openrouter.ai/openai/gpt-6-sol-pro",
-   "published_at": "2026-09-22T18:13:01+00:00",
-   "extra": "context=1050000"
-  },
-  {
-   "id": "openrouter:openai/gpt-6-sol-pro:batch",
-   "source": "openrouter",
-   "title": "OpenAI: GPT-6 Sol Pro (batch)",
-   "url": "https://openrouter.ai/openai/gpt-6-sol-pro:batch",
-   "published_at": "2026-09-22T18:13:01+00:00",
-   "extra": "context=1050000"
-  },
-  {
-   "id": "openrouter:openai/gpt-6-sol",
-   "source": "openrouter",
-   "title": "OpenAI: GPT-6 Sol",
-   "url": "https://openrouter.ai/openai/gpt-6-sol",
-   "published_at": "2026-09-22T18:12:55+00:00",
-   "extra": "context=1050000"
-  },
-  {
-   "id": "openrouter:openai/gpt-6-sol:batch",
-   "source": "openrouter",
-   "title": "OpenAI: GPT-6 Sol (batch)",
-   "url": "https://openrouter.ai/openai/gpt-6-sol:batch",
-   "published_at": "2026-09-22T18:12:55+00:00",
-   "extra": "context=1050000"
-  },
-  {
-   "id": "openrouter:anthropic/claude-opus-5.5",
-   "source": "openrouter",
-   "title": "Anthropic: Claude Opus 5.5",
-   "url": "https://openrouter.ai/anthropic/claude-opus-5.5",
-   "published_at": "2026-09-22T16:32:12+00:00",
-   "extra": "context=1000000"
-  },
-  {
-   "id": "openrouter:anthropic/claude-opus-5.5:batch",
-   "source": "openrouter",
-   "title": "Anthropic: Claude Opus 5.5 (batch)",
-   "url": "https://openrouter.ai/anthropic/claude-opus-5.5:batch",
-   "published_at": "2026-09-22T16:32:12+00:00",
-   "extra": "context=1000000"
-  },
-  {
-   "id": "openrouter:xiaomi/mimo-v2.6-pro-ultraspeed",
-   "source": "openrouter",
-   "title": "Xiaomi: MiMo-V2.6-Pro-UltraSpeed",
-   "url": "https://openrouter.ai/xiaomi/mimo-v2.6-pro-ultraspeed",
-   "published_at": "2026-09-21T20:07:47+00:00",
-   "extra": "context=1048576"
-  },
-  {
-   "id": "openrouter:xiaomi/mimo-v2.6-flash",
-   "source": "openrouter",
-   "title": "Xiaomi: MiMo-V2.6-Flash",
-   "url": "https://openrouter.ai/xiaomi/mimo-v2.6-flash",
-   "published_at": "2026-09-21T20:07:44+00:00",
-   "extra": "context=1048576"
-  },
-  {
-   "id": "openrouter:xiaomi/mimo-v2.6-pro",
-   "source": "openrouter",
-   "title": "Xiaomi: MiMo-V2.6-Pro",
-   "url": "https://openrouter.ai/xiaomi/mimo-v2.6-pro",
-   "published_at": "2026-09-21T20:07:39+00:00",
-   "extra": "context=1048576"
-  },
-  {
    "id": "openrouter:x-ai/grok-4.7",
    "source": "openrouter",
    "title": "SpaceXAI: Grok 4.7",
@@ -7768,6 +7660,366 @@
    "extra": ""
   },
   {
+   "id": "hn:49789356",
+   "source": "hn",
+   "title": "Show HN: Foremerge – Catch intent conflicts between parallel coding agents",
+   "url": "https://github.com/naw103/foremerge",
+   "published_at": "2026-09-21T16:22:06Z",
+   "extra": "points=19"
+  },
+  {
+   "id": "hn:49787411",
+   "source": "hn",
+   "title": "Humans& with Alexis Ross, Manya Bansal, and Niloofar Mireshghallah",
+   "url": "https://news.ycombinator.com/item?id=49787411",
+   "published_at": "2026-09-21T14:00:31Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "openai:https://openai.com/index/two-years-of-openai-academy",
+   "source": "openai",
+   "title": "Two years of OpenAI Academy",
+   "url": "https://openai.com/index/two-years-of-openai-academy",
+   "published_at": "2026-09-23T16:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+   "source": "openai",
+   "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+   "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+   "published_at": "2026-09-23T13:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+   "source": "openai",
+   "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+   "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+   "published_at": "2026-09-23T00:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/better-prompt-caching-for-gpt-6",
+   "source": "openai",
+   "title": "Better prompt caching for GPT-6",
+   "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+   "published_at": "2026-09-22T21:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+   "source": "openai",
+   "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+   "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+   "published_at": "2026-09-22T12:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/priorities-principles-third-party-assessments",
+   "source": "openai",
+   "title": "Priorities and principles for effective third party assessments",
+   "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+   "published_at": "2026-09-22T00:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "hf:microsoft/rho-roboeval",
+   "source": "hf",
+   "title": "microsoft/rho-roboeval",
+   "url": "https://huggingface.co/microsoft/rho-roboeval",
+   "published_at": "2026-09-21T19:13:53.000Z",
+   "extra": "downloads=0 likes=1"
+  },
+  {
+   "id": "openrouter:stealth/space-bunny-alpha",
+   "source": "openrouter",
+   "title": "Space Bunny Alpha",
+   "url": "https://openrouter.ai/stealth/space-bunny-alpha",
+   "published_at": "2026-09-23T14:48:04+00:00",
+   "extra": "context=1000000"
+  },
+  {
+   "id": "openrouter:aion-labs/aion-3.5-mini",
+   "source": "openrouter",
+   "title": "AionLabs: Aion 3.5 Mini",
+   "url": "https://openrouter.ai/aion-labs/aion-3.5-mini",
+   "published_at": "2026-09-23T13:42:42+00:00",
+   "extra": "context=262144"
+  },
+  {
+   "id": "openrouter:aion-labs/aion-3.5",
+   "source": "openrouter",
+   "title": "AionLabs: Aion 3.5",
+   "url": "https://openrouter.ai/aion-labs/aion-3.5",
+   "published_at": "2026-09-23T13:42:41+00:00",
+   "extra": "context=262144"
+  },
+  {
+   "id": "openrouter:upstage/solar-mini4",
+   "source": "openrouter",
+   "title": "Upstage: Solar Mini 4",
+   "url": "https://openrouter.ai/upstage/solar-mini4",
+   "published_at": "2026-09-23T10:45:58+00:00",
+   "extra": "context=524288"
+  },
+  {
+   "id": "openrouter:cohere/command-a-plus",
+   "source": "openrouter",
+   "title": "Cohere: Command A+",
+   "url": "https://openrouter.ai/cohere/command-a-plus",
+   "published_at": "2026-09-22T18:48:16+00:00",
+   "extra": "context=192000"
+  },
+  {
+   "id": "openrouter:openai/gpt-6-luna-pro",
+   "source": "openrouter",
+   "title": "OpenAI: GPT-6 Luna Pro",
+   "url": "https://openrouter.ai/openai/gpt-6-luna-pro",
+   "published_at": "2026-09-22T18:13:11+00:00",
+   "extra": "context=1050000"
+  },
+  {
+   "id": "openrouter:openai/gpt-6-luna-pro:batch",
+   "source": "openrouter",
+   "title": "OpenAI: GPT-6 Luna Pro (batch)",
+   "url": "https://openrouter.ai/openai/gpt-6-luna-pro:batch",
+   "published_at": "2026-09-22T18:13:11+00:00",
+   "extra": "context=1050000"
+  },
+  {
+   "id": "openrouter:openai/gpt-6-luna",
+   "source": "openrouter",
+   "title": "OpenAI: GPT-6 Luna",
+   "url": "https://openrouter.ai/openai/gpt-6-luna",
+   "published_at": "2026-09-22T18:13:06+00:00",
+   "extra": "context=1050000"
+  },
+  {
+   "id": "openrouter:openai/gpt-6-luna:batch",
+   "source": "openrouter",
+   "title": "OpenAI: GPT-6 Luna (batch)",
+   "url": "https://openrouter.ai/openai/gpt-6-luna:batch",
+   "published_at": "2026-09-22T18:13:06+00:00",
+   "extra": "context=1050000"
+  },
+  {
+   "id": "openrouter:openai/gpt-6-sol-pro",
+   "source": "openrouter",
+   "title": "OpenAI: GPT-6 Sol Pro",
+   "url": "https://openrouter.ai/openai/gpt-6-sol-pro",
+   "published_at": "2026-09-22T18:13:01+00:00",
+   "extra": "context=1050000"
+  },
+  {
+   "id": "openrouter:openai/gpt-6-sol-pro:batch",
+   "source": "openrouter",
+   "title": "OpenAI: GPT-6 Sol Pro (batch)",
+   "url": "https://openrouter.ai/openai/gpt-6-sol-pro:batch",
+   "published_at": "2026-09-22T18:13:01+00:00",
+   "extra": "context=1050000"
+  },
+  {
+   "id": "openrouter:openai/gpt-6-sol",
+   "source": "openrouter",
+   "title": "OpenAI: GPT-6 Sol",
+   "url": "https://openrouter.ai/openai/gpt-6-sol",
+   "published_at": "2026-09-22T18:12:55+00:00",
+   "extra": "context=1050000"
+  },
+  {
+   "id": "openrouter:openai/gpt-6-sol:batch",
+   "source": "openrouter",
+   "title": "OpenAI: GPT-6 Sol (batch)",
+   "url": "https://openrouter.ai/openai/gpt-6-sol:batch",
+   "published_at": "2026-09-22T18:12:55+00:00",
+   "extra": "context=1050000"
+  },
+  {
+   "id": "openrouter:anthropic/claude-opus-5.5",
+   "source": "openrouter",
+   "title": "Anthropic: Claude Opus 5.5",
+   "url": "https://openrouter.ai/anthropic/claude-opus-5.5",
+   "published_at": "2026-09-22T16:32:12+00:00",
+   "extra": "context=1000000"
+  },
+  {
+   "id": "openrouter:anthropic/claude-opus-5.5:batch",
+   "source": "openrouter",
+   "title": "Anthropic: Claude Opus 5.5 (batch)",
+   "url": "https://openrouter.ai/anthropic/claude-opus-5.5:batch",
+   "published_at": "2026-09-22T16:32:12+00:00",
+   "extra": "context=1000000"
+  },
+  {
+   "id": "openrouter:xiaomi/mimo-v2.6-pro-ultraspeed",
+   "source": "openrouter",
+   "title": "Xiaomi: MiMo-V2.6-Pro-UltraSpeed",
+   "url": "https://openrouter.ai/xiaomi/mimo-v2.6-pro-ultraspeed",
+   "published_at": "2026-09-21T20:07:47+00:00",
+   "extra": "context=1048576"
+  },
+  {
+   "id": "openrouter:xiaomi/mimo-v2.6-flash",
+   "source": "openrouter",
+   "title": "Xiaomi: MiMo-V2.6-Flash",
+   "url": "https://openrouter.ai/xiaomi/mimo-v2.6-flash",
+   "published_at": "2026-09-21T20:07:44+00:00",
+   "extra": "context=1048576"
+  },
+  {
+   "id": "openrouter:xiaomi/mimo-v2.6-pro",
+   "source": "openrouter",
+   "title": "Xiaomi: MiMo-V2.6-Pro",
+   "url": "https://openrouter.ai/xiaomi/mimo-v2.6-pro",
+   "published_at": "2026-09-21T20:07:39+00:00",
+   "extra": "context=1048576"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wod07t/deepseekv4flash0731_at_4050_toks_on_2_radeon_ai",
+   "source": "reddit",
+   "title": "DeepSeek-V4-Flash-0731 at ~40–50 tok/s on 2× Radeon AI PRO R9700 with the affinity engine (prebuilt quant + fixes)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wod07t/deepseekv4flash0731_at_4050_toks_on_2_radeon_ai/",
+   "published_at": "2026-09-23T17:49:14+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wociuw/testing_space_bunny_on_a_codingagent_proxy",
+   "source": "reddit",
+   "title": "Testing Space Bunny on a coding-agent proxy uncovered an overly broad request filter",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wociuw/testing_space_bunny_on_a_codingagent_proxy/",
+   "published_at": "2026-09-23T17:31:15+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wobk5f/gui_harness_video",
+   "source": "reddit",
+   "title": "GUI harness [video]",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wobk5f/gui_harness_video/",
+   "published_at": "2026-09-23T16:55:57+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wobhs6/windows_nvidia_deepseek_harness_smoketest_a_gpu",
+   "source": "reddit",
+   "title": "Windows + NVIDIA + DeepSeek Harness smoke-test a GPU monitor plugin? (local inference)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wobhs6/windows_nvidia_deepseek_harness_smoketest_a_gpu/",
+   "published_at": "2026-09-23T16:53:40+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wob8ej/pi_agent_qwen_38_flash_next_plays_baldurs_gate_2",
+   "source": "reddit",
+   "title": "Pi agent qwen 3.8 flash next plays Baldur's Gate 2",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wob8ej/pi_agent_qwen_38_flash_next_plays_baldurs_gate_2/",
+   "published_at": "2026-09-23T16:44:15+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1woazuk/those_of_you_with_beefy_workstations_how_you_tune",
+   "source": "reddit",
+   "title": "Those of you with beefy workstations, how you tune the fan curves?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1woazuk/those_of_you_with_beefy_workstations_how_you_tune/",
+   "published_at": "2026-09-23T16:35:28+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1woameh/jevals_locally_runnable_evals_for_agents_using",
+   "source": "reddit",
+   "title": "jevals: locally runnable evals for agents using Jev-style decisions",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1woameh/jevals_locally_runnable_evals_for_agents_using/",
+   "published_at": "2026-09-23T16:22:26+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1woa5d3/mimov26_both_pro_and_flash_is_a_benchmaxxed_scam",
+   "source": "reddit",
+   "title": "MiMo-V2.6 (both Pro and Flash) is a benchmaxxed scam",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1woa5d3/mimov26_both_pro_and_flash_is_a_benchmaxxed_scam/",
+   "published_at": "2026-09-23T16:05:14+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wo9sbu/user_perception",
+   "source": "reddit",
+   "title": "User perception",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wo9sbu/user_perception/",
+   "published_at": "2026-09-23T15:52:09+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wo905s/user_interface_for_coding_runs",
+   "source": "reddit",
+   "title": "user interface for coding runs",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wo905s/user_interface_for_coding_runs/",
+   "published_at": "2026-09-23T15:23:04+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wo8tr5/streaming_nemotron_3_diarization",
+   "source": "reddit",
+   "title": "Streaming Nemotron 3 Diarization",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wo8tr5/streaming_nemotron_3_diarization/",
+   "published_at": "2026-09-23T15:16:30+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wo84pa/parakeetjava_automatic_speech_recognition_in_pure",
+   "source": "reddit",
+   "title": "Parakeet.java: Automatic Speech Recognition in pure Java.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wo84pa/parakeetjava_automatic_speech_recognition_in_pure/",
+   "published_at": "2026-09-23T14:50:24+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wo7sfo/perhaps_the_highest_quality_mainline_quants_of",
+   "source": "reddit",
+   "title": "Perhaps the highest quality mainline quants of Qwen3.8 27B?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wo7sfo/perhaps_the_highest_quality_mainline_quants_of/",
+   "published_at": "2026-09-23T14:37:26+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wo7otf/extending_context_window_past_262144",
+   "source": "reddit",
+   "title": "Extending context window past 262144?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wo7otf/extending_context_window_past_262144/",
+   "published_at": "2026-09-23T14:33:28+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wo7mr6/mimov3_is_getting_a_new_architecture_the_core_of",
+   "source": "reddit",
+   "title": "MiMo-V3 is getting a new architecture. The core of it, HySparse2, is out today.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wo7mr6/mimov3_is_getting_a_new_architecture_the_core_of/",
+   "published_at": "2026-09-23T14:31:12+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wo6x7e/i_turned_qwen3827b_q2_64_llamacpp_into_a_fully",
+   "source": "reddit",
+   "title": "I turned Qwen3.8-27B Q2_64 + llama.cpp into a fully TypeSafe AI-compatible Jev-like system. OpenAI API still intact! World’s first Vision-enabled Jev-like model! <10 GB VRAM, 170 ms on an RTX 3090 and ~140 tok/s in chat. 76% vs. 88% Jev-1.13 Acc. on a diverse 22,000-request typed-decision benchmark",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wo6x7e/i_turned_qwen3827b_q2_64_llamacpp_into_a_fully/",
+   "published_at": "2026-09-23T14:03:53+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wo6qcf/deepseek_v41_flash_inside_codex_is_amazing",
+   "source": "reddit",
+   "title": "Deepseek V4.1 flash inside Codex is amazing",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wo6qcf/deepseek_v41_flash_inside_codex_is_amazing/",
+   "published_at": "2026-09-23T13:56:43+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wo6o0f/mods_can_we_do_something_about_half_the_forum",
+   "source": "reddit",
+   "title": "Mods: can we do something about half the forum getting filled with these advertising posts for Jev?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wo6o0f/mods_can_we_do_something_about_half_the_forum/",
+   "published_at": "2026-09-23T13:54:12+00:00",
+   "extra": ""
+  },
+  {
    "id": "hn:49814729",
    "source": "hn",
    "title": "Show HN: BuildABrowser (Java) – Passes Acid2, Has CSS Grid and an Android port",
@@ -7808,6 +8060,22 @@
    "extra": "points=3"
   },
   {
+   "id": "hn:49819551",
+   "source": "hn",
+   "title": "Show HN: Diff Pro Max – File Compare App",
+   "url": "https://rkpg.net/diffpromax/index-en.html",
+   "published_at": "2026-09-23T17:26:19Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:49818484",
+   "source": "hn",
+   "title": "Ask HN: Will software still matter when AI write all our programs?",
+   "url": "https://news.ycombinator.com/item?id=49818484",
+   "published_at": "2026-09-23T16:24:27Z",
+   "extra": "points=1"
+  },
+  {
    "id": "hn:49813759",
    "source": "hn",
    "title": "Show HN: Run Linux kernel drivers in userspace on Neptune OS, NT-like OS on seL4",
@@ -7830,54 +8098,6 @@
    "url": "https://news.ycombinator.com/item?id=49805911",
    "published_at": "2026-09-22T18:26:11Z",
    "extra": "points=4"
-  },
-  {
-   "id": "hn:49804932",
-   "source": "hn",
-   "title": "Show HN: Optimized runtimes for three VLAs on Jetson Thor",
-   "url": "https://github.com/Agents2AgentsAI/vla-edge",
-   "published_at": "2026-09-22T17:26:37Z",
-   "extra": "points=2"
-  },
-  {
-   "id": "hn:49803473",
-   "source": "hn",
-   "title": "I built a linter/skill that ensures requests to jev are structured correctly",
-   "url": "https://news.ycombinator.com/item?id=49803473",
-   "published_at": "2026-09-22T16:02:02Z",
-   "extra": "points=1"
-  },
-  {
-   "id": "hn:49802308",
-   "source": "hn",
-   "title": "Show HN: Piary – Rethinking the human-agent interface beyond chat",
-   "url": "https://piary.dev/",
-   "published_at": "2026-09-22T14:51:35Z",
-   "extra": "points=1"
-  },
-  {
-   "id": "hn:49795171",
-   "source": "hn",
-   "title": "Show HN: Jevopt: Making intelligent compiler optimisation decisions with Jev",
-   "url": "https://github.com/Ramneet-Singh/jevopt",
-   "published_at": "2026-09-22T00:11:59Z",
-   "extra": "points=1"
-  },
-  {
-   "id": "hn:49789356",
-   "source": "hn",
-   "title": "Show HN: Foremerge – Catch intent conflicts between parallel coding agents",
-   "url": "https://github.com/naw103/foremerge",
-   "published_at": "2026-09-21T16:22:06Z",
-   "extra": "points=19"
-  },
-  {
-   "id": "hn:49787411",
-   "source": "hn",
-   "title": "Humans& with Alexis Ross, Manya Bansal, and Niloofar Mireshghallah",
-   "url": "https://news.ycombinator.com/item?id=49787411",
-   "published_at": "2026-09-21T14:00:31Z",
-   "extra": "points=1"
   }
  ],
  "pending_push": [
@@ -10290,6 +10510,76 @@
    "extra": "",
    "event_type": "release",
    "summary": "Engram gone wild! 2b model update..."
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wod7l0/bfl_releases_flux_3_action_a_7b_robot_model",
+   "source": "reddit",
+   "title": "BFL releases FLUX 3 Action: a 7B robot model",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wod7l0/bfl_releases_flux_3_action_a_7b_robot_model/",
+   "published_at": "2026-09-23T17:56:52+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "BFL releases FLUX 3 Action: a 7B robot model"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wocypq/creating_evals_for_a_trained_tuned_trained_local",
+   "source": "reddit",
+   "title": "Creating Evals for a trained tuned trained local LLM",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wocypq/creating_evals_for_a_trained_tuned_trained_local/",
+   "published_at": "2026-09-23T17:47:40+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "Creating Evals for a trained tuned trained local LLM"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wobcm2/opensource_alternative_to_grokbot_called",
+   "source": "reddit",
+   "title": "Open-source alternative to GrokBot called PersonalJarvis, where you can use LOCAL MODELS or connect models via subscriptions and API keys. Self-hosted, with integrated browser use, routines, a self-learning loop/memory system, 40 plugins, custom MCP servers, skills, CLIs and more",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wobcm2/opensource_alternative_to_grokbot_called/",
+   "published_at": "2026-09-23T16:48:32+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "Open-source alternative to GrokBot called PersonalJarvis, where you can use LOCAL MODELS or connect models via subscriptions and API keys. Self-hosted, with integrated browser use, routines, a self-learning loop/memory system, 40 plugins, custom MCP servers, skills, CLIs and more"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wo81si/space_bunny_is_the_new_stealth_model_in_opencode",
+   "source": "reddit",
+   "title": "Space Bunny is the new stealth model in OpenCode. Free to try, multimodal",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wo81si/space_bunny_is_the_new_stealth_model_in_opencode/",
+   "published_at": "2026-09-23T14:47:21+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "Space Bunny is the new stealth model in OpenCode. Free to try, multimodal"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wo6zvj/same_model_same_prompt_yet_worse_extraction_on",
+   "source": "reddit",
+   "title": "Same model, same prompt yet worse extraction on the api than on app",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wo6zvj/same_model_same_prompt_yet_worse_extraction_on/",
+   "published_at": "2026-09-23T14:06:37+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "Same model, same prompt yet worse extraction on the api than on app"
+  },
+  {
+   "id": "hn:49819252",
+   "source": "hn",
+   "title": "Qwen Image 2.1 beats Google Nano Banana 2.0 with minuscule 7B parameter model",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/alibaba-claims-new-qwen-image-2-1-ai-model-beats-google-nano-banana-2-0-with-minuscule-7b-parameter-model-benchmarks-show-open-weight-contender-is-competitive-with-openai-and-meta-image-models",
+   "published_at": "2026-09-23T17:07:30Z",
+   "extra": "points=4",
+   "event_type": "release",
+   "summary": "Qwen Image 2.1 beats Google Nano Banana 2.0 with minuscule 7B parameter model"
+  },
+  {
+   "id": "hn:49818175",
+   "source": "hn",
+   "title": "Open-weight models now carry 56% of production tokens and 14% of the spend",
+   "url": "https://fromtheterminal.substack.com/p/your-production-traffic-already-left-the-frontier",
+   "published_at": "2026-09-23T16:06:01Z",
+   "extra": "points=2",
+   "event_type": "release",
+   "summary": "Open-weight models now carry 56% of production tokens and 14% of the spend"
   }
  ]
 }
