@@ -2341,25 +2341,11 @@
   "hn:49806080": "2026-09-22T20:27:27.164924+00:00",
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wnot97/how_can_i_make_a_llm_fetch_data_from_a_file": "2026-09-22T23:14:14.345617+00:00",
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wnn6ui/my_local_llm_when_i_tell_it_to_do_any_changes_to": "2026-09-22T23:14:14.345617+00:00",
-  "hn:49807951": "2026-09-22T23:14:14.345617+00:00"
+  "hn:49807951": "2026-09-22T23:14:14.345617+00:00",
+  "openai:https://openai.com/index/v7": "2026-09-23T01:43:41.456583+00:00",
+  "hn:49810265": "2026-09-23T01:43:41.924155+00:00"
  },
  "pending": [
-  {
-   "id": "hn:49800641",
-   "source": "hn",
-   "title": "Show HN: ReacherX – Open-source Apollo alternative for founders and devs",
-   "url": "https://www.reacherx.com/home",
-   "published_at": "2026-09-22T13:04:55Z",
-   "extra": "points=1"
-  },
-  {
-   "id": "hn:49790833",
-   "source": "hn",
-   "title": "Show HN: Gitstats - your coding stats, private and work repos, no GitHub token",
-   "url": "https://gitstats.org",
-   "published_at": "2026-09-21T17:56:58Z",
-   "extra": "points=1"
-  },
   {
    "id": "hn:49786497",
    "source": "hn",
@@ -7217,6 +7203,22 @@
    "extra": ""
   },
   {
+   "id": "openai:https://openai.com/index/v7",
+   "source": "openai",
+   "title": "How V7 gives AI agents institutional memory",
+   "url": "https://openai.com/index/v7",
+   "published_at": "2026-09-21T00:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wnf59w/whats_the_deal_with_qwen4_with_ngram",
+   "source": "reddit",
+   "title": "What's the deal with Qwen4 with Ngram",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnf59w/whats_the_deal_with_qwen4_with_ngram/",
+   "published_at": "2026-09-22T17:00:11+00:00",
+   "extra": ""
+  },
+  {
    "id": "openai:https://openai.com/index/better-prompt-caching-for-gpt-6",
    "source": "openai",
    "title": "Better prompt caching for GPT-6",
@@ -7270,14 +7272,6 @@
    "title": "Expanding OpenAI Academy with new learning paths",
    "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
    "published_at": "2026-09-21T07:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "openai:https://openai.com/index/v7",
-   "source": "openai",
-   "title": "How V7 gives AI agents institutional memory",
-   "url": "https://openai.com/index/v7",
-   "published_at": "2026-09-21T00:00:00+00:00",
    "extra": ""
   },
   {
@@ -7417,6 +7411,22 @@
    "extra": "context=1000000"
   },
   {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wnrh76/unsloth_studio_vs_lm_studio_which_one_do_you",
+   "source": "reddit",
+   "title": "Unsloth Studio VS LM Studio... Which one do you prefer?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnrh76/unsloth_studio_vs_lm_studio_which_one_do_you/",
+   "published_at": "2026-09-23T00:54:41+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wnq3ox/i_stepped_away_for_a_bit_what_did_i_miss",
+   "source": "reddit",
+   "title": "I stepped away for a bit ... what did I miss?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnq3ox/i_stepped_away_for_a_bit_what_did_i_miss/",
+   "published_at": "2026-09-22T23:54:33+00:00",
+   "extra": ""
+  },
+  {
    "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wno2ej/never_ending_slashes_for_qwen_38_27b",
    "source": "reddit",
    "title": "Never ending slashes for Qwen 3.8 27b",
@@ -7553,14 +7563,6 @@
    "extra": ""
   },
   {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wnf59w/whats_the_deal_with_qwen4_with_ngram",
-   "source": "reddit",
-   "title": "What's the deal with Qwen4 with Ngram",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnf59w/whats_the_deal_with_qwen4_with_ngram/",
-   "published_at": "2026-09-22T17:00:11+00:00",
-   "extra": ""
-  },
-  {
    "id": "hn:49804387",
    "source": "hn",
    "title": "Show HN: WebMCP Registry of Websites That Agents Can Use",
@@ -7671,6 +7673,22 @@
    "url": "https://ai-rete-rag.com/",
    "published_at": "2026-09-22T16:15:06Z",
    "extra": "points=8"
+  },
+  {
+   "id": "hn:49800641",
+   "source": "hn",
+   "title": "Show HN: ReacherX – Open-source Apollo alternative for founders and devs",
+   "url": "https://www.reacherx.com/home",
+   "published_at": "2026-09-22T13:04:55Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:49790833",
+   "source": "hn",
+   "title": "Show HN: Gitstats - your coding stats, private and work repos, no GitHub token",
+   "url": "https://gitstats.org",
+   "published_at": "2026-09-21T17:56:58Z",
+   "extra": "points=1"
   }
  ],
  "pending_push": [
@@ -10013,6 +10031,16 @@
    "extra": "points=3",
    "event_type": "release",
    "summary": "Open-Weight AI Models Seize Token Lead, but Proprietary Still Make the Money"
+  },
+  {
+   "id": "hn:49810265",
+   "source": "hn",
+   "title": "Open-weight models take 56% of token volume",
+   "url": "https://vercel.com/blog/ai-gateway-production-index-september-2026",
+   "published_at": "2026-09-23T00:50:36Z",
+   "extra": "points=1",
+   "event_type": "release",
+   "summary": "Open-weight models take 56% of token volume"
   }
  ]
 }
