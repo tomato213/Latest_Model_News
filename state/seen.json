@@ -2343,7 +2343,11 @@
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wnn6ui/my_local_llm_when_i_tell_it_to_do_any_changes_to": "2026-09-22T23:14:14.345617+00:00",
   "hn:49807951": "2026-09-22T23:14:14.345617+00:00",
   "openai:https://openai.com/index/v7": "2026-09-23T01:43:41.456583+00:00",
-  "hn:49810265": "2026-09-23T01:43:41.924155+00:00"
+  "hn:49810265": "2026-09-23T01:43:41.924155+00:00",
+  "openai:https://openai.com/index/expanding-openai-academy-with-new-learning-paths": "2026-09-23T07:41:25.602144+00:00",
+  "openrouter:qwen/qwen3.8-omni-flash": "2026-09-23T07:41:25.602144+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wnxhji/pirate_face_pirate_bay_for_llms": "2026-09-23T07:41:26.145452+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wnu53i/nathan_lamberts_written_congressional_testimony": "2026-09-23T07:41:26.145452+00:00"
  },
  "pending": [
   {
@@ -7219,6 +7223,86 @@
    "extra": ""
   },
   {
+   "id": "openai:https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+   "source": "openai",
+   "title": "Expanding OpenAI Academy with new learning paths",
+   "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+   "published_at": "2026-09-21T07:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openrouter:qwen/qwen3.8-omni-flash",
+   "source": "openrouter",
+   "title": "Qwen: Qwen3.8 Omni Flash",
+   "url": "https://openrouter.ai/qwen/qwen3.8-omni-flash",
+   "published_at": "2026-09-21T03:05:54+00:00",
+   "extra": "context=1000000"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wnhl8e/does_anyone_here_actually_use_qwen_max_after",
+   "source": "reddit",
+   "title": "Does anyone here actually use Qwen Max after being impressed with the 27b?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnhl8e/does_anyone_here_actually_use_qwen_max_after/",
+   "published_at": "2026-09-22T18:26:29+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wnhji0/to_my_surprise_i_found_gemma4_much_better_at",
+   "source": "reddit",
+   "title": "To my surprise I found gemma4 much better at tool-calling than Qwen",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnhji0/to_my_surprise_i_found_gemma4_much_better_at/",
+   "published_at": "2026-09-22T18:24:46+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wnh7tk/antling_open_sourced_the_mingimage01design_family",
+   "source": "reddit",
+   "title": "AntLing open sourced the Ming-Image-0.1-Design family",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnh7tk/antling_open_sourced_the_mingimage01design_family/",
+   "published_at": "2026-09-22T18:12:56+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wngtx3/jevbench",
+   "source": "reddit",
+   "title": "JevBench",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wngtx3/jevbench/",
+   "published_at": "2026-09-22T17:59:22+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wnggz5/miniagi_continuallearning_dynamically_looped",
+   "source": "reddit",
+   "title": "mini-AGI: Continual-learning dynamically looped transformer with evolutionary grown (on a laptop)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnggz5/miniagi_continuallearning_dynamically_looped/",
+   "published_at": "2026-09-22T17:46:32+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wng98w/performance_tune_for_gemma426ba4b_flash_attention",
+   "source": "reddit",
+   "title": "Performance tune for gemma4-26b-a4b flash attention shape. by frobnitzem · Pull Request #28450 · ggml-org/llama.cpp · GitHub",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wng98w/performance_tune_for_gemma426ba4b_flash_attention/",
+   "published_at": "2026-09-22T17:39:11+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wnfzqc/if_you_are_building_local_ai_solutions_for",
+   "source": "reddit",
+   "title": "IF you are building local AI solutions for businesses and need the application layer that organizations will trust, take a look at this diagram",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnfzqc/if_you_are_building_local_ai_solutions_for/",
+   "published_at": "2026-09-22T17:29:44+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wnfs47/best_value_2432_gb_gpu",
+   "source": "reddit",
+   "title": "Best value 24/32 GB GPU?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnfs47/best_value_2432_gb_gpu/",
+   "published_at": "2026-09-22T17:22:20+00:00",
+   "extra": ""
+  },
+  {
    "id": "openai:https://openai.com/index/better-prompt-caching-for-gpt-6",
    "source": "openai",
    "title": "Better prompt caching for GPT-6",
@@ -7264,14 +7348,6 @@
    "title": "Building standards for the next phase of AI",
    "url": "https://openai.com/index/building-standards-next-phase-ai",
    "published_at": "2026-09-21T10:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "openai:https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
-   "source": "openai",
-   "title": "Expanding OpenAI Academy with new learning paths",
-   "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
-   "published_at": "2026-09-21T07:00:00+00:00",
    "extra": ""
   },
   {
@@ -7403,12 +7479,76 @@
    "extra": "context=500000"
   },
   {
-   "id": "openrouter:qwen/qwen3.8-omni-flash",
-   "source": "openrouter",
-   "title": "Qwen: Qwen3.8 Omni Flash",
-   "url": "https://openrouter.ai/qwen/qwen3.8-omni-flash",
-   "published_at": "2026-09-21T03:05:54+00:00",
-   "extra": "context=1000000"
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wnyvl6/most_powerful_harness_for_qwen_38",
+   "source": "reddit",
+   "title": "Most powerful harness for Qwen 3.8?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnyvl6/most_powerful_harness_for_qwen_38/",
+   "published_at": "2026-09-23T07:10:32+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wnxm0r/ggufs_in_transformers_natively",
+   "source": "reddit",
+   "title": "GGUFs in transformers natively!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnxm0r/ggufs_in_transformers_natively/",
+   "published_at": "2026-09-23T05:57:39+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wnwkyk/openwebui_and_openterminal_thoughts",
+   "source": "reddit",
+   "title": "open-webui and open-terminal thoughts",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnwkyk/openwebui_and_openterminal_thoughts/",
+   "published_at": "2026-09-23T05:01:20+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wnw5iu/jevstyle_structured_decisions_with_diffusiongemma",
+   "source": "reddit",
+   "title": "Jev-style structured decisions with DiffusionGemma GGUF in TensorSharp — benchmarks vs. LocalJev",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnw5iu/jevstyle_structured_decisions_with_diffusiongemma/",
+   "published_at": "2026-09-23T04:37:49+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wnv85k/deepseek_and_moonshot_ai_face_beijings_probe_over",
+   "source": "reddit",
+   "title": "DeepSeek and Moonshot AI face Beijing's probe over potential data leaks to Anthropic",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnv85k/deepseek_and_moonshot_ai_face_beijings_probe_over/",
+   "published_at": "2026-09-23T03:49:48+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wnuh1x/is_qwen_4_27b_expected_to_be_faster_than_38",
+   "source": "reddit",
+   "title": "Is Qwen 4 27b expected to be faster than 3.8?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnuh1x/is_qwen_4_27b_expected_to_be_faster_than_38/",
+   "published_at": "2026-09-23T03:12:22+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wntilc/finally_trying_out_agentic_stuff_and_now_the",
+   "source": "reddit",
+   "title": "Finally trying out Agentic stuff and now the question is how do I get my text in the real world in to my computer… OCR, Vision, etc.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wntilc/finally_trying_out_agentic_stuff_and_now_the/",
+   "published_at": "2026-09-23T02:27:01+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wntc8m/i_tested_semif_openjev_vs_von_vs_jev",
+   "source": "reddit",
+   "title": "I tested Semif (openjev) vs Von vs Jev",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wntc8m/i_tested_semif_openjev_vs_von_vs_jev/",
+   "published_at": "2026-09-23T02:19:01+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wnt7kv/stuntd_a_local_jevcompatible_server_on_laya_that",
+   "source": "reddit",
+   "title": "stuntd: a local Jev-compatible server on Laya that learns from your own traffic (no API key needed)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnt7kv/stuntd_a_local_jevcompatible_server_on_laya_that/",
+   "published_at": "2026-09-23T02:13:13+00:00",
+   "extra": ""
   },
   {
    "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wnrh76/unsloth_studio_vs_lm_studio_which_one_do_you",
@@ -7496,70 +7636,6 @@
    "title": "Qwen image 2.1 (Fast FP8) generates premium quality images",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnhq8d/qwen_image_21_fast_fp8_generates_premium_quality/",
    "published_at": "2026-09-22T18:31:36+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wnhl8e/does_anyone_here_actually_use_qwen_max_after",
-   "source": "reddit",
-   "title": "Does anyone here actually use Qwen Max after being impressed with the 27b?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnhl8e/does_anyone_here_actually_use_qwen_max_after/",
-   "published_at": "2026-09-22T18:26:29+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wnhji0/to_my_surprise_i_found_gemma4_much_better_at",
-   "source": "reddit",
-   "title": "To my surprise I found gemma4 much better at tool-calling than Qwen",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnhji0/to_my_surprise_i_found_gemma4_much_better_at/",
-   "published_at": "2026-09-22T18:24:46+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wnh7tk/antling_open_sourced_the_mingimage01design_family",
-   "source": "reddit",
-   "title": "AntLing open sourced the Ming-Image-0.1-Design family",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnh7tk/antling_open_sourced_the_mingimage01design_family/",
-   "published_at": "2026-09-22T18:12:56+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wngtx3/jevbench",
-   "source": "reddit",
-   "title": "JevBench",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wngtx3/jevbench/",
-   "published_at": "2026-09-22T17:59:22+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wnggz5/miniagi_continuallearning_dynamically_looped",
-   "source": "reddit",
-   "title": "mini-AGI: Continual-learning dynamically looped transformer with evolutionary grown (on a laptop)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnggz5/miniagi_continuallearning_dynamically_looped/",
-   "published_at": "2026-09-22T17:46:32+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wng98w/performance_tune_for_gemma426ba4b_flash_attention",
-   "source": "reddit",
-   "title": "Performance tune for gemma4-26b-a4b flash attention shape. by frobnitzem · Pull Request #28450 · ggml-org/llama.cpp · GitHub",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wng98w/performance_tune_for_gemma426ba4b_flash_attention/",
-   "published_at": "2026-09-22T17:39:11+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wnfzqc/if_you_are_building_local_ai_solutions_for",
-   "source": "reddit",
-   "title": "IF you are building local AI solutions for businesses and need the application layer that organizations will trust, take a look at this diagram",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnfzqc/if_you_are_building_local_ai_solutions_for/",
-   "published_at": "2026-09-22T17:29:44+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wnfs47/best_value_2432_gb_gpu",
-   "source": "reddit",
-   "title": "Best value 24/32 GB GPU?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnfs47/best_value_2432_gb_gpu/",
-   "published_at": "2026-09-22T17:22:20+00:00",
    "extra": ""
   },
   {
@@ -10041,6 +10117,26 @@
    "extra": "points=1",
    "event_type": "release",
    "summary": "Open-weight models take 56% of token volume"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wnxhji/pirate_face_pirate_bay_for_llms",
+   "source": "reddit",
+   "title": "Pirate Face - pirate bay for LLMs",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnxhji/pirate_face_pirate_bay_for_llms/",
+   "published_at": "2026-09-23T05:50:38+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "Pirate Face - pirate bay for LLMs"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wnu53i/nathan_lamberts_written_congressional_testimony",
+   "source": "reddit",
+   "title": "Nathan Lambert's written Congressional testimony on the state of open models - Chinese open-weight downloads now 2x America's, >80% of OpenRouter open-model usage",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnu53i/nathan_lamberts_written_congressional_testimony/",
+   "published_at": "2026-09-23T02:56:39+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "Nathan Lambert's written Congressional testimony on the state of open models - Chinese open-weight downloads now 2x America's, >80% of OpenRouter open-model usage"
   }
  ]
 }
