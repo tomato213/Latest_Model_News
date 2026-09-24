@@ -2389,49 +2389,19 @@
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wownkk/if_open_source_cant_afford_to_train_the_frontier": "2026-09-24T09:31:09.575421+00:00",
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wow7nt/model_add_ling_30_vl_support_by_aetherbird_pull": "2026-09-24T09:31:09.575421+00:00",
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1woutxp/macbook_pro_m5_max_lse_llm_running_an_amd_radeon": "2026-09-24T09:31:09.575421+00:00",
-  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1woscea/contrastive_language_models": "2026-09-24T09:31:09.575421+00:00"
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1woscea/contrastive_language_models": "2026-09-24T09:31:09.575421+00:00",
+  "openai:https://openai.com/index/parallel-cuts-time-and-cost-with-astra": "2026-09-24T14:23:22.336604+00:00",
+  "hn:49801218": "2026-09-24T14:23:22.336604+00:00",
+  "hn:49800574": "2026-09-24T14:23:22.336604+00:00",
+  "hn:49800641": "2026-09-24T14:23:22.336604+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wp2hqk/r9v_update_created_and_adopted_kva_projections": "2026-09-24T14:23:22.977944+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wp2dmd/mac_studio_m5_ultra_96gb_vs_m5_max_128gb_for": "2026-09-24T14:23:22.977944+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wp2cf1/when_to_use_which_model": "2026-09-24T14:23:22.977944+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wp050s/models_behaving_maliciously_only_on_certain": "2026-09-24T14:23:22.977944+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1woymb8/llm_provider_for_local_appliance": "2026-09-24T14:23:22.977944+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wox1zs/how_much_space_and_memory_would_the_next": "2026-09-24T14:23:22.977944+00:00"
  },
  "pending": [
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wj1sly/a_ramble_on_my_lumabrowser_project_and_the_quirks",
-   "source": "reddit",
-   "title": "A ramble on my LumaBrowser project and the quirks I had to develop along the way to make this \"Local Anthropic/ChatGPT in a box\"",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj1sly/a_ramble_on_my_lumabrowser_project_and_the_quirks/",
-   "published_at": "2026-09-17T18:17:28+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wj10mk/is_the_memory_a_maxcontext_kv_reservation_holds",
-   "source": "reddit",
-   "title": "Is the memory a max-context KV reservation holds actually costing anything besides concurrency?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj10mk/is_the_memory_a_maxcontext_kv_reservation_holds/",
-   "published_at": "2026-09-17T17:49:18+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wiyxyk/dont_go_chasing_fomo_hardware_just_yet",
-   "source": "reddit",
-   "title": "Don't go chasing FOMO hardware just yet!",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wiyxyk/dont_go_chasing_fomo_hardware_just_yet/",
-   "published_at": "2026-09-17T16:34:03+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wiyu3e/freedomintelligencehuatuogpt39b_hugging_face",
-   "source": "reddit",
-   "title": "FreedomIntelligence/HuatuoGPT-3-9B · Hugging Face",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wiyu3e/freedomintelligencehuatuogpt39b_hugging_face/",
-   "published_at": "2026-09-17T16:30:07+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wiy8ga/shots_fired_at_dario_from_glm",
-   "source": "reddit",
-   "title": "shots fired at dario from glm",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wiy8ga/shots_fired_at_dario_from_glm/",
-   "published_at": "2026-09-17T16:08:14+00:00",
-   "extra": ""
-  },
   {
    "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wix0pe/wevisdoc_from_tencent",
    "source": "reddit",
@@ -7969,6 +7939,118 @@
    "extra": "points=1"
   },
   {
+   "id": "openai:https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+   "source": "openai",
+   "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+   "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+   "published_at": "2026-09-22T12:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1woq1yg/what_tps_is_too_slow_for_you",
+   "source": "reddit",
+   "title": "What TPS is too slow for you?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1woq1yg/what_tps_is_too_slow_for_you/",
+   "published_at": "2026-09-24T02:49:14+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wopeqg/mimo_26_pro_reducing_overthinking_and",
+   "source": "reddit",
+   "title": "MiMo 2.6 Pro: Reducing overthinking and second-guessing",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wopeqg/mimo_26_pro_reducing_overthinking_and/",
+   "published_at": "2026-09-24T02:18:30+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1woo22j/new_deepthink_built_on_glm",
+   "source": "reddit",
+   "title": "New DeepThink built on GLM",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1woo22j/new_deepthink_built_on_glm/",
+   "published_at": "2026-09-24T01:15:02+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wom3fe/qwen_38_flash_next_q4_k_m_130k_context_q8_cache",
+   "source": "reddit",
+   "title": "Qwen 3.8 Flash Next q4_k_m, 130k context, q8 cache on 16GB VRAM ann 64GB RAM, 15-20 t/s on 4080",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wom3fe/qwen_38_flash_next_q4_k_m_130k_context_q8_cache/",
+   "published_at": "2026-09-23T23:46:41+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wokpsx/inference_on_one_node_is_easy_but_scaling_to",
+   "source": "reddit",
+   "title": "Inference on one node is easy, but scaling to millions of users taught me about new things on a job",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wokpsx/inference_on_one_node_is_easy_but_scaling_to/",
+   "published_at": "2026-09-23T22:46:50+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1woi2ho/qwen_fn_vs_27b_think_im_saturated",
+   "source": "reddit",
+   "title": "Qwen FN vs 27B --- Think I'm saturated.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1woi2ho/qwen_fn_vs_27b_think_im_saturated/",
+   "published_at": "2026-09-23T20:58:59+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wohvds/this_time_i_tested_reflex_vs_semif_vs_laya_vs_von",
+   "source": "reddit",
+   "title": "This time I tested reflex vs SemIf vs Laya vs Von vs jev",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wohvds/this_time_i_tested_reflex_vs_semif_vs_laya_vs_von/",
+   "published_at": "2026-09-23T20:51:13+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wohl0q/tensorsharp_a_local_jevcompatible_api_extended_to",
+   "source": "reddit",
+   "title": "TensorSharp: a local Jev-compatible API, extended to image analysis with DiffusionGemma GGUF",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wohl0q/tensorsharp_a_local_jevcompatible_api_extended_to/",
+   "published_at": "2026-09-23T20:39:56+00:00",
+   "extra": ""
+  },
+  {
+   "id": "hn:49801218",
+   "source": "hn",
+   "title": "The Economics of Open-Weight Inference",
+   "url": "https://data.ornn.com/publications/the-economics-of-open-weight-inference",
+   "published_at": "2026-09-22T13:45:32Z",
+   "extra": "points=17"
+  },
+  {
+   "id": "hn:49800574",
+   "source": "hn",
+   "title": "Show HN: JevBench, a reproducible benchmark for typed decision models",
+   "url": "https://benchmarkheaven.com/jev-models",
+   "published_at": "2026-09-22T13:01:03Z",
+   "extra": "points=20"
+  },
+  {
+   "id": "hn:49800641",
+   "source": "hn",
+   "title": "Show HN: ReacherX – Open-source Apollo alternative for founders and devs",
+   "url": "https://www.reacherx.com/home",
+   "published_at": "2026-09-22T13:04:55Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wj9g7m/what_is_the_stealth_union_alpha_on_openrouter",
+   "source": "reddit",
+   "title": "What is the Stealth Union Alpha on OpenRouter?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj9g7m/what_is_the_stealth_union_alpha_on_openrouter/",
+   "published_at": "2026-09-17T23:11:50+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wj84nz/ternary_bonsai_2_27b",
+   "source": "reddit",
+   "title": "Ternary Bonsai 2 27B",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj84nz/ternary_bonsai_2_27b/",
+   "published_at": "2026-09-17T22:16:39+00:00",
+   "extra": ""
+  },
+  {
    "id": "openai:https://openai.com/index/two-years-of-openai-academy",
    "source": "openai",
    "title": "Two years of OpenAI Academy",
@@ -8030,14 +8112,6 @@
    "title": "Better prompt caching for GPT-6",
    "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
    "published_at": "2026-09-22T21:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "openai:https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
-   "source": "openai",
-   "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
-   "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
-   "published_at": "2026-09-22T12:00:00+00:00",
    "extra": ""
   },
   {
@@ -8193,6 +8267,70 @@
    "extra": "context=1000000"
   },
   {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wp2xpn/i_built_an_openweight_alternative_to_jev_typesafe",
+   "source": "reddit",
+   "title": "I built an open-weight alternative to Jev / TypeSafe - introducing OpenJudgement-4B (early preview)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wp2xpn/i_built_an_openweight_alternative_to_jev_typesafe/",
+   "published_at": "2026-09-24T14:19:34+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wp2tz3/advice_for_single_9700_on_windows",
+   "source": "reddit",
+   "title": "Advice for single 9700 on windows",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wp2tz3/advice_for_single_9700_on_windows/",
+   "published_at": "2026-09-24T14:15:43+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wp1vex/vulkan_int8_coopmat1_matmul_implementation_for",
+   "source": "reddit",
+   "title": "vulkan: int8 coopmat1 matmul implementation for AMD RDNA3 and RDNA4 (… · ggml-org/llama.cpp@70c4e15",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wp1vex/vulkan_int8_coopmat1_matmul_implementation_for/",
+   "published_at": "2026-09-24T13:37:39+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wp0z3i/qwen3827b_is_good_enough_that_i_stopped_using_api",
+   "source": "reddit",
+   "title": "Qwen-3.8-27B is good enough that I stopped using API",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wp0z3i/qwen3827b_is_good_enough_that_i_stopped_using_api/",
+   "published_at": "2026-09-24T12:59:28+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wp0c0t/minimax_m31_space_bunny_alpha_thinks_in_caveman",
+   "source": "reddit",
+   "title": "MiniMax M3.1 (Space Bunny Alpha) thinks in caveman mode",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wp0c0t/minimax_m31_space_bunny_alpha_thinks_in_caveman/",
+   "published_at": "2026-09-24T12:29:36+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1woz74e/we_tested_our_opensource_nar_tts_on_seedtts_what",
+   "source": "reddit",
+   "title": "We tested our open-source NAR TTS on Seed-TTS — what should we test next?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1woz74e/we_tested_our_opensource_nar_tts_on_seedtts_what/",
+   "published_at": "2026-09-24T11:34:08+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1woxw7s/lesson_learned_dont_blindly_trust_repos_and_make",
+   "source": "reddit",
+   "title": "Lesson learned. Don't blindly trust repos and make sure everything is stable for a long running (multi weeks) benchmark.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1woxw7s/lesson_learned_dont_blindly_trust_repos_and_make/",
+   "published_at": "2026-09-24T10:22:04+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1woxa4h/are_there_any_dflash_heads_for_cybertiel",
+   "source": "reddit",
+   "title": "Are there any DFlash heads for CyberTiel?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1woxa4h/are_there_any_dflash_heads_for_cybertiel/",
+   "published_at": "2026-09-24T09:45:48+00:00",
+   "extra": ""
+  },
+  {
    "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wowfcg/popular_plugins_people_use_inside_dsh_based_on",
    "source": "reddit",
    "title": "Popular plugins people use inside DSH (based on what they do)",
@@ -8247,86 +8385,6 @@
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1woter0/2xv100_32gb_or_1xr9700_air_pro/",
    "published_at": "2026-09-24T05:47:04+00:00",
    "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1woq1yg/what_tps_is_too_slow_for_you",
-   "source": "reddit",
-   "title": "What TPS is too slow for you?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1woq1yg/what_tps_is_too_slow_for_you/",
-   "published_at": "2026-09-24T02:49:14+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wopeqg/mimo_26_pro_reducing_overthinking_and",
-   "source": "reddit",
-   "title": "MiMo 2.6 Pro: Reducing overthinking and second-guessing",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wopeqg/mimo_26_pro_reducing_overthinking_and/",
-   "published_at": "2026-09-24T02:18:30+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1woo22j/new_deepthink_built_on_glm",
-   "source": "reddit",
-   "title": "New DeepThink built on GLM",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1woo22j/new_deepthink_built_on_glm/",
-   "published_at": "2026-09-24T01:15:02+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wom3fe/qwen_38_flash_next_q4_k_m_130k_context_q8_cache",
-   "source": "reddit",
-   "title": "Qwen 3.8 Flash Next q4_k_m, 130k context, q8 cache on 16GB VRAM ann 64GB RAM, 15-20 t/s on 4080",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wom3fe/qwen_38_flash_next_q4_k_m_130k_context_q8_cache/",
-   "published_at": "2026-09-23T23:46:41+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wokpsx/inference_on_one_node_is_easy_but_scaling_to",
-   "source": "reddit",
-   "title": "Inference on one node is easy, but scaling to millions of users taught me about new things on a job",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wokpsx/inference_on_one_node_is_easy_but_scaling_to/",
-   "published_at": "2026-09-23T22:46:50+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1woi2ho/qwen_fn_vs_27b_think_im_saturated",
-   "source": "reddit",
-   "title": "Qwen FN vs 27B --- Think I'm saturated.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1woi2ho/qwen_fn_vs_27b_think_im_saturated/",
-   "published_at": "2026-09-23T20:58:59+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wohvds/this_time_i_tested_reflex_vs_semif_vs_laya_vs_von",
-   "source": "reddit",
-   "title": "This time I tested reflex vs SemIf vs Laya vs Von vs jev",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wohvds/this_time_i_tested_reflex_vs_semif_vs_laya_vs_von/",
-   "published_at": "2026-09-23T20:51:13+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wohl0q/tensorsharp_a_local_jevcompatible_api_extended_to",
-   "source": "reddit",
-   "title": "TensorSharp: a local Jev-compatible API, extended to image analysis with DiffusionGemma GGUF",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wohl0q/tensorsharp_a_local_jevcompatible_api_extended_to/",
-   "published_at": "2026-09-23T20:39:56+00:00",
-   "extra": ""
-  },
-  {
-   "id": "hn:49801218",
-   "source": "hn",
-   "title": "The Economics of Open-Weight Inference",
-   "url": "https://data.ornn.com/publications/the-economics-of-open-weight-inference",
-   "published_at": "2026-09-22T13:45:32Z",
-   "extra": "points=17"
-  },
-  {
-   "id": "hn:49800574",
-   "source": "hn",
-   "title": "Show HN: JevBench, a reproducible benchmark for typed decision models",
-   "url": "https://benchmarkheaven.com/jev-models",
-   "published_at": "2026-09-22T13:01:03Z",
-   "extra": "points=20"
   },
   {
    "id": "hn:49823733",
@@ -8385,27 +8443,43 @@
    "extra": "points=8"
   },
   {
-   "id": "hn:49800641",
-   "source": "hn",
-   "title": "Show HN: ReacherX – Open-source Apollo alternative for founders and devs",
-   "url": "https://www.reacherx.com/home",
-   "published_at": "2026-09-22T13:04:55Z",
-   "extra": "points=1"
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wj9g7m/what_is_the_stealth_union_alpha_on_openrouter",
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wj1sly/a_ramble_on_my_lumabrowser_project_and_the_quirks",
    "source": "reddit",
-   "title": "What is the Stealth Union Alpha on OpenRouter?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj9g7m/what_is_the_stealth_union_alpha_on_openrouter/",
-   "published_at": "2026-09-17T23:11:50+00:00",
+   "title": "A ramble on my LumaBrowser project and the quirks I had to develop along the way to make this \"Local Anthropic/ChatGPT in a box\"",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj1sly/a_ramble_on_my_lumabrowser_project_and_the_quirks/",
+   "published_at": "2026-09-17T18:17:28+00:00",
    "extra": ""
   },
   {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wj84nz/ternary_bonsai_2_27b",
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wj10mk/is_the_memory_a_maxcontext_kv_reservation_holds",
    "source": "reddit",
-   "title": "Ternary Bonsai 2 27B",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj84nz/ternary_bonsai_2_27b/",
-   "published_at": "2026-09-17T22:16:39+00:00",
+   "title": "Is the memory a max-context KV reservation holds actually costing anything besides concurrency?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj10mk/is_the_memory_a_maxcontext_kv_reservation_holds/",
+   "published_at": "2026-09-17T17:49:18+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wiyxyk/dont_go_chasing_fomo_hardware_just_yet",
+   "source": "reddit",
+   "title": "Don't go chasing FOMO hardware just yet!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wiyxyk/dont_go_chasing_fomo_hardware_just_yet/",
+   "published_at": "2026-09-17T16:34:03+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wiyu3e/freedomintelligencehuatuogpt39b_hugging_face",
+   "source": "reddit",
+   "title": "FreedomIntelligence/HuatuoGPT-3-9B · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wiyu3e/freedomintelligencehuatuogpt39b_hugging_face/",
+   "published_at": "2026-09-17T16:30:07+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wiy8ga/shots_fired_at_dario_from_glm",
+   "source": "reddit",
+   "title": "shots fired at dario from glm",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wiy8ga/shots_fired_at_dario_from_glm/",
+   "published_at": "2026-09-17T16:08:14+00:00",
    "extra": ""
   }
  ],
@@ -11039,6 +11113,66 @@
    "extra": "",
    "event_type": "release",
    "summary": "Contrastive Language Models"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wp2hqk/r9v_update_created_and_adopted_kva_projections",
+   "source": "reddit",
+   "title": "R9V Update: Created and adopted KVA projections based on Deepseek V4.1 Flash + HySparse2/MiMo-V3 for Qwen3.8 Flash Next. This is a game changer for models that don't natively implement it. 1.45-1.85x speedup in prefill to 3k+ at a small deficit to perplexity. [2x R9700, 128GB DDR5]",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wp2hqk/r9v_update_created_and_adopted_kva_projections/",
+   "published_at": "2026-09-24T14:02:24+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "R9V Update: Created and adopted KVA projections based on Deepseek V4.1 Flash + HySparse2/MiMo-V3 for Qwen3.8 Flash Next. This is a game changer for models that don't natively implement it. 1.45-1.85x speedup in prefill to 3k+ at a small deficit to perplexity. [2x R9700, 128GB DDR5]"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wp2dmd/mac_studio_m5_ultra_96gb_vs_m5_max_128gb_for",
+   "source": "reddit",
+   "title": "Mac Studio M5 Ultra 96GB vs M5 Max 128GB for local LLMs?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wp2dmd/mac_studio_m5_ultra_96gb_vs_m5_max_128gb_for/",
+   "published_at": "2026-09-24T13:58:14+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "Mac Studio M5 Ultra 96GB vs M5 Max 128GB for local LLMs?"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wp2cf1/when_to_use_which_model",
+   "source": "reddit",
+   "title": "When to use which model",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wp2cf1/when_to_use_which_model/",
+   "published_at": "2026-09-24T13:56:56+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "When to use which model"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wp050s/models_behaving_maliciously_only_on_certain",
+   "source": "reddit",
+   "title": "Models behaving maliciously only on certain inputs/environments?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wp050s/models_behaving_maliciously_only_on_certain/",
+   "published_at": "2026-09-24T12:20:27+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "Models behaving maliciously only on certain inputs/environments?"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1woymb8/llm_provider_for_local_appliance",
+   "source": "reddit",
+   "title": "LLM provider for local appliance",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1woymb8/llm_provider_for_local_appliance/",
+   "published_at": "2026-09-24T11:03:02+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "LLM provider for local appliance"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wox1zs/how_much_space_and_memory_would_the_next",
+   "source": "reddit",
+   "title": "How much space and memory would the next generation ngram models take?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wox1zs/how_much_space_and_memory_would_the_next/",
+   "published_at": "2026-09-24T09:31:08+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "How much space and memory would the next generation ngram models take?"
   }
  ]
 }
