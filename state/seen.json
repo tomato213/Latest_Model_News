@@ -2381,73 +2381,11 @@
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1woe70t/jev_isnt_new_tech_its_marketing_targets_people": "2026-09-23T21:26:32.885458+00:00",
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wom0sd/im_feeling_on_the_skin_the_price_of_using": "2026-09-23T23:55:21.101369+00:00",
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wol7zc/using_uncensored_models_makes_working_less_of_a": "2026-09-23T23:55:21.101369+00:00",
-  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1woj51u/i_am_new_to_playing_with_ai_and_local_models_what": "2026-09-23T23:55:21.101369+00:00"
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1woj51u/i_am_new_to_playing_with_ai_and_local_models_what": "2026-09-23T23:55:21.101369+00:00",
+  "openai:https://openai.com/index/priorities-principles-third-party-assessments": "2026-09-24T04:36:48.669502+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1woo52a/do_yall_remember_the_snake_model_evaluation_test": "2026-09-24T04:36:49.173722+00:00"
  },
  "pending": [
-  {
-   "id": "hn:49802308",
-   "source": "hn",
-   "title": "Show HN: Piary – Rethinking the human-agent interface beyond chat",
-   "url": "https://piary.dev/",
-   "published_at": "2026-09-22T14:51:35Z",
-   "extra": "points=1"
-  },
-  {
-   "id": "hn:49795171",
-   "source": "hn",
-   "title": "Show HN: Jevopt: Making intelligent compiler optimisation decisions with Jev",
-   "url": "https://github.com/Ramneet-Singh/jevopt",
-   "published_at": "2026-09-22T00:11:59Z",
-   "extra": "points=1"
-  },
-  {
-   "id": "hn:49818914",
-   "source": "hn",
-   "title": "Show HN: Ox – A local agent that uses the internet for you",
-   "url": "https://openox.ai/",
-   "published_at": "2026-09-23T16:47:35Z",
-   "extra": "points=2"
-  },
-  {
-   "id": "hn:49818611",
-   "source": "hn",
-   "title": "Show HN: Tenderness – open-source synthetic data generation for VLM/OCR",
-   "url": "https://github.com/paperchase-labs/tenderness",
-   "published_at": "2026-09-23T16:31:01Z",
-   "extra": "points=1"
-  },
-  {
-   "id": "hn:49803683",
-   "source": "hn",
-   "title": "Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why",
-   "url": "https://ai-rete-rag.com/",
-   "published_at": "2026-09-22T16:15:06Z",
-   "extra": "points=8"
-  },
-  {
-   "id": "hn:49800641",
-   "source": "hn",
-   "title": "Show HN: ReacherX – Open-source Apollo alternative for founders and devs",
-   "url": "https://www.reacherx.com/home",
-   "published_at": "2026-09-22T13:04:55Z",
-   "extra": "points=1"
-  },
-  {
-   "id": "hn:49790833",
-   "source": "hn",
-   "title": "Show HN: Gitstats - your coding stats, private and work repos, no GitHub token",
-   "url": "https://gitstats.org",
-   "published_at": "2026-09-21T17:56:58Z",
-   "extra": "points=1"
-  },
-  {
-   "id": "hn:49786497",
-   "source": "hn",
-   "title": "Show HN: M0saic – deterministic video compiler (CLI, web, desktop)",
-   "url": "https://m0saic.io",
-   "published_at": "2026-09-21T12:36:26Z",
-   "extra": "points=1"
-  },
   {
    "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wj9g7m/what_is_the_stealth_union_alpha_on_openrouter",
    "source": "reddit",
@@ -7849,6 +7787,86 @@
    "extra": ""
   },
   {
+   "id": "openai:https://openai.com/index/priorities-principles-third-party-assessments",
+   "source": "openai",
+   "title": "Priorities and principles for effective third party assessments",
+   "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+   "published_at": "2026-09-22T00:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wohy4v/selfhosted_control_panel_for_local_ai_on_your_own",
+   "source": "reddit",
+   "title": "Self-hosted control panel for local AI on your own GPU box: run llama.cpp chat models, stable-diffusion.cpp images and audio.cpp speech, music and sound from one browser tab. Instances per GPU, 200+ explained settings, launch previews, VRAM/RAM estimates, benchmarks, build updates, power caps & CLI",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wohy4v/selfhosted_control_panel_for_local_ai_on_your_own/",
+   "published_at": "2026-09-23T20:54:13+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1woeeon/rsi_achieved_at_reefrumours_again_lol_and_its",
+   "source": "reddit",
+   "title": "RSI ACHIEVED at Reef(Rumours again lol) and it's open source",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1woeeon/rsi_achieved_at_reefrumours_again_lol_and_its/",
+   "published_at": "2026-09-23T18:41:16+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wod07t/deepseekv4flash0731_at_4050_toks_on_2_radeon_ai",
+   "source": "reddit",
+   "title": "DeepSeek-V4-Flash-0731 at ~40–50 tok/s on 2× Radeon AI PRO R9700 with the affinity engine (prebuilt quant + fixes)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wod07t/deepseekv4flash0731_at_4050_toks_on_2_radeon_ai/",
+   "published_at": "2026-09-23T17:49:14+00:00",
+   "extra": ""
+  },
+  {
+   "id": "hn:49814729",
+   "source": "hn",
+   "title": "Show HN: BuildABrowser (Java) – Passes Acid2, Has CSS Grid and an Android port",
+   "url": "https://buildabrowser.net/",
+   "published_at": "2026-09-23T11:55:45Z",
+   "extra": "points=4"
+  },
+  {
+   "id": "hn:49804387",
+   "source": "hn",
+   "title": "Show HN: WebMCP Registry of Websites That Agents Can Use",
+   "url": "https://www.wmcp.ai/",
+   "published_at": "2026-09-22T16:55:33Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:49819551",
+   "source": "hn",
+   "title": "Show HN: Diff Pro Max – File Compare App",
+   "url": "https://rkpg.net/diffpromax/index-en.html",
+   "published_at": "2026-09-23T17:26:19Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:49813759",
+   "source": "hn",
+   "title": "Show HN: Run Linux kernel drivers in userspace on Neptune OS, NT-like OS on seL4",
+   "url": "https://news.ycombinator.com/item?id=49813759",
+   "published_at": "2026-09-23T10:02:42Z",
+   "extra": "points=3"
+  },
+  {
+   "id": "hn:49804932",
+   "source": "hn",
+   "title": "Show HN: Optimized runtimes for three VLAs on Jetson Thor",
+   "url": "https://github.com/Agents2AgentsAI/vla-edge",
+   "published_at": "2026-09-22T17:26:37Z",
+   "extra": "points=2"
+  },
+  {
+   "id": "hn:49803473",
+   "source": "hn",
+   "title": "I built a linter/skill that ensures requests to jev are structured correctly",
+   "url": "https://news.ycombinator.com/item?id=49803473",
+   "published_at": "2026-09-22T16:02:02Z",
+   "extra": "points=1"
+  },
+  {
    "id": "openai:https://openai.com/index/two-years-of-openai-academy",
    "source": "openai",
    "title": "Two years of OpenAI Academy",
@@ -7889,6 +7907,14 @@
    "extra": ""
   },
   {
+   "id": "openai:https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
+   "source": "openai",
+   "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
+   "url": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
+   "published_at": "2026-09-23T02:00:00+00:00",
+   "extra": ""
+  },
+  {
    "id": "openai:https://openai.com/index/grab-openai-ai-skills-southeast-asia",
    "source": "openai",
    "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
@@ -7910,14 +7936,6 @@
    "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
    "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
    "published_at": "2026-09-22T12:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "openai:https://openai.com/index/priorities-principles-third-party-assessments",
-   "source": "openai",
-   "title": "Priorities and principles for effective third party assessments",
-   "url": "https://openai.com/index/priorities-principles-third-party-assessments",
-   "published_at": "2026-09-22T00:00:00+00:00",
    "extra": ""
   },
   {
@@ -8065,6 +8083,30 @@
    "extra": "context=1000000"
   },
   {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1woq1yg/what_tps_is_too_slow_for_you",
+   "source": "reddit",
+   "title": "What TPS is too slow for you?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1woq1yg/what_tps_is_too_slow_for_you/",
+   "published_at": "2026-09-24T02:49:14+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wopeqg/mimo_26_pro_reducing_overthinking_and",
+   "source": "reddit",
+   "title": "MiMo 2.6 Pro: Reducing overthinking and second-guessing",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wopeqg/mimo_26_pro_reducing_overthinking_and/",
+   "published_at": "2026-09-24T02:18:30+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1woo22j/new_deepthink_built_on_glm",
+   "source": "reddit",
+   "title": "New DeepThink built on GLM",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1woo22j/new_deepthink_built_on_glm/",
+   "published_at": "2026-09-24T01:15:02+00:00",
+   "extra": ""
+  },
+  {
    "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wom3fe/qwen_38_flash_next_q4_k_m_130k_context_q8_cache",
    "source": "reddit",
    "title": "Qwen 3.8 Flash Next q4_k_m, 130k context, q8 cache on 16GB VRAM ann 64GB RAM, 15-20 t/s on 4080",
@@ -8086,14 +8128,6 @@
    "title": "Qwen FN vs 27B --- Think I'm saturated.",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1woi2ho/qwen_fn_vs_27b_think_im_saturated/",
    "published_at": "2026-09-23T20:58:59+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wohy4v/selfhosted_control_panel_for_local_ai_on_your_own",
-   "source": "reddit",
-   "title": "Self-hosted control panel for local AI on your own GPU box: run llama.cpp chat models, stable-diffusion.cpp images and audio.cpp speech, music and sound from one browser tab. Instances per GPU, 200+ explained settings, launch previews, VRAM/RAM estimates, benchmarks, build updates, power caps & CLI",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wohy4v/selfhosted_control_panel_for_local_ai_on_your_own/",
-   "published_at": "2026-09-23T20:54:13+00:00",
    "extra": ""
   },
   {
@@ -8169,14 +8203,6 @@
    "extra": ""
   },
   {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1woeeon/rsi_achieved_at_reefrumours_again_lol_and_its",
-   "source": "reddit",
-   "title": "RSI ACHIEVED at Reef(Rumours again lol) and it's open source",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1woeeon/rsi_achieved_at_reefrumours_again_lol_and_its/",
-   "published_at": "2026-09-23T18:41:16+00:00",
-   "extra": ""
-  },
-  {
    "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1woedly/m5u_base_96gb_inference_numbers_for_q38fn_after",
    "source": "reddit",
    "title": "M5U base 96GB inference numbers for Q3.8FN after 112M tokens",
@@ -8191,30 +8217,6 @@
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wodf84/applelensvlm9b_hugging_face/",
    "published_at": "2026-09-23T18:04:25+00:00",
    "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wod07t/deepseekv4flash0731_at_4050_toks_on_2_radeon_ai",
-   "source": "reddit",
-   "title": "DeepSeek-V4-Flash-0731 at ~40–50 tok/s on 2× Radeon AI PRO R9700 with the affinity engine (prebuilt quant + fixes)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wod07t/deepseekv4flash0731_at_4050_toks_on_2_radeon_ai/",
-   "published_at": "2026-09-23T17:49:14+00:00",
-   "extra": ""
-  },
-  {
-   "id": "hn:49814729",
-   "source": "hn",
-   "title": "Show HN: BuildABrowser (Java) – Passes Acid2, Has CSS Grid and an Android port",
-   "url": "https://buildabrowser.net/",
-   "published_at": "2026-09-23T11:55:45Z",
-   "extra": "points=4"
-  },
-  {
-   "id": "hn:49804387",
-   "source": "hn",
-   "title": "Show HN: WebMCP Registry of Websites That Agents Can Use",
-   "url": "https://www.wmcp.ai/",
-   "published_at": "2026-09-22T16:55:33Z",
-   "extra": "points=1"
   },
   {
    "id": "hn:49801218",
@@ -8249,30 +8251,6 @@
    "extra": "points=1"
   },
   {
-   "id": "hn:49819551",
-   "source": "hn",
-   "title": "Show HN: Diff Pro Max – File Compare App",
-   "url": "https://rkpg.net/diffpromax/index-en.html",
-   "published_at": "2026-09-23T17:26:19Z",
-   "extra": "points=1"
-  },
-  {
-   "id": "hn:49818484",
-   "source": "hn",
-   "title": "Ask HN: Will software still matter when AI write all our programs?",
-   "url": "https://news.ycombinator.com/item?id=49818484",
-   "published_at": "2026-09-23T16:24:27Z",
-   "extra": "points=1"
-  },
-  {
-   "id": "hn:49813759",
-   "source": "hn",
-   "title": "Show HN: Run Linux kernel drivers in userspace on Neptune OS, NT-like OS on seL4",
-   "url": "https://news.ycombinator.com/item?id=49813759",
-   "published_at": "2026-09-23T10:02:42Z",
-   "extra": "points=3"
-  },
-  {
    "id": "hn:49809267",
    "source": "hn",
    "title": "Show HN: A fast, offline Markdown viewer for macOS built in Swift",
@@ -8289,19 +8267,75 @@
    "extra": "points=4"
   },
   {
-   "id": "hn:49804932",
+   "id": "hn:49802308",
    "source": "hn",
-   "title": "Show HN: Optimized runtimes for three VLAs on Jetson Thor",
-   "url": "https://github.com/Agents2AgentsAI/vla-edge",
-   "published_at": "2026-09-22T17:26:37Z",
+   "title": "Show HN: Piary – Rethinking the human-agent interface beyond chat",
+   "url": "https://piary.dev/",
+   "published_at": "2026-09-22T14:51:35Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:49818914",
+   "source": "hn",
+   "title": "Show HN: Ox – A local agent that uses the internet for you",
+   "url": "https://openox.ai/",
+   "published_at": "2026-09-23T16:47:35Z",
    "extra": "points=2"
   },
   {
-   "id": "hn:49803473",
+   "id": "hn:49818484",
    "source": "hn",
-   "title": "I built a linter/skill that ensures requests to jev are structured correctly",
-   "url": "https://news.ycombinator.com/item?id=49803473",
-   "published_at": "2026-09-22T16:02:02Z",
+   "title": "Ask HN: Will software still matter when AI write all our programs?",
+   "url": "https://news.ycombinator.com/item?id=49818484",
+   "published_at": "2026-09-23T16:24:27Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:49803683",
+   "source": "hn",
+   "title": "Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why",
+   "url": "https://ai-rete-rag.com/",
+   "published_at": "2026-09-22T16:15:06Z",
+   "extra": "points=8"
+  },
+  {
+   "id": "hn:49800641",
+   "source": "hn",
+   "title": "Show HN: ReacherX – Open-source Apollo alternative for founders and devs",
+   "url": "https://www.reacherx.com/home",
+   "published_at": "2026-09-22T13:04:55Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:49795171",
+   "source": "hn",
+   "title": "Show HN: Jevopt: Making intelligent compiler optimisation decisions with Jev",
+   "url": "https://github.com/Ramneet-Singh/jevopt",
+   "published_at": "2026-09-22T00:11:59Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:49818611",
+   "source": "hn",
+   "title": "Show HN: Tenderness – open-source synthetic data generation for VLM/OCR",
+   "url": "https://github.com/paperchase-labs/tenderness",
+   "published_at": "2026-09-23T16:31:01Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:49790833",
+   "source": "hn",
+   "title": "Show HN: Gitstats - your coding stats, private and work repos, no GitHub token",
+   "url": "https://gitstats.org",
+   "published_at": "2026-09-21T17:56:58Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:49786497",
+   "source": "hn",
+   "title": "Show HN: M0saic – deterministic video compiler (CLI, web, desktop)",
+   "url": "https://m0saic.io",
+   "published_at": "2026-09-21T12:36:26Z",
    "extra": "points=1"
   }
  ],
@@ -10875,6 +10909,16 @@
    "extra": "",
    "event_type": "release",
    "summary": "I am new to playing with AI and local models, what is the explanation for this?"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1woo52a/do_yall_remember_the_snake_model_evaluation_test",
+   "source": "reddit",
+   "title": "Do y'all remember the snake model evaluation test?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1woo52a/do_yall_remember_the_snake_model_evaluation_test/",
+   "published_at": "2026-09-24T01:18:52+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "Do y'all remember the snake model evaluation test?"
   }
  ]
 }
