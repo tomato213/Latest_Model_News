@@ -2528,121 +2528,18 @@
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1ws81wf/what_models_can_i_run_locally_on_a_mac_mini_m4": "2026-09-28T11:57:45.646517+00:00",
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1ws6bmh/liked_muse_so_i_cut_the_30b_model_in_half_by": "2026-09-28T11:57:45.646517+00:00",
   "hn:49876472": "2026-09-28T11:57:45.646517+00:00",
-  "hn:49874758": "2026-09-28T11:57:45.646517+00:00"
+  "hn:49874758": "2026-09-28T11:57:45.646517+00:00",
+  "hn:49858059": "2026-09-28T19:37:07.244386+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wsmsnx/what_do_you_think_about_tomoe_v2_paper_converting": "2026-09-28T19:37:07.712138+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wslcum/a_hybrid_model_of_gemma4_with_a_jevlike_decision": "2026-09-28T19:37:07.712138+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wsiepp/finally_found_a_model_my_hardware_can_run_at_full": "2026-09-28T19:37:07.712138+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wsgrma/imajev4b_i_spent_15_days_finetuning_a_4b_model_to": "2026-09-28T19:37:07.712138+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wsfo1j/need_small_model_that_can_work_for_tool_caling": "2026-09-28T19:37:07.712138+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wsekkj/what_model_sits_between_qwen_38_27b_and_flash": "2026-09-28T19:37:07.712138+00:00",
+  "hn:49881505": "2026-09-28T19:37:07.712138+00:00",
+  "hn:49880647": "2026-09-28T19:37:07.712138+00:00"
  },
  "pending": [
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wha6sv/i_benchmarked_ifmk2horizon7b_on_16gb_vram",
-   "source": "reddit",
-   "title": "I benchmarked IFM/K2-Horizon-7B on 16GB VRAM",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wha6sv/i_benchmarked_ifmk2horizon7b_on_16gb_vram/",
-   "published_at": "2026-09-15T19:25:53+00:00",
-   "extra": ""
-  },
-  {
-   "id": "hf:Qwen/Qwen-Image-2.1-PE-I2I",
-   "source": "hf",
-   "title": "Qwen/Qwen-Image-2.1-PE-I2I",
-   "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-PE-I2I",
-   "published_at": "2026-09-20T08:46:47.000Z",
-   "extra": "downloads=0 likes=13"
-  },
-  {
-   "id": "hf:Qwen/Qwen-Image-2.1-PE-T2I",
-   "source": "hf",
-   "title": "Qwen/Qwen-Image-2.1-PE-T2I",
-   "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-PE-T2I",
-   "published_at": "2026-09-20T08:45:29.000Z",
-   "extra": "downloads=0 likes=8"
-  },
-  {
-   "id": "modelscope:Qwen/Qwen-Image-2.1-PE-I2I",
-   "source": "modelscope",
-   "title": "Qwen-Image-2.1-PE-I2I",
-   "url": "https://modelscope.cn/models/Qwen/Qwen-Image-2.1-PE-I2I",
-   "published_at": "2026-09-20T10:04:09+00:00",
-   "extra": ""
-  },
-  {
-   "id": "modelscope:Qwen/Qwen-Image-2.1-PE-T2I",
-   "source": "modelscope",
-   "title": "Qwen-Image-2.1-PE-T2I",
-   "url": "https://modelscope.cn/models/Qwen/Qwen-Image-2.1-PE-T2I",
-   "published_at": "2026-09-20T10:04:09+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wmyvzp/jev_is_very_good_your_own_data_is_better",
-   "source": "reddit",
-   "title": "Jev is very good. Your own data is better.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmyvzp/jev_is_very_good_your_own_data_is_better/",
-   "published_at": "2026-09-22T03:56:12+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wmxkx7/upgrading_from_2_x_3090",
-   "source": "reddit",
-   "title": "Upgrading from 2 x 3090",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmxkx7/upgrading_from_2_x_3090/",
-   "published_at": "2026-09-22T02:52:33+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wmw4bq/an_unsafe_command_shell_mcp_server",
-   "source": "reddit",
-   "title": "an (unsafe) command shell mcp server",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmw4bq/an_unsafe_command_shell_mcp_server/",
-   "published_at": "2026-09-22T01:44:32+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wmtum7/what_are_normie_reactions_to_your_local_ai_use",
-   "source": "reddit",
-   "title": "What are normie reactions to your local AI use like?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmtum7/what_are_normie_reactions_to_your_local_ai_use/",
-   "published_at": "2026-09-22T00:02:44+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wmtjqu/mimov26_distilled_themselves_into_qwen_9b",
-   "source": "reddit",
-   "title": "MiMo-V2.6 distilled themselves into Qwen 9B!",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmtjqu/mimov26_distilled_themselves_into_qwen_9b/",
-   "published_at": "2026-09-21T23:50:29+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wmsjku/china_resumes_rare_earth_export_to_japan",
-   "source": "reddit",
-   "title": "China resumes rare earth export to Japan",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmsjku/china_resumes_rare_earth_export_to_japan/",
-   "published_at": "2026-09-21T23:08:12+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wmr9us/is_mimo_26_confusing_to_use_for_anyone_else",
-   "source": "reddit",
-   "title": "Is Mimo 2.6 confusing to use for anyone else?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmr9us/is_mimo_26_confusing_to_use_for_anyone_else/",
-   "published_at": "2026-09-21T22:16:23+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wmr3nu/wow_mimo_26_pro_seems_to_be_pretty_good_but",
-   "source": "reddit",
-   "title": "Wow, Mimo 2.6 pro seems to be pretty good, but requires more prompting than Sol",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmr3nu/wow_mimo_26_pro_seems_to_be_pretty_good_but/",
-   "published_at": "2026-09-21T22:09:25+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wmr057/how_often_do_you_read_thinking_traces_and_in_what",
-   "source": "reddit",
-   "title": "How often do you read thinking traces and in what detail?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmr057/how_often_do_you_read_thinking_traces_and_in_what/",
-   "published_at": "2026-09-21T22:05:35+00:00",
-   "extra": ""
-  },
   {
    "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wmqkx4/50_hours_and_100m_tokens_later_open_source",
    "source": "reddit",
@@ -9748,14 +9645,6 @@
    "extra": ""
   },
   {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wsc0iz/guys_i_promise_it_wasnt_me",
-   "source": "reddit",
-   "title": "Guys I promise It wasn't me 😭😭",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wsc0iz/guys_i_promise_it_wasnt_me/",
-   "published_at": "2026-09-28T11:26:50+00:00",
-   "extra": ""
-  },
-  {
    "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wsbtxp/veriloop_e2_vs_qwen_38_27b_base_another",
    "source": "reddit",
    "title": "VeriLoop E2 vs Qwen 3.8 27B Base , Another Benchmaxxed slop or?",
@@ -9890,94 +9779,6 @@
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ws0pdp/it_would_be_really_cool_to_have_an_official/",
    "published_at": "2026-09-28T00:51:03+00:00",
    "extra": ""
-  },
-  {
-   "id": "hn:49871553",
-   "source": "hn",
-   "title": "Rene-1: Open-weight classifier sets SOTA on Decision Index (+9 over Jev)",
-   "url": "https://huggingface.co/salfatigroup/rene-1-31b-fp8",
-   "published_at": "2026-09-27T22:42:20Z",
-   "extra": "points=4"
-  },
-  {
-   "id": "hn:49867202",
-   "source": "hn",
-   "title": "Nvidia Nemotron 3: Open-weight real-time speaker diarization",
-   "url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
-   "published_at": "2026-09-27T14:58:59Z",
-   "extra": "points=2"
-  },
-  {
-   "id": "hn:49866739",
-   "source": "hn",
-   "title": "Ask HN: How are you getting inference for personal projects?",
-   "url": "https://news.ycombinator.com/item?id=49866739",
-   "published_at": "2026-09-27T14:02:55Z",
-   "extra": "points=1"
-  },
-  {
-   "id": "hn:49864205",
-   "source": "hn",
-   "title": "Show HN: Ppgrid – Rasterising points in minutes, not hours",
-   "url": "https://mrzk.io/posts/ppgrid-fast-continentscale-raster-interpolation/",
-   "published_at": "2026-09-27T07:22:03Z",
-   "extra": "points=2"
-  },
-  {
-   "id": "hn:49862096",
-   "source": "hn",
-   "title": "Speech-to-Text Accuracy in 2026: Open-Weight vs. Cloud",
-   "url": "https://verli.app/blog/speech-to-text-accuracy-benchmark",
-   "published_at": "2026-09-27T00:41:40Z",
-   "extra": "points=2"
-  },
-  {
-   "id": "hn:49876095",
-   "source": "hn",
-   "title": "Show HN: Cafca – a synthetic face dataset with 1.75M images",
-   "url": "https://syntec-research.github.io/Cafca/cafca_dataset.html",
-   "published_at": "2026-09-28T10:56:52Z",
-   "extra": "points=2"
-  },
-  {
-   "id": "hn:49865248",
-   "source": "hn",
-   "title": "Ask HN: What does your AI workflow look like?",
-   "url": "https://news.ycombinator.com/item?id=49865248",
-   "published_at": "2026-09-27T10:11:31Z",
-   "extra": "points=1"
-  },
-  {
-   "id": "hn:49863884",
-   "source": "hn",
-   "title": "Show HN: Wet Bulb Tracker Tracker – sends you humid-heat alerts and forecasts",
-   "url": "https://news.ycombinator.com/item?id=49863884",
-   "published_at": "2026-09-27T06:22:17Z",
-   "extra": "points=1"
-  },
-  {
-   "id": "hn:49861047",
-   "source": "hn",
-   "title": "OpenAI Codex agents go rogue and consumes USD 78,000 without authorization",
-   "url": "https://news.ycombinator.com/item?id=49861047",
-   "published_at": "2026-09-26T22:15:32Z",
-   "extra": "points=46"
-  },
-  {
-   "id": "hn:49864815",
-   "source": "hn",
-   "title": "Ask HN: Is answering GitHub issues with AI without declaring it a big deal?",
-   "url": "https://news.ycombinator.com/item?id=49864815",
-   "published_at": "2026-09-27T09:10:31Z",
-   "extra": "points=1"
-  },
-  {
-   "id": "hn:49859862",
-   "source": "hn",
-   "title": "Show HN: Pawl – iOS gambling blocker you unlock with a physical Security Key",
-   "url": "https://github.com/jasonepage/Pawl",
-   "published_at": "2026-09-26T19:43:27Z",
-   "extra": "points=1"
   },
   {
    "id": "hn:49858059",
@@ -10185,6 +9986,422 @@
    "title": "Where is artificial intelligence going?",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whamv5/where_is_artificial_intelligence_going/",
    "published_at": "2026-09-15T19:42:03+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/lenfest-ai-collaborative-expansion",
+   "source": "openai",
+   "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+   "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+   "published_at": "2026-09-28T07:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openrouter:anthropic/claude-sonnet-5.5",
+   "source": "openrouter",
+   "title": "Anthropic: Claude Sonnet 5.5",
+   "url": "https://openrouter.ai/anthropic/claude-sonnet-5.5",
+   "published_at": "2026-09-28T18:04:46+00:00",
+   "extra": "context=1000000"
+  },
+  {
+   "id": "openrouter:anthropic/claude-sonnet-5.5:batch",
+   "source": "openrouter",
+   "title": "Anthropic: Claude Sonnet 5.5 (batch)",
+   "url": "https://openrouter.ai/anthropic/claude-sonnet-5.5:batch",
+   "published_at": "2026-09-28T18:04:46+00:00",
+   "extra": "context=1000000"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wsodqf/any_way_to_run_qwen_38_flash_with_a_7900xtx_24gb",
+   "source": "reddit",
+   "title": "Any way to run Qwen 3.8 Flash with a 7900XTX 24gb vram + 64gb ram?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wsodqf/any_way_to_run_qwen_38_flash_with_a_7900xtx_24gb/",
+   "published_at": "2026-09-28T19:32:08+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wsobzz/iq_quants_still_slow_on_p40",
+   "source": "reddit",
+   "title": "IQ Quants still slow on P40?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wsobzz/iq_quants_still_slow_on_p40/",
+   "published_at": "2026-09-28T19:30:22+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wso6gn/qwen_38_is_a_workhorse",
+   "source": "reddit",
+   "title": "Qwen 3.8 is a workhorse",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wso6gn/qwen_38_is_a_workhorse/",
+   "published_at": "2026-09-28T19:24:46+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wsnynr/b70_no_stockprice_increase",
+   "source": "reddit",
+   "title": "B70 no stock/Price Increase",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wsnynr/b70_no_stockprice_increase/",
+   "published_at": "2026-09-28T19:17:06+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wsnjzu/9_prompt_rules_cut_my_coding_agents_wasted",
+   "source": "reddit",
+   "title": "9 prompt rules cut my coding agent's wasted thinking up to 70% (GLM 5.3 & GLM 5.3 Flash)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wsnjzu/9_prompt_rules_cut_my_coding_agents_wasted/",
+   "published_at": "2026-09-28T19:02:28+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wsn59w/i_am_concerned_about_all_these_disparate_hard",
+   "source": "reddit",
+   "title": "I am concerned about all these disparate hard forks that target specific architectures instead of opening a PR against upstream",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wsn59w/i_am_concerned_about_all_these_disparate_hard/",
+   "published_at": "2026-09-28T18:47:59+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wsmtd4/95_tps_through_100k_generated_for_qwen38_27b_262k",
+   "source": "reddit",
+   "title": "95+ TPS through 100K generated for qwen3.8 27b, 262K ctx, on a single 3090",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wsmtd4/95_tps_through_100k_generated_for_qwen38_27b_262k/",
+   "published_at": "2026-09-28T18:35:43+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wslgkw/watch_me_posttrain_aliceaifoundation80ba3b_from",
+   "source": "reddit",
+   "title": "Watch me post-train AliceAI-Foundation-80B-A3B from base to instruct at home, live, on my V100s!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wslgkw/watch_me_posttrain_aliceaifoundation80ba3b_from/",
+   "published_at": "2026-09-28T17:46:27+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wsjr8n/argue_with_each_other_for_my_edutainment_5070",
+   "source": "reddit",
+   "title": "Argue with each other for my edu-tainment - 5070 + 5060ti OR RX 7900XTX",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wsjr8n/argue_with_each_other_for_my_edutainment_5070/",
+   "published_at": "2026-09-28T16:44:10+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wsi622/latest_r9700",
+   "source": "reddit",
+   "title": "Latest R9700",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wsi622/latest_r9700/",
+   "published_at": "2026-09-28T15:46:20+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wshwqz/gevva0_a_jev_like_decision_engine_on_gemma_26b",
+   "source": "reddit",
+   "title": "Gevva0 - a Jev like decision engine on Gemma 26B via direct logit scoring",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wshwqz/gevva0_a_jev_like_decision_engine_on_gemma_26b/",
+   "published_at": "2026-09-28T15:36:57+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wsfjmb/mica_v01_4b_got_diamonds_in_survival_minecraft_on",
+   "source": "reddit",
+   "title": "Mica v0.1 4B got diamonds in survival Minecraft on its first run. 26 decisions from an empty inventory.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wsfjmb/mica_v01_4b_got_diamonds_in_survival_minecraft_on/",
+   "published_at": "2026-09-28T14:05:18+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wsfgmx/how_do_you_index_a_rag",
+   "source": "reddit",
+   "title": "How do you index a RAG?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wsfgmx/how_do_you_index_a_rag/",
+   "published_at": "2026-09-28T14:02:12+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wsdyd2/you_can_just_merge_qwen36_38_27b_to_get_decent",
+   "source": "reddit",
+   "title": "You can just merge Qwen3.6 & 3.8 27B to get decent performance with much fewer token generation",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wsdyd2/you_can_just_merge_qwen36_38_27b_to_get_decent/",
+   "published_at": "2026-09-28T12:59:52+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wsdy6t/vulkan_fuse_qwen4exps_scale_sigmoid_scale_hc_post",
+   "source": "reddit",
+   "title": "vulkan: fuse qwen4exp's SCALE -> SIGMOID -> SCALE -> hc_post chain by fxgsell · Pull Request #29520 · ggml-org/llama.cpp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wsdy6t/vulkan_fuse_qwen4exps_scale_sigmoid_scale_hc_post/",
+   "published_at": "2026-09-28T12:59:41+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wsder7/why_are_there_no_modded_24gb_3080tis",
+   "source": "reddit",
+   "title": "Why are there no modded 24gb 3080tis?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wsder7/why_are_there_no_modded_24gb_3080tis/",
+   "published_at": "2026-09-28T12:35:32+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wsd7q9/x_account_claims_high_ts_setup_but_thin_on_details",
+   "source": "reddit",
+   "title": "X account claims high t/s setup, but thin on details",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wsd7q9/x_account_claims_high_ts_setup_but_thin_on_details/",
+   "published_at": "2026-09-28T12:26:26+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wsc0iz/guys_i_promise_it_wasnt_me",
+   "source": "reddit",
+   "title": "Guys I promise It wasn't me 😭😭",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wsc0iz/guys_i_promise_it_wasnt_me/",
+   "published_at": "2026-09-28T11:26:50+00:00",
+   "extra": ""
+  },
+  {
+   "id": "hn:49871553",
+   "source": "hn",
+   "title": "Rene-1: Open-weight classifier sets SOTA on Decision Index (+9 over Jev)",
+   "url": "https://huggingface.co/salfatigroup/rene-1-31b-fp8",
+   "published_at": "2026-09-27T22:42:20Z",
+   "extra": "points=4"
+  },
+  {
+   "id": "hn:49867202",
+   "source": "hn",
+   "title": "Nvidia Nemotron 3: Open-weight real-time speaker diarization",
+   "url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
+   "published_at": "2026-09-27T14:58:59Z",
+   "extra": "points=2"
+  },
+  {
+   "id": "hn:49866739",
+   "source": "hn",
+   "title": "Ask HN: How are you getting inference for personal projects?",
+   "url": "https://news.ycombinator.com/item?id=49866739",
+   "published_at": "2026-09-27T14:02:55Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:49864205",
+   "source": "hn",
+   "title": "Show HN: Ppgrid – Rasterising points in minutes, not hours",
+   "url": "https://mrzk.io/posts/ppgrid-fast-continentscale-raster-interpolation/",
+   "published_at": "2026-09-27T07:22:03Z",
+   "extra": "points=2"
+  },
+  {
+   "id": "hn:49862096",
+   "source": "hn",
+   "title": "Speech-to-Text Accuracy in 2026: Open-Weight vs. Cloud",
+   "url": "https://verli.app/blog/speech-to-text-accuracy-benchmark",
+   "published_at": "2026-09-27T00:41:40Z",
+   "extra": "points=2"
+  },
+  {
+   "id": "hn:49883253",
+   "source": "hn",
+   "title": "Show HN: Personal Manga / Story Recaps",
+   "url": "https://terragohan.github.io/entertainment-harness/",
+   "published_at": "2026-09-28T19:35:54Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:49880045",
+   "source": "hn",
+   "title": "Show HN: KnowNote-A local desktop workspace for questioning your own sources",
+   "url": "https://knownote.pages.dev/",
+   "published_at": "2026-09-28T15:54:55Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:49877752",
+   "source": "hn",
+   "title": "Show HN: Omnesis – A private knowledge layer for ChatGPT and other agents",
+   "url": "https://omnesis.dev/",
+   "published_at": "2026-09-28T13:35:57Z",
+   "extra": "points=6"
+  },
+  {
+   "id": "hn:49876095",
+   "source": "hn",
+   "title": "Show HN: Cafca – a synthetic face dataset with 1.75M images",
+   "url": "https://syntec-research.github.io/Cafca/cafca_dataset.html",
+   "published_at": "2026-09-28T10:56:52Z",
+   "extra": "points=2"
+  },
+  {
+   "id": "hn:49865248",
+   "source": "hn",
+   "title": "Ask HN: What does your AI workflow look like?",
+   "url": "https://news.ycombinator.com/item?id=49865248",
+   "published_at": "2026-09-27T10:11:31Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:49863884",
+   "source": "hn",
+   "title": "Show HN: Wet Bulb Tracker Tracker – sends you humid-heat alerts and forecasts",
+   "url": "https://news.ycombinator.com/item?id=49863884",
+   "published_at": "2026-09-27T06:22:17Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:49861047",
+   "source": "hn",
+   "title": "OpenAI Codex agents go rogue and consumes USD 78,000 without authorization",
+   "url": "https://news.ycombinator.com/item?id=49861047",
+   "published_at": "2026-09-26T22:15:32Z",
+   "extra": "points=46"
+  },
+  {
+   "id": "hn:49882129",
+   "source": "hn",
+   "title": "Show HN: Nibia Fabric – Turn everyday computers into a shared AI compute cluster",
+   "url": "https://github.com/nibia-ai/fabric",
+   "published_at": "2026-09-28T18:16:37Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:49879401",
+   "source": "hn",
+   "title": "Show HN: HN.watch – Videos of all Hacker News posts",
+   "url": "https://hn.watch/",
+   "published_at": "2026-09-28T15:16:13Z",
+   "extra": "points=98"
+  },
+  {
+   "id": "hn:49877515",
+   "source": "hn",
+   "title": "Show HN: OpenAPPA – open-source deterministic guardrails that don't break agents",
+   "url": "https://www.openappa.com/",
+   "published_at": "2026-09-28T13:20:44Z",
+   "extra": "points=23"
+  },
+  {
+   "id": "hn:49864815",
+   "source": "hn",
+   "title": "Ask HN: Is answering GitHub issues with AI without declaring it a big deal?",
+   "url": "https://news.ycombinator.com/item?id=49864815",
+   "published_at": "2026-09-27T09:10:31Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:49859862",
+   "source": "hn",
+   "title": "Show HN: Pawl – iOS gambling blocker you unlock with a physical Security Key",
+   "url": "https://github.com/jasonepage/Pawl",
+   "published_at": "2026-09-26T19:43:27Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wha6sv/i_benchmarked_ifmk2horizon7b_on_16gb_vram",
+   "source": "reddit",
+   "title": "I benchmarked IFM/K2-Horizon-7B on 16GB VRAM",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wha6sv/i_benchmarked_ifmk2horizon7b_on_16gb_vram/",
+   "published_at": "2026-09-15T19:25:53+00:00",
+   "extra": ""
+  },
+  {
+   "id": "hf:Qwen/Qwen-Image-2.1-PE-I2I",
+   "source": "hf",
+   "title": "Qwen/Qwen-Image-2.1-PE-I2I",
+   "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-PE-I2I",
+   "published_at": "2026-09-20T08:46:47.000Z",
+   "extra": "downloads=0 likes=13"
+  },
+  {
+   "id": "hf:Qwen/Qwen-Image-2.1-PE-T2I",
+   "source": "hf",
+   "title": "Qwen/Qwen-Image-2.1-PE-T2I",
+   "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-PE-T2I",
+   "published_at": "2026-09-20T08:45:29.000Z",
+   "extra": "downloads=0 likes=8"
+  },
+  {
+   "id": "modelscope:Qwen/Qwen-Image-2.1-PE-I2I",
+   "source": "modelscope",
+   "title": "Qwen-Image-2.1-PE-I2I",
+   "url": "https://modelscope.cn/models/Qwen/Qwen-Image-2.1-PE-I2I",
+   "published_at": "2026-09-20T10:04:09+00:00",
+   "extra": ""
+  },
+  {
+   "id": "modelscope:Qwen/Qwen-Image-2.1-PE-T2I",
+   "source": "modelscope",
+   "title": "Qwen-Image-2.1-PE-T2I",
+   "url": "https://modelscope.cn/models/Qwen/Qwen-Image-2.1-PE-T2I",
+   "published_at": "2026-09-20T10:04:09+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wmyvzp/jev_is_very_good_your_own_data_is_better",
+   "source": "reddit",
+   "title": "Jev is very good. Your own data is better.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmyvzp/jev_is_very_good_your_own_data_is_better/",
+   "published_at": "2026-09-22T03:56:12+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wmxkx7/upgrading_from_2_x_3090",
+   "source": "reddit",
+   "title": "Upgrading from 2 x 3090",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmxkx7/upgrading_from_2_x_3090/",
+   "published_at": "2026-09-22T02:52:33+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wmw4bq/an_unsafe_command_shell_mcp_server",
+   "source": "reddit",
+   "title": "an (unsafe) command shell mcp server",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmw4bq/an_unsafe_command_shell_mcp_server/",
+   "published_at": "2026-09-22T01:44:32+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wmtum7/what_are_normie_reactions_to_your_local_ai_use",
+   "source": "reddit",
+   "title": "What are normie reactions to your local AI use like?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmtum7/what_are_normie_reactions_to_your_local_ai_use/",
+   "published_at": "2026-09-22T00:02:44+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wmtjqu/mimov26_distilled_themselves_into_qwen_9b",
+   "source": "reddit",
+   "title": "MiMo-V2.6 distilled themselves into Qwen 9B!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmtjqu/mimov26_distilled_themselves_into_qwen_9b/",
+   "published_at": "2026-09-21T23:50:29+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wmsjku/china_resumes_rare_earth_export_to_japan",
+   "source": "reddit",
+   "title": "China resumes rare earth export to Japan",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmsjku/china_resumes_rare_earth_export_to_japan/",
+   "published_at": "2026-09-21T23:08:12+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wmr9us/is_mimo_26_confusing_to_use_for_anyone_else",
+   "source": "reddit",
+   "title": "Is Mimo 2.6 confusing to use for anyone else?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmr9us/is_mimo_26_confusing_to_use_for_anyone_else/",
+   "published_at": "2026-09-21T22:16:23+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wmr3nu/wow_mimo_26_pro_seems_to_be_pretty_good_but",
+   "source": "reddit",
+   "title": "Wow, Mimo 2.6 pro seems to be pretty good, but requires more prompting than Sol",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmr3nu/wow_mimo_26_pro_seems_to_be_pretty_good_but/",
+   "published_at": "2026-09-21T22:09:25+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wmr057/how_often_do_you_read_thinking_traces_and_in_what",
+   "source": "reddit",
+   "title": "How often do you read thinking traces and in what detail?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmr057/how_often_do_you_read_thinking_traces_and_in_what/",
+   "published_at": "2026-09-21T22:05:35+00:00",
    "extra": ""
   }
  ],
@@ -13668,6 +13885,86 @@
    "extra": "points=2",
    "event_type": "release",
    "summary": "Underreported in the US: new site uses open source LLMs to find underovered news"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wsmsnx/what_do_you_think_about_tomoe_v2_paper_converting",
+   "source": "reddit",
+   "title": "What do you think about ToMoE v2 paper, converting dense model to MoE model at near lossless accuracy? I feel Qwen3.8-27B-A16B or something along those lines would be amazing, though there are architectural hurdles, as well as need folr training data.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wsmsnx/what_do_you_think_about_tomoe_v2_paper_converting/",
+   "published_at": "2026-09-28T18:35:00+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "What do you think about ToMoE v2 paper, converting dense model to MoE model at near lossless accuracy? I feel Qwen3.8-27B-A16B or something along those lines would be amazing, though there are architectural hurdles, as well as need folr training data."
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wslcum/a_hybrid_model_of_gemma4_with_a_jevlike_decision",
+   "source": "reddit",
+   "title": "A hybrid model of Gemma4 with a JEV-like decision head in multi-speaker voice conversation",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wslcum/a_hybrid_model_of_gemma4_with_a_jevlike_decision/",
+   "published_at": "2026-09-28T17:42:48+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "A hybrid model of Gemma4 with a JEV-like decision head in multi-speaker voice conversation"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wsiepp/finally_found_a_model_my_hardware_can_run_at_full",
+   "source": "reddit",
+   "title": "Finally found a model my hardware can run at full precision: me",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wsiepp/finally_found_a_model_my_hardware_can_run_at_full/",
+   "published_at": "2026-09-28T15:55:07+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "Finally found a model my hardware can run at full precision: me"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wsgrma/imajev4b_i_spent_15_days_finetuning_a_4b_model_to",
+   "source": "reddit",
+   "title": "ImaJev-4b: I spent 15 days fine-tuning a 4B model to make business decisions from text and photos, and it just ranked #1 of 91 on JevBench & ahead of GPT-5.6 Luna on DecisionBench",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wsgrma/imajev4b_i_spent_15_days_finetuning_a_4b_model_to/",
+   "published_at": "2026-09-28T14:53:36+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "ImaJev-4b: I spent 15 days fine-tuning a 4B model to make business decisions from text and photos, and it just ranked #1 of 91 on JevBench & ahead of GPT-5.6 Luna on DecisionBench"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wsfo1j/need_small_model_that_can_work_for_tool_caling",
+   "source": "reddit",
+   "title": "Need small model that can work for tool caling and agent",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wsfo1j/need_small_model_that_can_work_for_tool_caling/",
+   "published_at": "2026-09-28T14:10:14+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "Need small model that can work for tool caling and agent"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wsekkj/what_model_sits_between_qwen_38_27b_and_flash",
+   "source": "reddit",
+   "title": "What model sits between Qwen 3.8 27b and Flash next for coding?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wsekkj/what_model_sits_between_qwen_38_27b_and_flash/",
+   "published_at": "2026-09-28T13:25:23+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "What model sits between Qwen 3.8 27b and Flash next for coding?"
+  },
+  {
+   "id": "hn:49881505",
+   "source": "hn",
+   "title": "Launch HN: Vespper (YC F24) – SOTA Docx MCP",
+   "url": "https://www.vespper.com/blog/launching-vespper-docx-mcp",
+   "published_at": "2026-09-28T17:34:36Z",
+   "extra": "points=18",
+   "event_type": "release",
+   "summary": "Launch HN: Vespper (YC F24) – SOTA Docx MCP"
+  },
+  {
+   "id": "hn:49880647",
+   "source": "hn",
+   "title": "Model Release: Naive-N0.5-Flash",
+   "url": "https://naive.ai/en/research/",
+   "published_at": "2026-09-28T16:34:15Z",
+   "extra": "points=2",
+   "event_type": "release",
+   "summary": "Model Release: Naive-N0.5-Flash"
   }
  ]
 }
