@@ -2568,17 +2568,20 @@
   "hn:49866739": "2026-09-29T16:59:54.071740+00:00",
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wte7n0/swift15qwen3827boq8emtp_on_apple_m5_max_348_toks": "2026-09-29T16:59:54.639715+00:00",
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wt9l9i/forlinx_20tops_m2_ai_accelerator_supports_pcie": "2026-09-29T16:59:54.639715+00:00",
-  "hn:49893215": "2026-09-29T16:59:54.639715+00:00"
+  "hn:49893215": "2026-09-29T16:59:54.639715+00:00",
+  "hn:49855980": "2026-09-29T21:21:54.416403+00:00",
+  "openai:https://openai.com/index/introducing-gpt-6-1-sol": "2026-09-29T21:21:54.983214+00:00",
+  "openai:https://openai.com/index/introducing-dots": "2026-09-29T21:21:54.983214+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wtlxa9/best_model_for_blender": "2026-09-29T21:21:54.983214+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wtkzc5/local_q2_k_model_dunked_on_deepseek_v4flash_a": "2026-09-29T21:21:54.983214+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wtkgsl/does_post_training_make_llms_funnier": "2026-09-29T21:21:54.983214+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wthbra/what_kinds_of_problems_are_still_fundamentally": "2026-09-29T21:21:54.983214+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wtg43b/new_to_local_ai_need_help_making_a_roleplay_model": "2026-09-29T21:21:54.983214+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wtg12r/ram_offloading_with_vllm_tcclaviger_appreciation": "2026-09-29T21:21:54.983214+00:00",
+  "hn:49898469": "2026-09-29T21:21:54.983214+00:00",
+  "hn:49898130": "2026-09-29T21:21:54.983214+00:00"
  },
  "pending": [
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wfc64h/marmel_090",
-   "source": "reddit",
-   "title": "Marmel 0.9.0",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfc64h/marmel_090/",
-   "published_at": "2026-09-13T16:23:19+00:00",
-   "extra": ""
-  },
   {
    "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wfba8g/qwen_38_27b_udiq4_xs_even_faster_on_16gb_cuda",
    "source": "reddit",
@@ -10372,131 +10375,11 @@
    "extra": "points=6"
   },
   {
-   "id": "openai:https://openai.com/index/how-we-will-do-better-for-australia",
-   "source": "openai",
-   "title": "How we will do better for Australia",
-   "url": "https://openai.com/index/how-we-will-do-better-for-australia",
-   "published_at": "2026-09-28T19:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "openai:https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-   "source": "openai",
-   "title": "Towards safety cases for frontier AI training",
-   "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-   "published_at": "2026-09-28T19:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "openai:https://openai.com/index/lenfest-ai-collaborative-expansion",
-   "source": "openai",
-   "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-   "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-   "published_at": "2026-09-28T07:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "openai:https://openai.com/form/codex-originals",
-   "source": "openai",
-   "title": "Are you a Codex Original?",
-   "url": "https://openai.com/form/codex-originals",
-   "published_at": "2026-09-28T00:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "openai:https://openai.com/index/basis-tax-workbook-with-astra",
-   "source": "openai",
-   "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-   "url": "https://openai.com/index/basis-tax-workbook-with-astra",
-   "published_at": "2026-09-28T00:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "openrouter:anthropic/claude-sonnet-5.5",
-   "source": "openrouter",
-   "title": "Anthropic: Claude Sonnet 5.5",
-   "url": "https://openrouter.ai/anthropic/claude-sonnet-5.5",
-   "published_at": "2026-09-28T18:04:46+00:00",
-   "extra": "context=1000000"
-  },
-  {
-   "id": "openrouter:anthropic/claude-sonnet-5.5:batch",
-   "source": "openrouter",
-   "title": "Anthropic: Claude Sonnet 5.5 (batch)",
-   "url": "https://openrouter.ai/anthropic/claude-sonnet-5.5:batch",
-   "published_at": "2026-09-28T18:04:46+00:00",
-   "extra": "context=1000000"
-  },
-  {
    "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wtfb8o/nonlocal_has_subscriptionbased_kimi_kimi_code",
    "source": "reddit",
    "title": "[Non-local] Has subscription-based Kimi / Kimi Code gotten worse over the past few weeks?",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtfb8o/nonlocal_has_subscriptionbased_kimi_kimi_code/",
    "published_at": "2026-09-29T16:48:01+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wtenmo/llamacpp_cublas_error_how_to_uninstallreinstall",
-   "source": "reddit",
-   "title": "llama.cpp cublas error, how to uninstall/reinstall properly (Linux Mint)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtenmo/llamacpp_cublas_error_how_to_uninstallreinstall/",
-   "published_at": "2026-09-29T16:23:51+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wtelk8/thanks_to_you_rlocalllama_my_mom_was_able_to_use",
-   "source": "reddit",
-   "title": "Thanks to you r/LocalLLaMA, my mom was able to use my app! The open-source app that can watch your screen and trigger actions. It is now easy to use, thanks to your feedback.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtelk8/thanks_to_you_rlocalllama_my_mom_was_able_to_use/",
-   "published_at": "2026-09-29T16:21:45+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wtc4j9/amds_new_256_core_epyc_has_16channel_ddr512800_91",
-   "source": "reddit",
-   "title": "AMD's new 256 core EPYC has 16-channel DDR5-12800, 91% memory bandwidth of an RTX 5090",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtc4j9/amds_new_256_core_epyc_has_16channel_ddr512800_91/",
-   "published_at": "2026-09-29T14:48:03+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wtbzwn/help_me_find_a_good_stack_for_reversing_an_old",
-   "source": "reddit",
-   "title": "Help me find a good stack for reversing an old online game client",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtbzwn/help_me_find_a_good_stack_for_reversing_an_old/",
-   "published_at": "2026-09-29T14:42:57+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wta2it/what_are_your_experiences_with_using_a_hybrid",
-   "source": "reddit",
-   "title": "What are your experiences with using a hybrid cloud/local setup to stretch usage for coding projects?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wta2it/what_are_your_experiences_with_using_a_hybrid/",
-   "published_at": "2026-09-29T13:25:58+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wt8ehv/would_increasing_ram_channel_improve_speed_with",
-   "source": "reddit",
-   "title": "Would increasing ram channel improve speed with freetoken?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wt8ehv/would_increasing_ram_channel_improve_speed_with/",
-   "published_at": "2026-09-29T12:10:11+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wt7yp4/distributed_local_agents_benchmark",
-   "source": "reddit",
-   "title": "Distributed Local Agents Benchmark.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wt7yp4/distributed_local_agents_benchmark/",
-   "published_at": "2026-09-29T11:48:44+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wt7e8l/qwen_38_27b_q4_with_100k_context_on_a_16_gb_rx",
-   "source": "reddit",
-   "title": "Qwen 3.8 27B Q4 with 100K context on a 16 GB RX 7800 XT guide",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wt7e8l/qwen_38_27b_q4_with_100k_context_on_a_16_gb_rx/",
-   "published_at": "2026-09-29T11:18:19+00:00",
    "extra": ""
   },
   {
@@ -10580,6 +10463,358 @@
    "extra": ""
   },
   {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wfcurd/trump_says_not_to_slow_down_ai_development",
+   "source": "reddit",
+   "title": "Trump says not to slow down AI development",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfcurd/trump_says_not_to_slow_down_ai_development/",
+   "published_at": "2026-09-13T16:49:03+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openrouter:inference-net/schematron-v2-turbo",
+   "source": "openrouter",
+   "title": "Inference.net: Schematron V2 Turbo",
+   "url": "https://openrouter.ai/inference-net/schematron-v2-turbo",
+   "published_at": "2026-09-12T01:35:49+00:00",
+   "extra": "context=128000"
+  },
+  {
+   "id": "openrouter:inference-net/schematron-v2-small",
+   "source": "openrouter",
+   "title": "Inference.net: Schematron V2 Small",
+   "url": "https://openrouter.ai/inference-net/schematron-v2-small",
+   "published_at": "2026-09-12T01:35:33+00:00",
+   "extra": "context=128000"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wklppz/has_anyone_bought_a_cmp_170hx_8gb_and_can_point",
+   "source": "reddit",
+   "title": "Has anyone bought a CMP 170HX 8GB and can point me to the seller?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wklppz/has_anyone_bought_a_cmp_170hx_8gb_and_can_point/",
+   "published_at": "2026-09-19T13:03:36+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wkldv3/rewritable_ngrams",
+   "source": "reddit",
+   "title": "Re-writable n-grams?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkldv3/rewritable_ngrams/",
+   "published_at": "2026-09-19T12:48:27+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wkl0c6/is_there_something_like_ninfer_but_for_16gb_cards",
+   "source": "reddit",
+   "title": "Is there something like NInfer but for 16GB cards?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkl0c6/is_there_something_like_ninfer_but_for_16gb_cards/",
+   "published_at": "2026-09-19T12:31:06+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wkkxl7/what_are_your_sources_for_keeping_up_with_ai",
+   "source": "reddit",
+   "title": "What are your sources for keeping up with AI learning?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkkxl7/what_are_your_sources_for_keeping_up_with_ai/",
+   "published_at": "2026-09-19T12:27:34+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wkjs20/1451_verified_maxeffort_reasoning_traces_from",
+   "source": "reddit",
+   "title": "1,451 verified max-effort reasoning traces from DeepSeek v4.1 Flash, decontaminated against AIME + MATH-500 — MIT",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkjs20/1451_verified_maxeffort_reasoning_traces_from/",
+   "published_at": "2026-09-19T11:29:50+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wkjm9f/references_to_minimax_m31_appear_in_test_files_in",
+   "source": "reddit",
+   "title": "References to MiniMax M3.1 appear in test files in a recent commit to the MiniMax-Code Repo",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkjm9f/references_to_minimax_m31_appear_in_test_files_in/",
+   "published_at": "2026-09-19T11:21:16+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wkj13w/4x_rtx_3090_pcie_40_x16_advice_qwen_38_next_flash",
+   "source": "reddit",
+   "title": "4x RTX 3090 PCIe 4.0 x16 - advice? Qwen 3.8 Next Flash?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkj13w/4x_rtx_3090_pcie_40_x16_advice_qwen_38_next_flash/",
+   "published_at": "2026-09-19T10:49:14+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wkiz46/we_might_be_looking_at_wrong_benchmarks",
+   "source": "reddit",
+   "title": "We might be looking at wrong benchmarks",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkiz46/we_might_be_looking_at_wrong_benchmarks/",
+   "published_at": "2026-09-19T10:46:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "hn:49746527",
+   "source": "hn",
+   "title": "Ask HN: What self-hosted apps do you use daily?",
+   "url": "https://news.ycombinator.com/item?id=49746527",
+   "published_at": "2026-09-17T21:03:09Z",
+   "extra": "points=2"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wfifp0/mendel_todas_vamos_a_morir_estoy_construyendo_un",
+   "source": "reddit",
+   "title": "MENDEL: todas vamos a morir (?) - Estoy construyendo un agente de investigación llamado MENDEL y una de las pruebas terminó exponiendo un problema que creo que aparece mucho en sistemas de búsqueda + RAG + agentes",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfifp0/mendel_todas_vamos_a_morir_estoy_construyendo_un/",
+   "published_at": "2026-09-13T20:15:46+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wfhiqx/plot_twist",
+   "source": "reddit",
+   "title": "Plot twist",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfhiqx/plot_twist/",
+   "published_at": "2026-09-13T19:41:28+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/devday-2026-recap",
+   "source": "openai",
+   "title": "DevDay 2026 Recap",
+   "url": "https://openai.com/index/devday-2026-recap",
+   "published_at": "2026-09-29T10:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/how-we-will-do-better-for-australia",
+   "source": "openai",
+   "title": "How we will do better for Australia",
+   "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+   "published_at": "2026-09-28T19:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+   "source": "openai",
+   "title": "Towards safety cases for frontier AI training",
+   "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+   "published_at": "2026-09-28T19:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/lenfest-ai-collaborative-expansion",
+   "source": "openai",
+   "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+   "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+   "published_at": "2026-09-28T07:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/basis-tax-workbook-with-astra",
+   "source": "openai",
+   "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+   "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+   "published_at": "2026-09-28T00:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/form/codex-originals",
+   "source": "openai",
+   "title": "Are you a Codex Original?",
+   "url": "https://openai.com/form/codex-originals",
+   "published_at": "2026-09-28T00:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openrouter:openai/gpt-6.1-sol-pro",
+   "source": "openrouter",
+   "title": "OpenAI: GPT-6.1 Sol Pro",
+   "url": "https://openrouter.ai/openai/gpt-6.1-sol-pro",
+   "published_at": "2026-09-29T17:28:06+00:00",
+   "extra": "context=1050000"
+  },
+  {
+   "id": "openrouter:openai/gpt-6.1-sol-pro:batch",
+   "source": "openrouter",
+   "title": "OpenAI: GPT-6.1 Sol Pro (batch)",
+   "url": "https://openrouter.ai/openai/gpt-6.1-sol-pro:batch",
+   "published_at": "2026-09-29T17:28:06+00:00",
+   "extra": "context=1050000"
+  },
+  {
+   "id": "openrouter:openai/gpt-6.1-sol",
+   "source": "openrouter",
+   "title": "OpenAI: GPT-6.1 Sol",
+   "url": "https://openrouter.ai/openai/gpt-6.1-sol",
+   "published_at": "2026-09-29T17:28:02+00:00",
+   "extra": "context=1050000"
+  },
+  {
+   "id": "openrouter:openai/gpt-6.1-sol:batch",
+   "source": "openrouter",
+   "title": "OpenAI: GPT-6.1 Sol (batch)",
+   "url": "https://openrouter.ai/openai/gpt-6.1-sol:batch",
+   "published_at": "2026-09-29T17:28:02+00:00",
+   "extra": "context=1050000"
+  },
+  {
+   "id": "openrouter:anthropic/claude-sonnet-5.5",
+   "source": "openrouter",
+   "title": "Anthropic: Claude Sonnet 5.5",
+   "url": "https://openrouter.ai/anthropic/claude-sonnet-5.5",
+   "published_at": "2026-09-28T18:04:46+00:00",
+   "extra": "context=1000000"
+  },
+  {
+   "id": "openrouter:anthropic/claude-sonnet-5.5:batch",
+   "source": "openrouter",
+   "title": "Anthropic: Claude Sonnet 5.5 (batch)",
+   "url": "https://openrouter.ai/anthropic/claude-sonnet-5.5:batch",
+   "published_at": "2026-09-28T18:04:46+00:00",
+   "extra": "context=1000000"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wtjp1j/another_case_of_censorship",
+   "source": "reddit",
+   "title": "Another case of censorship",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtjp1j/another_case_of_censorship/",
+   "published_at": "2026-09-29T19:31:38+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wtjewp/just_few_days_ago_ive_been_badly_censored_even_on",
+   "source": "reddit",
+   "title": "Just few days ago I've been badly censored even on this apparently different social network for criticizing the stance tech/social/digital/ai behemoths have regarding us, the user base some of them call/consider \"dumb fuc*s\". Well, I am bloody right!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtjewp/just_few_days_ago_ive_been_badly_censored_even_on/",
+   "published_at": "2026-09-29T19:20:49+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wtje3i/serious_roleplay",
+   "source": "reddit",
+   "title": "[serious] roleplay",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtje3i/serious_roleplay/",
+   "published_at": "2026-09-29T19:19:57+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wth4iz/anthropic_just_dropped_the_greatest_advertisement",
+   "source": "reddit",
+   "title": "Anthropic just dropped the greatest advertisement for GLM ever.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wth4iz/anthropic_just_dropped_the_greatest_advertisement/",
+   "published_at": "2026-09-29T17:55:48+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wtgb0y/recommended_replacements_for_glm_47_flash",
+   "source": "reddit",
+   "title": "Recommended replacements for glm 4.7 flash",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtgb0y/recommended_replacements_for_glm_47_flash/",
+   "published_at": "2026-09-29T17:25:05+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wtg7zu/inference_engines_will_become_a_series_of_oneoffs",
+   "source": "reddit",
+   "title": "Inference Engines will become a series of one-offs",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtg7zu/inference_engines_will_become_a_series_of_oneoffs/",
+   "published_at": "2026-09-29T17:21:57+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wtg1hs/deepseek_harness_app_is_out_now",
+   "source": "reddit",
+   "title": "Deepseek Harness app is out now!!!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtg1hs/deepseek_harness_app_is_out_now/",
+   "published_at": "2026-09-29T17:15:12+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wtg0vd/glm53_and_the_spread_of_advanced_cyber",
+   "source": "reddit",
+   "title": "GLM-5.3 and the Spread of Advanced Cyber Capabilities \\ Anthropic",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtg0vd/glm53_and_the_spread_of_advanced_cyber/",
+   "published_at": "2026-09-29T17:14:32+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wtenmo/llamacpp_cublas_error_how_to_uninstallreinstall",
+   "source": "reddit",
+   "title": "llama.cpp cublas error, how to uninstall/reinstall properly (Linux Mint)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtenmo/llamacpp_cublas_error_how_to_uninstallreinstall/",
+   "published_at": "2026-09-29T16:23:51+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wtelk8/thanks_to_you_rlocalllama_my_mom_was_able_to_use",
+   "source": "reddit",
+   "title": "Thanks to you r/LocalLLaMA, my mom was able to use my app! The open-source app that can watch your screen and trigger actions. It is now easy to use, thanks to your feedback.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtelk8/thanks_to_you_rlocalllama_my_mom_was_able_to_use/",
+   "published_at": "2026-09-29T16:21:45+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wtc4j9/amds_new_256_core_epyc_has_16channel_ddr512800_91",
+   "source": "reddit",
+   "title": "AMD's new 256 core EPYC has 16-channel DDR5-12800, 91% memory bandwidth of an RTX 5090",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtc4j9/amds_new_256_core_epyc_has_16channel_ddr512800_91/",
+   "published_at": "2026-09-29T14:48:03+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wtbzwn/help_me_find_a_good_stack_for_reversing_an_old",
+   "source": "reddit",
+   "title": "Help me find a good stack for reversing an old online game client",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtbzwn/help_me_find_a_good_stack_for_reversing_an_old/",
+   "published_at": "2026-09-29T14:42:57+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wta2it/what_are_your_experiences_with_using_a_hybrid",
+   "source": "reddit",
+   "title": "What are your experiences with using a hybrid cloud/local setup to stretch usage for coding projects?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wta2it/what_are_your_experiences_with_using_a_hybrid/",
+   "published_at": "2026-09-29T13:25:58+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wt8ehv/would_increasing_ram_channel_improve_speed_with",
+   "source": "reddit",
+   "title": "Would increasing ram channel improve speed with freetoken?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wt8ehv/would_increasing_ram_channel_improve_speed_with/",
+   "published_at": "2026-09-29T12:10:11+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wt7yp4/distributed_local_agents_benchmark",
+   "source": "reddit",
+   "title": "Distributed Local Agents Benchmark.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wt7yp4/distributed_local_agents_benchmark/",
+   "published_at": "2026-09-29T11:48:44+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wt7e8l/qwen_38_27b_q4_with_100k_context_on_a_16_gb_rx",
+   "source": "reddit",
+   "title": "Qwen 3.8 27B Q4 with 100K context on a 16 GB RX 7800 XT guide",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wt7e8l/qwen_38_27b_q4_with_100k_context_on_a_16_gb_rx/",
+   "published_at": "2026-09-29T11:18:19+00:00",
+   "extra": ""
+  },
+  {
+   "id": "hn:49899734",
+   "source": "hn",
+   "title": "Is open-weight AI banned yet?",
+   "url": "https://isopenweightaibannedyet.com",
+   "published_at": "2026-09-29T20:16:25Z",
+   "extra": "points=2"
+  },
+  {
+   "id": "hn:49897796",
+   "source": "hn",
+   "title": "Ask HN: What's stopping a hardwired AI",
+   "url": "https://news.ycombinator.com/item?id=49897796",
+   "published_at": "2026-09-29T18:08:31Z",
+   "extra": "points=2"
+  },
+  {
    "id": "hn:49896315",
    "source": "hn",
    "title": "Jev-compatible document classification with open-weight VLMs",
@@ -10602,6 +10837,22 @@
    "url": "https://huggingface.co/salfatigroup/rene-1-31b-fp8",
    "published_at": "2026-09-27T22:42:20Z",
    "extra": "points=4"
+  },
+  {
+   "id": "hn:49898411",
+   "source": "hn",
+   "title": "Show HN: Relay – a harness for AI coding agents that recover and verify",
+   "url": "https://relayevals.com",
+   "published_at": "2026-09-29T18:46:07Z",
+   "extra": "points=3"
+  },
+  {
+   "id": "hn:49898290",
+   "source": "hn",
+   "title": "GPT6.1 Sol",
+   "url": "https://news.ycombinator.com/item?id=49898290",
+   "published_at": "2026-09-29T18:38:40Z",
+   "extra": "points=2"
   },
   {
    "id": "hn:49893330",
@@ -10716,115 +10967,11 @@
    "extra": "points=23"
   },
   {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wfcurd/trump_says_not_to_slow_down_ai_development",
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wfc64h/marmel_090",
    "source": "reddit",
-   "title": "Trump says not to slow down AI development",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfcurd/trump_says_not_to_slow_down_ai_development/",
-   "published_at": "2026-09-13T16:49:03+00:00",
-   "extra": ""
-  },
-  {
-   "id": "openrouter:inference-net/schematron-v2-turbo",
-   "source": "openrouter",
-   "title": "Inference.net: Schematron V2 Turbo",
-   "url": "https://openrouter.ai/inference-net/schematron-v2-turbo",
-   "published_at": "2026-09-12T01:35:49+00:00",
-   "extra": "context=128000"
-  },
-  {
-   "id": "openrouter:inference-net/schematron-v2-small",
-   "source": "openrouter",
-   "title": "Inference.net: Schematron V2 Small",
-   "url": "https://openrouter.ai/inference-net/schematron-v2-small",
-   "published_at": "2026-09-12T01:35:33+00:00",
-   "extra": "context=128000"
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wklppz/has_anyone_bought_a_cmp_170hx_8gb_and_can_point",
-   "source": "reddit",
-   "title": "Has anyone bought a CMP 170HX 8GB and can point me to the seller?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wklppz/has_anyone_bought_a_cmp_170hx_8gb_and_can_point/",
-   "published_at": "2026-09-19T13:03:36+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wkldv3/rewritable_ngrams",
-   "source": "reddit",
-   "title": "Re-writable n-grams?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkldv3/rewritable_ngrams/",
-   "published_at": "2026-09-19T12:48:27+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wkl0c6/is_there_something_like_ninfer_but_for_16gb_cards",
-   "source": "reddit",
-   "title": "Is there something like NInfer but for 16GB cards?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkl0c6/is_there_something_like_ninfer_but_for_16gb_cards/",
-   "published_at": "2026-09-19T12:31:06+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wkkxl7/what_are_your_sources_for_keeping_up_with_ai",
-   "source": "reddit",
-   "title": "What are your sources for keeping up with AI learning?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkkxl7/what_are_your_sources_for_keeping_up_with_ai/",
-   "published_at": "2026-09-19T12:27:34+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wkjs20/1451_verified_maxeffort_reasoning_traces_from",
-   "source": "reddit",
-   "title": "1,451 verified max-effort reasoning traces from DeepSeek v4.1 Flash, decontaminated against AIME + MATH-500 — MIT",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkjs20/1451_verified_maxeffort_reasoning_traces_from/",
-   "published_at": "2026-09-19T11:29:50+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wkjm9f/references_to_minimax_m31_appear_in_test_files_in",
-   "source": "reddit",
-   "title": "References to MiniMax M3.1 appear in test files in a recent commit to the MiniMax-Code Repo",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkjm9f/references_to_minimax_m31_appear_in_test_files_in/",
-   "published_at": "2026-09-19T11:21:16+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wkj13w/4x_rtx_3090_pcie_40_x16_advice_qwen_38_next_flash",
-   "source": "reddit",
-   "title": "4x RTX 3090 PCIe 4.0 x16 - advice? Qwen 3.8 Next Flash?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkj13w/4x_rtx_3090_pcie_40_x16_advice_qwen_38_next_flash/",
-   "published_at": "2026-09-19T10:49:14+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wkiz46/we_might_be_looking_at_wrong_benchmarks",
-   "source": "reddit",
-   "title": "We might be looking at wrong benchmarks",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkiz46/we_might_be_looking_at_wrong_benchmarks/",
-   "published_at": "2026-09-19T10:46:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "hn:49746527",
-   "source": "hn",
-   "title": "Ask HN: What self-hosted apps do you use daily?",
-   "url": "https://news.ycombinator.com/item?id=49746527",
-   "published_at": "2026-09-17T21:03:09Z",
-   "extra": "points=2"
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wfifp0/mendel_todas_vamos_a_morir_estoy_construyendo_un",
-   "source": "reddit",
-   "title": "MENDEL: todas vamos a morir (?) - Estoy construyendo un agente de investigación llamado MENDEL y una de las pruebas terminó exponiendo un problema que creo que aparece mucho en sistemas de búsqueda + RAG + agentes",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfifp0/mendel_todas_vamos_a_morir_estoy_construyendo_un/",
-   "published_at": "2026-09-13T20:15:46+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wfhiqx/plot_twist",
-   "source": "reddit",
-   "title": "Plot twist",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfhiqx/plot_twist/",
-   "published_at": "2026-09-13T19:41:28+00:00",
+   "title": "Marmel 0.9.0",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfc64h/marmel_090/",
+   "published_at": "2026-09-13T16:23:19+00:00",
    "extra": ""
   }
  ],
@@ -14588,6 +14735,106 @@
    "extra": "points=1",
    "event_type": "release",
    "summary": "Why browsers need a native API for open-weight models"
+  },
+  {
+   "id": "openai:https://openai.com/index/introducing-gpt-6-1-sol",
+   "source": "openai",
+   "title": "Introducing GPT-6.1 Sol",
+   "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+   "published_at": "2026-09-29T10:00:00+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "Introducing GPT-6.1 Sol"
+  },
+  {
+   "id": "openai:https://openai.com/index/introducing-dots",
+   "source": "openai",
+   "title": "Introducing dots",
+   "url": "https://openai.com/index/introducing-dots",
+   "published_at": "2026-09-29T00:00:00+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "Introducing dots"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wtlxa9/best_model_for_blender",
+   "source": "reddit",
+   "title": "Best model for blender?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtlxa9/best_model_for_blender/",
+   "published_at": "2026-09-29T20:57:14+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "Best model for blender?"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wtkzc5/local_q2_k_model_dunked_on_deepseek_v4flash_a",
+   "source": "reddit",
+   "title": "Local Q2_K model dunked on DeepSeek V4-Flash, a frontier AI, during my mini test & ngl I’m still processing this 😅😅",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtkzc5/local_q2_k_model_dunked_on_deepseek_v4flash_a/",
+   "published_at": "2026-09-29T20:20:24+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "Local Q2_K model dunked on DeepSeek V4-Flash, a frontier AI, during my mini test & ngl I’m still processing this 😅😅"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wtkgsl/does_post_training_make_llms_funnier",
+   "source": "reddit",
+   "title": "Does post training make LLMs funnier?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtkgsl/does_post_training_make_llms_funnier/",
+   "published_at": "2026-09-29T20:00:56+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "Does post training make LLMs funnier?"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wthbra/what_kinds_of_problems_are_still_fundamentally",
+   "source": "reddit",
+   "title": "What kinds of problems are still fundamentally hard for LLMs?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wthbra/what_kinds_of_problems_are_still_fundamentally/",
+   "published_at": "2026-09-29T18:02:49+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "What kinds of problems are still fundamentally hard for LLMs?"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wtg43b/new_to_local_ai_need_help_making_a_roleplay_model",
+   "source": "reddit",
+   "title": "New to Local AI need help making a roleplay model",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtg43b/new_to_local_ai_need_help_making_a_roleplay_model/",
+   "published_at": "2026-09-29T17:17:57+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "New to Local AI need help making a roleplay model"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wtg12r/ram_offloading_with_vllm_tcclaviger_appreciation",
+   "source": "reddit",
+   "title": "RAM Offloading with vLLM - tcclaviger appreciation post",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtg12r/ram_offloading_with_vllm_tcclaviger_appreciation/",
+   "published_at": "2026-09-29T17:14:45+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "RAM Offloading with vLLM - tcclaviger appreciation post"
+  },
+  {
+   "id": "hn:49898469",
+   "source": "hn",
+   "title": "GPT-6.1 Sol: Release Intelligence, Performance and Price",
+   "url": "https://artificialanalysis.ai/models/releases/gpt-6-1-sol",
+   "published_at": "2026-09-29T18:50:31Z",
+   "extra": "points=2",
+   "event_type": "release",
+   "summary": "GPT-6.1 Sol: Release Intelligence, Performance and Price"
+  },
+  {
+   "id": "hn:49898130",
+   "source": "hn",
+   "title": "Please add prompt caching to Jev-style models",
+   "url": "https://emschwartz.me/please-add-prompt-caching-to-jev-style-models/",
+   "published_at": "2026-09-29T18:27:49Z",
+   "extra": "points=1",
+   "event_type": "release",
+   "summary": "Please add prompt caching to Jev-style models"
   }
  ]
 }
