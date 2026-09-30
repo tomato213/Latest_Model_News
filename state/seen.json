@@ -2579,97 +2579,16 @@
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wtg43b/new_to_local_ai_need_help_making_a_roleplay_model": "2026-09-29T21:21:54.983214+00:00",
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wtg12r/ram_offloading_with_vllm_tcclaviger_appreciation": "2026-09-29T21:21:54.983214+00:00",
   "hn:49898469": "2026-09-29T21:21:54.983214+00:00",
-  "hn:49898130": "2026-09-29T21:21:54.983214+00:00"
+  "hn:49898130": "2026-09-29T21:21:54.983214+00:00",
+  "openai:https://openai.com/form/codex-originals": "2026-09-30T00:44:28.151453+00:00",
+  "openai:https://openai.com/index/basis-tax-workbook-with-astra": "2026-09-30T00:44:28.151453+00:00",
+  "hn:49871553": "2026-09-30T00:44:28.151453+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wtpntt/qwenfamily_llms_are_quietly_becoming_the_backbone": "2026-09-30T00:44:28.697241+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wtp9x4/are_you_worried_about_a_potential_ban_of_chinese": "2026-09-30T00:44:28.697241+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wtp8h5/sherrys_34_ternary_format_1375_bits_per_weight": "2026-09-30T00:44:28.697241+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wtp87p/amd_boosting_aillm_performance_for_radeon_igpus": "2026-09-30T00:44:28.697241+00:00"
  },
  "pending": [
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wfba8g/qwen_38_27b_udiq4_xs_even_faster_on_16gb_cuda",
-   "source": "reddit",
-   "title": "Qwen 3.8 27B UD-IQ4_XS even faster on 16GB CUDA",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfba8g/qwen_38_27b_udiq4_xs_even_faster_on_16gb_cuda/",
-   "published_at": "2026-09-13T15:50:25+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wfb3y3/what_are_you_guys_running_on_an_m5_pro_64gb",
-   "source": "reddit",
-   "title": "What are you guys running on an M5 Pro 64gb?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfb3y3/what_are_you_guys_running_on_an_m5_pro_64gb/",
-   "published_at": "2026-09-13T15:43:29+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wnci2c/i_reverseengineered_jev_and_rebuilt_it_as_open",
-   "source": "reddit",
-   "title": "I reverse-engineered Jev and rebuilt it as open weights. It beats mine on all 7 benchmarks; mine beats it on my own task with 395 labels.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnci2c/i_reverseengineered_jev_and_rebuilt_it_as_open/",
-   "published_at": "2026-09-22T15:23:14+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wnc938/i_kept_losing_context_between_tools_so_i_built_a",
-   "source": "reddit",
-   "title": "I kept losing context between tools, so I built a local, encrypted memory vault",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnc938/i_kept_losing_context_between_tools_so_i_built_a/",
-   "published_at": "2026-09-22T15:14:04+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wnbp77/mimo_v26flashrl_dualspark_recipesexperiences",
-   "source": "reddit",
-   "title": "Mimo v2.6-Flash-RL Dual-Spark Recipes/experiences?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnbp77/mimo_v26flashrl_dualspark_recipesexperiences/",
-   "published_at": "2026-09-22T14:53:31+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wnb5f5/mimo26flash_on_m5u_early_results",
-   "source": "reddit",
-   "title": "Mimo2.6-Flash on M5U early results",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnb5f5/mimo26flash_on_m5u_early_results/",
-   "published_at": "2026-09-22T14:32:38+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wn9w6x/how_is_gemma4_12b_for_general_everyday_use",
-   "source": "reddit",
-   "title": "How is Gemma4 12B for general everyday use?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wn9w6x/how_is_gemma4_12b_for_general_everyday_use/",
-   "published_at": "2026-09-22T13:43:31+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wn9a2w/what_underrated_ai_tools_have_actually_made_you",
-   "source": "reddit",
-   "title": "What underrated AI tools have actually made you more productive in 2026?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wn9a2w/what_underrated_ai_tools_have_actually_made_you/",
-   "published_at": "2026-09-22T13:18:20+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wn8tw7/minix_mini_pc_uses_5core_intel_wildcat_lake",
-   "source": "reddit",
-   "title": "MINIX mini PC uses 5-core Intel Wildcat Lake processor with 24-TOPS AI performance",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wn8tw7/minix_mini_pc_uses_5core_intel_wildcat_lake/",
-   "published_at": "2026-09-22T12:59:43+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wn8rgc/setting_context_length",
-   "source": "reddit",
-   "title": "Setting context length",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wn8rgc/setting_context_length/",
-   "published_at": "2026-09-22T12:56:38+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wn852z/fork_of_freetoken_with_deepseekv41_vision_and",
-   "source": "reddit",
-   "title": "Fork of FreeToken with DeepSeek-V4.1, vision and speculative decoding (2x3090 numbers inside)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wn852z/fork_of_freetoken_with_deepseekv41_vision_and/",
-   "published_at": "2026-09-22T12:29:02+00:00",
-   "extra": ""
-  },
   {
    "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wn6vwm/is_llamacpp_meant_to_be_slow_at_long_context_even",
    "source": "reddit",
@@ -10575,38 +10494,6 @@
    "extra": ""
   },
   {
-   "id": "openai:https://openai.com/index/devday-2026-recap",
-   "source": "openai",
-   "title": "DevDay 2026 Recap",
-   "url": "https://openai.com/index/devday-2026-recap",
-   "published_at": "2026-09-29T10:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "openai:https://openai.com/index/how-we-will-do-better-for-australia",
-   "source": "openai",
-   "title": "How we will do better for Australia",
-   "url": "https://openai.com/index/how-we-will-do-better-for-australia",
-   "published_at": "2026-09-28T19:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "openai:https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-   "source": "openai",
-   "title": "Towards safety cases for frontier AI training",
-   "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-   "published_at": "2026-09-28T19:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "openai:https://openai.com/index/lenfest-ai-collaborative-expansion",
-   "source": "openai",
-   "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-   "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-   "published_at": "2026-09-28T07:00:00+00:00",
-   "extra": ""
-  },
-  {
    "id": "openai:https://openai.com/index/basis-tax-workbook-with-astra",
    "source": "openai",
    "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
@@ -10620,6 +10507,102 @@
    "title": "Are you a Codex Original?",
    "url": "https://openai.com/form/codex-originals",
    "published_at": "2026-09-28T00:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wtc4j9/amds_new_256_core_epyc_has_16channel_ddr512800_91",
+   "source": "reddit",
+   "title": "AMD's new 256 core EPYC has 16-channel DDR5-12800, 91% memory bandwidth of an RTX 5090",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtc4j9/amds_new_256_core_epyc_has_16channel_ddr512800_91/",
+   "published_at": "2026-09-29T14:48:03+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wtbzwn/help_me_find_a_good_stack_for_reversing_an_old",
+   "source": "reddit",
+   "title": "Help me find a good stack for reversing an old online game client",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtbzwn/help_me_find_a_good_stack_for_reversing_an_old/",
+   "published_at": "2026-09-29T14:42:57+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wta2it/what_are_your_experiences_with_using_a_hybrid",
+   "source": "reddit",
+   "title": "What are your experiences with using a hybrid cloud/local setup to stretch usage for coding projects?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wta2it/what_are_your_experiences_with_using_a_hybrid/",
+   "published_at": "2026-09-29T13:25:58+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wt8ehv/would_increasing_ram_channel_improve_speed_with",
+   "source": "reddit",
+   "title": "Would increasing ram channel improve speed with freetoken?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wt8ehv/would_increasing_ram_channel_improve_speed_with/",
+   "published_at": "2026-09-29T12:10:11+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wt7yp4/distributed_local_agents_benchmark",
+   "source": "reddit",
+   "title": "Distributed Local Agents Benchmark.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wt7yp4/distributed_local_agents_benchmark/",
+   "published_at": "2026-09-29T11:48:44+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wt7e8l/qwen_38_27b_q4_with_100k_context_on_a_16_gb_rx",
+   "source": "reddit",
+   "title": "Qwen 3.8 27B Q4 with 100K context on a 16 GB RX 7800 XT guide",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wt7e8l/qwen_38_27b_q4_with_100k_context_on_a_16_gb_rx/",
+   "published_at": "2026-09-29T11:18:19+00:00",
+   "extra": ""
+  },
+  {
+   "id": "hn:49871553",
+   "source": "hn",
+   "title": "Rene-1: Open-weight classifier sets SOTA on Decision Index (+9 over Jev)",
+   "url": "https://huggingface.co/salfatigroup/rene-1-31b-fp8",
+   "published_at": "2026-09-27T22:42:20Z",
+   "extra": "points=4"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wfc64h/marmel_090",
+   "source": "reddit",
+   "title": "Marmel 0.9.0",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfc64h/marmel_090/",
+   "published_at": "2026-09-13T16:23:19+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/devday-2026-recap",
+   "source": "openai",
+   "title": "DevDay 2026 Recap",
+   "url": "https://openai.com/index/devday-2026-recap",
+   "published_at": "2026-09-29T10:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+   "source": "openai",
+   "title": "Towards safety cases for frontier AI training",
+   "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+   "published_at": "2026-09-28T19:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/how-we-will-do-better-for-australia",
+   "source": "openai",
+   "title": "How we will do better for Australia",
+   "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+   "published_at": "2026-09-28T19:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/lenfest-ai-collaborative-expansion",
+   "source": "openai",
+   "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+   "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+   "published_at": "2026-09-28T07:00:00+00:00",
    "extra": ""
   },
   {
@@ -10669,6 +10652,46 @@
    "url": "https://openrouter.ai/anthropic/claude-sonnet-5.5:batch",
    "published_at": "2026-09-28T18:04:46+00:00",
    "extra": "context=1000000"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wtqpjt/sftmill_easily_offpolicy_distill_any_existing_llm",
+   "source": "reddit",
+   "title": "SFTMill: Easily [off-policy] distill any existing LLM with an OpenAI Compatible Endpoint. Turn any behavioral goal into a comprehensive dataset.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtqpjt/sftmill_easily_offpolicy_distill_any_existing_llm/",
+   "published_at": "2026-09-30T00:22:53+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wtomei/exl3_now_in_ninferext",
+   "source": "reddit",
+   "title": "exl3 now in ninfer-ext",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtomei/exl3_now_in_ninferext/",
+   "published_at": "2026-09-29T22:48:22+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wtnhte/any_good_harness_or_tools_for_helping_students",
+   "source": "reddit",
+   "title": "Any good harness or tools for helping students?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtnhte/any_good_harness_or_tools_for_helping_students/",
+   "published_at": "2026-09-29T21:59:43+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wtn3t3/good_setup_for_qfn_on_48gb_ampere_gpu_a40",
+   "source": "reddit",
+   "title": "Good setup for QFN on 48GB Ampere GPU (A40)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtn3t3/good_setup_for_qfn_on_48gb_ampere_gpu_a40/",
+   "published_at": "2026-09-29T21:43:45+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wtmz2p/jev_at_home_but_it_can_see_typed_yesno_pickone",
+   "source": "reddit",
+   "title": "Jev at home, but it can see: typed yes/no, pick-one and rubric answers with per-label probabilities from Gemma 4 31B on a 4090, images included",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtmz2p/jev_at_home_but_it_can_see_typed_yesno_pickone/",
+   "published_at": "2026-09-29T21:38:32+00:00",
+   "extra": ""
   },
   {
    "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wtjp1j/another_case_of_censorship",
@@ -10751,54 +10774,6 @@
    "extra": ""
   },
   {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wtc4j9/amds_new_256_core_epyc_has_16channel_ddr512800_91",
-   "source": "reddit",
-   "title": "AMD's new 256 core EPYC has 16-channel DDR5-12800, 91% memory bandwidth of an RTX 5090",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtc4j9/amds_new_256_core_epyc_has_16channel_ddr512800_91/",
-   "published_at": "2026-09-29T14:48:03+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wtbzwn/help_me_find_a_good_stack_for_reversing_an_old",
-   "source": "reddit",
-   "title": "Help me find a good stack for reversing an old online game client",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtbzwn/help_me_find_a_good_stack_for_reversing_an_old/",
-   "published_at": "2026-09-29T14:42:57+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wta2it/what_are_your_experiences_with_using_a_hybrid",
-   "source": "reddit",
-   "title": "What are your experiences with using a hybrid cloud/local setup to stretch usage for coding projects?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wta2it/what_are_your_experiences_with_using_a_hybrid/",
-   "published_at": "2026-09-29T13:25:58+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wt8ehv/would_increasing_ram_channel_improve_speed_with",
-   "source": "reddit",
-   "title": "Would increasing ram channel improve speed with freetoken?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wt8ehv/would_increasing_ram_channel_improve_speed_with/",
-   "published_at": "2026-09-29T12:10:11+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wt7yp4/distributed_local_agents_benchmark",
-   "source": "reddit",
-   "title": "Distributed Local Agents Benchmark.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wt7yp4/distributed_local_agents_benchmark/",
-   "published_at": "2026-09-29T11:48:44+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wt7e8l/qwen_38_27b_q4_with_100k_context_on_a_16_gb_rx",
-   "source": "reddit",
-   "title": "Qwen 3.8 27B Q4 with 100K context on a 16 GB RX 7800 XT guide",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wt7e8l/qwen_38_27b_q4_with_100k_context_on_a_16_gb_rx/",
-   "published_at": "2026-09-29T11:18:19+00:00",
-   "extra": ""
-  },
-  {
    "id": "hn:49899734",
    "source": "hn",
    "title": "Is open-weight AI banned yet?",
@@ -10829,14 +10804,6 @@
    "url": "https://investment-bets.com",
    "published_at": "2026-09-29T14:00:19Z",
    "extra": "points=2"
-  },
-  {
-   "id": "hn:49871553",
-   "source": "hn",
-   "title": "Rene-1: Open-weight classifier sets SOTA on Decision Index (+9 over Jev)",
-   "url": "https://huggingface.co/salfatigroup/rene-1-31b-fp8",
-   "published_at": "2026-09-27T22:42:20Z",
-   "extra": "points=4"
   },
   {
    "id": "hn:49898411",
@@ -10967,11 +10934,91 @@
    "extra": "points=23"
   },
   {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wfc64h/marmel_090",
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wfba8g/qwen_38_27b_udiq4_xs_even_faster_on_16gb_cuda",
    "source": "reddit",
-   "title": "Marmel 0.9.0",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfc64h/marmel_090/",
-   "published_at": "2026-09-13T16:23:19+00:00",
+   "title": "Qwen 3.8 27B UD-IQ4_XS even faster on 16GB CUDA",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfba8g/qwen_38_27b_udiq4_xs_even_faster_on_16gb_cuda/",
+   "published_at": "2026-09-13T15:50:25+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wfb3y3/what_are_you_guys_running_on_an_m5_pro_64gb",
+   "source": "reddit",
+   "title": "What are you guys running on an M5 Pro 64gb?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfb3y3/what_are_you_guys_running_on_an_m5_pro_64gb/",
+   "published_at": "2026-09-13T15:43:29+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wnci2c/i_reverseengineered_jev_and_rebuilt_it_as_open",
+   "source": "reddit",
+   "title": "I reverse-engineered Jev and rebuilt it as open weights. It beats mine on all 7 benchmarks; mine beats it on my own task with 395 labels.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnci2c/i_reverseengineered_jev_and_rebuilt_it_as_open/",
+   "published_at": "2026-09-22T15:23:14+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wnc938/i_kept_losing_context_between_tools_so_i_built_a",
+   "source": "reddit",
+   "title": "I kept losing context between tools, so I built a local, encrypted memory vault",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnc938/i_kept_losing_context_between_tools_so_i_built_a/",
+   "published_at": "2026-09-22T15:14:04+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wnbp77/mimo_v26flashrl_dualspark_recipesexperiences",
+   "source": "reddit",
+   "title": "Mimo v2.6-Flash-RL Dual-Spark Recipes/experiences?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnbp77/mimo_v26flashrl_dualspark_recipesexperiences/",
+   "published_at": "2026-09-22T14:53:31+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wnb5f5/mimo26flash_on_m5u_early_results",
+   "source": "reddit",
+   "title": "Mimo2.6-Flash on M5U early results",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnb5f5/mimo26flash_on_m5u_early_results/",
+   "published_at": "2026-09-22T14:32:38+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wn9w6x/how_is_gemma4_12b_for_general_everyday_use",
+   "source": "reddit",
+   "title": "How is Gemma4 12B for general everyday use?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wn9w6x/how_is_gemma4_12b_for_general_everyday_use/",
+   "published_at": "2026-09-22T13:43:31+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wn9a2w/what_underrated_ai_tools_have_actually_made_you",
+   "source": "reddit",
+   "title": "What underrated AI tools have actually made you more productive in 2026?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wn9a2w/what_underrated_ai_tools_have_actually_made_you/",
+   "published_at": "2026-09-22T13:18:20+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wn8tw7/minix_mini_pc_uses_5core_intel_wildcat_lake",
+   "source": "reddit",
+   "title": "MINIX mini PC uses 5-core Intel Wildcat Lake processor with 24-TOPS AI performance",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wn8tw7/minix_mini_pc_uses_5core_intel_wildcat_lake/",
+   "published_at": "2026-09-22T12:59:43+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wn8rgc/setting_context_length",
+   "source": "reddit",
+   "title": "Setting context length",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wn8rgc/setting_context_length/",
+   "published_at": "2026-09-22T12:56:38+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wn852z/fork_of_freetoken_with_deepseekv41_vision_and",
+   "source": "reddit",
+   "title": "Fork of FreeToken with DeepSeek-V4.1, vision and speculative decoding (2x3090 numbers inside)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wn852z/fork_of_freetoken_with_deepseekv41_vision_and/",
+   "published_at": "2026-09-22T12:29:02+00:00",
    "extra": ""
   }
  ],
@@ -14835,6 +14882,46 @@
    "extra": "points=1",
    "event_type": "release",
    "summary": "Please add prompt caching to Jev-style models"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wtpntt/qwenfamily_llms_are_quietly_becoming_the_backbone",
+   "source": "reddit",
+   "title": "Qwen-family LLMs are quietly becoming the backbone of modern audio models; One chart for the architectures of 100+ audio models",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtpntt/qwenfamily_llms_are_quietly_becoming_the_backbone/",
+   "published_at": "2026-09-29T23:35:16+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "Qwen-family LLMs are quietly becoming the backbone of modern audio models; One chart for the architectures of 100+ audio models"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wtp9x4/are_you_worried_about_a_potential_ban_of_chinese",
+   "source": "reddit",
+   "title": "Are you worried about a potential ban of Chinese open weight models?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtp9x4/are_you_worried_about_a_potential_ban_of_chinese/",
+   "published_at": "2026-09-29T23:17:54+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "Are you worried about a potential ban of Chinese open weight models?"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wtp8h5/sherrys_34_ternary_format_1375_bits_per_weight",
+   "source": "reddit",
+   "title": "Sherry's 3:4 ternary format (1.375 bits per weight) running on WebGPU: a 1.6 MB model that plays Connect Four as well as its 7.8 MB int8 version",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtp8h5/sherrys_34_ternary_format_1375_bits_per_weight/",
+   "published_at": "2026-09-29T23:16:05+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "Sherry's 3:4 ternary format (1.375 bits per weight) running on WebGPU: a 1.6 MB model that plays Connect Four as well as its 7.8 MB int8 version"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wtp87p/amd_boosting_aillm_performance_for_radeon_igpus",
+   "source": "reddit",
+   "title": "AMD boosting AI/LLM performance for Radeon iGPUs as much as 18~23% with Linux 7.4",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtp87p/amd_boosting_aillm_performance_for_radeon_igpus/",
+   "published_at": "2026-09-29T23:15:45+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "AMD boosting AI/LLM performance for Radeon iGPUs as much as 18~23% with Linux 7.4"
   }
  ]
 }
