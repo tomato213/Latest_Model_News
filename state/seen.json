@@ -2968,233 +2968,11 @@
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x28zr9/created_laya_now_introducing_a_new_800_million": "2026-10-10T12:22:51.202979+00:00",
   "openai:https://openai.com/index/oracle": "2026-10-10T17:27:02.063805+00:00",
   "openrouter:stepfun/step-5-preview": "2026-10-10T17:27:02.063805+00:00",
-  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x2irk7/how_was_your_experience_with_this_model": "2026-10-10T17:27:02.668482+00:00"
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x2irk7/how_was_your_experience_with_this_model": "2026-10-10T17:27:02.668482+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x2nn4b/benefits_of_using_bigger_models_than_qwen_38": "2026-10-10T20:40:34.674791+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x2ly4g/i_asked_3_qwen_38_models_to_solve_recent_atcoder": "2026-10-10T20:40:34.674791+00:00"
  },
  "pending": [
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wn2dee/xiaomimimomimov26distillqwen9b",
-   "source": "reddit",
-   "title": "XiaomiMiMo/MiMo-V2.6-Distill-Qwen-9B",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wn2dee/xiaomimimomimov26distillqwen9b/",
-   "published_at": "2026-09-22T07:07:25+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wn1t6a/r_complex_kda_understanding_and_enhancing_the",
-   "source": "reddit",
-   "title": "[R] Complex KDA: Understanding and Enhancing the Expressivity of Kimi Delta Attention",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wn1t6a/r_complex_kda_understanding_and_enhancing_the/",
-   "published_at": "2026-09-22T06:34:34+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wn16m6/cost_of_a_local_setup_for_coding",
-   "source": "reddit",
-   "title": "Cost of a local set-up for coding?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wn16m6/cost_of_a_local_setup_for_coding/",
-   "published_at": "2026-09-22T05:59:30+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wn0mm4/i_gave_a_local_qwen38_27b_agent_my_amazon_account",
-   "source": "reddit",
-   "title": "I gave a local Qwen3.8 27B agent my Amazon account — and it bought paper for me",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wn0mm4/i_gave_a_local_qwen38_27b_agent_my_amazon_account/",
-   "published_at": "2026-09-22T05:28:18+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wn0duq/a_quick_performance_comparison_between_rocm_and",
-   "source": "reddit",
-   "title": "A quick performance comparison between ROCm and Vulkan with DSv4 Flash 0731 and Qwen 3.8 Flash next on R9700+Strix Halo in llama.cpp",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wn0duq/a_quick_performance_comparison_between_rocm_and/",
-   "published_at": "2026-09-22T05:15:07+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wmzg1g/efficient_fine_tune_storage",
-   "source": "reddit",
-   "title": "efficient fine tune storage",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmzg1g/efficient_fine_tune_storage/",
-   "published_at": "2026-09-22T04:24:30+00:00",
-   "extra": ""
-  },
-  {
-   "id": "hn:49673323",
-   "source": "hn",
-   "title": "Reddit Now Blocking Firefox for Android with uBlock Origin",
-   "url": "https://news.ycombinator.com/item?id=49673323",
-   "published_at": "2026-09-12T15:28:53Z",
-   "extra": "points=6"
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wtfb8o/nonlocal_has_subscriptionbased_kimi_kimi_code",
-   "source": "reddit",
-   "title": "[Non-local] Has subscription-based Kimi / Kimi Code gotten worse over the past few weeks?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtfb8o/nonlocal_has_subscriptionbased_kimi_kimi_code/",
-   "published_at": "2026-09-29T16:48:01+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wt6gkp/iquestlabiquestq1_hugging_face",
-   "source": "reddit",
-   "title": "IQuestLab/IQuest-Q1 · Hugging Face",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wt6gkp/iquestlabiquestq1_hugging_face/",
-   "published_at": "2026-09-29T10:24:10+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wt6f3d/jev_mode_for_images",
-   "source": "reddit",
-   "title": "Jev mode for images!",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wt6f3d/jev_mode_for_images/",
-   "published_at": "2026-09-29T10:21:44+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wt5zw2/50b_moes_with_few_active_parameters_whats_the",
-   "source": "reddit",
-   "title": "50B+ MoEs with few active parameters, what's the sweet spot for intelligence, agent speed, and affordable fine-tuning?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wt5zw2/50b_moes_with_few_active_parameters_whats_the/",
-   "published_at": "2026-09-29T09:57:25+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wt5m69/im_building_an_opensource_browser_agent_that_can",
-   "source": "reddit",
-   "title": "I’m building an open-source browser agent that can run locally with LM Studio/Ollama — including a 450M browser VLM",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wt5m69/im_building_an_opensource_browser_agent_that_can/",
-   "published_at": "2026-09-29T09:33:23+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wt5lgo/is_there_even_an_easy_seamless_vision_assistant",
-   "source": "reddit",
-   "title": "Is there even an easy, seamless vision assistant program?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wt5lgo/is_there_even_an_easy_seamless_vision_assistant/",
-   "published_at": "2026-09-29T09:32:15+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wt5f4e/looks_like_the_era_of_subsidised_compute_is",
-   "source": "reddit",
-   "title": "Looks like the era of subsidised compute is coming to an end. The old ChatGPT Pro $200 20x plan will be halved. The new $500 plan will have similar limits as the (old) $200 plan.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wt5f4e/looks_like_the_era_of_subsidised_compute_is/",
-   "published_at": "2026-09-29T09:21:01+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wt55ac/what_would_you_buy_for_5k10k_usd",
-   "source": "reddit",
-   "title": "What would you buy for $5k...$10k USD?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wt55ac/what_would_you_buy_for_5k10k_usd/",
-   "published_at": "2026-09-29T09:03:34+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wt41c1/where_are_the_opus_55_datasets",
-   "source": "reddit",
-   "title": "Where are the Opus 5.5 datasets?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wt41c1/where_are_the_opus_55_datasets/",
-   "published_at": "2026-09-29T07:52:42+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wt35c6/ornith15_dflash",
-   "source": "reddit",
-   "title": "Ornith-1.5 DFlash",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wt35c6/ornith15_dflash/",
-   "published_at": "2026-09-29T06:57:10+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wt33uu/is_ai_profitable_yet",
-   "source": "reddit",
-   "title": "Is AI Profitable Yet?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wt33uu/is_ai_profitable_yet/",
-   "published_at": "2026-09-29T06:54:35+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wfcurd/trump_says_not_to_slow_down_ai_development",
-   "source": "reddit",
-   "title": "Trump says not to slow down AI development",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfcurd/trump_says_not_to_slow_down_ai_development/",
-   "published_at": "2026-09-13T16:49:03+00:00",
-   "extra": ""
-  },
-  {
-   "id": "openrouter:inference-net/schematron-v2-turbo",
-   "source": "openrouter",
-   "title": "Inference.net: Schematron V2 Turbo",
-   "url": "https://openrouter.ai/inference-net/schematron-v2-turbo",
-   "published_at": "2026-09-12T01:35:49+00:00",
-   "extra": "context=128000"
-  },
-  {
-   "id": "openrouter:inference-net/schematron-v2-small",
-   "source": "openrouter",
-   "title": "Inference.net: Schematron V2 Small",
-   "url": "https://openrouter.ai/inference-net/schematron-v2-small",
-   "published_at": "2026-09-12T01:35:33+00:00",
-   "extra": "context=128000"
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wklppz/has_anyone_bought_a_cmp_170hx_8gb_and_can_point",
-   "source": "reddit",
-   "title": "Has anyone bought a CMP 170HX 8GB and can point me to the seller?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wklppz/has_anyone_bought_a_cmp_170hx_8gb_and_can_point/",
-   "published_at": "2026-09-19T13:03:36+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wkldv3/rewritable_ngrams",
-   "source": "reddit",
-   "title": "Re-writable n-grams?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkldv3/rewritable_ngrams/",
-   "published_at": "2026-09-19T12:48:27+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wkl0c6/is_there_something_like_ninfer_but_for_16gb_cards",
-   "source": "reddit",
-   "title": "Is there something like NInfer but for 16GB cards?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkl0c6/is_there_something_like_ninfer_but_for_16gb_cards/",
-   "published_at": "2026-09-19T12:31:06+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wkkxl7/what_are_your_sources_for_keeping_up_with_ai",
-   "source": "reddit",
-   "title": "What are your sources for keeping up with AI learning?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkkxl7/what_are_your_sources_for_keeping_up_with_ai/",
-   "published_at": "2026-09-19T12:27:34+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wkjs20/1451_verified_maxeffort_reasoning_traces_from",
-   "source": "reddit",
-   "title": "1,451 verified max-effort reasoning traces from DeepSeek v4.1 Flash, decontaminated against AIME + MATH-500 — MIT",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkjs20/1451_verified_maxeffort_reasoning_traces_from/",
-   "published_at": "2026-09-19T11:29:50+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wkjm9f/references_to_minimax_m31_appear_in_test_files_in",
-   "source": "reddit",
-   "title": "References to MiniMax M3.1 appear in test files in a recent commit to the MiniMax-Code Repo",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkjm9f/references_to_minimax_m31_appear_in_test_files_in/",
-   "published_at": "2026-09-19T11:21:16+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wkj13w/4x_rtx_3090_pcie_40_x16_advice_qwen_38_next_flash",
-   "source": "reddit",
-   "title": "4x RTX 3090 PCIe 4.0 x16 - advice? Qwen 3.8 Next Flash?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkj13w/4x_rtx_3090_pcie_40_x16_advice_qwen_38_next_flash/",
-   "published_at": "2026-09-19T10:49:14+00:00",
-   "extra": ""
-  },
   {
    "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wkiz46/we_might_be_looking_at_wrong_benchmarks",
    "source": "reddit",
@@ -15644,147 +15422,11 @@
    "extra": ""
   },
   {
-   "id": "openai:https://openai.com/index/sophos",
-   "source": "openai",
-   "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-   "url": "https://openai.com/index/sophos",
-   "published_at": "2026-10-09T07:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "hf:Qwen/Qwen-Image-2.1-Turbo",
-   "source": "hf",
-   "title": "Qwen/Qwen-Image-2.1-Turbo",
-   "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo",
-   "published_at": "2026-10-09T04:50:01.000Z",
-   "extra": "downloads=0 likes=83"
-  },
-  {
-   "id": "modelscope:Qwen/Qwen-Image-2.1-Turbo",
-   "source": "modelscope",
-   "title": "Qwen-Image-2.1-Turbo",
-   "url": "https://modelscope.cn/models/Qwen/Qwen-Image-2.1-Turbo",
-   "published_at": "2026-10-09T06:54:55+00:00",
-   "extra": ""
-  },
-  {
    "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x2ji7y/harness_system_prompt_token_diabetes_biggest",
    "source": "reddit",
    "title": "Harness: System prompt token Diabetes - Biggest offender",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2ji7y/harness_system_prompt_token_diabetes_biggest/",
    "published_at": "2026-10-10T16:28:52+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x2jf0y/qwen3635ba3b_on_the_strix_halo_with_64gb_of_memory",
-   "source": "reddit",
-   "title": "qwen3.6-35b-a3b on the Strix Halo with 64GB of memory",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2jf0y/qwen3635ba3b_on_the_strix_halo_with_64gb_of_memory/",
-   "published_at": "2026-10-10T16:25:13+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x2j3gx/48gb_vram_speed_and_quality_qwen_38_27b_swift_15",
-   "source": "reddit",
-   "title": "48Gb VRAM speed AND quality ! (Qwen 3.8 27B Swift 1.5 W8A16)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2j3gx/48gb_vram_speed_and_quality_qwen_38_27b_swift_15/",
-   "published_at": "2026-10-10T16:11:34+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x2hs1e/no_more_rtx_5090",
-   "source": "reddit",
-   "title": "No more RTX 5090",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2hs1e/no_more_rtx_5090/",
-   "published_at": "2026-10-10T15:16:16+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x2f194/is_there_a_better_option_than_llamacpp_for_4gb",
-   "source": "reddit",
-   "title": "Is there a better option than llama.cpp for 4GB VRAM for Higher tokens/sec?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2f194/is_there_a_better_option_than_llamacpp_for_4gb/",
-   "published_at": "2026-10-10T13:14:30+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x2erdj/qwen3827b_on_a_single_3090_140_toks_on_code_with",
-   "source": "reddit",
-   "title": "Qwen3.8-27B on a single 3090: 140 tok/s on code with a custom megakernel",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2erdj/qwen3827b_on_a_single_3090_140_toks_on_code_with/",
-   "published_at": "2026-10-10T13:01:23+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x2eeds/opensource_mac_app_that_runs_embeddinggemma_2",
-   "source": "reddit",
-   "title": "Open-source Mac app that runs EmbeddingGemma 2 locally to search your files by what’s in them",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2eeds/opensource_mac_app_that_runs_embeddinggemma_2/",
-   "published_at": "2026-10-10T12:43:33+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x2donu/improve_token_per_second_without_touching_quant",
-   "source": "reddit",
-   "title": "Improve token per second without touching quant",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2donu/improve_token_per_second_without_touching_quant/",
-   "published_at": "2026-10-10T12:05:52+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x2cztv/fully_local_conversational_ai_whisper_hermes_8b",
-   "source": "reddit",
-   "title": "Fully local conversational AI: Whisper + Hermes 8B + Kokoro, zero cloud, running inside a plush toy",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2cztv/fully_local_conversational_ai_whisper_hermes_8b/",
-   "published_at": "2026-10-10T11:28:41+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x2bt6r/nvidia_reportedly_discontinuing_rtx_5090_gb202",
-   "source": "reddit",
-   "title": "NVIDIA reportedly discontinuing RTX 5090, GB202 GPUs to be reserved for RTX PRO series",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2bt6r/nvidia_reportedly_discontinuing_rtx_5090_gb202/",
-   "published_at": "2026-10-10T10:20:08+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x2br9j/how_to_create_my_own_benchmarks",
-   "source": "reddit",
-   "title": "How to create my own benchmarks",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2br9j/how_to_create_my_own_benchmarks/",
-   "published_at": "2026-10-10T10:16:47+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x2bbx6/strata_with_qwen38_flash_next_udq4_k_xl",
-   "source": "reddit",
-   "title": "Strata with Qwen3.8 Flash Next UD-Q4_K_XL",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2bbx6/strata_with_qwen38_flash_next_udq4_k_xl/",
-   "published_at": "2026-10-10T09:50:37+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x29nii/sharing_my_latest_project_stratamlx",
-   "source": "reddit",
-   "title": "Sharing my latest project: strata-mlx",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x29nii/sharing_my_latest_project_stratamlx/",
-   "published_at": "2026-10-10T08:03:30+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x29hx8/big_or_small",
-   "source": "reddit",
-   "title": "big or small?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x29hx8/big_or_small/",
-   "published_at": "2026-10-10T07:54:15+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x280nz/microsoft_doubles_down_on_local_ai_with_nvidia",
-   "source": "reddit",
-   "title": "microsoft doubles down on local ai with nvidia, but with a cost",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x280nz/microsoft_doubles_down_on_local_ai_with_nvidia/",
-   "published_at": "2026-10-10T06:23:41+00:00",
    "extra": ""
   },
   {
@@ -15818,54 +15460,6 @@
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x217go/qwen_flash_next_137_toks_3497_toks_prefill_w_512k/",
    "published_at": "2026-10-10T00:14:28+00:00",
    "extra": ""
-  },
-  {
-   "id": "hn:50034625",
-   "source": "hn",
-   "title": "Show HN: LoRA over GGUF – Train Qwen3.8-Flash-Next in 40G VRAM",
-   "url": "https://github.com/woct0rdho/transformers5-qwen3.5-recipe",
-   "published_at": "2026-10-10T16:43:43Z",
-   "extra": "points=1"
-  },
-  {
-   "id": "hn:50030849",
-   "source": "hn",
-   "title": "Show HN: Open Components – UI Components standard for people, devs and AI agents",
-   "url": "https://opencomponents.dev/",
-   "published_at": "2026-10-10T08:24:05Z",
-   "extra": "points=5"
-  },
-  {
-   "id": "hn:50017172",
-   "source": "hn",
-   "title": "Can an AI learn what you like, rather than just what you've searched for?",
-   "url": "https://news.ycombinator.com/item?id=50017172",
-   "published_at": "2026-10-09T07:18:41Z",
-   "extra": "points=1"
-  },
-  {
-   "id": "hn:50031583",
-   "source": "hn",
-   "title": "Show HN: SqlFlow – Durable Workflows Backed by PostgreSQL or SQL Server",
-   "url": "https://github.com/bytefish/SqlFlow",
-   "published_at": "2026-10-10T10:47:33Z",
-   "extra": "points=2"
-  },
-  {
-   "id": "hn:50029811",
-   "source": "hn",
-   "title": "Need Unbiased and Real Assessment",
-   "url": "https://news.ycombinator.com/item?id=50029811",
-   "published_at": "2026-10-10T05:20:30Z",
-   "extra": "points=1"
-  },
-  {
-   "id": "hn:50025559",
-   "source": "hn",
-   "title": "Show HN: Lacuna – open-source inline AI writing suggestions for your Mac",
-   "url": "https://jackdamon.org/blog/lacuna/",
-   "published_at": "2026-10-09T19:31:15Z",
-   "extra": "points=1"
   },
   {
    "id": "hn:49864205",
@@ -16113,6 +15707,470 @@
    "title": "Has anyone tried Photon?",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wn2uzf/has_anyone_tried_photon/",
    "published_at": "2026-09-22T07:36:57+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/sophos",
+   "source": "openai",
+   "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+   "url": "https://openai.com/index/sophos",
+   "published_at": "2026-10-09T07:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "hf:Qwen/Qwen-Image-2.1-Turbo",
+   "source": "hf",
+   "title": "Qwen/Qwen-Image-2.1-Turbo",
+   "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo",
+   "published_at": "2026-10-09T04:50:01.000Z",
+   "extra": "downloads=0 likes=83"
+  },
+  {
+   "id": "modelscope:Qwen/Qwen-Image-2.1-Turbo",
+   "source": "modelscope",
+   "title": "Qwen-Image-2.1-Turbo",
+   "url": "https://modelscope.cn/models/Qwen/Qwen-Image-2.1-Turbo",
+   "published_at": "2026-10-09T06:54:55+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x2nfg4/goodbye_coding_plans",
+   "source": "reddit",
+   "title": "Goodbye Coding Plans",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2nfg4/goodbye_coding_plans/",
+   "published_at": "2026-10-10T19:12:31+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x2mw1o/engineer_developer_observations_of_gemma431b",
+   "source": "reddit",
+   "title": "Engineer / developer observations of Gemma4-31B, Qwen3.8-27B, and 6.1-Sol for software engineering work",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2mw1o/engineer_developer_observations_of_gemma431b/",
+   "published_at": "2026-10-10T18:49:52+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x2mhso/possible_to_run_qwen38flashnext4bit_on_mac_with",
+   "source": "reddit",
+   "title": "Possible to run Qwen3.8-Flash-Next-4bit on Mac with 64GB?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2mhso/possible_to_run_qwen38flashnext4bit_on_mac_with/",
+   "published_at": "2026-10-10T18:33:13+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x2m4q8/slm_community_telenovela_what_do_you_guys_think",
+   "source": "reddit",
+   "title": "SLM community telenovela: what do you guys think about this arguement?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2m4q8/slm_community_telenovela_what_do_you_guys_think/",
+   "published_at": "2026-10-10T18:18:07+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x2lq70/question_about_flash_next_strata_32gb_sadness",
+   "source": "reddit",
+   "title": "Question about flash next +strata+ 32gb sadness.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2lq70/question_about_flash_next_strata_32gb_sadness/",
+   "published_at": "2026-10-10T18:01:07+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x2lgca/is_anyone_running_qwen38_flash_next_with_a_1m",
+   "source": "reddit",
+   "title": "Is anyone running Qwen3.8 Flash Next with a 1M context?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2lgca/is_anyone_running_qwen38_flash_next_with_a_1m/",
+   "published_at": "2026-10-10T17:49:48+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x2jf0y/qwen3635ba3b_on_the_strix_halo_with_64gb_of_memory",
+   "source": "reddit",
+   "title": "qwen3.6-35b-a3b on the Strix Halo with 64GB of memory",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2jf0y/qwen3635ba3b_on_the_strix_halo_with_64gb_of_memory/",
+   "published_at": "2026-10-10T16:25:13+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x2j3gx/48gb_vram_speed_and_quality_qwen_38_27b_swift_15",
+   "source": "reddit",
+   "title": "48Gb VRAM speed AND quality ! (Qwen 3.8 27B Swift 1.5 W8A16)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2j3gx/48gb_vram_speed_and_quality_qwen_38_27b_swift_15/",
+   "published_at": "2026-10-10T16:11:34+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x2hs1e/no_more_rtx_5090",
+   "source": "reddit",
+   "title": "No more RTX 5090",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2hs1e/no_more_rtx_5090/",
+   "published_at": "2026-10-10T15:16:16+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x2f194/is_there_a_better_option_than_llamacpp_for_4gb",
+   "source": "reddit",
+   "title": "Is there a better option than llama.cpp for 4GB VRAM for Higher tokens/sec?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2f194/is_there_a_better_option_than_llamacpp_for_4gb/",
+   "published_at": "2026-10-10T13:14:30+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x2erdj/qwen3827b_on_a_single_3090_140_toks_on_code_with",
+   "source": "reddit",
+   "title": "Qwen3.8-27B on a single 3090: 140 tok/s on code with a custom megakernel",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2erdj/qwen3827b_on_a_single_3090_140_toks_on_code_with/",
+   "published_at": "2026-10-10T13:01:23+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x2eeds/opensource_mac_app_that_runs_embeddinggemma_2",
+   "source": "reddit",
+   "title": "Open-source Mac app that runs EmbeddingGemma 2 locally to search your files by what’s in them",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2eeds/opensource_mac_app_that_runs_embeddinggemma_2/",
+   "published_at": "2026-10-10T12:43:33+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x2donu/improve_token_per_second_without_touching_quant",
+   "source": "reddit",
+   "title": "Improve token per second without touching quant",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2donu/improve_token_per_second_without_touching_quant/",
+   "published_at": "2026-10-10T12:05:52+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x2cztv/fully_local_conversational_ai_whisper_hermes_8b",
+   "source": "reddit",
+   "title": "Fully local conversational AI: Whisper + Hermes 8B + Kokoro, zero cloud, running inside a plush toy",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2cztv/fully_local_conversational_ai_whisper_hermes_8b/",
+   "published_at": "2026-10-10T11:28:41+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x2bt6r/nvidia_reportedly_discontinuing_rtx_5090_gb202",
+   "source": "reddit",
+   "title": "NVIDIA reportedly discontinuing RTX 5090, GB202 GPUs to be reserved for RTX PRO series",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2bt6r/nvidia_reportedly_discontinuing_rtx_5090_gb202/",
+   "published_at": "2026-10-10T10:20:08+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x2br9j/how_to_create_my_own_benchmarks",
+   "source": "reddit",
+   "title": "How to create my own benchmarks",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2br9j/how_to_create_my_own_benchmarks/",
+   "published_at": "2026-10-10T10:16:47+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x2bbx6/strata_with_qwen38_flash_next_udq4_k_xl",
+   "source": "reddit",
+   "title": "Strata with Qwen3.8 Flash Next UD-Q4_K_XL",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2bbx6/strata_with_qwen38_flash_next_udq4_k_xl/",
+   "published_at": "2026-10-10T09:50:37+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x29nii/sharing_my_latest_project_stratamlx",
+   "source": "reddit",
+   "title": "Sharing my latest project: strata-mlx",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x29nii/sharing_my_latest_project_stratamlx/",
+   "published_at": "2026-10-10T08:03:30+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x29hx8/big_or_small",
+   "source": "reddit",
+   "title": "big or small?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x29hx8/big_or_small/",
+   "published_at": "2026-10-10T07:54:15+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x280nz/microsoft_doubles_down_on_local_ai_with_nvidia",
+   "source": "reddit",
+   "title": "microsoft doubles down on local ai with nvidia, but with a cost",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x280nz/microsoft_doubles_down_on_local_ai_with_nvidia/",
+   "published_at": "2026-10-10T06:23:41+00:00",
+   "extra": ""
+  },
+  {
+   "id": "hn:50034625",
+   "source": "hn",
+   "title": "Show HN: LoRA over GGUF – Train Qwen3.8-Flash-Next in 40G VRAM",
+   "url": "https://github.com/woct0rdho/transformers5-qwen3.5-recipe",
+   "published_at": "2026-10-10T16:43:43Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:50030849",
+   "source": "hn",
+   "title": "Show HN: Open Components – UI Components standard for people, devs and AI agents",
+   "url": "https://opencomponents.dev/",
+   "published_at": "2026-10-10T08:24:05Z",
+   "extra": "points=5"
+  },
+  {
+   "id": "hn:50036439",
+   "source": "hn",
+   "title": "Mspep – Encryption from physical sensor entropy (defensive publication)",
+   "url": "https://news.ycombinator.com/item?id=50036439",
+   "published_at": "2026-10-10T19:44:02Z",
+   "extra": "points=2"
+  },
+  {
+   "id": "hn:50017172",
+   "source": "hn",
+   "title": "Can an AI learn what you like, rather than just what you've searched for?",
+   "url": "https://news.ycombinator.com/item?id=50017172",
+   "published_at": "2026-10-09T07:18:41Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:50031583",
+   "source": "hn",
+   "title": "Show HN: SqlFlow – Durable Workflows Backed by PostgreSQL or SQL Server",
+   "url": "https://github.com/bytefish/SqlFlow",
+   "published_at": "2026-10-10T10:47:33Z",
+   "extra": "points=2"
+  },
+  {
+   "id": "hn:50029811",
+   "source": "hn",
+   "title": "Need Unbiased and Real Assessment",
+   "url": "https://news.ycombinator.com/item?id=50029811",
+   "published_at": "2026-10-10T05:20:30Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:50025559",
+   "source": "hn",
+   "title": "Show HN: Lacuna – open-source inline AI writing suggestions for your Mac",
+   "url": "https://jackdamon.org/blog/lacuna/",
+   "published_at": "2026-10-09T19:31:15Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wn2dee/xiaomimimomimov26distillqwen9b",
+   "source": "reddit",
+   "title": "XiaomiMiMo/MiMo-V2.6-Distill-Qwen-9B",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wn2dee/xiaomimimomimov26distillqwen9b/",
+   "published_at": "2026-09-22T07:07:25+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wn1t6a/r_complex_kda_understanding_and_enhancing_the",
+   "source": "reddit",
+   "title": "[R] Complex KDA: Understanding and Enhancing the Expressivity of Kimi Delta Attention",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wn1t6a/r_complex_kda_understanding_and_enhancing_the/",
+   "published_at": "2026-09-22T06:34:34+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wn16m6/cost_of_a_local_setup_for_coding",
+   "source": "reddit",
+   "title": "Cost of a local set-up for coding?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wn16m6/cost_of_a_local_setup_for_coding/",
+   "published_at": "2026-09-22T05:59:30+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wn0mm4/i_gave_a_local_qwen38_27b_agent_my_amazon_account",
+   "source": "reddit",
+   "title": "I gave a local Qwen3.8 27B agent my Amazon account — and it bought paper for me",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wn0mm4/i_gave_a_local_qwen38_27b_agent_my_amazon_account/",
+   "published_at": "2026-09-22T05:28:18+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wn0duq/a_quick_performance_comparison_between_rocm_and",
+   "source": "reddit",
+   "title": "A quick performance comparison between ROCm and Vulkan with DSv4 Flash 0731 and Qwen 3.8 Flash next on R9700+Strix Halo in llama.cpp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wn0duq/a_quick_performance_comparison_between_rocm_and/",
+   "published_at": "2026-09-22T05:15:07+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wmzg1g/efficient_fine_tune_storage",
+   "source": "reddit",
+   "title": "efficient fine tune storage",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmzg1g/efficient_fine_tune_storage/",
+   "published_at": "2026-09-22T04:24:30+00:00",
+   "extra": ""
+  },
+  {
+   "id": "hn:49673323",
+   "source": "hn",
+   "title": "Reddit Now Blocking Firefox for Android with uBlock Origin",
+   "url": "https://news.ycombinator.com/item?id=49673323",
+   "published_at": "2026-09-12T15:28:53Z",
+   "extra": "points=6"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wtfb8o/nonlocal_has_subscriptionbased_kimi_kimi_code",
+   "source": "reddit",
+   "title": "[Non-local] Has subscription-based Kimi / Kimi Code gotten worse over the past few weeks?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtfb8o/nonlocal_has_subscriptionbased_kimi_kimi_code/",
+   "published_at": "2026-09-29T16:48:01+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wt6gkp/iquestlabiquestq1_hugging_face",
+   "source": "reddit",
+   "title": "IQuestLab/IQuest-Q1 · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wt6gkp/iquestlabiquestq1_hugging_face/",
+   "published_at": "2026-09-29T10:24:10+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wt6f3d/jev_mode_for_images",
+   "source": "reddit",
+   "title": "Jev mode for images!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wt6f3d/jev_mode_for_images/",
+   "published_at": "2026-09-29T10:21:44+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wt5zw2/50b_moes_with_few_active_parameters_whats_the",
+   "source": "reddit",
+   "title": "50B+ MoEs with few active parameters, what's the sweet spot for intelligence, agent speed, and affordable fine-tuning?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wt5zw2/50b_moes_with_few_active_parameters_whats_the/",
+   "published_at": "2026-09-29T09:57:25+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wt5m69/im_building_an_opensource_browser_agent_that_can",
+   "source": "reddit",
+   "title": "I’m building an open-source browser agent that can run locally with LM Studio/Ollama — including a 450M browser VLM",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wt5m69/im_building_an_opensource_browser_agent_that_can/",
+   "published_at": "2026-09-29T09:33:23+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wt5lgo/is_there_even_an_easy_seamless_vision_assistant",
+   "source": "reddit",
+   "title": "Is there even an easy, seamless vision assistant program?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wt5lgo/is_there_even_an_easy_seamless_vision_assistant/",
+   "published_at": "2026-09-29T09:32:15+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wt5f4e/looks_like_the_era_of_subsidised_compute_is",
+   "source": "reddit",
+   "title": "Looks like the era of subsidised compute is coming to an end. The old ChatGPT Pro $200 20x plan will be halved. The new $500 plan will have similar limits as the (old) $200 plan.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wt5f4e/looks_like_the_era_of_subsidised_compute_is/",
+   "published_at": "2026-09-29T09:21:01+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wt55ac/what_would_you_buy_for_5k10k_usd",
+   "source": "reddit",
+   "title": "What would you buy for $5k...$10k USD?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wt55ac/what_would_you_buy_for_5k10k_usd/",
+   "published_at": "2026-09-29T09:03:34+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wt41c1/where_are_the_opus_55_datasets",
+   "source": "reddit",
+   "title": "Where are the Opus 5.5 datasets?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wt41c1/where_are_the_opus_55_datasets/",
+   "published_at": "2026-09-29T07:52:42+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wt35c6/ornith15_dflash",
+   "source": "reddit",
+   "title": "Ornith-1.5 DFlash",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wt35c6/ornith15_dflash/",
+   "published_at": "2026-09-29T06:57:10+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wt33uu/is_ai_profitable_yet",
+   "source": "reddit",
+   "title": "Is AI Profitable Yet?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wt33uu/is_ai_profitable_yet/",
+   "published_at": "2026-09-29T06:54:35+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wfcurd/trump_says_not_to_slow_down_ai_development",
+   "source": "reddit",
+   "title": "Trump says not to slow down AI development",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfcurd/trump_says_not_to_slow_down_ai_development/",
+   "published_at": "2026-09-13T16:49:03+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openrouter:inference-net/schematron-v2-turbo",
+   "source": "openrouter",
+   "title": "Inference.net: Schematron V2 Turbo",
+   "url": "https://openrouter.ai/inference-net/schematron-v2-turbo",
+   "published_at": "2026-09-12T01:35:49+00:00",
+   "extra": "context=128000"
+  },
+  {
+   "id": "openrouter:inference-net/schematron-v2-small",
+   "source": "openrouter",
+   "title": "Inference.net: Schematron V2 Small",
+   "url": "https://openrouter.ai/inference-net/schematron-v2-small",
+   "published_at": "2026-09-12T01:35:33+00:00",
+   "extra": "context=128000"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wklppz/has_anyone_bought_a_cmp_170hx_8gb_and_can_point",
+   "source": "reddit",
+   "title": "Has anyone bought a CMP 170HX 8GB and can point me to the seller?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wklppz/has_anyone_bought_a_cmp_170hx_8gb_and_can_point/",
+   "published_at": "2026-09-19T13:03:36+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wkldv3/rewritable_ngrams",
+   "source": "reddit",
+   "title": "Re-writable n-grams?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkldv3/rewritable_ngrams/",
+   "published_at": "2026-09-19T12:48:27+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wkl0c6/is_there_something_like_ninfer_but_for_16gb_cards",
+   "source": "reddit",
+   "title": "Is there something like NInfer but for 16GB cards?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkl0c6/is_there_something_like_ninfer_but_for_16gb_cards/",
+   "published_at": "2026-09-19T12:31:06+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wkkxl7/what_are_your_sources_for_keeping_up_with_ai",
+   "source": "reddit",
+   "title": "What are your sources for keeping up with AI learning?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkkxl7/what_are_your_sources_for_keeping_up_with_ai/",
+   "published_at": "2026-09-19T12:27:34+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wkjs20/1451_verified_maxeffort_reasoning_traces_from",
+   "source": "reddit",
+   "title": "1,451 verified max-effort reasoning traces from DeepSeek v4.1 Flash, decontaminated against AIME + MATH-500 — MIT",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkjs20/1451_verified_maxeffort_reasoning_traces_from/",
+   "published_at": "2026-09-19T11:29:50+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wkjm9f/references_to_minimax_m31_appear_in_test_files_in",
+   "source": "reddit",
+   "title": "References to MiniMax M3.1 appear in test files in a recent commit to the MiniMax-Code Repo",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkjm9f/references_to_minimax_m31_appear_in_test_files_in/",
+   "published_at": "2026-09-19T11:21:16+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wkj13w/4x_rtx_3090_pcie_40_x16_advice_qwen_38_next_flash",
+   "source": "reddit",
+   "title": "4x RTX 3090 PCIe 4.0 x16 - advice? Qwen 3.8 Next Flash?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkj13w/4x_rtx_3090_pcie_40_x16_advice_qwen_38_next_flash/",
+   "published_at": "2026-09-19T10:49:14+00:00",
    "extra": ""
   }
  ],
@@ -22426,6 +22484,26 @@
    "extra": "",
    "event_type": "release",
    "summary": "How was your experience with this model?"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x2nn4b/benefits_of_using_bigger_models_than_qwen_38",
+   "source": "reddit",
+   "title": "Benefits of using bigger models than Qwen 3.8 flash next?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2nn4b/benefits_of_using_bigger_models_than_qwen_38/",
+   "published_at": "2026-10-10T19:21:28+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "Benefits of using bigger models than Qwen 3.8 flash next?"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x2ly4g/i_asked_3_qwen_38_models_to_solve_recent_atcoder",
+   "source": "reddit",
+   "title": "I asked 3 Qwen 3.8 models to solve recent AtCoder problems at 4 thinking efforts",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2ly4g/i_asked_3_qwen_38_models_to_solve_recent_atcoder/",
+   "published_at": "2026-10-10T18:10:24+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "I asked 3 Qwen 3.8 models to solve recent AtCoder problems at 4 thinking efforts"
   }
  ]
 }
