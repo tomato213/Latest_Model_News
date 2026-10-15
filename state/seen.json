@@ -3093,113 +3093,22 @@
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x62zrw/whats_the_most_powerful_model_i_can_realistically": "2026-10-14T23:08:51.787169+00:00",
   "hn:50064470": "2026-10-15T01:46:13.412376+00:00",
   "hn:50097607": "2026-10-15T01:46:14.075146+00:00",
-  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6an4v/did_someone_usetry_the_qwen_flash_38_next_coder": "2026-10-15T07:19:56.008692+00:00"
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6an4v/did_someone_usetry_the_qwen_flash_38_next_coder": "2026-10-15T07:19:56.008692+00:00",
+  "openai:https://openai.com/index/higgsfield-longer-videos-voice": "2026-10-15T12:50:02.589814+00:00",
+  "openrouter:scaledown/summarize": "2026-10-15T12:50:02.589814+00:00",
+  "openrouter:scaledown/extract": "2026-10-15T12:50:02.589814+00:00",
+  "hn:50070055": "2026-10-15T12:50:02.589814+00:00",
+  "hn:50070306": "2026-10-15T12:50:02.589814+00:00",
+  "hn:50069921": "2026-10-15T12:50:02.589814+00:00",
+  "hn:50070010": "2026-10-15T12:50:02.589814+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6jgtq/no_model_is_better_than_another_its_the_god_damn": "2026-10-15T12:50:03.021625+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6ijlk/nvidia_ai_so_many_models_launching_this_week_and": "2026-10-15T12:50:03.021625+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6hrly/hdteneightypgptusenet6_a_new_lightweight_model": "2026-10-15T12:50:03.021625+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6h51s/137b_a68b_model_from_microsoft": "2026-10-15T12:50:03.021625+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6gpqq/tyger_openweights_asr_fullduplex_turn_control_in": "2026-10-15T12:50:03.021625+00:00",
+  "hn:50102562": "2026-10-15T12:50:03.021625+00:00"
  },
  "pending": [
-  {
-   "id": "hn:49749716",
-   "source": "hn",
-   "title": "Show HN: Jinx – a link shortener you host free on GitHub Pages",
-   "url": "https://jinx.fyi",
-   "published_at": "2026-09-18T02:56:04Z",
-   "extra": "points=2"
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wwb0lh/datainventor_an_opensource_replication_of",
-   "source": "reddit",
-   "title": "DataInventor: an open-source replication of Adoption Lab's Invent a Dataset",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwb0lh/datainventor_an_opensource_replication_of/",
-   "published_at": "2026-10-03T01:40:33+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wwavua/the_fastest_interference_engine_for_rtx5090_and",
-   "source": "reddit",
-   "title": "The fastest interference engine for RTX5090 and Qwen3.8 27B. Twice as fast as ninfer. 500+ t/s single coding, 2000+t/s up to 12 agents at the same time with 800k context. Smart VRAM-RAM-DISC Cache management, Loop Guard, Nice UI etc.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwavua/the_fastest_interference_engine_for_rtx5090_and/",
-   "published_at": "2026-10-03T01:33:19+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wwamjw/strata_rtx_3090_128_ram_qwen_38_flash_next",
-   "source": "reddit",
-   "title": "Strata - RTX 3090 - 128 Ram - Qwen 3.8 Flash Next",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwamjw/strata_rtx_3090_128_ram_qwen_38_flash_next/",
-   "published_at": "2026-10-03T01:19:33+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1ww8iuk/linkup_ai_sever_pcie_60x16_cables",
-   "source": "reddit",
-   "title": "LINKUP AI sever PCIE 6.0x16 Cables",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ww8iuk/linkup_ai_sever_pcie_60x16_cables/",
-   "published_at": "2026-10-02T23:34:20+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1ww86ny/so_should_we_turn_the_page_on_this_past_week_hype",
-   "source": "reddit",
-   "title": "So... Should we turn the page on this past week hype? or Do you have any success cases to inspire the rest?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ww86ny/so_should_we_turn_the_page_on_this_past_week_hype/",
-   "published_at": "2026-10-02T23:18:18+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1ww7rxb/2x_3090_in_server_chassis_upgrade_time",
-   "source": "reddit",
-   "title": "2x 3090 in server chassis, upgrade time",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ww7rxb/2x_3090_in_server_chassis_upgrade_time/",
-   "published_at": "2026-10-02T22:59:08+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1ww6wvo/ive_ended_up_with_an_ai_lab_in_a_public_community",
-   "source": "reddit",
-   "title": "I've ended up with an AI lab in a public community college. What should we actually be teaching?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ww6wvo/ive_ended_up_with_an_ai_lab_in_a_public_community/",
-   "published_at": "2026-10-02T22:18:29+00:00",
-   "extra": ""
-  },
-  {
-   "id": "hn:49920621",
-   "source": "hn",
-   "title": "Show HN: Silta: family assistant on Matrix with continuity across context limits",
-   "url": "https://github.com/dmitry-markin/silta",
-   "published_at": "2026-10-01T12:11:34Z",
-   "extra": "points=4"
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wggdpk/how_would_you_improve_my_qwen38_flash_next_setup",
-   "source": "reddit",
-   "title": "How would you improve my Qwen3.8 Flash Next setup?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wggdpk/how_would_you_improve_my_qwen38_flash_next_setup/",
-   "published_at": "2026-09-14T21:15:37+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wgg4sx/animated_transition_from_aa_intelligence_index",
-   "source": "reddit",
-   "title": "Animated transition from AA Intelligence Index v4.1 to v4.3",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgg4sx/animated_transition_from_aa_intelligence_index/",
-   "published_at": "2026-09-14T21:06:23+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wgeo55/nvidias_rtx_5090_vanishes_from_online_retail_in",
-   "source": "reddit",
-   "title": "Nvidia's RTX 5090 vanishes from online retail in the US — third-party sellers now demand as much as $9,500 for Nvidia's fastest GPU",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgeo55/nvidias_rtx_5090_vanishes_from_online_retail_in/",
-   "published_at": "2026-09-14T20:12:31+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wgdi3q/base10s_charlie_oneill_on_why_kimi_and_glm_are",
-   "source": "reddit",
-   "title": "Base-10's Charlie O'Neill on why Kimi and GLM are \"almost objectively\" better than Opus 5",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgdi3q/base10s_charlie_oneill_on_why_kimi_and_glm_are/",
-   "published_at": "2026-09-14T19:30:55+00:00",
-   "extra": ""
-  },
   {
    "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wgd14p/nvidia_unveils_rtx_pro_5500_blackwell_workstation",
    "source": "reddit",
@@ -17577,108 +17486,12 @@
    "extra": ""
   },
   {
-   "id": "openai:https://openai.com/index/sentinelone",
-   "source": "openai",
-   "title": "SentinelOne cuts malware analysis from weeks to hours",
-   "url": "https://openai.com/index/sentinelone",
-   "published_at": "2026-10-14T12:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "openai:https://openai.com/index/third-moment-research",
-   "source": "openai",
-   "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-   "url": "https://openai.com/index/third-moment-research",
-   "published_at": "2026-10-14T07:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "openai:https://openai.com/index/block-ai-powered-security",
-   "source": "openai",
-   "title": "How Block is building AI-powered security with OpenAI technology",
-   "url": "https://openai.com/index/block-ai-powered-security",
-   "published_at": "2026-10-14T07:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "openai:https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-   "source": "openai",
-   "title": "The EU’s next chapter in AI is agentic",
-   "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-   "published_at": "2026-10-14T00:00:00+00:00",
-   "extra": ""
-  },
-  {
    "id": "openai:https://openai.com/index/higgsfield-longer-videos-voice",
    "source": "openai",
    "title": "Higgsfield takes AI video from 1 minute to over 10",
    "url": "https://openai.com/index/higgsfield-longer-videos-voice",
    "published_at": "2026-10-13T12:00:00+00:00",
    "extra": ""
-  },
-  {
-   "id": "anthropic:2026-us-midterms",
-   "source": "anthropic",
-   "title": "2026 Us Midterms",
-   "url": "https://www.anthropic.com/news/2026-us-midterms",
-   "published_at": "2026-10-14T00:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "anthropic:singapore-office-opening",
-   "source": "anthropic",
-   "title": "Singapore Office Opening",
-   "url": "https://www.anthropic.com/news/singapore-office-opening",
-   "published_at": "2026-10-14T00:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "hf:microsoft/UserRepGen-4B",
-   "source": "hf",
-   "title": "microsoft/UserRepGen-4B",
-   "url": "https://huggingface.co/microsoft/UserRepGen-4B",
-   "published_at": "2026-10-14T20:30:00.000Z",
-   "extra": "downloads=0 likes=0"
-  },
-  {
-   "id": "openrouter:~unbiased/pareto-latest",
-   "source": "openrouter",
-   "title": "Pareto Latest",
-   "url": "https://openrouter.ai/~unbiased/pareto-latest",
-   "published_at": "2026-10-13T23:10:50+00:00",
-   "extra": "context=262144"
-  },
-  {
-   "id": "openrouter:unbiased/pareto-26.9",
-   "source": "openrouter",
-   "title": "Pareto 26.9",
-   "url": "https://openrouter.ai/unbiased/pareto-26.9",
-   "published_at": "2026-10-13T22:28:57+00:00",
-   "extra": "context=262144"
-  },
-  {
-   "id": "openrouter:liquid/lfm-2.5-24b-a2b",
-   "source": "openrouter",
-   "title": "LiquidAI: LFM2.5-24B-A2B",
-   "url": "https://openrouter.ai/liquid/lfm-2.5-24b-a2b",
-   "published_at": "2026-10-13T17:20:25+00:00",
-   "extra": "context=128000"
-  },
-  {
-   "id": "openrouter:google/gemini-4-argon",
-   "source": "openrouter",
-   "title": "Google: Gemini 4 Argon",
-   "url": "https://openrouter.ai/google/gemini-4-argon",
-   "published_at": "2026-10-13T16:04:37+00:00",
-   "extra": "context=1048576"
-  },
-  {
-   "id": "openrouter:google/gemini-4-argon:batch",
-   "source": "openrouter",
-   "title": "Google: Gemini 4 Argon (batch)",
-   "url": "https://openrouter.ai/google/gemini-4-argon:batch",
-   "published_at": "2026-10-13T16:04:37+00:00",
-   "extra": "context=1048576"
   },
   {
    "id": "openrouter:scaledown/summarize",
@@ -17697,43 +17510,11 @@
    "extra": "context=1000000"
   },
   {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6emqg/egpu_on_blackwell_for_inferencingdisplay",
-   "source": "reddit",
-   "title": "eGPU on blackwell for inferencing/display?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6emqg/egpu_on_blackwell_for_inferencingdisplay/",
-   "published_at": "2026-10-15T06:48:51+00:00",
-   "extra": ""
-  },
-  {
    "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6dydc/local_ai_tool_for_2d_game_animation_from",
    "source": "reddit",
    "title": "Local AI tool for 2D game animation: from reference to sprite-sheet/export without sending assets to the cloud",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6dydc/local_ai_tool_for_2d_game_animation_from/",
    "published_at": "2026-10-15T06:06:05+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6dx5x/stepfun_step5preview_released_600b27b1m_context",
-   "source": "reddit",
-   "title": "Stepfun Step-5-Preview released! (600B/27B-1M Context)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6dx5x/stepfun_step5preview_released_600b27b1m_context/",
-   "published_at": "2026-10-15T06:04:04+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6c5px/chickencoop_shed_ai_pc",
-   "source": "reddit",
-   "title": "Chicken-coop shed AI PC",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6c5px/chickencoop_shed_ai_pc/",
-   "published_at": "2026-10-15T04:20:47+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x69sit/upgrade_x299_build_a_43090_rig_or_sell_the_extra",
-   "source": "reddit",
-   "title": "Upgrade X299, build a 4×3090 rig, or sell the extra GPUs? Looking for advice",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x69sit/upgrade_x299_build_a_43090_rig_or_sell_the_extra/",
-   "published_at": "2026-10-15T02:15:07+00:00",
    "extra": ""
   },
   {
@@ -17865,60 +17646,12 @@
    "extra": ""
   },
   {
-   "id": "hn:50092470",
-   "source": "hn",
-   "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
-   "url": "https://petal.live/",
-   "published_at": "2026-10-14T18:23:14Z",
-   "extra": "points=21"
-  },
-  {
-   "id": "hn:50091939",
-   "source": "hn",
-   "title": "Show HN: Golang DL/ML primitives with inference, diffusion, vision, systemone",
-   "url": "https://github.com/computerex/dlgo",
-   "published_at": "2026-10-14T17:53:56Z",
-   "extra": "points=2"
-  },
-  {
    "id": "hn:50070055",
    "source": "hn",
    "title": "Show HN: Forkcast, a meal planner and tracker with focus on weekly planning",
    "url": "https://check-forkcast.tizzy.dev/",
    "published_at": "2026-10-13T11:38:24Z",
    "extra": "points=1"
-  },
-  {
-   "id": "hn:50099986",
-   "source": "hn",
-   "title": "Show HN: Daily image location guessing agains AI",
-   "url": "https://mediaguesser.com/human-vs-ai",
-   "published_at": "2026-10-15T06:29:23Z",
-   "extra": "points=1"
-  },
-  {
-   "id": "hn:50086945",
-   "source": "hn",
-   "title": "Show HN: Train with Pasta. Workouts Powered by Apple Intelligence",
-   "url": "https://apps.apple.com/us/app/train-with-pasta/id6796564751",
-   "published_at": "2026-10-14T12:52:03Z",
-   "extra": "points=1"
-  },
-  {
-   "id": "hn:50085405",
-   "source": "hn",
-   "title": "Show HN: Mnemify – 3D terrain map merging Confluence, Notion, Obsidian",
-   "url": "https://github.com/mnemify-ai/mnemify",
-   "published_at": "2026-10-14T10:36:34Z",
-   "extra": "points=3"
-  },
-  {
-   "id": "hn:50085022",
-   "source": "hn",
-   "title": "Show HN: A guided 3D Leonardo da Vinci museum, built in code",
-   "url": "https://museumofages.org/w/vinci",
-   "published_at": "2026-10-14T10:00:24Z",
-   "extra": "points=2"
   },
   {
    "id": "hn:50070306",
@@ -17935,22 +17668,6 @@
    "url": "https://github.com/scs0209/laya-guard",
    "published_at": "2026-10-13T11:22:25Z",
    "extra": "points=2"
-  },
-  {
-   "id": "hn:50089352",
-   "source": "hn",
-   "title": "Show HN: Turn newsletters and blogs into a podcast feed",
-   "url": "https://github.com/akspad/newsletter-to-podcast",
-   "published_at": "2026-10-14T15:37:22Z",
-   "extra": "points=2"
-  },
-  {
-   "id": "hn:50079786",
-   "source": "hn",
-   "title": "Ask HN: How long before someone reverse-engineers Windows?",
-   "url": "https://news.ycombinator.com/item?id=50079786",
-   "published_at": "2026-10-13T22:27:00Z",
-   "extra": "points=3"
   },
   {
    "id": "hn:50070010",
@@ -18047,6 +17764,438 @@
    "url": "https://github.com/lumizone/postsider",
    "published_at": "2026-09-18T13:46:52Z",
    "extra": "points=1"
+  },
+  {
+   "id": "openai:https://openai.com/index/sentinelone",
+   "source": "openai",
+   "title": "SentinelOne cuts malware analysis from weeks to hours",
+   "url": "https://openai.com/index/sentinelone",
+   "published_at": "2026-10-14T12:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/third-moment-research",
+   "source": "openai",
+   "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+   "url": "https://openai.com/index/third-moment-research",
+   "published_at": "2026-10-14T07:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/block-ai-powered-security",
+   "source": "openai",
+   "title": "How Block is building AI-powered security with OpenAI technology",
+   "url": "https://openai.com/index/block-ai-powered-security",
+   "published_at": "2026-10-14T07:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+   "source": "openai",
+   "title": "The EU’s next chapter in AI is agentic",
+   "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+   "published_at": "2026-10-14T00:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "anthropic:2026-us-midterms",
+   "source": "anthropic",
+   "title": "2026 Us Midterms",
+   "url": "https://www.anthropic.com/news/2026-us-midterms",
+   "published_at": "2026-10-14T00:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "anthropic:singapore-office-opening",
+   "source": "anthropic",
+   "title": "Singapore Office Opening",
+   "url": "https://www.anthropic.com/news/singapore-office-opening",
+   "published_at": "2026-10-14T00:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "hf:microsoft/UserRepGen-4B",
+   "source": "hf",
+   "title": "microsoft/UserRepGen-4B",
+   "url": "https://huggingface.co/microsoft/UserRepGen-4B",
+   "published_at": "2026-10-14T20:30:00.000Z",
+   "extra": "downloads=0 likes=0"
+  },
+  {
+   "id": "openrouter:~unbiased/pareto-latest",
+   "source": "openrouter",
+   "title": "Pareto Latest",
+   "url": "https://openrouter.ai/~unbiased/pareto-latest",
+   "published_at": "2026-10-13T23:10:50+00:00",
+   "extra": "context=262144"
+  },
+  {
+   "id": "openrouter:unbiased/pareto-26.9",
+   "source": "openrouter",
+   "title": "Pareto 26.9",
+   "url": "https://openrouter.ai/unbiased/pareto-26.9",
+   "published_at": "2026-10-13T22:28:57+00:00",
+   "extra": "context=262144"
+  },
+  {
+   "id": "openrouter:liquid/lfm-2.5-24b-a2b",
+   "source": "openrouter",
+   "title": "LiquidAI: LFM2.5-24B-A2B",
+   "url": "https://openrouter.ai/liquid/lfm-2.5-24b-a2b",
+   "published_at": "2026-10-13T17:20:25+00:00",
+   "extra": "context=128000"
+  },
+  {
+   "id": "openrouter:google/gemini-4-argon",
+   "source": "openrouter",
+   "title": "Google: Gemini 4 Argon",
+   "url": "https://openrouter.ai/google/gemini-4-argon",
+   "published_at": "2026-10-13T16:04:37+00:00",
+   "extra": "context=1048576"
+  },
+  {
+   "id": "openrouter:google/gemini-4-argon:batch",
+   "source": "openrouter",
+   "title": "Google: Gemini 4 Argon (batch)",
+   "url": "https://openrouter.ai/google/gemini-4-argon:batch",
+   "published_at": "2026-10-13T16:04:37+00:00",
+   "extra": "context=1048576"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6km4b/strata_on_mi50",
+   "source": "reddit",
+   "title": "Strata on MI50?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6km4b/strata_on_mi50/",
+   "published_at": "2026-10-15T12:43:06+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6jump/strata_might_be_actually_really_detrimental_for",
+   "source": "reddit",
+   "title": "Strata might be actually really detrimental for intelligence? or is it Swift and GSQ-RCO? or both?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6jump/strata_might_be_actually_really_detrimental_for/",
+   "published_at": "2026-10-15T12:05:20+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6jel1/tencent_hy4_preview_getting_in_on_the_rogue_agent",
+   "source": "reddit",
+   "title": "Tencent (Hy4 Preview?) getting in on the rogue agent game",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6jel1/tencent_hy4_preview_getting_in_on_the_rogue_agent/",
+   "published_at": "2026-10-15T11:42:38+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6iieq/overfitting_and_creativity",
+   "source": "reddit",
+   "title": "Overfitting and creativity",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6iieq/overfitting_and_creativity/",
+   "published_at": "2026-10-15T10:52:49+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6i6ll/sipeed_maixstation_page_is_live",
+   "source": "reddit",
+   "title": "Sipeed Maixstation page is live",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6i6ll/sipeed_maixstation_page_is_live/",
+   "published_at": "2026-10-15T10:33:17+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6hhq6/will_qwen4_be_ideal_on_intel_optane",
+   "source": "reddit",
+   "title": "Will Qwen4 be ideal on Intel Optane?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6hhq6/will_qwen4_be_ideal_on_intel_optane/",
+   "published_at": "2026-10-15T09:53:14+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6hbrd/axerabased_dgx_alternative",
+   "source": "reddit",
+   "title": "Axera-based DGX « alternative »",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6hbrd/axerabased_dgx_alternative/",
+   "published_at": "2026-10-15T09:42:42+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6h9hr/is_anyone_working_on_improving_prefill_speed_qwen",
+   "source": "reddit",
+   "title": "Is anyone working on improving prefill speed? (Qwen 27b, Flash)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6h9hr/is_anyone_working_on_improving_prefill_speed_qwen/",
+   "published_at": "2026-10-15T09:38:32+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6gxj3/ifmjais3",
+   "source": "reddit",
+   "title": "IFM/Jais-3",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6gxj3/ifmjais3/",
+   "published_at": "2026-10-15T09:17:07+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6gf0y/will_there_be_a_blackfriday_this_year_nvidia_rtx",
+   "source": "reddit",
+   "title": "Will there be a black-friday this year? NVIDIA RTX 5060 Ti 16 GB Surges Up To 144% In Japan, Hitting $1,292 As RTX 5080 Climbs Past $2,400",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6gf0y/will_there_be_a_blackfriday_this_year_nvidia_rtx/",
+   "published_at": "2026-10-15T08:45:18+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6fwcd/i_tested_qwen38_27b_kld_for_21_models_at_9",
+   "source": "reddit",
+   "title": "I tested Qwen3.8 27B KLD for 21 Models at 9 different KV quants that fit on 16GB VRAM (189 benchmarks).",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6fwcd/i_tested_qwen38_27b_kld_for_21_models_at_9/",
+   "published_at": "2026-10-15T08:11:09+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6fuy2/jais_3_is_out",
+   "source": "reddit",
+   "title": "Jais 3 is out",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6fuy2/jais_3_is_out/",
+   "published_at": "2026-10-15T08:08:39+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6fmxv/does_strata_on_multigpu_without_nvlink_worth_it",
+   "source": "reddit",
+   "title": "Does strata on multi-gpu without nvlink worth it?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6fmxv/does_strata_on_multigpu_without_nvlink_worth_it/",
+   "published_at": "2026-10-15T07:54:39+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6fif9/upgrade_advice_for_4th_card",
+   "source": "reddit",
+   "title": "Upgrade advice for 4th card",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6fif9/upgrade_advice_for_4th_card/",
+   "published_at": "2026-10-15T07:46:22+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6f9p2/new_tts_king_in_town_fishs_drama_3_35b3a",
+   "source": "reddit",
+   "title": "New TTS king in town: Fish's Drama 3 35B3A!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6f9p2/new_tts_king_in_town_fishs_drama_3_35b3a/",
+   "published_at": "2026-10-15T07:30:12+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6emqg/egpu_on_blackwell_for_inferencingdisplay",
+   "source": "reddit",
+   "title": "eGPU on blackwell for inferencing/display?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6emqg/egpu_on_blackwell_for_inferencingdisplay/",
+   "published_at": "2026-10-15T06:48:51+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6dx5x/stepfun_step5preview_released_600b27b1m_context",
+   "source": "reddit",
+   "title": "Stepfun Step-5-Preview released! (600B/27B-1M Context)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6dx5x/stepfun_step5preview_released_600b27b1m_context/",
+   "published_at": "2026-10-15T06:04:04+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6c5px/chickencoop_shed_ai_pc",
+   "source": "reddit",
+   "title": "Chicken-coop shed AI PC",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6c5px/chickencoop_shed_ai_pc/",
+   "published_at": "2026-10-15T04:20:47+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x69sit/upgrade_x299_build_a_43090_rig_or_sell_the_extra",
+   "source": "reddit",
+   "title": "Upgrade X299, build a 4×3090 rig, or sell the extra GPUs? Looking for advice",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x69sit/upgrade_x299_build_a_43090_rig_or_sell_the_extra/",
+   "published_at": "2026-10-15T02:15:07+00:00",
+   "extra": ""
+  },
+  {
+   "id": "hn:50101618",
+   "source": "hn",
+   "title": "Ling 3.1 Flash: 560B open-weight MoE, MIT license, 1M context",
+   "url": "https://huggingface.co/inclusionAI/Ling-3.1-flash",
+   "published_at": "2026-10-15T10:21:08Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:50092470",
+   "source": "hn",
+   "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
+   "url": "https://petal.live/",
+   "published_at": "2026-10-14T18:23:14Z",
+   "extra": "points=21"
+  },
+  {
+   "id": "hn:50091939",
+   "source": "hn",
+   "title": "Show HN: Golang DL/ML primitives with inference, diffusion, vision, systemone",
+   "url": "https://github.com/computerex/dlgo",
+   "published_at": "2026-10-14T17:53:56Z",
+   "extra": "points=2"
+  },
+  {
+   "id": "hn:50099986",
+   "source": "hn",
+   "title": "Show HN: Daily image location guessing agains AI",
+   "url": "https://mediaguesser.com/human-vs-ai",
+   "published_at": "2026-10-15T06:29:23Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:50086945",
+   "source": "hn",
+   "title": "Show HN: Train with Pasta. Workouts Powered by Apple Intelligence",
+   "url": "https://apps.apple.com/us/app/train-with-pasta/id6796564751",
+   "published_at": "2026-10-14T12:52:03Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:50085405",
+   "source": "hn",
+   "title": "Show HN: Mnemify – 3D terrain map merging Confluence, Notion, Obsidian",
+   "url": "https://github.com/mnemify-ai/mnemify",
+   "published_at": "2026-10-14T10:36:34Z",
+   "extra": "points=3"
+  },
+  {
+   "id": "hn:50085022",
+   "source": "hn",
+   "title": "Show HN: A guided 3D Leonardo da Vinci museum, built in code",
+   "url": "https://museumofages.org/w/vinci",
+   "published_at": "2026-10-14T10:00:24Z",
+   "extra": "points=2"
+  },
+  {
+   "id": "hn:50101086",
+   "source": "hn",
+   "title": "Show HN: Content-adaptive display brightness for macOS with DDC/CI support",
+   "url": "https://github.com/lenbrocki/lumos",
+   "published_at": "2026-10-15T09:02:42Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:50089352",
+   "source": "hn",
+   "title": "Show HN: Turn newsletters and blogs into a podcast feed",
+   "url": "https://github.com/akspad/newsletter-to-podcast",
+   "published_at": "2026-10-14T15:37:22Z",
+   "extra": "points=2"
+  },
+  {
+   "id": "hn:50079786",
+   "source": "hn",
+   "title": "Ask HN: How long before someone reverse-engineers Windows?",
+   "url": "https://news.ycombinator.com/item?id=50079786",
+   "published_at": "2026-10-13T22:27:00Z",
+   "extra": "points=3"
+  },
+  {
+   "id": "hn:49749716",
+   "source": "hn",
+   "title": "Show HN: Jinx – a link shortener you host free on GitHub Pages",
+   "url": "https://jinx.fyi",
+   "published_at": "2026-09-18T02:56:04Z",
+   "extra": "points=2"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wwb0lh/datainventor_an_opensource_replication_of",
+   "source": "reddit",
+   "title": "DataInventor: an open-source replication of Adoption Lab's Invent a Dataset",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwb0lh/datainventor_an_opensource_replication_of/",
+   "published_at": "2026-10-03T01:40:33+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wwavua/the_fastest_interference_engine_for_rtx5090_and",
+   "source": "reddit",
+   "title": "The fastest interference engine for RTX5090 and Qwen3.8 27B. Twice as fast as ninfer. 500+ t/s single coding, 2000+t/s up to 12 agents at the same time with 800k context. Smart VRAM-RAM-DISC Cache management, Loop Guard, Nice UI etc.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwavua/the_fastest_interference_engine_for_rtx5090_and/",
+   "published_at": "2026-10-03T01:33:19+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wwamjw/strata_rtx_3090_128_ram_qwen_38_flash_next",
+   "source": "reddit",
+   "title": "Strata - RTX 3090 - 128 Ram - Qwen 3.8 Flash Next",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwamjw/strata_rtx_3090_128_ram_qwen_38_flash_next/",
+   "published_at": "2026-10-03T01:19:33+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1ww8iuk/linkup_ai_sever_pcie_60x16_cables",
+   "source": "reddit",
+   "title": "LINKUP AI sever PCIE 6.0x16 Cables",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ww8iuk/linkup_ai_sever_pcie_60x16_cables/",
+   "published_at": "2026-10-02T23:34:20+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1ww86ny/so_should_we_turn_the_page_on_this_past_week_hype",
+   "source": "reddit",
+   "title": "So... Should we turn the page on this past week hype? or Do you have any success cases to inspire the rest?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ww86ny/so_should_we_turn_the_page_on_this_past_week_hype/",
+   "published_at": "2026-10-02T23:18:18+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1ww7rxb/2x_3090_in_server_chassis_upgrade_time",
+   "source": "reddit",
+   "title": "2x 3090 in server chassis, upgrade time",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ww7rxb/2x_3090_in_server_chassis_upgrade_time/",
+   "published_at": "2026-10-02T22:59:08+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1ww6wvo/ive_ended_up_with_an_ai_lab_in_a_public_community",
+   "source": "reddit",
+   "title": "I've ended up with an AI lab in a public community college. What should we actually be teaching?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ww6wvo/ive_ended_up_with_an_ai_lab_in_a_public_community/",
+   "published_at": "2026-10-02T22:18:29+00:00",
+   "extra": ""
+  },
+  {
+   "id": "hn:49920621",
+   "source": "hn",
+   "title": "Show HN: Silta: family assistant on Matrix with continuity across context limits",
+   "url": "https://github.com/dmitry-markin/silta",
+   "published_at": "2026-10-01T12:11:34Z",
+   "extra": "points=4"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wggdpk/how_would_you_improve_my_qwen38_flash_next_setup",
+   "source": "reddit",
+   "title": "How would you improve my Qwen3.8 Flash Next setup?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wggdpk/how_would_you_improve_my_qwen38_flash_next_setup/",
+   "published_at": "2026-09-14T21:15:37+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wgg4sx/animated_transition_from_aa_intelligence_index",
+   "source": "reddit",
+   "title": "Animated transition from AA Intelligence Index v4.1 to v4.3",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgg4sx/animated_transition_from_aa_intelligence_index/",
+   "published_at": "2026-09-14T21:06:23+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wgeo55/nvidias_rtx_5090_vanishes_from_online_retail_in",
+   "source": "reddit",
+   "title": "Nvidia's RTX 5090 vanishes from online retail in the US — third-party sellers now demand as much as $9,500 for Nvidia's fastest GPU",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgeo55/nvidias_rtx_5090_vanishes_from_online_retail_in/",
+   "published_at": "2026-09-14T20:12:31+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wgdi3q/base10s_charlie_oneill_on_why_kimi_and_glm_are",
+   "source": "reddit",
+   "title": "Base-10's Charlie O'Neill on why Kimi and GLM are \"almost objectively\" better than Opus 5",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgdi3q/base10s_charlie_oneill_on_why_kimi_and_glm_are/",
+   "published_at": "2026-09-14T19:30:55+00:00",
+   "extra": ""
   }
  ],
  "pending_push": [
@@ -25379,6 +25528,66 @@
    "extra": "",
    "event_type": "release",
    "summary": "Did someone use/try the Qwen flash 3.8 next \"coder\" model on some work?"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6jgtq/no_model_is_better_than_another_its_the_god_damn",
+   "source": "reddit",
+   "title": "No model is better than another its the god damn tools templates are broken & some tools need clean filenames",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6jgtq/no_model_is_better_than_another_its_the_god_damn/",
+   "published_at": "2026-10-15T11:46:05+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "No model is better than another its the god damn tools templates are broken & some tools need clean filenames"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6ijlk/nvidia_ai_so_many_models_launching_this_week_and",
+   "source": "reddit",
+   "title": "NVIDIA AI: So many models launching this week! And we have one of our own coming...",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6ijlk/nvidia_ai_so_many_models_launching_this_week_and/",
+   "published_at": "2026-10-15T10:54:47+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "NVIDIA AI: So many models launching this week! And we have one of our own coming..."
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6hrly/hdteneightypgptusenet6_a_new_lightweight_model",
+   "source": "reddit",
+   "title": "HDTenEightyP/GPT-USENET-6 · A new, lightweight model trained on USENET posts(including UTZOO), web scrapes, and fiction.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6hrly/hdteneightypgptusenet6_a_new_lightweight_model/",
+   "published_at": "2026-10-15T10:09:05+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "HDTenEightyP/GPT-USENET-6 · A new, lightweight model trained on USENET posts(including UTZOO), web scrapes, and fiction."
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6h51s/137b_a68b_model_from_microsoft",
+   "source": "reddit",
+   "title": "137B A6.8B model from Microsoft?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6h51s/137b_a68b_model_from_microsoft/",
+   "published_at": "2026-10-15T09:30:24+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "137B A6.8B model from Microsoft?"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6gpqq/tyger_openweights_asr_fullduplex_turn_control_in",
+   "source": "reddit",
+   "title": "TYGER | Open-weights ASR + full-duplex turn control in one model",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6gpqq/tyger_openweights_asr_fullduplex_turn_control_in/",
+   "published_at": "2026-10-15T09:04:21+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "TYGER | Open-weights ASR + full-duplex turn control in one model"
+  },
+  {
+   "id": "hn:50102562",
+   "source": "hn",
+   "title": "Open source for 27 years, unread: what LLMs changed about the Xanadu code",
+   "url": "https://dgjones.info/moat.html",
+   "published_at": "2026-10-15T12:15:22Z",
+   "extra": "points=1",
+   "event_type": "release",
+   "summary": "Open source for 27 years, unread: what LLMs changed about the Xanadu code"
   }
  ]
 }
