@@ -3106,65 +3106,19 @@
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6hrly/hdteneightypgptusenet6_a_new_lightweight_model": "2026-10-15T12:50:03.021625+00:00",
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6h51s/137b_a68b_model_from_microsoft": "2026-10-15T12:50:03.021625+00:00",
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6gpqq/tyger_openweights_asr_fullduplex_turn_control_in": "2026-10-15T12:50:03.021625+00:00",
-  "hn:50102562": "2026-10-15T12:50:03.021625+00:00"
+  "hn:50102562": "2026-10-15T12:50:03.021625+00:00",
+  "openrouter:liquid/lfm-2.5-24b-a2b": "2026-10-15T17:43:44.062895+00:00",
+  "openrouter:google/gemini-4-argon": "2026-10-15T17:43:44.062895+00:00",
+  "openrouter:google/gemini-4-argon:batch": "2026-10-15T17:43:44.062895+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6r9pz/introducing_muse_spark_open_the_most_capable_us": "2026-10-15T17:43:44.618355+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6qq0j/the_space_is_moving_quick_2x_4060_tensor_parallel": "2026-10-15T17:43:44.618355+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6q1w9/best_model_for_48gb_unified_ram_users": "2026-10-15T17:43:44.618355+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6o34h/whats_the_dumbest_thing_you_trust_your_llm_with": "2026-10-15T17:43:44.618355+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6nl8m/nvidianvidianemotron35supervl120ba12b_model": "2026-10-15T17:43:44.618355+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6nckq/nvidiaqwen38flashnextnvfp4_fp8_hybrid_by": "2026-10-15T17:43:44.618355+00:00",
+  "hn:50106620": "2026-10-15T17:43:44.618355+00:00"
  },
  "pending": [
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wgd14p/nvidia_unveils_rtx_pro_5500_blackwell_workstation",
-   "source": "reddit",
-   "title": "NVIDIA Unveils RTX PRO 5500 \"Blackwell\" Workstation GPU with 84 GB GDDR7 Memory",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgd14p/nvidia_unveils_rtx_pro_5500_blackwell_workstation/",
-   "published_at": "2026-09-14T19:14:28+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wgcv3e/what_happened_to_ai_browsers",
-   "source": "reddit",
-   "title": "What happened to AI browsers?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgcv3e/what_happened_to_ai_browsers/",
-   "published_at": "2026-09-14T19:08:35+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wgcpww/biweekly_megathread_project_showcase",
-   "source": "reddit",
-   "title": "[Bi-Weekly Megathread] Project Showcase",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgcpww/biweekly_megathread_project_showcase/",
-   "published_at": "2026-09-14T19:03:23+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wgblwu/stopped_my_room_turning_into_furnace_by",
-   "source": "reddit",
-   "title": "Stopped my room turning into furnace by throttling CPU and GPU",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgblwu/stopped_my_room_turning_into_furnace_by/",
-   "published_at": "2026-09-14T18:24:44+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wgaapw/questions_regarding_qwen_38_27b_and_hallucinated",
-   "source": "reddit",
-   "title": "Questions Regarding Qwen 3.8 27B and Hallucinated Classes/APIs?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgaapw/questions_regarding_qwen_38_27b_and_hallucinated/",
-   "published_at": "2026-09-14T17:40:15+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wga5hj/the_nvidia_cmp_170hx_8gb_64gb_149_tbs",
-   "source": "reddit",
-   "title": "The Nvidia CMP 170HX -- 8GB -> 64GB ~ 1.49 TB/s",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wga5hj/the_nvidia_cmp_170hx_8gb_64gb_149_tbs/",
-   "published_at": "2026-09-14T17:35:01+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wg9o1w/cost_savings_of_local",
-   "source": "reddit",
-   "title": "Cost savings of local",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wg9o1w/cost_savings_of_local/",
-   "published_at": "2026-09-14T17:18:14+00:00",
-   "extra": ""
-  },
   {
    "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wdx463/qwennext_seems_worse_to_me_then_38_27b_for_coding",
    "source": "reddit",
@@ -17766,78 +17720,6 @@
    "extra": "points=1"
   },
   {
-   "id": "openai:https://openai.com/index/sentinelone",
-   "source": "openai",
-   "title": "SentinelOne cuts malware analysis from weeks to hours",
-   "url": "https://openai.com/index/sentinelone",
-   "published_at": "2026-10-14T12:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "openai:https://openai.com/index/third-moment-research",
-   "source": "openai",
-   "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-   "url": "https://openai.com/index/third-moment-research",
-   "published_at": "2026-10-14T07:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "openai:https://openai.com/index/block-ai-powered-security",
-   "source": "openai",
-   "title": "How Block is building AI-powered security with OpenAI technology",
-   "url": "https://openai.com/index/block-ai-powered-security",
-   "published_at": "2026-10-14T07:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "openai:https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-   "source": "openai",
-   "title": "The EU’s next chapter in AI is agentic",
-   "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-   "published_at": "2026-10-14T00:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "anthropic:2026-us-midterms",
-   "source": "anthropic",
-   "title": "2026 Us Midterms",
-   "url": "https://www.anthropic.com/news/2026-us-midterms",
-   "published_at": "2026-10-14T00:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "anthropic:singapore-office-opening",
-   "source": "anthropic",
-   "title": "Singapore Office Opening",
-   "url": "https://www.anthropic.com/news/singapore-office-opening",
-   "published_at": "2026-10-14T00:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "hf:microsoft/UserRepGen-4B",
-   "source": "hf",
-   "title": "microsoft/UserRepGen-4B",
-   "url": "https://huggingface.co/microsoft/UserRepGen-4B",
-   "published_at": "2026-10-14T20:30:00.000Z",
-   "extra": "downloads=0 likes=0"
-  },
-  {
-   "id": "openrouter:~unbiased/pareto-latest",
-   "source": "openrouter",
-   "title": "Pareto Latest",
-   "url": "https://openrouter.ai/~unbiased/pareto-latest",
-   "published_at": "2026-10-13T23:10:50+00:00",
-   "extra": "context=262144"
-  },
-  {
-   "id": "openrouter:unbiased/pareto-26.9",
-   "source": "openrouter",
-   "title": "Pareto 26.9",
-   "url": "https://openrouter.ai/unbiased/pareto-26.9",
-   "published_at": "2026-10-13T22:28:57+00:00",
-   "extra": "context=262144"
-  },
-  {
    "id": "openrouter:liquid/lfm-2.5-24b-a2b",
    "source": "openrouter",
    "title": "LiquidAI: LFM2.5-24B-A2B",
@@ -17860,22 +17742,6 @@
    "url": "https://openrouter.ai/google/gemini-4-argon:batch",
    "published_at": "2026-10-13T16:04:37+00:00",
    "extra": "context=1048576"
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6km4b/strata_on_mi50",
-   "source": "reddit",
-   "title": "Strata on MI50?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6km4b/strata_on_mi50/",
-   "published_at": "2026-10-15T12:43:06+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6jump/strata_might_be_actually_really_detrimental_for",
-   "source": "reddit",
-   "title": "Strata might be actually really detrimental for intelligence? or is it Swift and GSQ-RCO? or both?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6jump/strata_might_be_actually_really_detrimental_for/",
-   "published_at": "2026-10-15T12:05:20+00:00",
-   "extra": ""
   },
   {
    "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6jel1/tencent_hy4_preview_getting_in_on_the_rogue_agent",
@@ -18014,86 +17880,6 @@
    "extra": ""
   },
   {
-   "id": "hn:50101618",
-   "source": "hn",
-   "title": "Ling 3.1 Flash: 560B open-weight MoE, MIT license, 1M context",
-   "url": "https://huggingface.co/inclusionAI/Ling-3.1-flash",
-   "published_at": "2026-10-15T10:21:08Z",
-   "extra": "points=1"
-  },
-  {
-   "id": "hn:50092470",
-   "source": "hn",
-   "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
-   "url": "https://petal.live/",
-   "published_at": "2026-10-14T18:23:14Z",
-   "extra": "points=21"
-  },
-  {
-   "id": "hn:50091939",
-   "source": "hn",
-   "title": "Show HN: Golang DL/ML primitives with inference, diffusion, vision, systemone",
-   "url": "https://github.com/computerex/dlgo",
-   "published_at": "2026-10-14T17:53:56Z",
-   "extra": "points=2"
-  },
-  {
-   "id": "hn:50099986",
-   "source": "hn",
-   "title": "Show HN: Daily image location guessing agains AI",
-   "url": "https://mediaguesser.com/human-vs-ai",
-   "published_at": "2026-10-15T06:29:23Z",
-   "extra": "points=1"
-  },
-  {
-   "id": "hn:50086945",
-   "source": "hn",
-   "title": "Show HN: Train with Pasta. Workouts Powered by Apple Intelligence",
-   "url": "https://apps.apple.com/us/app/train-with-pasta/id6796564751",
-   "published_at": "2026-10-14T12:52:03Z",
-   "extra": "points=1"
-  },
-  {
-   "id": "hn:50085405",
-   "source": "hn",
-   "title": "Show HN: Mnemify – 3D terrain map merging Confluence, Notion, Obsidian",
-   "url": "https://github.com/mnemify-ai/mnemify",
-   "published_at": "2026-10-14T10:36:34Z",
-   "extra": "points=3"
-  },
-  {
-   "id": "hn:50085022",
-   "source": "hn",
-   "title": "Show HN: A guided 3D Leonardo da Vinci museum, built in code",
-   "url": "https://museumofages.org/w/vinci",
-   "published_at": "2026-10-14T10:00:24Z",
-   "extra": "points=2"
-  },
-  {
-   "id": "hn:50101086",
-   "source": "hn",
-   "title": "Show HN: Content-adaptive display brightness for macOS with DDC/CI support",
-   "url": "https://github.com/lenbrocki/lumos",
-   "published_at": "2026-10-15T09:02:42Z",
-   "extra": "points=1"
-  },
-  {
-   "id": "hn:50089352",
-   "source": "hn",
-   "title": "Show HN: Turn newsletters and blogs into a podcast feed",
-   "url": "https://github.com/akspad/newsletter-to-podcast",
-   "published_at": "2026-10-14T15:37:22Z",
-   "extra": "points=2"
-  },
-  {
-   "id": "hn:50079786",
-   "source": "hn",
-   "title": "Ask HN: How long before someone reverse-engineers Windows?",
-   "url": "https://news.ycombinator.com/item?id=50079786",
-   "published_at": "2026-10-13T22:27:00Z",
-   "extra": "points=3"
-  },
-  {
    "id": "hn:49749716",
    "source": "hn",
    "title": "Show HN: Jinx – a link shortener you host free on GitHub Pages",
@@ -18195,6 +17981,430 @@
    "title": "Base-10's Charlie O'Neill on why Kimi and GLM are \"almost objectively\" better than Opus 5",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgdi3q/base10s_charlie_oneill_on_why_kimi_and_glm_are/",
    "published_at": "2026-09-14T19:30:55+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+   "source": "openai",
+   "title": "Teaching students to think and learn through questions",
+   "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+   "published_at": "2026-10-15T13:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/sentinelone",
+   "source": "openai",
+   "title": "SentinelOne cuts malware analysis from weeks to hours",
+   "url": "https://openai.com/index/sentinelone",
+   "published_at": "2026-10-14T12:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/third-moment-research",
+   "source": "openai",
+   "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+   "url": "https://openai.com/index/third-moment-research",
+   "published_at": "2026-10-14T07:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/block-ai-powered-security",
+   "source": "openai",
+   "title": "How Block is building AI-powered security with OpenAI technology",
+   "url": "https://openai.com/index/block-ai-powered-security",
+   "published_at": "2026-10-14T07:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+   "source": "openai",
+   "title": "The EU’s next chapter in AI is agentic",
+   "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+   "published_at": "2026-10-14T00:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "anthropic:an-update-on-independent-evaluators",
+   "source": "anthropic",
+   "title": "An Update On Independent Evaluators",
+   "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+   "published_at": "2026-10-15T00:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "anthropic:2026-us-midterms",
+   "source": "anthropic",
+   "title": "2026 Us Midterms",
+   "url": "https://www.anthropic.com/news/2026-us-midterms",
+   "published_at": "2026-10-14T00:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "anthropic:singapore-office-opening",
+   "source": "anthropic",
+   "title": "Singapore Office Opening",
+   "url": "https://www.anthropic.com/news/singapore-office-opening",
+   "published_at": "2026-10-14T00:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "hf:mistralai/Timestral-123M",
+   "source": "hf",
+   "title": "mistralai/Timestral-123M",
+   "url": "https://huggingface.co/mistralai/Timestral-123M",
+   "published_at": "2026-10-14T17:51:04.000Z",
+   "extra": "downloads=5 likes=10"
+  },
+  {
+   "id": "hf:mistralai/Timestral-28M",
+   "source": "hf",
+   "title": "mistralai/Timestral-28M",
+   "url": "https://huggingface.co/mistralai/Timestral-28M",
+   "published_at": "2026-10-14T17:50:53.000Z",
+   "extra": "downloads=5 likes=11"
+  },
+  {
+   "id": "hf:mistralai/Timestral-5M",
+   "source": "hf",
+   "title": "mistralai/Timestral-5M",
+   "url": "https://huggingface.co/mistralai/Timestral-5M",
+   "published_at": "2026-10-14T13:41:13.000Z",
+   "extra": "downloads=7 likes=11"
+  },
+  {
+   "id": "hf:mistralai/Timestral-209M",
+   "source": "hf",
+   "title": "mistralai/Timestral-209M",
+   "url": "https://huggingface.co/mistralai/Timestral-209M",
+   "published_at": "2026-10-14T08:52:36.000Z",
+   "extra": "downloads=11 likes=17"
+  },
+  {
+   "id": "hf:microsoft/UserRepGen-4B",
+   "source": "hf",
+   "title": "microsoft/UserRepGen-4B",
+   "url": "https://huggingface.co/microsoft/UserRepGen-4B",
+   "published_at": "2026-10-14T20:30:00.000Z",
+   "extra": "downloads=0 likes=0"
+  },
+  {
+   "id": "openrouter:nvidia/nemotron-3.5-super-vl",
+   "source": "openrouter",
+   "title": "NVIDIA: Nemotron 3.5 Super VL",
+   "url": "https://openrouter.ai/nvidia/nemotron-3.5-super-vl",
+   "published_at": "2026-10-15T15:04:22+00:00",
+   "extra": "context=1048576"
+  },
+  {
+   "id": "openrouter:nvidia/nemotron-3.5-super-vl:free",
+   "source": "openrouter",
+   "title": "NVIDIA: Nemotron 3.5 Super VL (free)",
+   "url": "https://openrouter.ai/nvidia/nemotron-3.5-super-vl:free",
+   "published_at": "2026-10-15T15:04:22+00:00",
+   "extra": "context=1000000"
+  },
+  {
+   "id": "openrouter:~unbiased/pareto-latest",
+   "source": "openrouter",
+   "title": "Pareto Latest",
+   "url": "https://openrouter.ai/~unbiased/pareto-latest",
+   "published_at": "2026-10-13T23:10:50+00:00",
+   "extra": "context=262144"
+  },
+  {
+   "id": "openrouter:unbiased/pareto-26.9",
+   "source": "openrouter",
+   "title": "Pareto 26.9",
+   "url": "https://openrouter.ai/unbiased/pareto-26.9",
+   "published_at": "2026-10-13T22:28:57+00:00",
+   "extra": "context=262144"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6s7el/flux3_image_klein_is_now_out",
+   "source": "reddit",
+   "title": "Flux.3 Image Klein is now out",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6s7el/flux3_image_klein_is_now_out/",
+   "published_at": "2026-10-15T17:38:48+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6rznu/q38fn_users_which_chat_template_are_you_using",
+   "source": "reddit",
+   "title": "Q3.8FN users, which chat template are you using?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6rznu/q38fn_users_which_chat_template_are_you_using/",
+   "published_at": "2026-10-15T17:30:27+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6run0/mswindows_continues_developing_windows_ml_to",
+   "source": "reddit",
+   "title": "MS/Windows continues developing Windows ML to embrace llama.cpp and gguf",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6run0/mswindows_continues_developing_windows_ml_to/",
+   "published_at": "2026-10-15T17:25:08+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6rr8z/for_two_years_we_said_anything_under_q4_had_brain",
+   "source": "reddit",
+   "title": "For two years we said anything under Q4 had brain damage. After testing Nvidia's 2-bit QAT 74B (Bolt) and Liquid's 24B-A2B, the 24GB VRAM meta just flipped on its head.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6rr8z/for_two_years_we_said_anything_under_q4_had_brain/",
+   "published_at": "2026-10-15T17:21:39+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6rjzz/who_else_gave_a_local_agent_the_full_control_of",
+   "source": "reddit",
+   "title": "Who else gave a local agent the full control of their checking account?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6rjzz/who_else_gave_a_local_agent_the_full_control_of/",
+   "published_at": "2026-10-15T17:14:13+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6rcid/unsloth_muse_spark_open_is_out",
+   "source": "reddit",
+   "title": "Unsloth Muse Spark Open is out!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6rcid/unsloth_muse_spark_open_is_out/",
+   "published_at": "2026-10-15T17:06:32+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6rblb/unsloth_muse_spark_open",
+   "source": "reddit",
+   "title": "UNSLOTH MUSE SPARK OPEN!!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6rblb/unsloth_muse_spark_open/",
+   "published_at": "2026-10-15T17:05:36+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6qou0/open_or_not",
+   "source": "reddit",
+   "title": "Open or not?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6qou0/open_or_not/",
+   "published_at": "2026-10-15T16:41:53+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6qc3j/nemotron_35_bolt_vs_nemo_35_super_vs_qwen_38_27bfn",
+   "source": "reddit",
+   "title": "Nemotron 3.5 Bolt vs Nemo 3.5 Super vs Qwen 3.8 27B/FN",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6qc3j/nemotron_35_bolt_vs_nemo_35_super_vs_qwen_38_27bfn/",
+   "published_at": "2026-10-15T16:28:32+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6ouoy/mistralaitimestral",
+   "source": "reddit",
+   "title": "mistralai/Timestral",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6ouoy/mistralaitimestral/",
+   "published_at": "2026-10-15T15:32:45+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6of05/atomicchatling31flashgguf_hugging_face",
+   "source": "reddit",
+   "title": "AtomicChat/Ling-3.1-flash-GGUF · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6of05/atomicchatling31flashgguf_hugging_face/",
+   "published_at": "2026-10-15T15:16:42+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6o31q/nvidianvidianemotron35bolt74ba9b24gb_hugging_face",
+   "source": "reddit",
+   "title": "nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6o31q/nvidianvidianemotron35bolt74ba9b24gb_hugging_face/",
+   "published_at": "2026-10-15T15:04:12+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6n6i4/benchmarks_results_with_filters_for_context_size",
+   "source": "reddit",
+   "title": "benchmarks results with filters for context size + ram + effort for different quants and models",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6n6i4/benchmarks_results_with_filters_for_context_size/",
+   "published_at": "2026-10-15T14:30:09+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6mqed/windows_central_review_of_rtx_spark_including",
+   "source": "reddit",
+   "title": "Windows Central review of RTX Spark, including local LLM benchmarks",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6mqed/windows_central_review_of_rtx_spark_including/",
+   "published_at": "2026-10-15T14:12:15+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6mlby/add_nemotron_super_35_vl_and_nemotron_bolt_74b",
+   "source": "reddit",
+   "title": "Add Nemotron Super 3.5 VL and Nemotron Bolt 74B A9B support by frozenblade1224 · Pull Request #30520 · ggml-org/llama.cpp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6mlby/add_nemotron_super_35_vl_and_nemotron_bolt_74b/",
+   "published_at": "2026-10-15T14:06:37+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6lfh0/gpu_falling_of_the_bus_under_load_randomly_clean",
+   "source": "reddit",
+   "title": "Gpu falling of the bus! under load randomly, clean restart fixes it. ubuntu 24.04",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6lfh0/gpu_falling_of_the_bus_under_load_randomly_clean/",
+   "published_at": "2026-10-15T13:19:07+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6kw7k/qwen38_flash_next_unsloth_quants_kldtop1_with",
+   "source": "reddit",
+   "title": "Qwen3.8 Flash Next Unsloth quants KLD&Top1% with default wiki, English books and Finnish books.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6kw7k/qwen38_flash_next_unsloth_quants_kldtop1_with/",
+   "published_at": "2026-10-15T12:56:13+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6km4b/strata_on_mi50",
+   "source": "reddit",
+   "title": "Strata on MI50?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6km4b/strata_on_mi50/",
+   "published_at": "2026-10-15T12:43:06+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6jump/strata_might_be_actually_really_detrimental_for",
+   "source": "reddit",
+   "title": "Strata might be actually really detrimental for intelligence? or is it Swift and GSQ-RCO? or both?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6jump/strata_might_be_actually_really_detrimental_for/",
+   "published_at": "2026-10-15T12:05:20+00:00",
+   "extra": ""
+  },
+  {
+   "id": "hn:50101618",
+   "source": "hn",
+   "title": "Ling 3.1 Flash: 560B open-weight MoE, MIT license, 1M context",
+   "url": "https://huggingface.co/inclusionAI/Ling-3.1-flash",
+   "published_at": "2026-10-15T10:21:08Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:50092470",
+   "source": "hn",
+   "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
+   "url": "https://petal.live/",
+   "published_at": "2026-10-14T18:23:14Z",
+   "extra": "points=21"
+  },
+  {
+   "id": "hn:50091939",
+   "source": "hn",
+   "title": "Show HN: Golang DL/ML primitives with inference, diffusion, vision, systemone",
+   "url": "https://github.com/computerex/dlgo",
+   "published_at": "2026-10-14T17:53:56Z",
+   "extra": "points=2"
+  },
+  {
+   "id": "hn:50099986",
+   "source": "hn",
+   "title": "Show HN: Daily image location guessing agains AI",
+   "url": "https://mediaguesser.com/human-vs-ai",
+   "published_at": "2026-10-15T06:29:23Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:50086945",
+   "source": "hn",
+   "title": "Show HN: Train with Pasta. Workouts Powered by Apple Intelligence",
+   "url": "https://apps.apple.com/us/app/train-with-pasta/id6796564751",
+   "published_at": "2026-10-14T12:52:03Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:50085405",
+   "source": "hn",
+   "title": "Show HN: Mnemify – 3D terrain map merging Confluence, Notion, Obsidian",
+   "url": "https://github.com/mnemify-ai/mnemify",
+   "published_at": "2026-10-14T10:36:34Z",
+   "extra": "points=3"
+  },
+  {
+   "id": "hn:50085022",
+   "source": "hn",
+   "title": "Show HN: A guided 3D Leonardo da Vinci museum, built in code",
+   "url": "https://museumofages.org/w/vinci",
+   "published_at": "2026-10-14T10:00:24Z",
+   "extra": "points=2"
+  },
+  {
+   "id": "hn:50101086",
+   "source": "hn",
+   "title": "Show HN: Content-adaptive display brightness for macOS with DDC/CI support",
+   "url": "https://github.com/lenbrocki/lumos",
+   "published_at": "2026-10-15T09:02:42Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:50089352",
+   "source": "hn",
+   "title": "Show HN: Turn newsletters and blogs into a podcast feed",
+   "url": "https://github.com/akspad/newsletter-to-podcast",
+   "published_at": "2026-10-14T15:37:22Z",
+   "extra": "points=2"
+  },
+  {
+   "id": "hn:50079786",
+   "source": "hn",
+   "title": "Ask HN: How long before someone reverse-engineers Windows?",
+   "url": "https://news.ycombinator.com/item?id=50079786",
+   "published_at": "2026-10-13T22:27:00Z",
+   "extra": "points=3"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wgd14p/nvidia_unveils_rtx_pro_5500_blackwell_workstation",
+   "source": "reddit",
+   "title": "NVIDIA Unveils RTX PRO 5500 \"Blackwell\" Workstation GPU with 84 GB GDDR7 Memory",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgd14p/nvidia_unveils_rtx_pro_5500_blackwell_workstation/",
+   "published_at": "2026-09-14T19:14:28+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wgcv3e/what_happened_to_ai_browsers",
+   "source": "reddit",
+   "title": "What happened to AI browsers?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgcv3e/what_happened_to_ai_browsers/",
+   "published_at": "2026-09-14T19:08:35+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wgcpww/biweekly_megathread_project_showcase",
+   "source": "reddit",
+   "title": "[Bi-Weekly Megathread] Project Showcase",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgcpww/biweekly_megathread_project_showcase/",
+   "published_at": "2026-09-14T19:03:23+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wgblwu/stopped_my_room_turning_into_furnace_by",
+   "source": "reddit",
+   "title": "Stopped my room turning into furnace by throttling CPU and GPU",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgblwu/stopped_my_room_turning_into_furnace_by/",
+   "published_at": "2026-09-14T18:24:44+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wgaapw/questions_regarding_qwen_38_27b_and_hallucinated",
+   "source": "reddit",
+   "title": "Questions Regarding Qwen 3.8 27B and Hallucinated Classes/APIs?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgaapw/questions_regarding_qwen_38_27b_and_hallucinated/",
+   "published_at": "2026-09-14T17:40:15+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wga5hj/the_nvidia_cmp_170hx_8gb_64gb_149_tbs",
+   "source": "reddit",
+   "title": "The Nvidia CMP 170HX -- 8GB -> 64GB ~ 1.49 TB/s",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wga5hj/the_nvidia_cmp_170hx_8gb_64gb_149_tbs/",
+   "published_at": "2026-09-14T17:35:01+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wg9o1w/cost_savings_of_local",
+   "source": "reddit",
+   "title": "Cost savings of local",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wg9o1w/cost_savings_of_local/",
+   "published_at": "2026-09-14T17:18:14+00:00",
    "extra": ""
   }
  ],
@@ -25588,6 +25798,76 @@
    "extra": "points=1",
    "event_type": "release",
    "summary": "Open source for 27 years, unread: what LLMs changed about the Xanadu code"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6r9pz/introducing_muse_spark_open_the_most_capable_us",
+   "source": "reddit",
+   "title": "Introducing Muse Spark Open: the most capable US open-weight model to date",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6r9pz/introducing_muse_spark_open_the_most_capable_us/",
+   "published_at": "2026-10-15T17:03:45+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "Introducing Muse Spark Open: the most capable US open-weight model to date"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6qq0j/the_space_is_moving_quick_2x_4060_tensor_parallel",
+   "source": "reddit",
+   "title": "The space is moving quick. 2x 4060 Tensor Parallel main weights. RPC offload the drafters to amd strix. Got +2-3GB Vram for context at no perf cost.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6qq0j/the_space_is_moving_quick_2x_4060_tensor_parallel/",
+   "published_at": "2026-10-15T16:43:07+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "The space is moving quick. 2x 4060 Tensor Parallel main weights. RPC offload the drafters to amd strix. Got +2-3GB Vram for context at no perf cost."
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6q1w9/best_model_for_48gb_unified_ram_users",
+   "source": "reddit",
+   "title": "Best Model for 48gb Unified RAM users?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6q1w9/best_model_for_48gb_unified_ram_users/",
+   "published_at": "2026-10-15T16:18:11+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "Best Model for 48gb Unified RAM users?"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6o34h/whats_the_dumbest_thing_you_trust_your_llm_with",
+   "source": "reddit",
+   "title": "What’s the dumbest thing you trust your LLM with, but not yourself?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6o34h/whats_the_dumbest_thing_you_trust_your_llm_with/",
+   "published_at": "2026-10-15T15:04:17+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "What’s the dumbest thing you trust your LLM with, but not yourself?"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6nl8m/nvidianvidianemotron35supervl120ba12b_model",
+   "source": "reddit",
+   "title": "nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B model family released (base, NVFP4, BF16, and LiLiCorr speculative decoding)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6nl8m/nvidianvidianemotron35supervl120ba12b_model/",
+   "published_at": "2026-10-15T14:46:04+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B model family released (base, NVFP4, BF16, and LiLiCorr speculative decoding)"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6nckq/nvidiaqwen38flashnextnvfp4_fp8_hybrid_by",
+   "source": "reddit",
+   "title": "nvidia/Qwen3.8-Flash-Next-NVFP4, FP8 hybrid by github/blazux script + Pi + pi-web + vLLM + Linux -- does something like this happen to anyone else? It keeps saying that 'this is the beginning of the conversation' in the middle of the conversation/tool turns.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6nckq/nvidiaqwen38flashnextnvfp4_fp8_hybrid_by/",
+   "published_at": "2026-10-15T14:36:51+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "nvidia/Qwen3.8-Flash-Next-NVFP4, FP8 hybrid by github/blazux script + Pi + pi-web + vLLM + Linux -- does something like this happen to anyone else? It keeps saying that 'this is the beginning of the conversation' in the middle of the conversation/tool turns."
+  },
+  {
+   "id": "hn:50106620",
+   "source": "hn",
+   "title": "Muse Spark Open, the Most Capable US Open‑Weight Model to Date",
+   "url": "https://research.meta.ai/blog/muse-spark-open",
+   "published_at": "2026-10-15T16:58:30Z",
+   "extra": "points=44",
+   "event_type": "release",
+   "summary": "Muse Spark Open, the Most Capable US Open‑Weight Model to Date"
   }
  ]
 }
