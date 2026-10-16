@@ -3157,89 +3157,23 @@
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x7fj2c/bitrun_now_runs_1bit_llms_on_your_cpu_with_a": "2026-10-16T14:11:31.333735+00:00",
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x7ey7i/openmoss_releases_mossimage": "2026-10-16T14:11:31.333735+00:00",
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x7bmel/the_actual_state_of_openweight_models_vs_frontier": "2026-10-16T14:11:31.333735+00:00",
-  "hn:50118213": "2026-10-16T14:11:31.333735+00:00"
+  "hn:50118213": "2026-10-16T14:11:31.333735+00:00",
+  "hf:mistralai/Timestral-123M": "2026-10-16T18:18:57.012980+00:00",
+  "hf:mistralai/Timestral-28M": "2026-10-16T18:18:57.012980+00:00",
+  "hn:50091939": "2026-10-16T18:18:57.012980+00:00",
+  "hn:50089352": "2026-10-16T18:18:57.012980+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x7nhp1/model_granite_switch_decision_by_gabelhart_pull": "2026-10-16T18:18:57.561566+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x7msmj/tyger_openweights_streaming_asr_fullduplex": "2026-10-16T18:18:57.561566+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x7l0ct/why_naive_cosine_routing_fails_using_absorbing": "2026-10-16T18:18:57.561566+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x7hz2t/d3edge_06b_finetuned_outperformed_d3_27b_decision": "2026-10-16T18:18:57.561566+00:00",
+  "hn:50121829": "2026-10-16T18:18:57.561566+00:00",
+  "hn:50121646": "2026-10-16T18:18:57.561566+00:00",
+  "hn:50121439": "2026-10-16T18:18:57.561566+00:00",
+  "hn:50121362": "2026-10-16T18:18:57.561566+00:00",
+  "hn:50119240": "2026-10-16T18:18:57.561566+00:00",
+  "hn:50118782": "2026-10-16T18:18:57.561566+00:00"
  },
  "pending": [
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wwl9jf/fp8bf16_users_seeing_someone_run_iq1_s",
-   "source": "reddit",
-   "title": "FP8/BF16 users seeing someone run IQ1_S",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwl9jf/fp8bf16_users_seeing_someone_run_iq1_s/",
-   "published_at": "2026-10-03T11:47:17+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wwijvi/what_are_you_expectations_from_kimi_k35",
-   "source": "reddit",
-   "title": "What are you expectations from Kimi K3.5?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwijvi/what_are_you_expectations_from_kimi_k35/",
-   "published_at": "2026-10-03T09:00:47+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wwihwo/you_dont_need_much_apps",
-   "source": "reddit",
-   "title": "You don't need much apps",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwihwo/you_dont_need_much_apps/",
-   "published_at": "2026-10-03T08:57:30+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wwhu1a/gufo_windows_prepackage_for_strix_halo_users",
-   "source": "reddit",
-   "title": "gufo_windows pre-package for Strix Halo users",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwhu1a/gufo_windows_prepackage_for_strix_halo_users/",
-   "published_at": "2026-10-03T08:14:27+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wwgsas/i_tried_building_a_small_rag_search_node_for",
-   "source": "reddit",
-   "title": "I tried building a small RAG search node for Qwen3.8 27B using a fake AliExpress Mini PC... and Intel sent me back to 2018.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwgsas/i_tried_building_a_small_rag_search_node_for/",
-   "published_at": "2026-10-03T07:08:14+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wwgns1/liquidailfm25encoder_250m350m",
-   "source": "reddit",
-   "title": "LiquidAI/LFM2.5-Encoder 250M/350M",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwgns1/liquidailfm25encoder_250m350m/",
-   "published_at": "2026-10-03T07:00:51+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wwggwt/qwen38flashnext_177b_running_at_1115_toks_on_a",
-   "source": "reddit",
-   "title": "Qwen3.8-Flash-Next 177B running at 11–15 tok/s on a single RTX 5070 12GB + 32GB RAM DDR4",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwggwt/qwen38flashnext_177b_running_at_1115_toks_on_a/",
-   "published_at": "2026-10-03T06:49:25+00:00",
-   "extra": ""
-  },
-  {
-   "id": "hn:49924570",
-   "source": "hn",
-   "title": "Ask HN: Email leaked while traveling abroad?",
-   "url": "https://news.ycombinator.com/item?id=49924570",
-   "published_at": "2026-10-01T17:29:33Z",
-   "extra": "points=10"
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wdwhu0/looking_for_input_on_legit_best_open_router",
-   "source": "reddit",
-   "title": "Looking for input on legit best open router alternatives",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdwhu0/looking_for_input_on_legit_best_open_router/",
-   "published_at": "2026-09-11T23:38:47+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wdrvru/nvidia_rtx_5090_with_96gb_of_vram",
-   "source": "reddit",
-   "title": "nvidia rtx 5090 with 96gb of vram.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdrvru/nvidia_rtx_5090_with_96gb_of_vram/",
-   "published_at": "2026-09-11T20:32:04+00:00",
-   "extra": ""
-  },
   {
    "id": "openrouter:~deepseek/deepseek-pro-latest",
    "source": "openrouter",
@@ -18113,14 +18047,6 @@
    "extra": "downloads=11 likes=17"
   },
   {
-   "id": "hf:microsoft/scFM-dataselection",
-   "source": "hf",
-   "title": "microsoft/scFM-dataselection",
-   "url": "https://huggingface.co/microsoft/scFM-dataselection",
-   "published_at": "2026-10-15T04:08:13.000Z",
-   "extra": "downloads=0 likes=0"
-  },
-  {
    "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x76n70/this_guy_just_got_a_macbook_pro_m5_pro_for_650eur",
    "source": "reddit",
    "title": "This guy just got a Macbook pro M5 Pro for 650EUR",
@@ -18473,38 +18399,6 @@
    "extra": ""
   },
   {
-   "id": "openai:https://openai.com/index/introducing-the-rosalind-academic-plan",
-   "source": "openai",
-   "title": "Bringing GPT-Rosalind to academic research labs",
-   "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-   "published_at": "2026-10-15T19:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "openai:https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-   "source": "openai",
-   "title": "Teaching students to think and learn through questions",
-   "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-   "published_at": "2026-10-15T13:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "openai:https://openai.com/index/sullivan-cromwell",
-   "source": "openai",
-   "title": "Sullivan & Cromwell brings legal expertise into agreement review",
-   "url": "https://openai.com/index/sullivan-cromwell",
-   "published_at": "2026-10-15T00:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "anthropic:an-update-on-independent-evaluators",
-   "source": "anthropic",
-   "title": "An Update On Independent Evaluators",
-   "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
-   "published_at": "2026-10-15T00:00:00+00:00",
-   "extra": ""
-  },
-  {
    "id": "hf:mistralai/Timestral-123M",
    "source": "hf",
    "title": "mistralai/Timestral-123M",
@@ -18519,94 +18413,6 @@
    "url": "https://huggingface.co/mistralai/Timestral-28M",
    "published_at": "2026-10-14T17:50:53.000Z",
    "extra": "downloads=5 likes=11"
-  },
-  {
-   "id": "hf:microsoft/UserRepGen-4B",
-   "source": "hf",
-   "title": "microsoft/UserRepGen-4B",
-   "url": "https://huggingface.co/microsoft/UserRepGen-4B",
-   "published_at": "2026-10-14T20:30:00.000Z",
-   "extra": "downloads=0 likes=0"
-  },
-  {
-   "id": "openrouter:moondream/moondream3-preview",
-   "source": "openrouter",
-   "title": "Moondream: Moondream 3 Preview",
-   "url": "https://openrouter.ai/moondream/moondream3-preview",
-   "published_at": "2026-10-15T22:13:05+00:00",
-   "extra": "context=32000"
-  },
-  {
-   "id": "openrouter:moondream/moondream3.1-9b-a2b",
-   "source": "openrouter",
-   "title": "Moondream: Moondream 3.1",
-   "url": "https://openrouter.ai/moondream/moondream3.1-9b-a2b",
-   "published_at": "2026-10-15T22:12:53+00:00",
-   "extra": "context=32000"
-  },
-  {
-   "id": "openrouter:meta/muse-spark-open",
-   "source": "openrouter",
-   "title": "Meta: Muse Spark Open",
-   "url": "https://openrouter.ai/meta/muse-spark-open",
-   "published_at": "2026-10-15T17:57:49+00:00",
-   "extra": "context=1048576"
-  },
-  {
-   "id": "openrouter:nvidia/nemotron-3.5-super-vl",
-   "source": "openrouter",
-   "title": "NVIDIA: Nemotron 3.5 Super VL",
-   "url": "https://openrouter.ai/nvidia/nemotron-3.5-super-vl",
-   "published_at": "2026-10-15T15:04:22+00:00",
-   "extra": "context=1048576"
-  },
-  {
-   "id": "openrouter:nvidia/nemotron-3.5-super-vl:free",
-   "source": "openrouter",
-   "title": "NVIDIA: Nemotron 3.5 Super VL (free)",
-   "url": "https://openrouter.ai/nvidia/nemotron-3.5-super-vl:free",
-   "published_at": "2026-10-15T15:04:22+00:00",
-   "extra": "context=1000000"
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x7h3fy/add_gx10_to_5090_2x3090",
-   "source": "reddit",
-   "title": "Add GX10 to 5090 + 2x3090?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7h3fy/add_gx10_to_5090_2x3090/",
-   "published_at": "2026-10-16T14:03:35+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x7g9yr/ninfer_on_v100_16gb_4070_12gb",
-   "source": "reddit",
-   "title": "Ninfer on v100 16gb + 4070 12gb?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7g9yr/ninfer_on_v100_16gb_4070_12gb/",
-   "published_at": "2026-10-16T13:30:09+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x7g4k3/reflectionbeam10501ba23b_hugging_face",
-   "source": "reddit",
-   "title": "reflection/Beam-1.0-501B-A23B · Hugging Face",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7g4k3/reflectionbeam10501ba23b_hugging_face/",
-   "published_at": "2026-10-16T13:23:33+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x7frdn/nemotron35bolt74a9b_and_nemotron35supervl_tests",
-   "source": "reddit",
-   "title": "Nemotron-3.5-Bolt-74-A9B and Nemotron-3.5-Super-VL Tests",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7frdn/nemotron35bolt74a9b_and_nemotron35supervl_tests/",
-   "published_at": "2026-10-16T13:07:32+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x7fpaq/beam_10_a_reflection_collection",
-   "source": "reddit",
-   "title": "Beam 1.0 - a reflection Collection",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7fpaq/beam_10_a_reflection_collection/",
-   "published_at": "2026-10-16T13:04:58+00:00",
-   "extra": ""
   },
   {
    "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x7evgx/some_hardware_advice_please",
@@ -18713,92 +18519,12 @@
    "extra": ""
   },
   {
-   "id": "hn:50112518",
-   "source": "hn",
-   "title": "Show HN: Weatheristic.com to answer questions other weather sites don't",
-   "url": "https://weatheristic.com/",
-   "published_at": "2026-10-16T01:16:35Z",
-   "extra": "points=3"
-  },
-  {
-   "id": "hn:50109846",
-   "source": "hn",
-   "title": "Ask HN: Frontier Capability on Average Computers",
-   "url": "https://news.ycombinator.com/item?id=50109846",
-   "published_at": "2026-10-15T20:36:30Z",
-   "extra": "points=1"
-  },
-  {
-   "id": "hn:50101618",
-   "source": "hn",
-   "title": "Ling 3.1 Flash: 560B open-weight MoE, MIT license, 1M context",
-   "url": "https://huggingface.co/inclusionAI/Ling-3.1-flash",
-   "published_at": "2026-10-15T10:21:08Z",
-   "extra": "points=1"
-  },
-  {
-   "id": "hn:50092470",
-   "source": "hn",
-   "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
-   "url": "https://petal.live/",
-   "published_at": "2026-10-14T18:23:14Z",
-   "extra": "points=21"
-  },
-  {
    "id": "hn:50091939",
    "source": "hn",
    "title": "Show HN: Golang DL/ML primitives with inference, diffusion, vision, systemone",
    "url": "https://github.com/computerex/dlgo",
    "published_at": "2026-10-14T17:53:56Z",
    "extra": "points=2"
-  },
-  {
-   "id": "hn:50107729",
-   "source": "hn",
-   "title": "Show HN: RDST – A local agent that watches Postgres/MySQL for query regressions",
-   "url": "https://github.com/readysettech/rdst",
-   "published_at": "2026-10-15T18:09:01Z",
-   "extra": "points=6"
-  },
-  {
-   "id": "hn:50099986",
-   "source": "hn",
-   "title": "Show HN: Daily image location guessing agains AI",
-   "url": "https://mediaguesser.com/human-vs-ai",
-   "published_at": "2026-10-15T06:29:23Z",
-   "extra": "points=1"
-  },
-  {
-   "id": "hn:50115335",
-   "source": "hn",
-   "title": "AI as a part of capitalism – the right way to go",
-   "url": "https://news.ycombinator.com/item?id=50115335",
-   "published_at": "2026-10-16T07:38:27Z",
-   "extra": "points=2"
-  },
-  {
-   "id": "hn:50110614",
-   "source": "hn",
-   "title": "Show HN: Endo – A Higher-Order Harness",
-   "url": "https://github.com/longsurf-ai/endo",
-   "published_at": "2026-10-15T21:32:10Z",
-   "extra": "points=4"
-  },
-  {
-   "id": "hn:50110159",
-   "source": "hn",
-   "title": "Show HN: Turbo Lisp – A Common Lisp IDE for macOS and the Terminal",
-   "url": "https://gitlab.com/patchwork1-ai/turbolisp",
-   "published_at": "2026-10-15T21:00:36Z",
-   "extra": "points=1"
-  },
-  {
-   "id": "hn:50109286",
-   "source": "hn",
-   "title": "Show HN: Slop City, a FOSS game that embeds social media posts",
-   "url": "https://github.com/hollingsworthd/SLOP_CITY",
-   "published_at": "2026-10-15T19:48:57Z",
-   "extra": "points=1"
   },
   {
    "id": "hn:50089352",
@@ -18902,6 +18628,406 @@
    "title": "Pi harness vs Opencode (which is better for app creation)",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwo4zg/pi_harness_vs_opencode_which_is_better_for_app/",
    "published_at": "2026-10-03T14:07:25+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/introducing-the-rosalind-academic-plan",
+   "source": "openai",
+   "title": "Bringing GPT-Rosalind to academic research labs",
+   "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+   "published_at": "2026-10-15T19:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+   "source": "openai",
+   "title": "Teaching students to think and learn through questions",
+   "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+   "published_at": "2026-10-15T13:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/sullivan-cromwell",
+   "source": "openai",
+   "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+   "url": "https://openai.com/index/sullivan-cromwell",
+   "published_at": "2026-10-15T00:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "anthropic:an-update-on-independent-evaluators",
+   "source": "anthropic",
+   "title": "An Update On Independent Evaluators",
+   "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+   "published_at": "2026-10-15T00:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "hf:microsoft/scFM-dataselection",
+   "source": "hf",
+   "title": "microsoft/scFM-dataselection",
+   "url": "https://huggingface.co/microsoft/scFM-dataselection",
+   "published_at": "2026-10-15T04:08:13.000Z",
+   "extra": "downloads=0 likes=0"
+  },
+  {
+   "id": "hf:microsoft/UserRepGen-4B",
+   "source": "hf",
+   "title": "microsoft/UserRepGen-4B",
+   "url": "https://huggingface.co/microsoft/UserRepGen-4B",
+   "published_at": "2026-10-14T20:30:00.000Z",
+   "extra": "downloads=0 likes=0"
+  },
+  {
+   "id": "openrouter:reflection/beam-1.0-501b-a23b",
+   "source": "openrouter",
+   "title": "Reflection: Beam 1.0 501B A23B",
+   "url": "https://openrouter.ai/reflection/beam-1.0-501b-a23b",
+   "published_at": "2026-10-16T14:21:39+00:00",
+   "extra": "context=1048576"
+  },
+  {
+   "id": "openrouter:moondream/moondream3-preview",
+   "source": "openrouter",
+   "title": "Moondream: Moondream 3 Preview",
+   "url": "https://openrouter.ai/moondream/moondream3-preview",
+   "published_at": "2026-10-15T22:13:05+00:00",
+   "extra": "context=32000"
+  },
+  {
+   "id": "openrouter:moondream/moondream3.1-9b-a2b",
+   "source": "openrouter",
+   "title": "Moondream: Moondream 3.1",
+   "url": "https://openrouter.ai/moondream/moondream3.1-9b-a2b",
+   "published_at": "2026-10-15T22:12:53+00:00",
+   "extra": "context=32000"
+  },
+  {
+   "id": "openrouter:meta/muse-spark-open",
+   "source": "openrouter",
+   "title": "Meta: Muse Spark Open",
+   "url": "https://openrouter.ai/meta/muse-spark-open",
+   "published_at": "2026-10-15T17:57:49+00:00",
+   "extra": "context=1048576"
+  },
+  {
+   "id": "openrouter:nvidia/nemotron-3.5-super-vl",
+   "source": "openrouter",
+   "title": "NVIDIA: Nemotron 3.5 Super VL",
+   "url": "https://openrouter.ai/nvidia/nemotron-3.5-super-vl",
+   "published_at": "2026-10-15T15:04:22+00:00",
+   "extra": "context=1048576"
+  },
+  {
+   "id": "openrouter:nvidia/nemotron-3.5-super-vl:free",
+   "source": "openrouter",
+   "title": "NVIDIA: Nemotron 3.5 Super VL (free)",
+   "url": "https://openrouter.ai/nvidia/nemotron-3.5-super-vl:free",
+   "published_at": "2026-10-15T15:04:22+00:00",
+   "extra": "context=1000000"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x7nenr/understanding_how_neural_networks_learn_with",
+   "source": "reddit",
+   "title": "Understanding How Neural Networks Learn (with interactive visualizations)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7nenr/understanding_how_neural_networks_learn_with/",
+   "published_at": "2026-10-16T18:05:46+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x7mig3/nemotron_35_bolt_evaluation_using_realworld_tasks",
+   "source": "reddit",
+   "title": "Nemotron 3.5 Bolt Evaluation using real-world tasks",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7mig3/nemotron_35_bolt_evaluation_using_realworld_tasks/",
+   "published_at": "2026-10-16T17:31:30+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x7mazk/2x3090_to_4x3090_upgrade_vs_dgx_spark",
+   "source": "reddit",
+   "title": "2x3090 to 4x3090 Upgrade Vs DGX Spark",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7mazk/2x3090_to_4x3090_upgrade_vs_dgx_spark/",
+   "published_at": "2026-10-16T17:23:29+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x7m3gf/qwen_27b_sacrificing_context_in_order_run_better",
+   "source": "reddit",
+   "title": "Qwen 27B - sacrificing context in order run better quants, pros and cons.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7m3gf/qwen_27b_sacrificing_context_in_order_run_better/",
+   "published_at": "2026-10-16T17:15:33+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x7lw9g/show_me_your_rack",
+   "source": "reddit",
+   "title": "Show me your rack",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7lw9g/show_me_your_rack/",
+   "published_at": "2026-10-16T17:07:47+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x7liub/learned_something_about_mtp_that_didnt_seem",
+   "source": "reddit",
+   "title": "Learned something about MTP that didn't seem intuitive, thought I would share",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7liub/learned_something_about_mtp_that_didnt_seem/",
+   "published_at": "2026-10-16T16:53:51+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x7lcdu/the_debtfueled_ai_boom_is_cracking",
+   "source": "reddit",
+   "title": "The debt-fueled AI boom is cracking",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7lcdu/the_debtfueled_ai_boom_is_cracking/",
+   "published_at": "2026-10-16T16:47:11+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x7kj2b/palisade_got_qwen3627b_to_hack_a_test_server_and",
+   "source": "reddit",
+   "title": "palisade got qwen3.6-27b to hack a test server and start a working copy of itself on one gpu, 16 of 48 runs",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7kj2b/palisade_got_qwen3627b_to_hack_a_test_server_and/",
+   "published_at": "2026-10-16T16:16:17+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x7k7vm/the_challenge_where_llms_try_to_beat_a_2d",
+   "source": "reddit",
+   "title": "The challenge where LLMs try to beat a 2D platformer game is now a benchmark for decision-making",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7k7vm/the_challenge_where_llms_try_to_beat_a_2d/",
+   "published_at": "2026-10-16T16:04:35+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x7j0sx/qwen3827bantislop_rld_against_slop_top4_on_eq",
+   "source": "reddit",
+   "title": "Qwen3.8-27B-antislop, RL’d against slop, top4 on eq bench4",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7j0sx/qwen3827bantislop_rld_against_slop_top4_on_eq/",
+   "published_at": "2026-10-16T15:19:25+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x7i49v/it_really_just_needs_some_encouragement",
+   "source": "reddit",
+   "title": "It really just needs some encouragement (Qwen3.8-27B-UD-IQ4_XS)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7i49v/it_really_just_needs_some_encouragement/",
+   "published_at": "2026-10-16T14:44:31+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x7hk0m/when_is_owning_a_gpu_actually_the_wrong_call",
+   "source": "reddit",
+   "title": "When is owning a GPU actually the wrong call? Making the case for renting, which nobody seems to do.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7hk0m/when_is_owning_a_gpu_actually_the_wrong_call/",
+   "published_at": "2026-10-16T14:21:38+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x7h3fy/add_gx10_to_5090_2x3090",
+   "source": "reddit",
+   "title": "Add GX10 to 5090 + 2x3090?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7h3fy/add_gx10_to_5090_2x3090/",
+   "published_at": "2026-10-16T14:03:35+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x7g9yr/ninfer_on_v100_16gb_4070_12gb",
+   "source": "reddit",
+   "title": "Ninfer on v100 16gb + 4070 12gb?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7g9yr/ninfer_on_v100_16gb_4070_12gb/",
+   "published_at": "2026-10-16T13:30:09+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x7g4k3/reflectionbeam10501ba23b_hugging_face",
+   "source": "reddit",
+   "title": "reflection/Beam-1.0-501B-A23B · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7g4k3/reflectionbeam10501ba23b_hugging_face/",
+   "published_at": "2026-10-16T13:23:33+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x7frdn/nemotron35bolt74a9b_and_nemotron35supervl_tests",
+   "source": "reddit",
+   "title": "Nemotron-3.5-Bolt-74-A9B and Nemotron-3.5-Super-VL Tests",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7frdn/nemotron35bolt74a9b_and_nemotron35supervl_tests/",
+   "published_at": "2026-10-16T13:07:32+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x7fpaq/beam_10_a_reflection_collection",
+   "source": "reddit",
+   "title": "Beam 1.0 - a reflection Collection",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7fpaq/beam_10_a_reflection_collection/",
+   "published_at": "2026-10-16T13:04:58+00:00",
+   "extra": ""
+  },
+  {
+   "id": "hn:50112518",
+   "source": "hn",
+   "title": "Show HN: Weatheristic.com to answer questions other weather sites don't",
+   "url": "https://weatheristic.com/",
+   "published_at": "2026-10-16T01:16:35Z",
+   "extra": "points=3"
+  },
+  {
+   "id": "hn:50109846",
+   "source": "hn",
+   "title": "Ask HN: Frontier Capability on Average Computers",
+   "url": "https://news.ycombinator.com/item?id=50109846",
+   "published_at": "2026-10-15T20:36:30Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:50101618",
+   "source": "hn",
+   "title": "Ling 3.1 Flash: 560B open-weight MoE, MIT license, 1M context",
+   "url": "https://huggingface.co/inclusionAI/Ling-3.1-flash",
+   "published_at": "2026-10-15T10:21:08Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:50092470",
+   "source": "hn",
+   "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
+   "url": "https://petal.live/",
+   "published_at": "2026-10-14T18:23:14Z",
+   "extra": "points=21"
+  },
+  {
+   "id": "hn:50121562",
+   "source": "hn",
+   "title": "Anthropic Console overcharged my card 100x due to internationalization input bug",
+   "url": "https://news.ycombinator.com/item?id=50121562",
+   "published_at": "2026-10-16T17:31:42Z",
+   "extra": "points=5"
+  },
+  {
+   "id": "hn:50107729",
+   "source": "hn",
+   "title": "Show HN: RDST – A local agent that watches Postgres/MySQL for query regressions",
+   "url": "https://github.com/readysettech/rdst",
+   "published_at": "2026-10-15T18:09:01Z",
+   "extra": "points=6"
+  },
+  {
+   "id": "hn:50099986",
+   "source": "hn",
+   "title": "Show HN: Daily image location guessing agains AI",
+   "url": "https://mediaguesser.com/human-vs-ai",
+   "published_at": "2026-10-15T06:29:23Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:50115335",
+   "source": "hn",
+   "title": "AI as a part of capitalism – the right way to go",
+   "url": "https://news.ycombinator.com/item?id=50115335",
+   "published_at": "2026-10-16T07:38:27Z",
+   "extra": "points=2"
+  },
+  {
+   "id": "hn:50110614",
+   "source": "hn",
+   "title": "Show HN: Endo – A Higher-Order Harness",
+   "url": "https://github.com/longsurf-ai/endo",
+   "published_at": "2026-10-15T21:32:10Z",
+   "extra": "points=4"
+  },
+  {
+   "id": "hn:50110159",
+   "source": "hn",
+   "title": "Show HN: Turbo Lisp – A Common Lisp IDE for macOS and the Terminal",
+   "url": "https://gitlab.com/patchwork1-ai/turbolisp",
+   "published_at": "2026-10-15T21:00:36Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:50109286",
+   "source": "hn",
+   "title": "Show HN: Slop City, a FOSS game that embeds social media posts",
+   "url": "https://github.com/hollingsworthd/SLOP_CITY",
+   "published_at": "2026-10-15T19:48:57Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wwl9jf/fp8bf16_users_seeing_someone_run_iq1_s",
+   "source": "reddit",
+   "title": "FP8/BF16 users seeing someone run IQ1_S",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwl9jf/fp8bf16_users_seeing_someone_run_iq1_s/",
+   "published_at": "2026-10-03T11:47:17+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wwijvi/what_are_you_expectations_from_kimi_k35",
+   "source": "reddit",
+   "title": "What are you expectations from Kimi K3.5?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwijvi/what_are_you_expectations_from_kimi_k35/",
+   "published_at": "2026-10-03T09:00:47+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wwihwo/you_dont_need_much_apps",
+   "source": "reddit",
+   "title": "You don't need much apps",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwihwo/you_dont_need_much_apps/",
+   "published_at": "2026-10-03T08:57:30+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wwhu1a/gufo_windows_prepackage_for_strix_halo_users",
+   "source": "reddit",
+   "title": "gufo_windows pre-package for Strix Halo users",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwhu1a/gufo_windows_prepackage_for_strix_halo_users/",
+   "published_at": "2026-10-03T08:14:27+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wwgsas/i_tried_building_a_small_rag_search_node_for",
+   "source": "reddit",
+   "title": "I tried building a small RAG search node for Qwen3.8 27B using a fake AliExpress Mini PC... and Intel sent me back to 2018.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwgsas/i_tried_building_a_small_rag_search_node_for/",
+   "published_at": "2026-10-03T07:08:14+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wwgns1/liquidailfm25encoder_250m350m",
+   "source": "reddit",
+   "title": "LiquidAI/LFM2.5-Encoder 250M/350M",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwgns1/liquidailfm25encoder_250m350m/",
+   "published_at": "2026-10-03T07:00:51+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wwggwt/qwen38flashnext_177b_running_at_1115_toks_on_a",
+   "source": "reddit",
+   "title": "Qwen3.8-Flash-Next 177B running at 11–15 tok/s on a single RTX 5070 12GB + 32GB RAM DDR4",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwggwt/qwen38flashnext_177b_running_at_1115_toks_on_a/",
+   "published_at": "2026-10-03T06:49:25+00:00",
+   "extra": ""
+  },
+  {
+   "id": "hn:49924570",
+   "source": "hn",
+   "title": "Ask HN: Email leaked while traveling abroad?",
+   "url": "https://news.ycombinator.com/item?id=49924570",
+   "published_at": "2026-10-01T17:29:33Z",
+   "extra": "points=10"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wdwhu0/looking_for_input_on_legit_best_open_router",
+   "source": "reddit",
+   "title": "Looking for input on legit best open router alternatives",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdwhu0/looking_for_input_on_legit_best_open_router/",
+   "published_at": "2026-09-11T23:38:47+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wdrvru/nvidia_rtx_5090_with_96gb_of_vram",
+   "source": "reddit",
+   "title": "nvidia rtx 5090 with 96gb of vram.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdrvru/nvidia_rtx_5090_with_96gb_of_vram/",
+   "published_at": "2026-09-11T20:32:04+00:00",
    "extra": ""
   }
  ],
@@ -26615,6 +26741,106 @@
    "extra": "points=4",
    "event_type": "release",
    "summary": "Introducing Beam: Reflection’s 501B open-weight model"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x7nhp1/model_granite_switch_decision_by_gabelhart_pull",
+   "source": "reddit",
+   "title": "model: Granite switch decision by gabe-l-hart · Pull Request #30676 · ggml-org/llama.cpp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7nhp1/model_granite_switch_decision_by_gabelhart_pull/",
+   "published_at": "2026-10-16T18:08:51+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "model: Granite switch decision by gabe-l-hart · Pull Request #30676 · ggml-org/llama.cpp"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x7msmj/tyger_openweights_streaming_asr_fullduplex",
+   "source": "reddit",
+   "title": "Tyger: open-weights streaming ASR + full-duplex turn-control in one model",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7msmj/tyger_openweights_streaming_asr_fullduplex/",
+   "published_at": "2026-10-16T17:42:26+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "Tyger: open-weights streaming ASR + full-duplex turn-control in one model"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x7l0ct/why_naive_cosine_routing_fails_using_absorbing",
+   "source": "reddit",
+   "title": "Why naive cosine routing fails: Using Absorbing Markov Chains over a 768D embedding space for <2ms zero-token intent triage (before waking the LLM)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7l0ct/why_naive_cosine_routing_fails_using_absorbing/",
+   "published_at": "2026-10-16T16:34:18+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "Why naive cosine routing fails: Using Absorbing Markov Chains over a 768D embedding space for <2ms zero-token intent triage (before waking the LLM)"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x7hz2t/d3edge_06b_finetuned_outperformed_d3_27b_decision",
+   "source": "reddit",
+   "title": "d3-edge (0.6B) fine-tuned outperformed d3 (27B) decision model",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7hz2t/d3edge_06b_finetuned_outperformed_d3_27b_decision/",
+   "published_at": "2026-10-16T14:38:34+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "d3-edge (0.6B) fine-tuned outperformed d3 (27B) decision model"
+  },
+  {
+   "id": "hn:50121829",
+   "source": "hn",
+   "title": "Open-weight models 88% more susceptible to cyber attacks",
+   "url": "https://www.promptarmor.com/resources/open-weight-susceptibility",
+   "published_at": "2026-10-16T17:52:37Z",
+   "extra": "points=6",
+   "event_type": "release",
+   "summary": "Open-weight models 88% more susceptible to cyber attacks"
+  },
+  {
+   "id": "hn:50121646",
+   "source": "hn",
+   "title": "China proposes export controls on open weight models",
+   "url": "https://reddit.com/r/LocalLLaMA/comments/1x7g3zq/china_proposes_export_controls_on_23_ai/",
+   "published_at": "2026-10-16T17:39:03Z",
+   "extra": "points=4",
+   "event_type": "release",
+   "summary": "China proposes export controls on open weight models"
+  },
+  {
+   "id": "hn:50121439",
+   "source": "hn",
+   "title": "China unveils draft export controls on AI, open-weight models, and chips",
+   "url": "https://www.ft.com/content/e0a1295c-4492-4fdd-aaf5-55678a9ef9bf",
+   "published_at": "2026-10-16T17:24:41Z",
+   "extra": "points=7",
+   "event_type": "release",
+   "summary": "China unveils draft export controls on AI, open-weight models, and chips"
+  },
+  {
+   "id": "hn:50121362",
+   "source": "hn",
+   "title": "Backdooring Open-Weight AI Models",
+   "url": "https://www.schneier.com/blog/archives/2026/10/backdooring-open-weight-ai-models.html",
+   "published_at": "2026-10-16T17:19:20Z",
+   "extra": "points=1",
+   "event_type": "release",
+   "summary": "Backdooring Open-Weight AI Models"
+  },
+  {
+   "id": "hn:50119240",
+   "source": "hn",
+   "title": "Western open-weight models still can't beat China",
+   "url": "https://restofworld.org/2026/china-open-weight-models/",
+   "published_at": "2026-10-16T15:02:23Z",
+   "extra": "points=2",
+   "event_type": "release",
+   "summary": "Western open-weight models still can't beat China"
+  },
+  {
+   "id": "hn:50118782",
+   "source": "hn",
+   "title": "Reflection releases Beam, a 501B MoE model under Apache 2.0",
+   "url": "https://reflection.ai/blog/beam-is-available?source=hn",
+   "published_at": "2026-10-16T14:28:32Z",
+   "extra": "points=10",
+   "event_type": "release",
+   "summary": "Reflection releases Beam, a 501B MoE model under Apache 2.0"
   }
  ]
 }
