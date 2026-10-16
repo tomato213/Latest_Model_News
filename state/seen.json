@@ -3133,57 +3133,16 @@
   "hn:50013600": "2026-10-15T23:48:19.526121+00:00",
   "hn:50079786": "2026-10-15T23:48:19.526121+00:00",
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6yuc1/craziest_strangest_funniest_and_weirdest_llm_fine": "2026-10-15T23:48:20.181277+00:00",
-  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6youd/model_add_muse_spark_open_text_vision_and_audio": "2026-10-15T23:48:20.181277+00:00"
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6youd/model_add_muse_spark_open_text_vision_and_audio": "2026-10-15T23:48:20.181277+00:00",
+  "openai:https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic": "2026-10-16T04:21:22.495822+00:00",
+  "anthropic:2026-us-midterms": "2026-10-16T04:21:22.495822+00:00",
+  "anthropic:singapore-office-opening": "2026-10-16T04:21:22.495822+00:00",
+  "hn:50042663": "2026-10-16T04:21:22.495822+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x721co/single_shot_response_given_by_a_simple_model_on_a": "2026-10-16T04:21:22.988385+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x71uju/reverse_proxy_for_llms_which_can_wake_andor": "2026-10-16T04:21:22.988385+00:00",
+  "hn:50112329": "2026-10-16T04:21:22.988385+00:00"
  },
  "pending": [
-  {
-   "id": "openrouter:unbiased/pareto-26.10-preview",
-   "source": "openrouter",
-   "title": "Pareto 26.10 Preview",
-   "url": "https://openrouter.ai/unbiased/pareto-26.10-preview",
-   "published_at": "2026-10-01T14:07:03+00:00",
-   "extra": "context=1048576"
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wwfyv6/qwen4exp_halve_the_indexer_score_memory_by",
-   "source": "reddit",
-   "title": "qwen4exp : halve the indexer score memory by ServeurpersoCom · Pull Request #29825 · ggml-org/llama.cpp",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwfyv6/qwen4exp_halve_the_indexer_score_memory_by/",
-   "published_at": "2026-10-03T06:18:34+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wwfw06/gufoqwen3635ba3bq6dense_3095toks_prefill_190_toks",
-   "source": "reddit",
-   "title": "gufo-Qwen3.6-35B-A3B-Q6dense - 3095tok/s prefill; 190 tok/s decode on Strix Halo",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwfw06/gufoqwen3635ba3bq6dense_3095toks_prefill_190_toks/",
-   "published_at": "2026-10-03T06:13:45+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wwfk7j/evga_rtx_3090_ftw3_ultra_24gb_rev_10",
-   "source": "reddit",
-   "title": "EVGA RTX 3090 FTW3 Ultra 24GB Rev 1.0",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwfk7j/evga_rtx_3090_ftw3_ultra_24gb_rev_10/",
-   "published_at": "2026-10-03T05:54:20+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wwds6i/mlsubgen_subtitles_in_45_languages_for_your",
-   "source": "reddit",
-   "title": "mlsubgen — subtitles in 45 languages for your videos, entirely on your own machine",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwds6i/mlsubgen_subtitles_in_45_languages_for_your/",
-   "published_at": "2026-10-03T04:10:16+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wwcqas/anyone_sitting_on_a_lot_of_slow_system_memory_and",
-   "source": "reddit",
-   "title": "Anyone sitting on a lot of slow system memory and a modest GPU.. try Strata + Qwen3.8 Next.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwcqas/anyone_sitting_on_a_lot_of_slow_system_memory_and/",
-   "published_at": "2026-10-03T03:12:29+00:00",
-   "extra": ""
-  },
   {
    "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wwcgg3/should_i_not_use_mtp_draft_for_agentic_work",
    "source": "reddit",
@@ -18193,6 +18152,126 @@
    "extra": ""
   },
   {
+   "id": "openai:https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+   "source": "openai",
+   "title": "The EU’s next chapter in AI is agentic",
+   "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+   "published_at": "2026-10-14T00:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "anthropic:2026-us-midterms",
+   "source": "anthropic",
+   "title": "2026 Us Midterms",
+   "url": "https://www.anthropic.com/news/2026-us-midterms",
+   "published_at": "2026-10-14T00:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "anthropic:singapore-office-opening",
+   "source": "anthropic",
+   "title": "Singapore Office Opening",
+   "url": "https://www.anthropic.com/news/singapore-office-opening",
+   "published_at": "2026-10-14T00:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x713h7/mike_integrated_kanban_environment_strong_sandbox",
+   "source": "reddit",
+   "title": "MIKE: Integrated Kanban Environment = Strong Sandbox Isolation + Lightweight IDE",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x713h7/mike_integrated_kanban_environment_strong_sandbox/",
+   "published_at": "2026-10-15T23:39:28+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6ud3k/rtx_spark_qwen_38_27b_q4_at_4_ts",
+   "source": "reddit",
+   "title": "RTX Spark: Qwen 3.8 27B Q4 at 4 t/s",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6ud3k/rtx_spark_qwen_38_27b_q4_at_4_ts/",
+   "published_at": "2026-10-15T19:00:07+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6ubyp/has_anyone_tried_neuralweightcompression_lossless",
+   "source": "reddit",
+   "title": "Has Anyone Tried \"neural-weight-compression\", Lossless Entropy Compression for VRAM?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6ubyp/has_anyone_tried_neuralweightcompression_lossless/",
+   "published_at": "2026-10-15T18:58:54+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6uazz/i_built_a_coding_agent_you_can_keep_talking_to",
+   "source": "reddit",
+   "title": "I built a coding agent you can keep talking to while it builds",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6uazz/i_built_a_coding_agent_you_can_keep_talking_to/",
+   "published_at": "2026-10-15T18:57:53+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6uaav/i_turned_a_transformer_into_a_game_console_that",
+   "source": "reddit",
+   "title": "I turned a transformer into a game console that runs Pong, Tetris, Space Invaders and 116 more games.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6uaav/i_turned_a_transformer_into_a_game_console_that/",
+   "published_at": "2026-10-15T18:57:13+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6trqq/128gb_rtx_spark_laptop_for_3832",
+   "source": "reddit",
+   "title": "128GB RTX Spark laptop for $3832.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6trqq/128gb_rtx_spark_laptop_for_3832/",
+   "published_at": "2026-10-15T18:38:05+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/two-years-of-openai-academy",
+   "source": "openai",
+   "title": "Two years of OpenAI Academy",
+   "url": "https://openai.com/index/two-years-of-openai-academy",
+   "published_at": "2026-09-23T16:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+   "source": "openai",
+   "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+   "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+   "published_at": "2026-09-23T13:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/sam-altman-un-security-council-remarks",
+   "source": "openai",
+   "title": "Sam Altman’s remarks at the United Nations Security Council",
+   "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+   "published_at": "2026-09-23T12:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+   "source": "openai",
+   "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+   "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+   "published_at": "2026-09-23T12:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/invideo-builds-with-gpt-6-astra",
+   "source": "openai",
+   "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+   "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+   "published_at": "2026-09-23T12:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/albertsons-reimagining-retail",
+   "source": "openai",
+   "title": "How Albertsons Companies is reimagining retail from the inside out",
+   "url": "https://openai.com/index/albertsons-reimagining-retail",
+   "published_at": "2026-10-01T16:00:00+00:00",
+   "extra": ""
+  },
+  {
    "id": "openai:https://openai.com/index/introducing-the-rosalind-academic-plan",
    "source": "openai",
    "title": "Bringing GPT-Rosalind to academic research labs",
@@ -18206,6 +18285,14 @@
    "title": "Teaching students to think and learn through questions",
    "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
    "published_at": "2026-10-15T13:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/sullivan-cromwell",
+   "source": "openai",
+   "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+   "url": "https://openai.com/index/sullivan-cromwell",
+   "published_at": "2026-10-15T00:00:00+00:00",
    "extra": ""
   },
   {
@@ -18233,35 +18320,11 @@
    "extra": ""
   },
   {
-   "id": "openai:https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-   "source": "openai",
-   "title": "The EU’s next chapter in AI is agentic",
-   "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-   "published_at": "2026-10-14T00:00:00+00:00",
-   "extra": ""
-  },
-  {
    "id": "anthropic:an-update-on-independent-evaluators",
    "source": "anthropic",
    "title": "An Update On Independent Evaluators",
    "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
    "published_at": "2026-10-15T00:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "anthropic:2026-us-midterms",
-   "source": "anthropic",
-   "title": "2026 Us Midterms",
-   "url": "https://www.anthropic.com/news/2026-us-midterms",
-   "published_at": "2026-10-14T00:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "anthropic:singapore-office-opening",
-   "source": "anthropic",
-   "title": "Singapore Office Opening",
-   "url": "https://www.anthropic.com/news/singapore-office-opening",
-   "published_at": "2026-10-14T00:00:00+00:00",
    "extra": ""
   },
   {
@@ -18353,11 +18416,51 @@
    "extra": "context=1000000"
   },
   {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x713h7/mike_integrated_kanban_environment_strong_sandbox",
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x76n70/this_guy_just_got_a_macbook_pro_m5_pro_for_650eur",
    "source": "reddit",
-   "title": "MIKE: Integrated Kanban Environment = Strong Sandbox Isolation + Lightweight IDE",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x713h7/mike_integrated_kanban_environment_strong_sandbox/",
-   "published_at": "2026-10-15T23:39:28+00:00",
+   "title": "This guy just got a Macbook pro M5 Pro for 650EUR",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x76n70/this_guy_just_got_a_macbook_pro_m5_pro_for_650eur/",
+   "published_at": "2026-10-16T04:20:37+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x76d8l/blenderworld_benchmark_from_alibaba",
+   "source": "reddit",
+   "title": "BlenderWorld Benchmark from Alibaba",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x76d8l/blenderworld_benchmark_from_alibaba/",
+   "published_at": "2026-10-16T04:05:22+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x75uyi/drama3_in_audiocpp_up_to_5_faster_than_real_time",
+   "source": "reddit",
+   "title": "Drama3 in audio.cpp: Up to 5× faster than real time at full speed, or 2× real-time speed with < 8 GB of VRAM on an RTX 5090!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x75uyi/drama3_in_audiocpp_up_to_5_faster_than_real_time/",
+   "published_at": "2026-10-16T03:38:04+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x75bme/alodlm_8b_looped_diffusion_language_model_3x",
+   "source": "reddit",
+   "title": "ALoDLM 8b looped diffusion language model: ~3x inference speed vs its base model qwen3-8b with better benchmark results",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x75bme/alodlm_8b_looped_diffusion_language_model_3x/",
+   "published_at": "2026-10-16T03:09:36+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x74esr/datainventor_opensource_dataset_generator_on_hf",
+   "source": "reddit",
+   "title": "DataInventor: open-source dataset generator on HF Spaces, now with a Visualize mode",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x74esr/datainventor_opensource_dataset_generator_on_hf/",
+   "published_at": "2026-10-16T02:21:35+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x740se/trying_to_upgrade_my_gaming_pc_to_be_able_to_also",
+   "source": "reddit",
+   "title": "Trying to upgrade my gaming PC to be able to also do compute, mainly coding/RP RPGs. Looking between a second RTX5070ti (CUDA, compat, speed), Arc Pro B70 (size, cost), and R9700 (size, compat).",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x740se/trying_to_upgrade_my_gaming_pc_to_be_able_to_also/",
+   "published_at": "2026-10-16T02:01:05+00:00",
    "extra": ""
   },
   {
@@ -18449,44 +18552,12 @@
    "extra": ""
   },
   {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6ud3k/rtx_spark_qwen_38_27b_q4_at_4_ts",
-   "source": "reddit",
-   "title": "RTX Spark: Qwen 3.8 27B Q4 at 4 t/s",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6ud3k/rtx_spark_qwen_38_27b_q4_at_4_ts/",
-   "published_at": "2026-10-15T19:00:07+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6ubyp/has_anyone_tried_neuralweightcompression_lossless",
-   "source": "reddit",
-   "title": "Has Anyone Tried \"neural-weight-compression\", Lossless Entropy Compression for VRAM?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6ubyp/has_anyone_tried_neuralweightcompression_lossless/",
-   "published_at": "2026-10-15T18:58:54+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6uazz/i_built_a_coding_agent_you_can_keep_talking_to",
-   "source": "reddit",
-   "title": "I built a coding agent you can keep talking to while it builds",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6uazz/i_built_a_coding_agent_you_can_keep_talking_to/",
-   "published_at": "2026-10-15T18:57:53+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6uaav/i_turned_a_transformer_into_a_game_console_that",
-   "source": "reddit",
-   "title": "I turned a transformer into a game console that runs Pong, Tetris, Space Invaders and 116 more games.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6uaav/i_turned_a_transformer_into_a_game_console_that/",
-   "published_at": "2026-10-15T18:57:13+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x6trqq/128gb_rtx_spark_laptop_for_3832",
-   "source": "reddit",
-   "title": "128GB RTX Spark laptop for $3832.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6trqq/128gb_rtx_spark_laptop_for_3832/",
-   "published_at": "2026-10-15T18:38:05+00:00",
-   "extra": ""
+   "id": "hn:50112518",
+   "source": "hn",
+   "title": "Show HN: Weatheristic.com to answer questions other weather sites don't",
+   "url": "https://weatheristic.com/",
+   "published_at": "2026-10-16T01:16:35Z",
+   "extra": "points=3"
   },
   {
    "id": "hn:50109846",
@@ -18609,51 +18680,51 @@
    "extra": "points=2"
   },
   {
-   "id": "openai:https://openai.com/index/two-years-of-openai-academy",
-   "source": "openai",
-   "title": "Two years of OpenAI Academy",
-   "url": "https://openai.com/index/two-years-of-openai-academy",
-   "published_at": "2026-09-23T16:00:00+00:00",
+   "id": "openrouter:unbiased/pareto-26.10-preview",
+   "source": "openrouter",
+   "title": "Pareto 26.10 Preview",
+   "url": "https://openrouter.ai/unbiased/pareto-26.10-preview",
+   "published_at": "2026-10-01T14:07:03+00:00",
+   "extra": "context=1048576"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wwfyv6/qwen4exp_halve_the_indexer_score_memory_by",
+   "source": "reddit",
+   "title": "qwen4exp : halve the indexer score memory by ServeurpersoCom · Pull Request #29825 · ggml-org/llama.cpp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwfyv6/qwen4exp_halve_the_indexer_score_memory_by/",
+   "published_at": "2026-10-03T06:18:34+00:00",
    "extra": ""
   },
   {
-   "id": "openai:https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-   "source": "openai",
-   "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-   "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-   "published_at": "2026-09-23T13:00:00+00:00",
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wwfw06/gufoqwen3635ba3bq6dense_3095toks_prefill_190_toks",
+   "source": "reddit",
+   "title": "gufo-Qwen3.6-35B-A3B-Q6dense - 3095tok/s prefill; 190 tok/s decode on Strix Halo",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwfw06/gufoqwen3635ba3bq6dense_3095toks_prefill_190_toks/",
+   "published_at": "2026-10-03T06:13:45+00:00",
    "extra": ""
   },
   {
-   "id": "openai:https://openai.com/index/sam-altman-un-security-council-remarks",
-   "source": "openai",
-   "title": "Sam Altman’s remarks at the United Nations Security Council",
-   "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
-   "published_at": "2026-09-23T12:00:00+00:00",
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wwfk7j/evga_rtx_3090_ftw3_ultra_24gb_rev_10",
+   "source": "reddit",
+   "title": "EVGA RTX 3090 FTW3 Ultra 24GB Rev 1.0",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwfk7j/evga_rtx_3090_ftw3_ultra_24gb_rev_10/",
+   "published_at": "2026-10-03T05:54:20+00:00",
    "extra": ""
   },
   {
-   "id": "openai:https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-   "source": "openai",
-   "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-   "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-   "published_at": "2026-09-23T12:00:00+00:00",
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wwds6i/mlsubgen_subtitles_in_45_languages_for_your",
+   "source": "reddit",
+   "title": "mlsubgen — subtitles in 45 languages for your videos, entirely on your own machine",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwds6i/mlsubgen_subtitles_in_45_languages_for_your/",
+   "published_at": "2026-10-03T04:10:16+00:00",
    "extra": ""
   },
   {
-   "id": "openai:https://openai.com/index/invideo-builds-with-gpt-6-astra",
-   "source": "openai",
-   "title": "How invideo improves color grading 3x with GPT‑6 Astra",
-   "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-   "published_at": "2026-09-23T12:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "openai:https://openai.com/index/albertsons-reimagining-retail",
-   "source": "openai",
-   "title": "How Albertsons Companies is reimagining retail from the inside out",
-   "url": "https://openai.com/index/albertsons-reimagining-retail",
-   "published_at": "2026-10-01T16:00:00+00:00",
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wwcqas/anyone_sitting_on_a_lot_of_slow_system_memory_and",
+   "source": "reddit",
+   "title": "Anyone sitting on a lot of slow system memory and a modest GPU.. try Strata + Qwen3.8 Next.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwcqas/anyone_sitting_on_a_lot_of_slow_system_memory_and/",
+   "published_at": "2026-10-03T03:12:29+00:00",
    "extra": ""
   }
  ],
@@ -26237,6 +26308,36 @@
    "extra": "",
    "event_type": "release",
    "summary": "model: add Muse Spark Open (text, vision and audio) by ServeurpersoCom · Pull Request #30616 · ggml-org/llama.cpp"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x721co/single_shot_response_given_by_a_simple_model_on_a",
+   "source": "reddit",
+   "title": "Single shot response given by a simple model on a \"potato\" system.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x721co/single_shot_response_given_by_a_simple_model_on_a/",
+   "published_at": "2026-10-16T00:22:12+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "Single shot response given by a simple model on a \"potato\" system."
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x71uju/reverse_proxy_for_llms_which_can_wake_andor",
+   "source": "reddit",
+   "title": "Reverse proxy for LLMs which can wake and/or shut-down your inference server in response to incoming requests",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x71uju/reverse_proxy_for_llms_which_can_wake_andor/",
+   "published_at": "2026-10-16T00:13:25+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "Reverse proxy for LLMs which can wake and/or shut-down your inference server in response to incoming requests"
+  },
+  {
+   "id": "hn:50112329",
+   "source": "hn",
+   "title": "A model where companies lease critical minerals instead of selling them",
+   "url": "https://ccsi.columbia.edu/metals-service-maas/",
+   "published_at": "2026-10-16T00:52:32Z",
+   "extra": "points=7",
+   "event_type": "release",
+   "summary": "A model where companies lease critical minerals instead of selling them"
   }
  ]
 }
