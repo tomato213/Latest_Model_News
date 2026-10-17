@@ -3183,145 +3183,14 @@
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x7om1p/what_is_the_top_planning_model_for_100gb_ramvram": "2026-10-16T21:38:22.026854+00:00",
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x7o5tw/dungeon_crawler_bench_for_decision_models": "2026-10-16T21:38:22.026854+00:00",
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x7nsb1/extracting_structured_event_graphs_outcomes_from": "2026-10-16T21:38:22.026854+00:00",
-  "hn:50123580": "2026-10-16T21:38:22.026854+00:00"
+  "hn:50123580": "2026-10-16T21:38:22.026854+00:00",
+  "openai:https://openai.com/index/sullivan-cromwell": "2026-10-17T00:20:58.757340+00:00",
+  "anthropic:an-update-on-independent-evaluators": "2026-10-17T00:20:58.757340+00:00",
+  "openrouter:qwen/qwen3.7-plus:batch": "2026-10-17T00:20:58.757340+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x7vp40/does_omp_snapcompact_actually_work_well_with_self": "2026-10-17T00:20:59.284195+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x7v9zt/china_closed_the_door_on_advance_llm_and_agent": "2026-10-17T00:20:59.284195+00:00"
  },
  "pending": [
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wjiw0q/orcareplay_archive_is_worth_a_look",
-   "source": "reddit",
-   "title": "OrcaReplay Archive is worth a look",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjiw0q/orcareplay_archive_is_worth_a_look/",
-   "published_at": "2026-09-18T06:56:07+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wjiuv9/is_it_just_me_or_nvidia_is_actually_cutting_its",
-   "source": "reddit",
-   "title": "Is it just me or Nvidia is actually cutting its own branch on which it sits ?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjiuv9/is_it_just_me_or_nvidia_is_actually_cutting_its/",
-   "published_at": "2026-09-18T06:54:22+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wjio00/qwen_38_next_flash_appreciation_post",
-   "source": "reddit",
-   "title": "Qwen 3.8 Next Flash appreciation post",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjio00/qwen_38_next_flash_appreciation_post/",
-   "published_at": "2026-09-18T06:42:57+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wjieap/made_the_horizontal_opensource_model_for_jev_with",
-   "source": "reddit",
-   "title": "Made the horizontal open-source model for Jev with RLCD, and it surpasses all the Jev benchmarks. HF space, benchmark, model, repo",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjieap/made_the_horizontal_opensource_model_for_jev_with/",
-   "published_at": "2026-09-18T06:25:03+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wjh7ox/llamacpp_expertpool_fork_for_qwen_38_flash_next",
-   "source": "reddit",
-   "title": "llama.cpp expert-pool fork for Qwen 3.8 Flash next IQ4 + 16Gb VRAM tested on MI50 gfx906 with parameters",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjh7ox/llamacpp_expertpool_fork_for_qwen_38_flash_next/",
-   "published_at": "2026-09-18T05:19:31+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wjgnok/ternary_bonsai_is_a_headless_chicken",
-   "source": "reddit",
-   "title": "Ternary Bonsai is a headless chicken",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjgnok/ternary_bonsai_is_a_headless_chicken/",
-   "published_at": "2026-09-18T04:50:15+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wje4xh/still_doesnt_get_what_jev_isis_it_just_a_more",
-   "source": "reddit",
-   "title": "still doesn’t get what Jev is…..is it just a more generalised BERT?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wje4xh/still_doesnt_get_what_jev_isis_it_just_a_more/",
-   "published_at": "2026-09-18T02:45:55+00:00",
-   "extra": ""
-  },
-  {
-   "id": "openrouter:qwen/qwen3.8-max-prime",
-   "source": "openrouter",
-   "title": "Qwen: Qwen3.8 Max Prime",
-   "url": "https://openrouter.ai/qwen/qwen3.8-max-prime",
-   "published_at": "2026-09-23T19:20:28+00:00",
-   "extra": "context=1000000"
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wpwm5z/muse_charm_but_local_and_free",
-   "source": "reddit",
-   "title": "muse charm but local and free",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpwm5z/muse_charm_but_local_and_free/",
-   "published_at": "2026-09-25T13:39:07+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wwkqyb/fixed_longhorizon_task_drift_on_local_setups",
-   "source": "reddit",
-   "title": "Fixed long-horizon task drift on local setups using a deterministic state plugin",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwkqyb/fixed_longhorizon_task_drift_on_local_setups/",
-   "published_at": "2026-10-03T11:17:19+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wwkn3x/thanks_to_strata_i_have_quit_27b_for_qwen_flash",
-   "source": "reddit",
-   "title": "Thanks to Strata I have quit 27b for Qwen Flash (24gb VRAM plus 64gb ram)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwkn3x/thanks_to_strata_i_have_quit_27b_for_qwen_flash/",
-   "published_at": "2026-10-03T11:11:08+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wwk49n/the_ultimate_guide_to_multiharness_rl",
-   "source": "reddit",
-   "title": "The ultimate guide to multi-harness RL",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwk49n/the_ultimate_guide_to_multiharness_rl/",
-   "published_at": "2026-10-03T10:39:37+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wwjrmw/local_ai_pc_7663_dual_epyc_dual_9709",
-   "source": "reddit",
-   "title": "Local Ai Pc 7663 Dual Epyc / Dual 9709",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwjrmw/local_ai_pc_7663_dual_epyc_dual_9709/",
-   "published_at": "2026-10-03T10:17:25+00:00",
-   "extra": ""
-  },
-  {
-   "id": "hn:49927572",
-   "source": "hn",
-   "title": "Ask HN: Why would I use Openrouter over something like DeepInfra directly?",
-   "url": "https://news.ycombinator.com/item?id=49927572",
-   "published_at": "2026-10-01T22:00:52Z",
-   "extra": "points=1"
-  },
-  {
-   "id": "hn:49927295",
-   "source": "hn",
-   "title": "Show HN: Graphene – Data analysis toolkit for your coding agent",
-   "url": "https://github.com/graphene-data/graphene",
-   "published_at": "2026-10-01T21:29:52Z",
-   "extra": "points=3"
-  },
-  {
-   "id": "hn:49927078",
-   "source": "hn",
-   "title": "Show HN: Fumble – keybr, but it learns from everything you type (macOS)",
-   "url": "https://fumble.alexmcconnell.ie",
-   "published_at": "2026-10-01T21:05:17Z",
-   "extra": "points=2"
-  },
-  {
-   "id": "hn:49926726",
-   "source": "hn",
-   "title": "Show HN: Rhun, an open-source code editor written in assembly",
-   "url": "https://rhun.app/",
-   "published_at": "2026-10-01T20:32:18Z",
-   "extra": "points=28"
-  },
   {
    "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wptam3/mods_can_we_do_something_about_half_the_forum",
    "source": "reddit",
@@ -18755,6 +18624,118 @@
    "extra": ""
   },
   {
+   "id": "openai:https://openai.com/index/sullivan-cromwell",
+   "source": "openai",
+   "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+   "url": "https://openai.com/index/sullivan-cromwell",
+   "published_at": "2026-10-15T00:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "anthropic:an-update-on-independent-evaluators",
+   "source": "anthropic",
+   "title": "An Update On Independent Evaluators",
+   "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+   "published_at": "2026-10-15T00:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x7lw9g/show_me_your_rack",
+   "source": "reddit",
+   "title": "Show me your rack",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7lw9g/show_me_your_rack/",
+   "published_at": "2026-10-16T17:07:47+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x7liub/learned_something_about_mtp_that_didnt_seem",
+   "source": "reddit",
+   "title": "Learned something about MTP that didn't seem intuitive, thought I would share",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7liub/learned_something_about_mtp_that_didnt_seem/",
+   "published_at": "2026-10-16T16:53:51+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x7lcdu/the_debtfueled_ai_boom_is_cracking",
+   "source": "reddit",
+   "title": "The debt-fueled AI boom is cracking",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7lcdu/the_debtfueled_ai_boom_is_cracking/",
+   "published_at": "2026-10-16T16:47:11+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openrouter:~deepseek/deepseek-pro-latest",
+   "source": "openrouter",
+   "title": "DeepSeek: DeepSeek Pro Latest",
+   "url": "https://openrouter.ai/~deepseek/deepseek-pro-latest",
+   "published_at": "2026-09-14T15:19:34+00:00",
+   "extra": "context=1048576"
+  },
+  {
+   "id": "openrouter:~deepseek/deepseek-flash-latest",
+   "source": "openrouter",
+   "title": "DeepSeek: DeepSeek Flash Latest",
+   "url": "https://openrouter.ai/~deepseek/deepseek-flash-latest",
+   "published_at": "2026-09-14T15:19:10+00:00",
+   "extra": "context=1048576"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1whyq3t/open_source_will_push_the_new_frontier_heres_why",
+   "source": "reddit",
+   "title": "Open source will push the new frontier, here's why",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whyq3t/open_source_will_push_the_new_frontier_heres_why/",
+   "published_at": "2026-09-16T14:24:41+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1whx9mu/what_would_you_do_with_this_mess_of_gpus",
+   "source": "reddit",
+   "title": "What would you do with this mess of GPUs?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whx9mu/what_would_you_do_with_this_mess_of_gpus/",
+   "published_at": "2026-09-16T13:28:28+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1whx5xi/you_can_offload_most_of_qwen38flashnexts_kv_cache",
+   "source": "reddit",
+   "title": "You can offload most of Qwen3.8-Flash-Next's KV cache to RAM with little decode slowdown",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whx5xi/you_can_offload_most_of_qwen38flashnexts_kv_cache/",
+   "published_at": "2026-09-16T13:24:26+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1whvtev/m5_max_128gb",
+   "source": "reddit",
+   "title": "M5 Max 128GB",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whvtev/m5_max_128gb/",
+   "published_at": "2026-09-16T12:27:29+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/reimagining-advertising-with-ai",
+   "source": "openai",
+   "title": "Reimagining advertising with AI",
+   "url": "https://openai.com/index/reimagining-advertising-with-ai",
+   "published_at": "2026-09-16T13:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+   "source": "openai",
+   "title": "How to connect AI usage to business value",
+   "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+   "published_at": "2026-09-16T12:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/itau-generative-ai",
+   "source": "openai",
+   "title": "How Itaú is building generative AI for its entire customer base",
+   "url": "https://openai.com/index/itau-generative-ai",
+   "published_at": "2026-10-16T19:00:00+00:00",
+   "extra": ""
+  },
+  {
    "id": "openai:https://openai.com/index/stack-overflow-chatgpt-plugin",
    "source": "openai",
    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
@@ -18776,22 +18757,6 @@
    "title": "Teaching students to think and learn through questions",
    "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
    "published_at": "2026-10-15T13:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "openai:https://openai.com/index/sullivan-cromwell",
-   "source": "openai",
-   "title": "Sullivan & Cromwell brings legal expertise into agreement review",
-   "url": "https://openai.com/index/sullivan-cromwell",
-   "published_at": "2026-10-15T00:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "anthropic:an-update-on-independent-evaluators",
-   "source": "anthropic",
-   "title": "An Update On Independent Evaluators",
-   "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
-   "published_at": "2026-10-15T00:00:00+00:00",
    "extra": ""
   },
   {
@@ -18857,6 +18822,22 @@
    "url": "https://openrouter.ai/nvidia/nemotron-3.5-super-vl:free",
    "published_at": "2026-10-15T15:04:22+00:00",
    "extra": "context=1000000"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x7w7dp/nvidianvidianemotronlabsdory104bbf16_hugging_face",
+   "source": "reddit",
+   "title": "nvidia/NVIDIA-Nemotron-Labs-Dory1.0-4B-BF16 · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7w7dp/nvidianvidianemotronlabsdory104bbf16_hugging_face/",
+   "published_at": "2026-10-17T00:11:45+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x7uf15/i_dont_get_the_qwen_38_flash_next_hype",
+   "source": "reddit",
+   "title": "I don't get the qwen 3.8 flash next hype",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7uf15/i_dont_get_the_qwen_38_flash_next_hype/",
+   "published_at": "2026-10-16T22:48:28+00:00",
+   "extra": ""
   },
   {
    "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x7sq8e/10_things_you_maybe_didnt_know_you_can_do_with",
@@ -18939,30 +18920,6 @@
    "extra": ""
   },
   {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x7lw9g/show_me_your_rack",
-   "source": "reddit",
-   "title": "Show me your rack",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7lw9g/show_me_your_rack/",
-   "published_at": "2026-10-16T17:07:47+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x7liub/learned_something_about_mtp_that_didnt_seem",
-   "source": "reddit",
-   "title": "Learned something about MTP that didn't seem intuitive, thought I would share",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7liub/learned_something_about_mtp_that_didnt_seem/",
-   "published_at": "2026-10-16T16:53:51+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x7lcdu/the_debtfueled_ai_boom_is_cracking",
-   "source": "reddit",
-   "title": "The debt-fueled AI boom is cracking",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7lcdu/the_debtfueled_ai_boom_is_cracking/",
-   "published_at": "2026-10-16T16:47:11+00:00",
-   "extra": ""
-  },
-  {
    "id": "hn:50124777",
    "source": "hn",
    "title": "Open weight takes 71.5% of tokens and 23% of spend",
@@ -18992,6 +18949,14 @@
    "title": "Ling 3.1 Flash: 560B open-weight MoE, MIT license, 1M context",
    "url": "https://huggingface.co/inclusionAI/Ling-3.1-flash",
    "published_at": "2026-10-15T10:21:08Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:50126334",
+   "source": "hn",
+   "title": "Show HN: Fakeipedia – Wikipedia for worlds that don't exist",
+   "url": "https://fakeipedia.org",
+   "published_at": "2026-10-16T23:52:04Z",
    "extra": "points=1"
   },
   {
@@ -19091,68 +19056,140 @@
    "extra": "points=1"
   },
   {
-   "id": "openrouter:~deepseek/deepseek-pro-latest",
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wjiw0q/orcareplay_archive_is_worth_a_look",
+   "source": "reddit",
+   "title": "OrcaReplay Archive is worth a look",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjiw0q/orcareplay_archive_is_worth_a_look/",
+   "published_at": "2026-09-18T06:56:07+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wjiuv9/is_it_just_me_or_nvidia_is_actually_cutting_its",
+   "source": "reddit",
+   "title": "Is it just me or Nvidia is actually cutting its own branch on which it sits ?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjiuv9/is_it_just_me_or_nvidia_is_actually_cutting_its/",
+   "published_at": "2026-09-18T06:54:22+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wjio00/qwen_38_next_flash_appreciation_post",
+   "source": "reddit",
+   "title": "Qwen 3.8 Next Flash appreciation post",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjio00/qwen_38_next_flash_appreciation_post/",
+   "published_at": "2026-09-18T06:42:57+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wjieap/made_the_horizontal_opensource_model_for_jev_with",
+   "source": "reddit",
+   "title": "Made the horizontal open-source model for Jev with RLCD, and it surpasses all the Jev benchmarks. HF space, benchmark, model, repo",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjieap/made_the_horizontal_opensource_model_for_jev_with/",
+   "published_at": "2026-09-18T06:25:03+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wjh7ox/llamacpp_expertpool_fork_for_qwen_38_flash_next",
+   "source": "reddit",
+   "title": "llama.cpp expert-pool fork for Qwen 3.8 Flash next IQ4 + 16Gb VRAM tested on MI50 gfx906 with parameters",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjh7ox/llamacpp_expertpool_fork_for_qwen_38_flash_next/",
+   "published_at": "2026-09-18T05:19:31+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wjgnok/ternary_bonsai_is_a_headless_chicken",
+   "source": "reddit",
+   "title": "Ternary Bonsai is a headless chicken",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjgnok/ternary_bonsai_is_a_headless_chicken/",
+   "published_at": "2026-09-18T04:50:15+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wje4xh/still_doesnt_get_what_jev_isis_it_just_a_more",
+   "source": "reddit",
+   "title": "still doesn’t get what Jev is…..is it just a more generalised BERT?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wje4xh/still_doesnt_get_what_jev_isis_it_just_a_more/",
+   "published_at": "2026-09-18T02:45:55+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openrouter:qwen/qwen3.8-max-prime",
    "source": "openrouter",
-   "title": "DeepSeek: DeepSeek Pro Latest",
-   "url": "https://openrouter.ai/~deepseek/deepseek-pro-latest",
-   "published_at": "2026-09-14T15:19:34+00:00",
-   "extra": "context=1048576"
+   "title": "Qwen: Qwen3.8 Max Prime",
+   "url": "https://openrouter.ai/qwen/qwen3.8-max-prime",
+   "published_at": "2026-09-23T19:20:28+00:00",
+   "extra": "context=1000000"
   },
   {
-   "id": "openrouter:~deepseek/deepseek-flash-latest",
-   "source": "openrouter",
-   "title": "DeepSeek: DeepSeek Flash Latest",
-   "url": "https://openrouter.ai/~deepseek/deepseek-flash-latest",
-   "published_at": "2026-09-14T15:19:10+00:00",
-   "extra": "context=1048576"
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1whyq3t/open_source_will_push_the_new_frontier_heres_why",
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wpwm5z/muse_charm_but_local_and_free",
    "source": "reddit",
-   "title": "Open source will push the new frontier, here's why",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whyq3t/open_source_will_push_the_new_frontier_heres_why/",
-   "published_at": "2026-09-16T14:24:41+00:00",
+   "title": "muse charm but local and free",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpwm5z/muse_charm_but_local_and_free/",
+   "published_at": "2026-09-25T13:39:07+00:00",
    "extra": ""
   },
   {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1whx9mu/what_would_you_do_with_this_mess_of_gpus",
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wwkqyb/fixed_longhorizon_task_drift_on_local_setups",
    "source": "reddit",
-   "title": "What would you do with this mess of GPUs?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whx9mu/what_would_you_do_with_this_mess_of_gpus/",
-   "published_at": "2026-09-16T13:28:28+00:00",
+   "title": "Fixed long-horizon task drift on local setups using a deterministic state plugin",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwkqyb/fixed_longhorizon_task_drift_on_local_setups/",
+   "published_at": "2026-10-03T11:17:19+00:00",
    "extra": ""
   },
   {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1whx5xi/you_can_offload_most_of_qwen38flashnexts_kv_cache",
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wwkn3x/thanks_to_strata_i_have_quit_27b_for_qwen_flash",
    "source": "reddit",
-   "title": "You can offload most of Qwen3.8-Flash-Next's KV cache to RAM with little decode slowdown",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whx5xi/you_can_offload_most_of_qwen38flashnexts_kv_cache/",
-   "published_at": "2026-09-16T13:24:26+00:00",
+   "title": "Thanks to Strata I have quit 27b for Qwen Flash (24gb VRAM plus 64gb ram)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwkn3x/thanks_to_strata_i_have_quit_27b_for_qwen_flash/",
+   "published_at": "2026-10-03T11:11:08+00:00",
    "extra": ""
   },
   {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1whvtev/m5_max_128gb",
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wwk49n/the_ultimate_guide_to_multiharness_rl",
    "source": "reddit",
-   "title": "M5 Max 128GB",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whvtev/m5_max_128gb/",
-   "published_at": "2026-09-16T12:27:29+00:00",
+   "title": "The ultimate guide to multi-harness RL",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwk49n/the_ultimate_guide_to_multiharness_rl/",
+   "published_at": "2026-10-03T10:39:37+00:00",
    "extra": ""
   },
   {
-   "id": "openai:https://openai.com/index/reimagining-advertising-with-ai",
-   "source": "openai",
-   "title": "Reimagining advertising with AI",
-   "url": "https://openai.com/index/reimagining-advertising-with-ai",
-   "published_at": "2026-09-16T13:00:00+00:00",
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wwjrmw/local_ai_pc_7663_dual_epyc_dual_9709",
+   "source": "reddit",
+   "title": "Local Ai Pc 7663 Dual Epyc / Dual 9709",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwjrmw/local_ai_pc_7663_dual_epyc_dual_9709/",
+   "published_at": "2026-10-03T10:17:25+00:00",
    "extra": ""
   },
   {
-   "id": "openai:https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-   "source": "openai",
-   "title": "How to connect AI usage to business value",
-   "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-   "published_at": "2026-09-16T12:00:00+00:00",
-   "extra": ""
+   "id": "hn:49927572",
+   "source": "hn",
+   "title": "Ask HN: Why would I use Openrouter over something like DeepInfra directly?",
+   "url": "https://news.ycombinator.com/item?id=49927572",
+   "published_at": "2026-10-01T22:00:52Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:49927295",
+   "source": "hn",
+   "title": "Show HN: Graphene – Data analysis toolkit for your coding agent",
+   "url": "https://github.com/graphene-data/graphene",
+   "published_at": "2026-10-01T21:29:52Z",
+   "extra": "points=3"
+  },
+  {
+   "id": "hn:49927078",
+   "source": "hn",
+   "title": "Show HN: Fumble – keybr, but it learns from everything you type (macOS)",
+   "url": "https://fumble.alexmcconnell.ie",
+   "published_at": "2026-10-01T21:05:17Z",
+   "extra": "points=2"
+  },
+  {
+   "id": "hn:49926726",
+   "source": "hn",
+   "title": "Show HN: Rhun, an open-source code editor written in assembly",
+   "url": "https://rhun.app/",
+   "published_at": "2026-10-01T20:32:18Z",
+   "extra": "points=28"
   }
  ],
  "pending_push": [
@@ -27065,6 +27102,26 @@
    "extra": "points=41",
    "event_type": "release",
    "summary": "Flux 3 Image Klein: open weights, 5.6B parameters"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x7vp40/does_omp_snapcompact_actually_work_well_with_self",
+   "source": "reddit",
+   "title": "Does OMP snapcompact actually work well with self hosted models?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7vp40/does_omp_snapcompact_actually_work_well_with_self/",
+   "published_at": "2026-10-16T23:48:15+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "Does OMP snapcompact actually work well with self hosted models?"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x7v9zt/china_closed_the_door_on_advance_llm_and_agent",
+   "source": "reddit",
+   "title": "China closed the door on Advance LLM and Agent export",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7v9zt/china_closed_the_door_on_advance_llm_and_agent/",
+   "published_at": "2026-10-16T23:27:58+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "China closed the door on Advance LLM and Agent export"
   }
  ]
 }
