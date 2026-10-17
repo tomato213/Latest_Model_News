@@ -3198,41 +3198,13 @@
   "hn:50101618": "2026-10-17T13:08:56.111663+00:00",
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x87kgj/model_add_kolibri1_alephalpha_support_by_riteme": "2026-10-17T13:08:56.694937+00:00",
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x865rk/otaku_an_llm_frontend_for_creative_writing": "2026-10-17T13:08:56.694937+00:00",
-  "hn:50130686": "2026-10-17T13:08:56.694937+00:00"
+  "hn:50130686": "2026-10-17T13:08:56.694937+00:00",
+  "openrouter:nvidia/nemotron-3.5-super-vl": "2026-10-17T16:38:00.895157+00:00",
+  "openrouter:nvidia/nemotron-3.5-super-vl:free": "2026-10-17T16:38:00.895157+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x8bb6b/deepseek_v41_flash_1017_now_leads_openweight": "2026-10-17T16:38:01.684338+00:00",
+  "hn:50131617": "2026-10-17T16:38:01.684338+00:00"
  },
  "pending": [
-  {
-   "id": "hn:49727345",
-   "source": "hn",
-   "title": "Switched to Claude Code's open-source rival, stopped worrying about rate limits",
-   "url": "https://www.xda-developers.com/switched-to-claude-code-open-source-rival-and-stopped-worrying-about-rate-limits/",
-   "published_at": "2026-09-16T14:12:17Z",
-   "extra": "points=1"
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1whubpv/do_you_use_embedded_jinja_templates_or_external",
-   "source": "reddit",
-   "title": "Do you use embedded Jinja Templates or external ones?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whubpv/do_you_use_embedded_jinja_templates_or_external/",
-   "published_at": "2026-09-16T11:17:12+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1whtcp0/ministral_3_3b_on_a_galaxy_s21_relayed_a",
-   "source": "reddit",
-   "title": "Ministral 3 3B on a Galaxy S21 relayed a conversation between Gemini and Z.ai across Chrome and Firefox",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whtcp0/ministral_3_3b_on_a_galaxy_s21_relayed_a/",
-   "published_at": "2026-09-16T10:25:21+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1whssu5/should_we_get_apple_silicon_or_a_24gb_gpu_128gb",
-   "source": "reddit",
-   "title": "Should we get Apple silicon or a 24gb GPU + 128gb ram?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whssu5/should_we_get_apple_silicon_or_a_24gb_gpu_128gb/",
-   "published_at": "2026-09-16T09:55:12+00:00",
-   "extra": ""
-  },
   {
    "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1whsqio/qwen4exp_add_hc_ops_by_am17an_pull_request_28901",
    "source": "reddit",
@@ -19042,6 +19014,110 @@
    "extra": ""
   },
   {
+   "id": "openrouter:nvidia/nemotron-3.5-super-vl",
+   "source": "openrouter",
+   "title": "NVIDIA: Nemotron 3.5 Super VL",
+   "url": "https://openrouter.ai/nvidia/nemotron-3.5-super-vl",
+   "published_at": "2026-10-15T15:04:22+00:00",
+   "extra": "context=1048576"
+  },
+  {
+   "id": "openrouter:nvidia/nemotron-3.5-super-vl:free",
+   "source": "openrouter",
+   "title": "NVIDIA: Nemotron 3.5 Super VL (free)",
+   "url": "https://openrouter.ai/nvidia/nemotron-3.5-super-vl:free",
+   "published_at": "2026-10-15T15:04:22+00:00",
+   "extra": "context=1000000"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x86mh7/genversediscoveryrsi27b_finetune",
+   "source": "reddit",
+   "title": "Gen-Verse/DiscoveryRSI-27B (finetune)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x86mh7/genversediscoveryrsi27b_finetune/",
+   "published_at": "2026-10-17T10:11:01+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x848xp/qwen38_flash_next_on_nvidia_agx_64gb",
+   "source": "reddit",
+   "title": "Qwen3.8 Flash Next on Nvidia AGX 64GB",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x848xp/qwen38_flash_next_on_nvidia_agx_64gb/",
+   "published_at": "2026-10-17T07:40:57+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x842o2/run_macos_on_a_pc_with_nvidia_drivers_metal",
+   "source": "reddit",
+   "title": "Run MacOS on a PC with Nvidia Drivers (metal accelerated) Anyone tested for AI inferencing yet?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x842o2/run_macos_on_a_pc_with_nvidia_drivers_metal/",
+   "published_at": "2026-10-17T07:30:11+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x83hz1/nvdias_nemotron_is_guard_railed_to_uselessness",
+   "source": "reddit",
+   "title": "Nvdia’s Nemotron is guard railed to uselessness.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x83hz1/nvdias_nemotron_is_guard_railed_to_uselessness/",
+   "published_at": "2026-10-17T06:56:15+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x83321/i_built_a_tiny_site_that_lets_you_feel_the",
+   "source": "reddit",
+   "title": "I built a tiny site that let's you feel the tokens/s before you buy the GPU",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x83321/i_built_a_tiny_site_that_lets_you_feel_the/",
+   "published_at": "2026-10-17T06:30:47+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x82yxx/qwen3827bdefianceuncensoredmtpgguf",
+   "source": "reddit",
+   "title": "Qwen3.8-27B-Defiance-Uncensored-MTP-GGUF",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x82yxx/qwen3827bdefianceuncensoredmtpgguf/",
+   "published_at": "2026-10-17T06:23:41+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x82lni/currently_whats_the_best_near_4bit_quantization",
+   "source": "reddit",
+   "title": "Currently whats the best near 4-bit quantization method (excluding nvfp4)? [Only in term of quality, not speed]",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x82lni/currently_whats_the_best_near_4bit_quantization/",
+   "published_at": "2026-10-17T06:01:02+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x82kdx/i_said_help_me_apply_the_ai_agent_heard_submit_it",
+   "source": "reddit",
+   "title": "I said “help me apply.” The AI agent heard “submit it without showing me.”",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x82kdx/i_said_help_me_apply_the_ai_agent_heard_submit_it/",
+   "published_at": "2026-10-17T05:59:07+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x82hoq/i_gave_every_agent_the_ability_to_talk_through",
+   "source": "reddit",
+   "title": "I gave EVERY agent the ability to talk through custom interfaces! (yours too)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x82hoq/i_gave_every_agent_the_ability_to_talk_through/",
+   "published_at": "2026-10-17T05:54:27+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wj8ufu/how_does_qwen_38_27b_compare_to",
+   "source": "reddit",
+   "title": "How does Qwen 3.8 27B compare to GLM/Deepseek/Anthropic/OpenAI etc?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj8ufu/how_does_qwen_38_27b_compare_to/",
+   "published_at": "2026-09-17T22:46:52+00:00",
+   "extra": ""
+  },
+  {
+   "id": "hn:49727511",
+   "source": "hn",
+   "title": "Show HN: Swift-Qwen3.8-27B, -58.3% thinking, x1.95 speed, accuracy of xhigh",
+   "url": "https://huggingface.co/ukisai/Swift-Qwen3.8-27b",
+   "published_at": "2026-09-16T14:24:05Z",
+   "extra": "points=4"
+  },
+  {
    "id": "openai:https://openai.com/index/itau-generative-ai",
    "source": "openai",
    "title": "How Itaú is building generative AI for its entire customer base",
@@ -19050,18 +19126,18 @@
    "extra": ""
   },
   {
-   "id": "openai:https://openai.com/index/stack-overflow-chatgpt-plugin",
-   "source": "openai",
-   "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-   "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-   "published_at": "2026-10-16T00:00:00+00:00",
-   "extra": ""
-  },
-  {
    "id": "openai:https://openai.com/index/benefit-street-partners",
    "source": "openai",
    "title": "Benefit Street Partners answers questions faster with Codex",
    "url": "https://openai.com/index/benefit-street-partners",
+   "published_at": "2026-10-16T00:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/stack-overflow-chatgpt-plugin",
+   "source": "openai",
+   "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+   "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
    "published_at": "2026-10-16T00:00:00+00:00",
    "extra": ""
   },
@@ -19162,20 +19238,84 @@
    "extra": "context=1048576"
   },
   {
-   "id": "openrouter:nvidia/nemotron-3.5-super-vl",
-   "source": "openrouter",
-   "title": "NVIDIA: Nemotron 3.5 Super VL",
-   "url": "https://openrouter.ai/nvidia/nemotron-3.5-super-vl",
-   "published_at": "2026-10-15T15:04:22+00:00",
-   "extra": "context=1048576"
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x8ee0q/china_says_it_will_curb_tech_exports_including_ai",
+   "source": "reddit",
+   "title": "China says it will curb tech exports, including AI, citing national security risks",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8ee0q/china_says_it_will_curb_tech_exports_including_ai/",
+   "published_at": "2026-10-17T16:23:27+00:00",
+   "extra": ""
   },
   {
-   "id": "openrouter:nvidia/nemotron-3.5-super-vl:free",
-   "source": "openrouter",
-   "title": "NVIDIA: Nemotron 3.5 Super VL (free)",
-   "url": "https://openrouter.ai/nvidia/nemotron-3.5-super-vl:free",
-   "published_at": "2026-10-15T15:04:22+00:00",
-   "extra": "context=1000000"
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x8e813/finetuned_minicpm5_1b_testing",
+   "source": "reddit",
+   "title": "FineTuned MiniCPM5 1B Testing",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8e813/finetuned_minicpm5_1b_testing/",
+   "published_at": "2026-10-17T16:16:36+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x8e4wd/linux_creator_says_antiai_rules_are_idiotic",
+   "source": "reddit",
+   "title": "Linux creator says anti-AI rules are \"idiotic.\" (Absolute god-tier take.)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8e4wd/linux_creator_says_antiai_rules_are_idiotic/",
+   "published_at": "2026-10-17T16:13:13+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x8ds0n/given_all_recent_findings_and_paradigms_would_you",
+   "source": "reddit",
+   "title": "Given all recent findings and paradigms, would you still pick a V100 over a 9700?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8ds0n/given_all_recent_findings_and_paradigms_would_you/",
+   "published_at": "2026-10-17T15:59:16+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x8dh83/deepseek_v41_flash_1017_token_efficiency",
+   "source": "reddit",
+   "title": "DeepSeek V4.1 Flash 1017 token efficiency",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8dh83/deepseek_v41_flash_1017_token_efficiency/",
+   "published_at": "2026-10-17T15:46:46+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x8ca9a/modify_and_load_custom_vbios_on_windows_and_linux",
+   "source": "reddit",
+   "title": "Modify and load custom VBIOS on Windows and Linux, on Blackwell 2.0 (RTX 50 Series)/Ada(RTX 40 Series)/Ampere (RTX 30 Series) without flasing, for example to lower power limits (and which cards were tested)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8ca9a/modify_and_load_custom_vbios_on_windows_and_linux/",
+   "published_at": "2026-10-17T14:57:22+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x8bqqs/cuda_faster_mmvq_for_lowbit_types_by_am17an_pull",
+   "source": "reddit",
+   "title": "CUDA: faster MMVQ for low-bit types by am17an · Pull Request #30517 · ggml-org/llama.cpp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8bqqs/cuda_faster_mmvq_for_lowbit_types_by_am17an_pull/",
+   "published_at": "2026-10-17T14:33:53+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x8bg1u/nvidianvidianemotronlabsdory104bbf16_hugging_face",
+   "source": "reddit",
+   "title": "nvidia/NVIDIA-Nemotron-Labs-Dory1.0-4B-BF16 · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8bg1u/nvidianvidianemotronlabsdory104bbf16_hugging_face/",
+   "published_at": "2026-10-17T14:20:54+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x8am0i/why_not_run_qwen_38_flash_next_with_the_full",
+   "source": "reddit",
+   "title": "Why not run Qwen 3.8 Flash Next with the full n-gram-table?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8am0i/why_not_run_qwen_38_flash_next_with_the_full/",
+   "published_at": "2026-10-17T13:44:17+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x8aasq/prompt_cache_upload",
+   "source": "reddit",
+   "title": "Prompt cache upload",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8aasq/prompt_cache_upload/",
+   "published_at": "2026-10-17T13:29:52+00:00",
+   "extra": ""
   },
   {
    "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x89ptz/qwen_27b_iq4_xs_q8q4_kv_at_full_262k_context_on_a",
@@ -19215,14 +19355,6 @@
    "title": "Strata - Qwen 3.8 Flash Next - boosting decoding speed Tip",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x86yor/strata_qwen_38_flash_next_boosting_decoding_speed/",
    "published_at": "2026-10-17T10:31:33+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x86mh7/genversediscoveryrsi27b_finetune",
-   "source": "reddit",
-   "title": "Gen-Verse/DiscoveryRSI-27B (finetune)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x86mh7/genversediscoveryrsi27b_finetune/",
-   "published_at": "2026-10-17T10:11:01+00:00",
    "extra": ""
   },
   {
@@ -19279,70 +19411,6 @@
    "title": "Ultramarine1: Flash - The Emperor Protects",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x84c7a/ultramarine1_flash_the_emperor_protects/",
    "published_at": "2026-10-17T07:46:38+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x848xp/qwen38_flash_next_on_nvidia_agx_64gb",
-   "source": "reddit",
-   "title": "Qwen3.8 Flash Next on Nvidia AGX 64GB",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x848xp/qwen38_flash_next_on_nvidia_agx_64gb/",
-   "published_at": "2026-10-17T07:40:57+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x842o2/run_macos_on_a_pc_with_nvidia_drivers_metal",
-   "source": "reddit",
-   "title": "Run MacOS on a PC with Nvidia Drivers (metal accelerated) Anyone tested for AI inferencing yet?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x842o2/run_macos_on_a_pc_with_nvidia_drivers_metal/",
-   "published_at": "2026-10-17T07:30:11+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x83hz1/nvdias_nemotron_is_guard_railed_to_uselessness",
-   "source": "reddit",
-   "title": "Nvdia’s Nemotron is guard railed to uselessness.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x83hz1/nvdias_nemotron_is_guard_railed_to_uselessness/",
-   "published_at": "2026-10-17T06:56:15+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x83321/i_built_a_tiny_site_that_lets_you_feel_the",
-   "source": "reddit",
-   "title": "I built a tiny site that let's you feel the tokens/s before you buy the GPU",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x83321/i_built_a_tiny_site_that_lets_you_feel_the/",
-   "published_at": "2026-10-17T06:30:47+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x82yxx/qwen3827bdefianceuncensoredmtpgguf",
-   "source": "reddit",
-   "title": "Qwen3.8-27B-Defiance-Uncensored-MTP-GGUF",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x82yxx/qwen3827bdefianceuncensoredmtpgguf/",
-   "published_at": "2026-10-17T06:23:41+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x82lni/currently_whats_the_best_near_4bit_quantization",
-   "source": "reddit",
-   "title": "Currently whats the best near 4-bit quantization method (excluding nvfp4)? [Only in term of quality, not speed]",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x82lni/currently_whats_the_best_near_4bit_quantization/",
-   "published_at": "2026-10-17T06:01:02+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x82kdx/i_said_help_me_apply_the_ai_agent_heard_submit_it",
-   "source": "reddit",
-   "title": "I said “help me apply.” The AI agent heard “submit it without showing me.”",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x82kdx/i_said_help_me_apply_the_ai_agent_heard_submit_it/",
-   "published_at": "2026-10-17T05:59:07+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x82hoq/i_gave_every_agent_the_ability_to_talk_through",
-   "source": "reddit",
-   "title": "I gave EVERY agent the ability to talk through custom interfaces! (yours too)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x82hoq/i_gave_every_agent_the_ability_to_talk_through/",
-   "published_at": "2026-10-17T05:54:27+00:00",
    "extra": ""
   },
   {
@@ -19482,20 +19550,36 @@
    "extra": "points=1"
   },
   {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wj8ufu/how_does_qwen_38_27b_compare_to",
+   "id": "hn:49727345",
+   "source": "hn",
+   "title": "Switched to Claude Code's open-source rival, stopped worrying about rate limits",
+   "url": "https://www.xda-developers.com/switched-to-claude-code-open-source-rival-and-stopped-worrying-about-rate-limits/",
+   "published_at": "2026-09-16T14:12:17Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1whubpv/do_you_use_embedded_jinja_templates_or_external",
    "source": "reddit",
-   "title": "How does Qwen 3.8 27B compare to GLM/Deepseek/Anthropic/OpenAI etc?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj8ufu/how_does_qwen_38_27b_compare_to/",
-   "published_at": "2026-09-17T22:46:52+00:00",
+   "title": "Do you use embedded Jinja Templates or external ones?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whubpv/do_you_use_embedded_jinja_templates_or_external/",
+   "published_at": "2026-09-16T11:17:12+00:00",
    "extra": ""
   },
   {
-   "id": "hn:49727511",
-   "source": "hn",
-   "title": "Show HN: Swift-Qwen3.8-27B, -58.3% thinking, x1.95 speed, accuracy of xhigh",
-   "url": "https://huggingface.co/ukisai/Swift-Qwen3.8-27b",
-   "published_at": "2026-09-16T14:24:05Z",
-   "extra": "points=4"
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1whtcp0/ministral_3_3b_on_a_galaxy_s21_relayed_a",
+   "source": "reddit",
+   "title": "Ministral 3 3B on a Galaxy S21 relayed a conversation between Gemini and Z.ai across Chrome and Firefox",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whtcp0/ministral_3_3b_on_a_galaxy_s21_relayed_a/",
+   "published_at": "2026-09-16T10:25:21+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1whssu5/should_we_get_apple_silicon_or_a_24gb_gpu_128gb",
+   "source": "reddit",
+   "title": "Should we get Apple silicon or a 24gb GPU + 128gb ram?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whssu5/should_we_get_apple_silicon_or_a_24gb_gpu_128gb/",
+   "published_at": "2026-09-16T09:55:12+00:00",
+   "extra": ""
   }
  ],
  "pending_push": [
@@ -27498,6 +27582,26 @@
    "extra": "points=1",
    "event_type": "release",
    "summary": "Ask HN: How much are developers trusting LLMs to write prod code?"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x8bb6b/deepseek_v41_flash_1017_now_leads_openweight",
+   "source": "reddit",
+   "title": "DeepSeek V4.1 Flash (1017) Now Leads Open-Weight Models",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8bb6b/deepseek_v41_flash_1017_now_leads_openweight/",
+   "published_at": "2026-10-17T14:15:01+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "DeepSeek V4.1 Flash (1017) Now Leads Open-Weight Models"
+  },
+  {
+   "id": "hn:50131617",
+   "source": "hn",
+   "title": "Meta Opens Muse Spark's Weights with Strings Attached",
+   "url": "https://ailately.com/articles/meta-muse-spark-open-weights",
+   "published_at": "2026-10-17T14:42:48Z",
+   "extra": "points=1",
+   "event_type": "release",
+   "summary": "Meta Opens Muse Spark's Weights with Strings Attached"
   }
  ]
 }
