@@ -3193,25 +3193,14 @@
   "hn:50127369": "2026-10-17T04:55:55.733588+00:00",
   "hn:50099986": "2026-10-17T09:13:08.790332+00:00",
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x83ign/uncensored_models_via_lora": "2026-10-17T09:13:09.640292+00:00",
-  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x83das/anyone_else_running_their_own_local_muse_what": "2026-10-17T09:13:09.640292+00:00"
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x83das/anyone_else_running_their_own_local_muse_what": "2026-10-17T09:13:09.640292+00:00",
+  "openai:https://openai.com/index/teaching-students-to-think-and-learn-through-questions": "2026-10-17T13:08:56.111663+00:00",
+  "hn:50101618": "2026-10-17T13:08:56.111663+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x87kgj/model_add_kolibri1_alephalpha_support_by_riteme": "2026-10-17T13:08:56.694937+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x865rk/otaku_an_llm_frontend_for_creative_writing": "2026-10-17T13:08:56.694937+00:00",
+  "hn:50130686": "2026-10-17T13:08:56.694937+00:00"
  },
  "pending": [
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wj8ufu/how_does_qwen_38_27b_compare_to",
-   "source": "reddit",
-   "title": "How does Qwen 3.8 27B compare to GLM/Deepseek/Anthropic/OpenAI etc?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj8ufu/how_does_qwen_38_27b_compare_to/",
-   "published_at": "2026-09-17T22:46:52+00:00",
-   "extra": ""
-  },
-  {
-   "id": "hn:49727511",
-   "source": "hn",
-   "title": "Show HN: Swift-Qwen3.8-27B, -58.3% thinking, x1.95 speed, accuracy of xhigh",
-   "url": "https://huggingface.co/ukisai/Swift-Qwen3.8-27b",
-   "published_at": "2026-09-16T14:24:05Z",
-   "extra": "points=4"
-  },
   {
    "id": "hn:49727345",
    "source": "hn",
@@ -18965,6 +18954,94 @@
    "extra": ""
   },
   {
+   "id": "openai:https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+   "source": "openai",
+   "title": "Teaching students to think and learn through questions",
+   "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+   "published_at": "2026-10-15T13:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x8278w/150tps_prefill_on_dual_and_single_gpu_on_strata",
+   "source": "reddit",
+   "title": "150tps prefill on dual and single gpu on Strata..",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8278w/150tps_prefill_on_dual_and_single_gpu_on_strata/",
+   "published_at": "2026-10-17T05:36:38+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x825su/deepseek_41_flash_1017_incoming_deepseek_users",
+   "source": "reddit",
+   "title": "DeepSeek 4.1 Flash 1017 Incoming? --> DeepSeek users report a possible V4.1-Flash-1017 refresh across its API",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x825su/deepseek_41_flash_1017_incoming_deepseek_users/",
+   "published_at": "2026-10-17T05:34:11+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x81z6r/my_14b_judge_did_no_better_than_the_8b_one_prompt",
+   "source": "reddit",
+   "title": "My 14B judge did no better than the 8B. One prompt change took it from 3/14 to 10/14.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x81z6r/my_14b_judge_did_no_better_than_the_8b_one_prompt/",
+   "published_at": "2026-10-17T05:23:26+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x8104h/nvidianvidianemotron35bolt74ba9b24gbgguf_results",
+   "source": "reddit",
+   "title": "nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB-GGUF results on 16GB VRAM with llama.cpp, strata style tuning (IQ2_XSS Official Nvidia Quant)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8104h/nvidianvidianemotron35bolt74ba9b24gbgguf_results/",
+   "published_at": "2026-10-17T04:27:25+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x80ci1/what_do_you_guys_use_for_chat_interface",
+   "source": "reddit",
+   "title": "What do you guys use for chat interface?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x80ci1/what_do_you_guys_use_for_chat_interface/",
+   "published_at": "2026-10-17T03:51:15+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x7zbwg/as_we_know_currently_qwenflashnext_is_the_local",
+   "source": "reddit",
+   "title": "As we know, currently Qwen-flash-next is the local king, but is it better than opus 4.6 max in coding?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7zbwg/as_we_know_currently_qwenflashnext_is_the_local/",
+   "published_at": "2026-10-17T02:54:01+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x7xbf0/llamacpp_has_come_a_long_way",
+   "source": "reddit",
+   "title": "llama.cpp has come a long way",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7xbf0/llamacpp_has_come_a_long_way/",
+   "published_at": "2026-10-17T01:08:07+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x7w7dp/nvidianvidianemotronlabsdory104bbf16_hugging_face",
+   "source": "reddit",
+   "title": "nvidia/NVIDIA-Nemotron-Labs-Dory1.0-4B-BF16 · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7w7dp/nvidianvidianemotronlabsdory104bbf16_hugging_face/",
+   "published_at": "2026-10-17T00:11:45+00:00",
+   "extra": ""
+  },
+  {
+   "id": "hn:50101618",
+   "source": "hn",
+   "title": "Ling 3.1 Flash: 560B open-weight MoE, MIT license, 1M context",
+   "url": "https://huggingface.co/inclusionAI/Ling-3.1-flash",
+   "published_at": "2026-10-15T10:21:08Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wj9u19/installing_6_gpus_in_a_standard_case_rather_than",
+   "source": "reddit",
+   "title": "Installing 6 GPUs in a standard case rather than using an open-frame chassis.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj9u19/installing_6_gpus_in_a_standard_case_rather_than/",
+   "published_at": "2026-09-17T23:28:39+00:00",
+   "extra": ""
+  },
+  {
    "id": "openai:https://openai.com/index/itau-generative-ai",
    "source": "openai",
    "title": "How Itaú is building generative AI for its entire customer base",
@@ -18994,14 +19071,6 @@
    "title": "Bringing GPT-Rosalind to academic research labs",
    "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
    "published_at": "2026-10-15T19:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "openai:https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-   "source": "openai",
-   "title": "Teaching students to think and learn through questions",
-   "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-   "published_at": "2026-10-15T13:00:00+00:00",
    "extra": ""
   },
   {
@@ -19109,6 +19178,70 @@
    "extra": "context=1000000"
   },
   {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x89ptz/qwen_27b_iq4_xs_q8q4_kv_at_full_262k_context_on_a",
+   "source": "reddit",
+   "title": "Qwen 27B (IQ4_XS, Q8/Q4 KV) at full 262k context on a 16GB RX 9070 XT: 80+ t/s decode with Adaptive KV Streaming",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x89ptz/qwen_27b_iq4_xs_q8q4_kv_at_full_262k_context_on_a/",
+   "published_at": "2026-10-17T13:01:59+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x88zh6/holy_shit_what_happened_to_the_r9700_ai_pro_gpu",
+   "source": "reddit",
+   "title": "Holy shit what happened to the r9700 ai pro gpu prices after nvidia killed the rtx 5090???",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x88zh6/holy_shit_what_happened_to_the_r9700_ai_pro_gpu/",
+   "published_at": "2026-10-17T12:25:58+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x88txd/nvidia_has_officially_confirmed_that_the_5090_is",
+   "source": "reddit",
+   "title": "Nvidia has officially confirmed that the 5090 is not discontinued and will continue shipping.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x88txd/nvidia_has_officially_confirmed_that_the_5090_is/",
+   "published_at": "2026-10-17T12:18:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x88fvj/qwen_flash_next_quant_and_temp_comparison",
+   "source": "reddit",
+   "title": "Qwen Flash Next quant and temp comparison - performance vs task time vs quality",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x88fvj/qwen_flash_next_quant_and_temp_comparison/",
+   "published_at": "2026-10-17T11:58:07+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x86yor/strata_qwen_38_flash_next_boosting_decoding_speed",
+   "source": "reddit",
+   "title": "Strata - Qwen 3.8 Flash Next - boosting decoding speed Tip",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x86yor/strata_qwen_38_flash_next_boosting_decoding_speed/",
+   "published_at": "2026-10-17T10:31:33+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x86mh7/genversediscoveryrsi27b_finetune",
+   "source": "reddit",
+   "title": "Gen-Verse/DiscoveryRSI-27B (finetune)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x86mh7/genversediscoveryrsi27b_finetune/",
+   "published_at": "2026-10-17T10:11:01+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x869rc/pls_help_me_understand_the_speed_that_i_am_getting",
+   "source": "reddit",
+   "title": "Pls help me understand the speed that I am getting",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x869rc/pls_help_me_understand_the_speed_that_i_am_getting/",
+   "published_at": "2026-10-17T09:49:20+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x86877/id_like_a_jevlikes_benchmark_that_tests_for_what",
+   "source": "reddit",
+   "title": "I'd like a jevlikes benchmark that tests for what jev's official benchmarks do (eg, calibration). Anyone got one or want to make it?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x86877/id_like_a_jevlikes_benchmark_that_tests_for_what/",
+   "published_at": "2026-10-17T09:46:33+00:00",
+   "extra": ""
+  },
+  {
    "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x85hfj/strata_qwen_38_flash_next_fast_but_whats_it",
    "source": "reddit",
    "title": "Strata + Qwen 3.8 Flash Next: fast, but what's it costing in quality?",
@@ -19213,70 +19346,6 @@
    "extra": ""
   },
   {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x8278w/150tps_prefill_on_dual_and_single_gpu_on_strata",
-   "source": "reddit",
-   "title": "150tps prefill on dual and single gpu on Strata..",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8278w/150tps_prefill_on_dual_and_single_gpu_on_strata/",
-   "published_at": "2026-10-17T05:36:38+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x825su/deepseek_41_flash_1017_incoming_deepseek_users",
-   "source": "reddit",
-   "title": "DeepSeek 4.1 Flash 1017 Incoming? --> DeepSeek users report a possible V4.1-Flash-1017 refresh across its API",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x825su/deepseek_41_flash_1017_incoming_deepseek_users/",
-   "published_at": "2026-10-17T05:34:11+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x81z6r/my_14b_judge_did_no_better_than_the_8b_one_prompt",
-   "source": "reddit",
-   "title": "My 14B judge did no better than the 8B. One prompt change took it from 3/14 to 10/14.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x81z6r/my_14b_judge_did_no_better_than_the_8b_one_prompt/",
-   "published_at": "2026-10-17T05:23:26+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x8104h/nvidianvidianemotron35bolt74ba9b24gbgguf_results",
-   "source": "reddit",
-   "title": "nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB-GGUF results on 16GB VRAM with llama.cpp, strata style tuning (IQ2_XSS Official Nvidia Quant)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8104h/nvidianvidianemotron35bolt74ba9b24gbgguf_results/",
-   "published_at": "2026-10-17T04:27:25+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x80ci1/what_do_you_guys_use_for_chat_interface",
-   "source": "reddit",
-   "title": "What do you guys use for chat interface?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x80ci1/what_do_you_guys_use_for_chat_interface/",
-   "published_at": "2026-10-17T03:51:15+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x7zbwg/as_we_know_currently_qwenflashnext_is_the_local",
-   "source": "reddit",
-   "title": "As we know, currently Qwen-flash-next is the local king, but is it better than opus 4.6 max in coding?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7zbwg/as_we_know_currently_qwenflashnext_is_the_local/",
-   "published_at": "2026-10-17T02:54:01+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x7xbf0/llamacpp_has_come_a_long_way",
-   "source": "reddit",
-   "title": "llama.cpp has come a long way",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7xbf0/llamacpp_has_come_a_long_way/",
-   "published_at": "2026-10-17T01:08:07+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x7w7dp/nvidianvidianemotronlabsdory104bbf16_hugging_face",
-   "source": "reddit",
-   "title": "nvidia/NVIDIA-Nemotron-Labs-Dory1.0-4B-BF16 · Hugging Face",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7w7dp/nvidianvidianemotronlabsdory104bbf16_hugging_face/",
-   "published_at": "2026-10-17T00:11:45+00:00",
-   "extra": ""
-  },
-  {
    "id": "hn:50124777",
    "source": "hn",
    "title": "Open weight takes 71.5% of tokens and 23% of spend",
@@ -19298,14 +19367,6 @@
    "title": "Ask HN: Frontier Capability on Average Computers",
    "url": "https://news.ycombinator.com/item?id=50109846",
    "published_at": "2026-10-15T20:36:30Z",
-   "extra": "points=1"
-  },
-  {
-   "id": "hn:50101618",
-   "source": "hn",
-   "title": "Ling 3.1 Flash: 560B open-weight MoE, MIT license, 1M context",
-   "url": "https://huggingface.co/inclusionAI/Ling-3.1-flash",
-   "published_at": "2026-10-15T10:21:08Z",
    "extra": "points=1"
   },
   {
@@ -19421,12 +19482,20 @@
    "extra": "points=1"
   },
   {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wj9u19/installing_6_gpus_in_a_standard_case_rather_than",
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wj8ufu/how_does_qwen_38_27b_compare_to",
    "source": "reddit",
-   "title": "Installing 6 GPUs in a standard case rather than using an open-frame chassis.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj9u19/installing_6_gpus_in_a_standard_case_rather_than/",
-   "published_at": "2026-09-17T23:28:39+00:00",
+   "title": "How does Qwen 3.8 27B compare to GLM/Deepseek/Anthropic/OpenAI etc?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj8ufu/how_does_qwen_38_27b_compare_to/",
+   "published_at": "2026-09-17T22:46:52+00:00",
    "extra": ""
+  },
+  {
+   "id": "hn:49727511",
+   "source": "hn",
+   "title": "Show HN: Swift-Qwen3.8-27B, -58.3% thinking, x1.95 speed, accuracy of xhigh",
+   "url": "https://huggingface.co/ukisai/Swift-Qwen3.8-27b",
+   "published_at": "2026-09-16T14:24:05Z",
+   "extra": "points=4"
   }
  ],
  "pending_push": [
@@ -27399,6 +27468,36 @@
    "extra": "",
    "event_type": "release",
    "summary": "Anyone else running their own local Muse? What models are you using?"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x87kgj/model_add_kolibri1_alephalpha_support_by_riteme",
+   "source": "reddit",
+   "title": "model : add Kolibri-1 (Aleph-Alpha) support by riteme · Pull Request #30673 · ggml-org/llama.cpp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x87kgj/model_add_kolibri1_alephalpha_support_by_riteme/",
+   "published_at": "2026-10-17T11:07:59+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "model : add Kolibri-1 (Aleph-Alpha) support by riteme · Pull Request #30673 · ggml-org/llama.cpp"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x865rk/otaku_an_llm_frontend_for_creative_writing",
+   "source": "reddit",
+   "title": "Otaku — an LLM frontend for creative writing",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x865rk/otaku_an_llm_frontend_for_creative_writing/",
+   "published_at": "2026-10-17T09:42:14+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "Otaku — an LLM frontend for creative writing"
+  },
+  {
+   "id": "hn:50130686",
+   "source": "hn",
+   "title": "Ask HN: How much are developers trusting LLMs to write prod code?",
+   "url": "https://news.ycombinator.com/item?id=50130686",
+   "published_at": "2026-10-17T12:53:02Z",
+   "extra": "points=1",
+   "event_type": "release",
+   "summary": "Ask HN: How much are developers trusting LLMs to write prod code?"
   }
  ]
 }
