@@ -3202,73 +3202,14 @@
   "openrouter:nvidia/nemotron-3.5-super-vl": "2026-10-17T16:38:00.895157+00:00",
   "openrouter:nvidia/nemotron-3.5-super-vl:free": "2026-10-17T16:38:00.895157+00:00",
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x8bb6b/deepseek_v41_flash_1017_now_leads_openweight": "2026-10-17T16:38:01.684338+00:00",
-  "hn:50131617": "2026-10-17T16:38:01.684338+00:00"
+  "hn:50131617": "2026-10-17T16:38:01.684338+00:00",
+  "openai:https://openai.com/index/introducing-the-rosalind-academic-plan": "2026-10-17T19:16:25.035077+00:00",
+  "openrouter:meta/muse-spark-open": "2026-10-17T19:16:25.035077+00:00",
+  "hn:50107729": "2026-10-17T19:16:25.035077+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x8i1h2/older_models_for_technical_writing": "2026-10-17T19:16:25.656112+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x8eyr9/older_models_that_can_be_considered_obsolete_you": "2026-10-17T19:16:25.656112+00:00"
  },
  "pending": [
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1whsqio/qwen4exp_add_hc_ops_by_am17an_pull_request_28901",
-   "source": "reddit",
-   "title": "qwen4exp: add hc ops by am17an · Pull Request #28901 · ggml-org/llama.cpp",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whsqio/qwen4exp_add_hc_ops_by_am17an_pull_request_28901/",
-   "published_at": "2026-09-16T09:51:41+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1whs6f5/how_do_i_improve_my_swebench_run_on_3090",
-   "source": "reddit",
-   "title": "How do I improve my SWEBench run on 3090?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whs6f5/how_do_i_improve_my_swebench_run_on_3090/",
-   "published_at": "2026-09-16T09:19:06+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1whrhz6/a_hitchhikers_guide_to_the3d_ecosystem",
-   "source": "reddit",
-   "title": "A Hitchhiker’s Guide to the3D Ecosystem",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whrhz6/a_hitchhikers_guide_to_the3d_ecosystem/",
-   "published_at": "2026-09-16T08:38:58+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1whosav/were_paying_openai_cohere_and_textract_separately",
-   "source": "reddit",
-   "title": "We're paying OpenAI, Cohere and Textract separately just to parse and search our own docs",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whosav/were_paying_openai_cohere_and_textract_separately/",
-   "published_at": "2026-09-16T06:04:51+00:00",
-   "extra": ""
-  },
-  {
-   "id": "openai:https://openai.com/index/chatham-financial",
-   "source": "openai",
-   "title": "Chatham scales its capital markets expertise with OpenAI",
-   "url": "https://openai.com/index/chatham-financial",
-   "published_at": "2026-10-02T00:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "anthropic:claude-frontier-academy",
-   "source": "anthropic",
-   "title": "Claude Frontier Academy",
-   "url": "https://www.anthropic.com/news/claude-frontier-academy",
-   "published_at": "2026-10-02T00:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wwn7xf/replacing_vector_databases_with_sqlite_and_simd",
-   "source": "reddit",
-   "title": "Replacing vector databases with SQLite and SIMD hypervectors in under 1.2GB VRAM (Hillock)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwn7xf/replacing_vector_databases_with_sqlite_and_simd/",
-   "published_at": "2026-10-03T13:25:29+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wwl7y6/alephalphakolibri1_hugging_face_78b_parameters",
-   "source": "reddit",
-   "title": "Aleph-Alpha/Kolibri-1 · Hugging Face - 78B parameters. 3.46B active. Up to 1M tokens of context - Apache 2.0",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwl7y6/alephalphakolibri1_hugging_face_78b_parameters/",
-   "published_at": "2026-10-03T11:44:42+00:00",
-   "extra": ""
-  },
   {
    "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wwkt0j/a_small_cli_for_checking_nested_tool_calls",
    "source": "reddit",
@@ -19118,6 +19059,94 @@
    "extra": "points=4"
   },
   {
+   "id": "openai:https://openai.com/index/introducing-the-rosalind-academic-plan",
+   "source": "openai",
+   "title": "Bringing GPT-Rosalind to academic research labs",
+   "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+   "published_at": "2026-10-15T19:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openrouter:meta/muse-spark-open",
+   "source": "openrouter",
+   "title": "Meta: Muse Spark Open",
+   "url": "https://openrouter.ai/meta/muse-spark-open",
+   "published_at": "2026-10-15T17:57:49+00:00",
+   "extra": "context=1048576"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x8ee0q/china_says_it_will_curb_tech_exports_including_ai",
+   "source": "reddit",
+   "title": "China says it will curb tech exports, including AI, citing national security risks",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8ee0q/china_says_it_will_curb_tech_exports_including_ai/",
+   "published_at": "2026-10-17T16:23:27+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x84po4/deepseekaideepseekv41flash1017_hugging_face",
+   "source": "reddit",
+   "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017 · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x84po4/deepseekaideepseekv41flash1017_hugging_face/",
+   "published_at": "2026-10-17T08:09:21+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x84nhg/for_people_worried_about_china_export_controls",
+   "source": "reddit",
+   "title": "For people worried about China export controls - here's what it means for us regular folks",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x84nhg/for_people_worried_about_china_export_controls/",
+   "published_at": "2026-10-17T08:05:45+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x84c7a/ultramarine1_flash_the_emperor_protects",
+   "source": "reddit",
+   "title": "Ultramarine1: Flash - The Emperor Protects",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x84c7a/ultramarine1_flash_the_emperor_protects/",
+   "published_at": "2026-10-17T07:46:38+00:00",
+   "extra": ""
+  },
+  {
+   "id": "hn:50107729",
+   "source": "hn",
+   "title": "Show HN: RDST – A local agent that watches Postgres/MySQL for query regressions",
+   "url": "https://github.com/readysettech/rdst",
+   "published_at": "2026-10-15T18:09:01Z",
+   "extra": "points=6"
+  },
+  {
+   "id": "hn:49727345",
+   "source": "hn",
+   "title": "Switched to Claude Code's open-source rival, stopped worrying about rate limits",
+   "url": "https://www.xda-developers.com/switched-to-claude-code-open-source-rival-and-stopped-worrying-about-rate-limits/",
+   "published_at": "2026-09-16T14:12:17Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1whubpv/do_you_use_embedded_jinja_templates_or_external",
+   "source": "reddit",
+   "title": "Do you use embedded Jinja Templates or external ones?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whubpv/do_you_use_embedded_jinja_templates_or_external/",
+   "published_at": "2026-09-16T11:17:12+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1whtcp0/ministral_3_3b_on_a_galaxy_s21_relayed_a",
+   "source": "reddit",
+   "title": "Ministral 3 3B on a Galaxy S21 relayed a conversation between Gemini and Z.ai across Chrome and Firefox",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whtcp0/ministral_3_3b_on_a_galaxy_s21_relayed_a/",
+   "published_at": "2026-09-16T10:25:21+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1whssu5/should_we_get_apple_silicon_or_a_24gb_gpu_128gb",
+   "source": "reddit",
+   "title": "Should we get Apple silicon or a 24gb GPU + 128gb ram?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whssu5/should_we_get_apple_silicon_or_a_24gb_gpu_128gb/",
+   "published_at": "2026-09-16T09:55:12+00:00",
+   "extra": ""
+  },
+  {
    "id": "openai:https://openai.com/index/itau-generative-ai",
    "source": "openai",
    "title": "How Itaú is building generative AI for its entire customer base",
@@ -19139,14 +19168,6 @@
    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
    "published_at": "2026-10-16T00:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "openai:https://openai.com/index/introducing-the-rosalind-academic-plan",
-   "source": "openai",
-   "title": "Bringing GPT-Rosalind to academic research labs",
-   "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-   "published_at": "2026-10-15T19:00:00+00:00",
    "extra": ""
   },
   {
@@ -19230,19 +19251,19 @@
    "extra": "context=32000"
   },
   {
-   "id": "openrouter:meta/muse-spark-open",
-   "source": "openrouter",
-   "title": "Meta: Muse Spark Open",
-   "url": "https://openrouter.ai/meta/muse-spark-open",
-   "published_at": "2026-10-15T17:57:49+00:00",
-   "extra": "context=1048576"
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x8gtvs/opencode_breached_rotate_keys_to_be_safe",
+   "source": "reddit",
+   "title": "Opencode breached, rotate keys to be safe.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8gtvs/opencode_breached_rotate_keys_to_be_safe/",
+   "published_at": "2026-10-17T18:02:37+00:00",
+   "extra": ""
   },
   {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x8ee0q/china_says_it_will_curb_tech_exports_including_ai",
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x8f7cc/how_do_teams_catch_ai_chatbots_giving_customers",
    "source": "reddit",
-   "title": "China says it will curb tech exports, including AI, citing national security risks",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8ee0q/china_says_it_will_curb_tech_exports_including_ai/",
-   "published_at": "2026-10-17T16:23:27+00:00",
+   "title": "how do teams catch AI chatbots giving customers wrong answers? ours promised free repairs",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8f7cc/how_do_teams_catch_ai_chatbots_giving_customers/",
+   "published_at": "2026-10-17T16:55:59+00:00",
    "extra": ""
   },
   {
@@ -19390,30 +19411,6 @@
    "extra": ""
   },
   {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x84po4/deepseekaideepseekv41flash1017_hugging_face",
-   "source": "reddit",
-   "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017 · Hugging Face",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x84po4/deepseekaideepseekv41flash1017_hugging_face/",
-   "published_at": "2026-10-17T08:09:21+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x84nhg/for_people_worried_about_china_export_controls",
-   "source": "reddit",
-   "title": "For people worried about China export controls - here's what it means for us regular folks",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x84nhg/for_people_worried_about_china_export_controls/",
-   "published_at": "2026-10-17T08:05:45+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x84c7a/ultramarine1_flash_the_emperor_protects",
-   "source": "reddit",
-   "title": "Ultramarine1: Flash - The Emperor Protects",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x84c7a/ultramarine1_flash_the_emperor_protects/",
-   "published_at": "2026-10-17T07:46:38+00:00",
-   "extra": ""
-  },
-  {
    "id": "hn:50124777",
    "source": "hn",
    "title": "Open weight takes 71.5% of tokens and 23% of spend",
@@ -19486,12 +19483,12 @@
    "extra": "points=5"
   },
   {
-   "id": "hn:50107729",
+   "id": "hn:50134132",
    "source": "hn",
-   "title": "Show HN: RDST – A local agent that watches Postgres/MySQL for query regressions",
-   "url": "https://github.com/readysettech/rdst",
-   "published_at": "2026-10-15T18:09:01Z",
-   "extra": "points=6"
+   "title": "Show HN: InBox Wall",
+   "url": "https://github.com/Annora998/inboxwall",
+   "published_at": "2026-10-17T19:15:11Z",
+   "extra": "points=1"
   },
   {
    "id": "hn:50128693",
@@ -19550,35 +19547,67 @@
    "extra": "points=1"
   },
   {
-   "id": "hn:49727345",
-   "source": "hn",
-   "title": "Switched to Claude Code's open-source rival, stopped worrying about rate limits",
-   "url": "https://www.xda-developers.com/switched-to-claude-code-open-source-rival-and-stopped-worrying-about-rate-limits/",
-   "published_at": "2026-09-16T14:12:17Z",
-   "extra": "points=1"
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1whubpv/do_you_use_embedded_jinja_templates_or_external",
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1whsqio/qwen4exp_add_hc_ops_by_am17an_pull_request_28901",
    "source": "reddit",
-   "title": "Do you use embedded Jinja Templates or external ones?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whubpv/do_you_use_embedded_jinja_templates_or_external/",
-   "published_at": "2026-09-16T11:17:12+00:00",
+   "title": "qwen4exp: add hc ops by am17an · Pull Request #28901 · ggml-org/llama.cpp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whsqio/qwen4exp_add_hc_ops_by_am17an_pull_request_28901/",
+   "published_at": "2026-09-16T09:51:41+00:00",
    "extra": ""
   },
   {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1whtcp0/ministral_3_3b_on_a_galaxy_s21_relayed_a",
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1whs6f5/how_do_i_improve_my_swebench_run_on_3090",
    "source": "reddit",
-   "title": "Ministral 3 3B on a Galaxy S21 relayed a conversation between Gemini and Z.ai across Chrome and Firefox",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whtcp0/ministral_3_3b_on_a_galaxy_s21_relayed_a/",
-   "published_at": "2026-09-16T10:25:21+00:00",
+   "title": "How do I improve my SWEBench run on 3090?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whs6f5/how_do_i_improve_my_swebench_run_on_3090/",
+   "published_at": "2026-09-16T09:19:06+00:00",
    "extra": ""
   },
   {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1whssu5/should_we_get_apple_silicon_or_a_24gb_gpu_128gb",
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1whrhz6/a_hitchhikers_guide_to_the3d_ecosystem",
    "source": "reddit",
-   "title": "Should we get Apple silicon or a 24gb GPU + 128gb ram?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whssu5/should_we_get_apple_silicon_or_a_24gb_gpu_128gb/",
-   "published_at": "2026-09-16T09:55:12+00:00",
+   "title": "A Hitchhiker’s Guide to the3D Ecosystem",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whrhz6/a_hitchhikers_guide_to_the3d_ecosystem/",
+   "published_at": "2026-09-16T08:38:58+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1whosav/were_paying_openai_cohere_and_textract_separately",
+   "source": "reddit",
+   "title": "We're paying OpenAI, Cohere and Textract separately just to parse and search our own docs",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whosav/were_paying_openai_cohere_and_textract_separately/",
+   "published_at": "2026-09-16T06:04:51+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/chatham-financial",
+   "source": "openai",
+   "title": "Chatham scales its capital markets expertise with OpenAI",
+   "url": "https://openai.com/index/chatham-financial",
+   "published_at": "2026-10-02T00:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "anthropic:claude-frontier-academy",
+   "source": "anthropic",
+   "title": "Claude Frontier Academy",
+   "url": "https://www.anthropic.com/news/claude-frontier-academy",
+   "published_at": "2026-10-02T00:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wwn7xf/replacing_vector_databases_with_sqlite_and_simd",
+   "source": "reddit",
+   "title": "Replacing vector databases with SQLite and SIMD hypervectors in under 1.2GB VRAM (Hillock)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwn7xf/replacing_vector_databases_with_sqlite_and_simd/",
+   "published_at": "2026-10-03T13:25:29+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wwl7y6/alephalphakolibri1_hugging_face_78b_parameters",
+   "source": "reddit",
+   "title": "Aleph-Alpha/Kolibri-1 · Hugging Face - 78B parameters. 3.46B active. Up to 1M tokens of context - Apache 2.0",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwl7y6/alephalphakolibri1_hugging_face_78b_parameters/",
+   "published_at": "2026-10-03T11:44:42+00:00",
    "extra": ""
   }
  ],
@@ -27602,6 +27631,26 @@
    "extra": "points=1",
    "event_type": "release",
    "summary": "Meta Opens Muse Spark's Weights with Strings Attached"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x8i1h2/older_models_for_technical_writing",
+   "source": "reddit",
+   "title": "Older models for technical writing?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8i1h2/older_models_for_technical_writing/",
+   "published_at": "2026-10-17T18:51:59+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "Older models for technical writing?"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x8eyr9/older_models_that_can_be_considered_obsolete_you",
+   "source": "reddit",
+   "title": "Older models that can be considered obsolete you still use?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8eyr9/older_models_that_can_be_considered_obsolete_you/",
+   "published_at": "2026-10-17T16:46:18+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "Older models that can be considered obsolete you still use?"
   }
  ]
 }
