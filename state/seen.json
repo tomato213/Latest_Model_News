@@ -3287,217 +3287,13 @@
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xao7kx/improve_qwen3827b_low_quants_by_using_a_prefiller": "2026-10-20T12:03:00.830163+00:00",
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xanm55/deepseek_released_deepinfer_open_source": "2026-10-20T12:03:00.830163+00:00",
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xamrvy/old_server_machine_with_2x_3060_12gb_for_moe": "2026-10-20T12:03:00.830163+00:00",
-  "hn:50164873": "2026-10-20T12:03:00.830163+00:00"
+  "hn:50164873": "2026-10-20T12:03:00.830163+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xaw2vt/phonon_is_now_opensource_31m_and_40m_tts_models": "2026-10-20T16:52:35.532324+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xatwvb/unsloth_just_released_ornith15122b_ggufs": "2026-10-20T16:52:35.532324+00:00",
+  "hn:50169100": "2026-10-20T16:52:35.532324+00:00",
+  "hn:50167583": "2026-10-20T16:52:35.532324+00:00"
  },
  "pending": [
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wyxrmh/whats_the_current_meta_for_rdna4_with_qwen_38",
-   "source": "reddit",
-   "title": "What's the current meta for RDNA4 with Qwen 3.8?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyxrmh/whats_the_current_meta_for_rdna4_with_qwen_38/",
-   "published_at": "2026-10-06T09:02:21+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wyxbp6/benchmark_running_local_llms_on_orange_pi_5_plus",
-   "source": "reddit",
-   "title": "[Benchmark] Running Local LLMs on Orange Pi 5 Plus (RK3588, 16GB): Ollama Tok/s, NPU Offloading, Core Pinning & Thermals",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyxbp6/benchmark_running_local_llms_on_orange_pi_5_plus/",
-   "published_at": "2026-10-06T08:31:53+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wyx2w9/closedform_trajectory_weight_surgery_transferring",
-   "source": "reddit",
-   "title": "Closed-form trajectory weight surgery: transferring 4B capabilities into 0.8B without billions of tokens (why middle layers break, and how 4 anchor blocks fixed it)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyx2w9/closedform_trajectory_weight_surgery_transferring/",
-   "published_at": "2026-10-06T08:15:02+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wywsm7/any_ai_engineer_working_at_legaltech_companies",
-   "source": "reddit",
-   "title": "any ai engineer working at legaltech companies like harvey / legora can you tell me why isn't legal research fixed yet?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wywsm7/any_ai_engineer_working_at_legaltech_companies/",
-   "published_at": "2026-10-06T07:55:35+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wywscq/finetuned_medgemma_4b_lora_and_27b_qlora_for",
-   "source": "reddit",
-   "title": "Fine-tuned MedGemma 4B (LoRA) and 27B (QLoRA) for oncology on one DGX Spark. Also: a possible LoRA scale discrepancy under Unsloth, looking for independent reproduction",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wywscq/finetuned_medgemma_4b_lora_and_27b_qlora_for/",
-   "published_at": "2026-10-06T07:55:04+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wyvo42/gemma_4_26ba4b_and_a_37_gb_qwen36_moe_running_in",
-   "source": "reddit",
-   "title": "Gemma 4 26B-A4B and a 37 GB Qwen3.6 MoE running in a browser tab on a 24 GB Mac — experts streamed from disk, output matches llama.cpp",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyvo42/gemma_4_26ba4b_and_a_37_gb_qwen36_moe_running_in/",
-   "published_at": "2026-10-06T06:41:26+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wyvc8k/i_built_molt_a_local_finetuning_system_with_fit",
-   "source": "reddit",
-   "title": "I built MOLT: a local fine-tuning system with fit tests, checkpoints, and deployment tracing",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyvc8k/i_built_molt_a_local_finetuning_system_with_fit/",
-   "published_at": "2026-10-06T06:20:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wyuvul/overclocking_ddr5_for_faster_moe_prefill_and",
-   "source": "reddit",
-   "title": "Overclocking DDR5 For Faster MoE Prefill and Decode",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyuvul/overclocking_ddr5_for_faster_moe_prefill_and/",
-   "published_at": "2026-10-06T05:51:42+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wyurmi/metal_fewrow_mma_matmul_and_batched_copies_for",
-   "source": "reddit",
-   "title": "metal : few-row MMA mat-mul and batched copies for speculative decoding by pratiknarola-t · Pull Request #29869 · ggml-org/llama.cpp",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyurmi/metal_fewrow_mma_matmul_and_batched_copies_for/",
-   "published_at": "2026-10-06T05:44:26+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wyur2p/why_38_of_ai_agent_container_escapes_didnt_need",
-   "source": "reddit",
-   "title": "Why 38% of AI Agent container escapes didn't need kernel 0-days: Analysis of 109 empirical incidents (Open Dataset + Defense Harness)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyur2p/why_38_of_ai_agent_container_escapes_didnt_need/",
-   "published_at": "2026-10-06T05:43:30+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wyuoht/unslothqwen38flashnextgguf_is_being_updated",
-   "source": "reddit",
-   "title": "unsloth/Qwen3.8-Flash-Next-GGUF is being updated",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyuoht/unslothqwen38flashnextgguf_is_being_updated/",
-   "published_at": "2026-10-06T05:39:02+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wyrvlk/wrote_a_3mb_standalone_c_runner_for_gemma2b",
-   "source": "reddit",
-   "title": "Wrote a 3MB standalone C runner for Gemma-2B. Caught a Layer 15 hallucination drop.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyrvlk/wrote_a_3mb_standalone_c_runner_for_gemma2b/",
-   "published_at": "2026-10-06T03:00:51+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wyrjmh/set_your_pdoom_on_hf",
-   "source": "reddit",
-   "title": "Set your P(doom) on HF",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyrjmh/set_your_pdoom_on_hf/",
-   "published_at": "2026-10-06T02:43:16+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wyr4gi/one_chat_for_everything_a_deepseek_harness_plugin",
-   "source": "reddit",
-   "title": "One chat for everything: a DeepSeek Harness plugin that works out which project each message belongs to",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyr4gi/one_chat_for_everything_a_deepseek_harness_plugin/",
-   "published_at": "2026-10-06T02:20:59+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wyqvkn/tonight_im_putting_qwen3_kimi_k26_llama_3_70b_and",
-   "source": "reddit",
-   "title": "Tonight I'm putting Qwen3, Kimi K2.6, Llama 3 70B and GPT-OSS 120B in a live world war against Claude, GPT, Grok, Gemini, DeepSeek and Mistral",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyqvkn/tonight_im_putting_qwen3_kimi_k26_llama_3_70b_and/",
-   "published_at": "2026-10-06T02:08:23+00:00",
-   "extra": ""
-  },
-  {
-   "id": "hn:49952148",
-   "source": "hn",
-   "title": "Show HN: Nightwatch – a Mac menu-bar app that tells you when tonight is clear",
-   "url": "https://github.com/rsutcliffe/nightwatch",
-   "published_at": "2026-10-04T09:31:01Z",
-   "extra": "points=60"
-  },
-  {
-   "id": "hn:49954718",
-   "source": "hn",
-   "title": "Show HN: Borehole – acquisition tech due diligence from a repo's Git history",
-   "url": "https://borehole.dev/",
-   "published_at": "2026-10-04T15:26:50Z",
-   "extra": "points=1"
-  },
-  {
-   "id": "hn:49953904",
-   "source": "hn",
-   "title": "Show HN: Mistis – a decoupled, E2EE protocol for mid-call user authentication",
-   "url": "https://mistis.tech",
-   "published_at": "2026-10-04T13:45:38Z",
-   "extra": "points=1"
-  },
-  {
-   "id": "hn:49763311",
-   "source": "hn",
-   "title": "Show HN: Seal – Letters and passwords that open for your family after you die",
-   "url": "https://github.com/jasonepage/Seal",
-   "published_at": "2026-09-19T04:28:22Z",
-   "extra": "points=9"
-  },
-  {
-   "id": "hn:49758539",
-   "source": "hn",
-   "title": "Show HN: \"Seal\" letters and passwords that open for your family after you die",
-   "url": "https://github.com/jasonepage/Seal",
-   "published_at": "2026-09-18T18:48:02Z",
-   "extra": "points=1"
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wg4a0u/k2_horizon_lineup_is_out_on_aa_and_once_again_aa",
-   "source": "reddit",
-   "title": "K2 Horizon lineup is out on AA, and once again AA plots are misleading.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wg4a0u/k2_horizon_lineup_is_out_on_aa_and_once_again_aa/",
-   "published_at": "2026-09-14T14:01:13+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wg474r/opensource_asr_for_lowresource_languages",
-   "source": "reddit",
-   "title": "Open-source ASR for low-resource languages",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wg474r/opensource_asr_for_lowresource_languages/",
-   "published_at": "2026-09-14T13:58:24+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wg40mz/internlmatriadawnpreview_huggingface",
-   "source": "reddit",
-   "title": "internlm/Atria-Dawn-Preview • HuggingFace",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wg40mz/internlmatriadawnpreview_huggingface/",
-   "published_at": "2026-09-14T13:50:57+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wf6nbi/the_rhetoric_is_really_heating_up",
-   "source": "reddit",
-   "title": "The rhetoric is really heating up!",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wf6nbi/the_rhetoric_is_really_heating_up/",
-   "published_at": "2026-09-13T12:41:18+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wewz9p/ds_41_and_the_new_harness",
-   "source": "reddit",
-   "title": "DS 4.1 and the new Harness",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wewz9p/ds_41_and_the_new_harness/",
-   "published_at": "2026-09-13T03:47:35+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1weuzhy/public_beta_of_local_code_by_draw_things",
-   "source": "reddit",
-   "title": "Public Beta of Local Code by Draw Things",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1weuzhy/public_beta_of_local_code_by_draw_things/",
-   "published_at": "2026-09-13T02:08:30+00:00",
-   "extra": ""
-  },
   {
    "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wed7cg/intel_linux_npu_driver_only_now_officially",
    "source": "reddit",
@@ -20147,70 +19943,6 @@
    "extra": ""
   },
   {
-   "id": "openai:https://openai.com/index/low-resource-programming-languages",
-   "source": "openai",
-   "title": "Advancing coding in low‑resource programming languages",
-   "url": "https://openai.com/index/low-resource-programming-languages",
-   "published_at": "2026-10-19T12:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "deepseek:news261017",
-   "source": "deepseek",
-   "title": "DeepSeek-V4.1-Flash-1017: Wish-Driven Programming Made Real",
-   "url": "https://api-docs.deepseek.com/news/news261017/",
-   "published_at": null,
-   "extra": ""
-  },
-  {
-   "id": "openrouter:minimax/minimax-m3.1-flash:free",
-   "source": "openrouter",
-   "title": "MiniMax: MiniMax M3.1 Flash (free)",
-   "url": "https://openrouter.ai/minimax/minimax-m3.1-flash:free",
-   "published_at": "2026-10-19T03:12:49+00:00",
-   "extra": "context=1000000"
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xapon0/chinese_hardware",
-   "source": "reddit",
-   "title": "chinese hardware",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xapon0/chinese_hardware/",
-   "published_at": "2026-10-20T11:32:20+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xapj0y/fresher_lemonade_cli_tips_and_tricks",
-   "source": "reddit",
-   "title": "Fresher Lemonade: CLI tips and tricks",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xapj0y/fresher_lemonade_cli_tips_and_tricks/",
-   "published_at": "2026-10-20T11:23:51+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xapakf/qwen_38_flash_next_drastically_faster_and_much",
-   "source": "reddit",
-   "title": "Qwen 3.8 Flash Next: drastically faster and much more precise in reaching the result.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xapakf/qwen_38_flash_next_drastically_faster_and_much/",
-   "published_at": "2026-10-20T11:11:12+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xap2aq/vals_ai_found_deepseek_v41_flash_1017_beats_gpt_6",
-   "source": "reddit",
-   "title": "Vals AI found DeepSeek V4.1 Flash 1017 beats GPT 6 Sol on their multi-step offensive cybersecurity task. Sol was tested via the Daybreak trusted access program.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xap2aq/vals_ai_found_deepseek_v41_flash_1017_beats_gpt_6/",
-   "published_at": "2026-10-20T10:59:16+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xaos52/qwen38flashnext_vs_qwen3827b_tool_calling_issues",
-   "source": "reddit",
-   "title": "Qwen3.8-FlashNext vs Qwen3.8-27B tool calling issues",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xaos52/qwen38flashnext_vs_qwen3827b_tool_calling_issues/",
-   "published_at": "2026-10-20T10:43:08+00:00",
-   "extra": ""
-  },
-  {
    "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xangcv/amd_ryzen_ai_halo",
    "source": "reddit",
    "title": "amd ryzen ai halo",
@@ -20297,46 +20029,6 @@
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xaegqa/amd_gaia_025_brings_several_improvements_for/",
    "published_at": "2026-10-20T00:58:40+00:00",
    "extra": ""
-  },
-  {
-   "id": "hn:50152157",
-   "source": "hn",
-   "title": "Open-weight RAG stack scores 90% on FinanceBench, all 150 answers published",
-   "url": "https://vectogrid.com/financebench/",
-   "published_at": "2026-10-19T13:23:46Z",
-   "extra": "points=1"
-  },
-  {
-   "id": "hn:50160116",
-   "source": "hn",
-   "title": "Ask HN: Dark mode for HN please? (2026)",
-   "url": "https://news.ycombinator.com/item?id=50160116",
-   "published_at": "2026-10-20T01:09:40Z",
-   "extra": "points=1"
-  },
-  {
-   "id": "hn:50153759",
-   "source": "hn",
-   "title": "MiniMax M3.1 Flash: Redefining Agent Performance and Cost",
-   "url": "https://news.ycombinator.com/item?id=50153759",
-   "published_at": "2026-10-19T15:38:36Z",
-   "extra": "points=7"
-  },
-  {
-   "id": "hn:50151980",
-   "source": "hn",
-   "title": "Show HN: I built a task system to handle the drudgery so I could focus on tasks",
-   "url": "https://3anddoneapp.com/try",
-   "published_at": "2026-10-19T13:07:07Z",
-   "extra": "points=16"
-  },
-  {
-   "id": "hn:50152541",
-   "source": "hn",
-   "title": "Show HN: KiviDB, a faster Redis-compatible memory database and vector cache",
-   "url": "https://github.com/kividbio/kividb",
-   "published_at": "2026-10-19T13:53:52Z",
-   "extra": "points=50"
   },
   {
    "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wyow7y/mem0_vs_memori_for_local_agent_memory",
@@ -20576,6 +20268,454 @@
    "title": "How do you decide whether to trust a community fine-tune?",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyxukj/how_do_you_decide_whether_to_trust_a_community/",
    "published_at": "2026-10-06T09:07:50+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/low-resource-programming-languages",
+   "source": "openai",
+   "title": "Advancing coding in low‑resource programming languages",
+   "url": "https://openai.com/index/low-resource-programming-languages",
+   "published_at": "2026-10-19T12:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "deepseek:news261017",
+   "source": "deepseek",
+   "title": "DeepSeek-V4.1-Flash-1017: Wish-Driven Programming Made Real",
+   "url": "https://api-docs.deepseek.com/news/news261017/",
+   "published_at": null,
+   "extra": ""
+  },
+  {
+   "id": "openrouter:minimax/minimax-m3.1-flash:free",
+   "source": "openrouter",
+   "title": "MiniMax: MiniMax M3.1 Flash (free)",
+   "url": "https://openrouter.ai/minimax/minimax-m3.1-flash:free",
+   "published_at": "2026-10-19T03:12:49+00:00",
+   "extra": "context=1000000"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xaxffx/short_report_from_lithuanian_conference_on_ai",
+   "source": "reddit",
+   "title": "Short report from Lithuanian conference on AI Technologies in Medicine",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xaxffx/short_report_from_lithuanian_conference_on_ai/",
+   "published_at": "2026-10-20T16:51:37+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xaxbp3/qwen_3827bpi_on_30803060",
+   "source": "reddit",
+   "title": "Qwen 3.8-27B-pi on 3080+3060",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xaxbp3/qwen_3827bpi_on_30803060/",
+   "published_at": "2026-10-20T16:47:41+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xawa17/mimo_26_is_reasoning_is_like_the_crash_test",
+   "source": "reddit",
+   "title": "MiMo 2.6 is reasoning is like the crash test dummies",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xawa17/mimo_26_is_reasoning_is_like_the_crash_test/",
+   "published_at": "2026-10-20T16:08:49+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xavzra/any_uncensored_qwen_38_flash_next_gguf_with_full",
+   "source": "reddit",
+   "title": "Any uncensored qwen 3.8 flash next GGUF with full BF16 N-gram?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xavzra/any_uncensored_qwen_38_flash_next_gguf_with_full/",
+   "published_at": "2026-10-20T15:59:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xavy8t/hardly_any_benchmarks_for_intel_b65_so_i_got_4x",
+   "source": "reddit",
+   "title": "Hardly any benchmarks for Intel B65, so I got 4x and tested them. Long Context Sweeps for Flash-Next and other models",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xavy8t/hardly_any_benchmarks_for_intel_b65_so_i_got_4x/",
+   "published_at": "2026-10-20T15:57:27+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xauekr/pocket_tts_which_supports_voice_cloning_is_now",
+   "source": "reddit",
+   "title": "Pocket TTS which supports voice cloning is now just 1.9 million parameters",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xauekr/pocket_tts_which_supports_voice_cloning_is_now/",
+   "published_at": "2026-10-20T14:59:15+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xatxqk/qwen38flashnext_vs_opus_55_sixway_benchmark_on_a",
+   "source": "reddit",
+   "title": "Qwen3.8-Flash-Next vs Opus 5.5: Six-way benchmark on a real Rust feature with Claude Code and Pi",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xatxqk/qwen38flashnext_vs_opus_55_sixway_benchmark_on_a/",
+   "published_at": "2026-10-20T14:40:52+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xatebw/ornithaiornith15122b_qwen_finetune",
+   "source": "reddit",
+   "title": "ornith-ai/Ornith-1.5-122B (Qwen finetune)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xatebw/ornithaiornith15122b_qwen_finetune/",
+   "published_at": "2026-10-20T14:19:07+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xat6o7/paper_the_count_counting_ngrams_unlocks_scaling",
+   "source": "reddit",
+   "title": "[Paper] The COUNT: Counting N-grams Unlocks Scaling on Host Memory and Training-Free Adaptation",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xat6o7/paper_the_count_counting_ngrams_unlocks_scaling/",
+   "published_at": "2026-10-20T14:10:33+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xasztg/paper_flashmask3_efficient_and_expressive",
+   "source": "reddit",
+   "title": "[Paper] FlashMask-3: Efficient and Expressive Mask-Aware Distributed Attention",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xasztg/paper_flashmask3_efficient_and_expressive/",
+   "published_at": "2026-10-20T14:02:52+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xasp90/paper_remory_learning_residual_memory_for_context",
+   "source": "reddit",
+   "title": "[Paper] REMORY: Learning Residual Memory for Context Compaction",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xasp90/paper_remory_learning_residual_memory_for_context/",
+   "published_at": "2026-10-20T13:50:57+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xasomp/paper_dlite_historyfree_speculative_decoding_for",
+   "source": "reddit",
+   "title": "[Paper] DLite: History-free Speculative Decoding for Agentic AI",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xasomp/paper_dlite_historyfree_speculative_decoding_for/",
+   "published_at": "2026-10-20T13:50:16+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xaslfk/geezuz_kernel_qwen3827b_at_190_toks_620_toks_at_8",
+   "source": "reddit",
+   "title": "Geezuz kernel: Qwen3.8-27B at 190 tok/s (620~ tok/s at 8 requests) on two 3090s",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xaslfk/geezuz_kernel_qwen3827b_at_190_toks_620_toks_at_8/",
+   "published_at": "2026-10-20T13:46:29+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xas9h8/deepseekv41flash_udq4_k_xl_on_4x_3090_epyc_12_25",
+   "source": "reddit",
+   "title": "DeepSeek-V4.1-Flash (UD-Q4_K_XL) on 4x 3090 + EPYC: 12 → 25 tok/s prose, 39 tok/s code.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xas9h8/deepseekv41flash_udq4_k_xl_on_4x_3090_epyc_12_25/",
+   "published_at": "2026-10-20T13:32:26+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xaqrpg/character_cards_are_untrusted_input_notes_from_a",
+   "source": "reddit",
+   "title": "Character cards are untrusted input. Notes from a security pass on my local RP frontend",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xaqrpg/character_cards_are_untrusted_input_notes_from_a/",
+   "published_at": "2026-10-20T12:26:01+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xapon0/chinese_hardware",
+   "source": "reddit",
+   "title": "chinese hardware",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xapon0/chinese_hardware/",
+   "published_at": "2026-10-20T11:32:20+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xapj0y/fresher_lemonade_cli_tips_and_tricks",
+   "source": "reddit",
+   "title": "Fresher Lemonade: CLI tips and tricks",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xapj0y/fresher_lemonade_cli_tips_and_tricks/",
+   "published_at": "2026-10-20T11:23:51+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xapakf/qwen_38_flash_next_drastically_faster_and_much",
+   "source": "reddit",
+   "title": "Qwen 3.8 Flash Next: drastically faster and much more precise in reaching the result.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xapakf/qwen_38_flash_next_drastically_faster_and_much/",
+   "published_at": "2026-10-20T11:11:12+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xap2aq/vals_ai_found_deepseek_v41_flash_1017_beats_gpt_6",
+   "source": "reddit",
+   "title": "Vals AI found DeepSeek V4.1 Flash 1017 beats GPT 6 Sol on their multi-step offensive cybersecurity task. Sol was tested via the Daybreak trusted access program.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xap2aq/vals_ai_found_deepseek_v41_flash_1017_beats_gpt_6/",
+   "published_at": "2026-10-20T10:59:16+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xaos52/qwen38flashnext_vs_qwen3827b_tool_calling_issues",
+   "source": "reddit",
+   "title": "Qwen3.8-FlashNext vs Qwen3.8-27B tool calling issues",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xaos52/qwen38flashnext_vs_qwen3827b_tool_calling_issues/",
+   "published_at": "2026-10-20T10:43:08+00:00",
+   "extra": ""
+  },
+  {
+   "id": "hn:50152157",
+   "source": "hn",
+   "title": "Open-weight RAG stack scores 90% on FinanceBench, all 150 answers published",
+   "url": "https://vectogrid.com/financebench/",
+   "published_at": "2026-10-19T13:23:46Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:50166173",
+   "source": "hn",
+   "title": "Ask HN: How to organize teams to ship AI-written code?",
+   "url": "https://news.ycombinator.com/item?id=50166173",
+   "published_at": "2026-10-20T13:34:20Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:50160116",
+   "source": "hn",
+   "title": "Ask HN: Dark mode for HN please? (2026)",
+   "url": "https://news.ycombinator.com/item?id=50160116",
+   "published_at": "2026-10-20T01:09:40Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:50153759",
+   "source": "hn",
+   "title": "MiniMax M3.1 Flash: Redefining Agent Performance and Cost",
+   "url": "https://news.ycombinator.com/item?id=50153759",
+   "published_at": "2026-10-19T15:38:36Z",
+   "extra": "points=7"
+  },
+  {
+   "id": "hn:50151980",
+   "source": "hn",
+   "title": "Show HN: I built a task system to handle the drudgery so I could focus on tasks",
+   "url": "https://3anddoneapp.com/try",
+   "published_at": "2026-10-19T13:07:07Z",
+   "extra": "points=16"
+  },
+  {
+   "id": "hn:50167286",
+   "source": "hn",
+   "title": "Show HN: VoidAccess – open-source dark web OSINT, from query to a graph",
+   "url": "https://github.com/KatrielMoses/voidaccess",
+   "published_at": "2026-10-20T14:49:33Z",
+   "extra": "points=100"
+  },
+  {
+   "id": "hn:50152541",
+   "source": "hn",
+   "title": "Show HN: KiviDB, a faster Redis-compatible memory database and vector cache",
+   "url": "https://github.com/kividbio/kividb",
+   "published_at": "2026-10-19T13:53:52Z",
+   "extra": "points=50"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wyxrmh/whats_the_current_meta_for_rdna4_with_qwen_38",
+   "source": "reddit",
+   "title": "What's the current meta for RDNA4 with Qwen 3.8?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyxrmh/whats_the_current_meta_for_rdna4_with_qwen_38/",
+   "published_at": "2026-10-06T09:02:21+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wyxbp6/benchmark_running_local_llms_on_orange_pi_5_plus",
+   "source": "reddit",
+   "title": "[Benchmark] Running Local LLMs on Orange Pi 5 Plus (RK3588, 16GB): Ollama Tok/s, NPU Offloading, Core Pinning & Thermals",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyxbp6/benchmark_running_local_llms_on_orange_pi_5_plus/",
+   "published_at": "2026-10-06T08:31:53+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wyx2w9/closedform_trajectory_weight_surgery_transferring",
+   "source": "reddit",
+   "title": "Closed-form trajectory weight surgery: transferring 4B capabilities into 0.8B without billions of tokens (why middle layers break, and how 4 anchor blocks fixed it)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyx2w9/closedform_trajectory_weight_surgery_transferring/",
+   "published_at": "2026-10-06T08:15:02+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wywsm7/any_ai_engineer_working_at_legaltech_companies",
+   "source": "reddit",
+   "title": "any ai engineer working at legaltech companies like harvey / legora can you tell me why isn't legal research fixed yet?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wywsm7/any_ai_engineer_working_at_legaltech_companies/",
+   "published_at": "2026-10-06T07:55:35+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wywscq/finetuned_medgemma_4b_lora_and_27b_qlora_for",
+   "source": "reddit",
+   "title": "Fine-tuned MedGemma 4B (LoRA) and 27B (QLoRA) for oncology on one DGX Spark. Also: a possible LoRA scale discrepancy under Unsloth, looking for independent reproduction",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wywscq/finetuned_medgemma_4b_lora_and_27b_qlora_for/",
+   "published_at": "2026-10-06T07:55:04+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wyvo42/gemma_4_26ba4b_and_a_37_gb_qwen36_moe_running_in",
+   "source": "reddit",
+   "title": "Gemma 4 26B-A4B and a 37 GB Qwen3.6 MoE running in a browser tab on a 24 GB Mac — experts streamed from disk, output matches llama.cpp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyvo42/gemma_4_26ba4b_and_a_37_gb_qwen36_moe_running_in/",
+   "published_at": "2026-10-06T06:41:26+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wyvc8k/i_built_molt_a_local_finetuning_system_with_fit",
+   "source": "reddit",
+   "title": "I built MOLT: a local fine-tuning system with fit tests, checkpoints, and deployment tracing",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyvc8k/i_built_molt_a_local_finetuning_system_with_fit/",
+   "published_at": "2026-10-06T06:20:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wyuvul/overclocking_ddr5_for_faster_moe_prefill_and",
+   "source": "reddit",
+   "title": "Overclocking DDR5 For Faster MoE Prefill and Decode",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyuvul/overclocking_ddr5_for_faster_moe_prefill_and/",
+   "published_at": "2026-10-06T05:51:42+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wyurmi/metal_fewrow_mma_matmul_and_batched_copies_for",
+   "source": "reddit",
+   "title": "metal : few-row MMA mat-mul and batched copies for speculative decoding by pratiknarola-t · Pull Request #29869 · ggml-org/llama.cpp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyurmi/metal_fewrow_mma_matmul_and_batched_copies_for/",
+   "published_at": "2026-10-06T05:44:26+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wyur2p/why_38_of_ai_agent_container_escapes_didnt_need",
+   "source": "reddit",
+   "title": "Why 38% of AI Agent container escapes didn't need kernel 0-days: Analysis of 109 empirical incidents (Open Dataset + Defense Harness)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyur2p/why_38_of_ai_agent_container_escapes_didnt_need/",
+   "published_at": "2026-10-06T05:43:30+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wyuoht/unslothqwen38flashnextgguf_is_being_updated",
+   "source": "reddit",
+   "title": "unsloth/Qwen3.8-Flash-Next-GGUF is being updated",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyuoht/unslothqwen38flashnextgguf_is_being_updated/",
+   "published_at": "2026-10-06T05:39:02+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wyrvlk/wrote_a_3mb_standalone_c_runner_for_gemma2b",
+   "source": "reddit",
+   "title": "Wrote a 3MB standalone C runner for Gemma-2B. Caught a Layer 15 hallucination drop.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyrvlk/wrote_a_3mb_standalone_c_runner_for_gemma2b/",
+   "published_at": "2026-10-06T03:00:51+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wyrjmh/set_your_pdoom_on_hf",
+   "source": "reddit",
+   "title": "Set your P(doom) on HF",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyrjmh/set_your_pdoom_on_hf/",
+   "published_at": "2026-10-06T02:43:16+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wyr4gi/one_chat_for_everything_a_deepseek_harness_plugin",
+   "source": "reddit",
+   "title": "One chat for everything: a DeepSeek Harness plugin that works out which project each message belongs to",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyr4gi/one_chat_for_everything_a_deepseek_harness_plugin/",
+   "published_at": "2026-10-06T02:20:59+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wyqvkn/tonight_im_putting_qwen3_kimi_k26_llama_3_70b_and",
+   "source": "reddit",
+   "title": "Tonight I'm putting Qwen3, Kimi K2.6, Llama 3 70B and GPT-OSS 120B in a live world war against Claude, GPT, Grok, Gemini, DeepSeek and Mistral",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyqvkn/tonight_im_putting_qwen3_kimi_k26_llama_3_70b_and/",
+   "published_at": "2026-10-06T02:08:23+00:00",
+   "extra": ""
+  },
+  {
+   "id": "hn:49952148",
+   "source": "hn",
+   "title": "Show HN: Nightwatch – a Mac menu-bar app that tells you when tonight is clear",
+   "url": "https://github.com/rsutcliffe/nightwatch",
+   "published_at": "2026-10-04T09:31:01Z",
+   "extra": "points=60"
+  },
+  {
+   "id": "hn:49954718",
+   "source": "hn",
+   "title": "Show HN: Borehole – acquisition tech due diligence from a repo's Git history",
+   "url": "https://borehole.dev/",
+   "published_at": "2026-10-04T15:26:50Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:49953904",
+   "source": "hn",
+   "title": "Show HN: Mistis – a decoupled, E2EE protocol for mid-call user authentication",
+   "url": "https://mistis.tech",
+   "published_at": "2026-10-04T13:45:38Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:49763311",
+   "source": "hn",
+   "title": "Show HN: Seal – Letters and passwords that open for your family after you die",
+   "url": "https://github.com/jasonepage/Seal",
+   "published_at": "2026-09-19T04:28:22Z",
+   "extra": "points=9"
+  },
+  {
+   "id": "hn:49758539",
+   "source": "hn",
+   "title": "Show HN: \"Seal\" letters and passwords that open for your family after you die",
+   "url": "https://github.com/jasonepage/Seal",
+   "published_at": "2026-09-18T18:48:02Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wg4a0u/k2_horizon_lineup_is_out_on_aa_and_once_again_aa",
+   "source": "reddit",
+   "title": "K2 Horizon lineup is out on AA, and once again AA plots are misleading.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wg4a0u/k2_horizon_lineup_is_out_on_aa_and_once_again_aa/",
+   "published_at": "2026-09-14T14:01:13+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wg474r/opensource_asr_for_lowresource_languages",
+   "source": "reddit",
+   "title": "Open-source ASR for low-resource languages",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wg474r/opensource_asr_for_lowresource_languages/",
+   "published_at": "2026-09-14T13:58:24+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wg40mz/internlmatriadawnpreview_huggingface",
+   "source": "reddit",
+   "title": "internlm/Atria-Dawn-Preview • HuggingFace",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wg40mz/internlmatriadawnpreview_huggingface/",
+   "published_at": "2026-09-14T13:50:57+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wf6nbi/the_rhetoric_is_really_heating_up",
+   "source": "reddit",
+   "title": "The rhetoric is really heating up!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wf6nbi/the_rhetoric_is_really_heating_up/",
+   "published_at": "2026-09-13T12:41:18+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wewz9p/ds_41_and_the_new_harness",
+   "source": "reddit",
+   "title": "DS 4.1 and the new Harness",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wewz9p/ds_41_and_the_new_harness/",
+   "published_at": "2026-09-13T03:47:35+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1weuzhy/public_beta_of_local_code_by_draw_things",
+   "source": "reddit",
+   "title": "Public Beta of Local Code by Draw Things",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1weuzhy/public_beta_of_local_code_by_draw_things/",
+   "published_at": "2026-09-13T02:08:30+00:00",
    "extra": ""
   }
  ],
@@ -29109,6 +29249,46 @@
    "extra": "points=1",
    "event_type": "release",
    "summary": "LLM-d 1.0, an open source stack for distributed inference"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xaw2vt/phonon_is_now_opensource_31m_and_40m_tts_models",
+   "source": "reddit",
+   "title": "Phonon is now open-source, 31M and 40M TTS models designed to run on the edge",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xaw2vt/phonon_is_now_opensource_31m_and_40m_tts_models/",
+   "published_at": "2026-10-20T16:01:49+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "Phonon is now open-source, 31M and 40M TTS models designed to run on the edge"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xatwvb/unsloth_just_released_ornith15122b_ggufs",
+   "source": "reddit",
+   "title": "Unsloth just released Ornith-1.5-122B GGUFs",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xatwvb/unsloth_just_released_ornith15122b_ggufs/",
+   "published_at": "2026-10-20T14:39:52+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "Unsloth just released Ornith-1.5-122B GGUFs"
+  },
+  {
+   "id": "hn:50169100",
+   "source": "hn",
+   "title": "The DHS DeepSeek removal order, transcribed: scope, exceptions, open weights",
+   "url": "https://theainewsreport.com/2026-10-20-dhs-deepseek-removal-order-explained.html",
+   "published_at": "2026-10-20T16:43:48Z",
+   "extra": "points=1",
+   "event_type": "release",
+   "summary": "The DHS DeepSeek removal order, transcribed: scope, exceptions, open weights"
+  },
+  {
+   "id": "hn:50167583",
+   "source": "hn",
+   "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
+   "url": "https://news.ycombinator.com/item?id=50167583",
+   "published_at": "2026-10-20T15:09:29Z",
+   "extra": "points=19",
+   "event_type": "release",
+   "summary": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins"
   }
  ]
 }
