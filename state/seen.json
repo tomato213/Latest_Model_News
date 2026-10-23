@@ -3368,73 +3368,11 @@
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xcoelw/deepseek_and_minimax_clear_chinas_ai_export_rules": "2026-10-22T19:29:00.062050+00:00",
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xcmffj/with_the_ps5_and_switch_2_jailbreak_scene_taking": "2026-10-22T19:29:00.062050+00:00",
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xcthj8/metas_816b_muse_spark_open_scores_39_on": "2026-10-22T22:42:42.524956+00:00",
-  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xctcoe/auroratts100k_releases": "2026-10-22T22:42:42.524956+00:00"
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xctcoe/auroratts100k_releases": "2026-10-22T22:42:42.524956+00:00",
+  "openai:https://openai.com/index/cloudflare-cyber": "2026-10-23T01:25:53.311915+00:00",
+  "openai:https://openai.com/index/empowering-cyber-defenders": "2026-10-23T01:25:53.311915+00:00"
  },
  "pending": [
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x02t8t/a_341_gb_deepseek_on_a_128_gb_mac_2x_decode_and",
-   "source": "reddit",
-   "title": "A 341 GB DeepSeek on a 128 GB Mac: 2x decode and first token in 0.2 s instead of 2.5 s, streaming from two SSDs, same tokens as stock ds4. The trick wasn't a kernel: I made the codebase small enough for an agent",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x02t8t/a_341_gb_deepseek_on_a_128_gb_mac_2x_decode_and/",
-   "published_at": "2026-10-07T17:33:38+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x02b88/porting_libero_to_mujoco_warp_130_robot",
-   "source": "reddit",
-   "title": "Porting LIBERO to MuJoCo Warp: 130 robot manipulation tasks on one $700 AMD GPU",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x02b88/porting_libero_to_mujoco_warp_130_robot/",
-   "published_at": "2026-10-07T17:14:25+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x023z4/qwen38flashnext_on_6x3090_6x4090_without_nvlink",
-   "source": "reddit",
-   "title": "Qwen3.8-Flash-Next on 6x3090 / 6x4090 without NVLink: prefill 8-10x faster and long-context decode 2-3x faster than stock llama.cpp, binaries included",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x023z4/qwen38flashnext_on_6x3090_6x4090_without_nvlink/",
-   "published_at": "2026-10-07T17:06:50+00:00",
-   "extra": ""
-  },
-  {
-   "id": "hn:49995804",
-   "source": "hn",
-   "title": "Show HN: VoiceGremlin, a SaaS tool for automated tests against AI phone agents",
-   "url": "https://voicegremlin.com/",
-   "published_at": "2026-10-07T17:16:36Z",
-   "extra": "points=3"
-  },
-  {
-   "id": "hn:49982629",
-   "source": "hn",
-   "title": "Show HN: Gretel – Topic specific feeds built from YouTube recommendations",
-   "url": "https://github.com/Relic-a/Gretel/",
-   "published_at": "2026-10-06T19:04:55Z",
-   "extra": "points=2"
-  },
-  {
-   "id": "hn:49978155",
-   "source": "hn",
-   "title": "Show HN: Azurade, image and video generation with MCP, credits never expire",
-   "url": "https://azurade.com/developers/",
-   "published_at": "2026-10-06T13:29:38Z",
-   "extra": "points=2"
-  },
-  {
-   "id": "hn:49990278",
-   "source": "hn",
-   "title": "Pretty soon all software will be de facto open-source",
-   "url": "https://twitter.com/amasad/status/2107671204639465961",
-   "published_at": "2026-10-07T09:25:01Z",
-   "extra": "points=1"
-  },
-  {
-   "id": "hn:49982822",
-   "source": "hn",
-   "title": "Show HN: HieraticBench – Can AI read ancient Egyptian handwriting?",
-   "url": "https://hieraticbench.vercel.app/",
-   "published_at": "2026-10-06T19:22:15Z",
-   "extra": "points=3"
-  },
   {
    "id": "hn:49982151",
    "source": "hn",
@@ -21692,6 +21630,110 @@
    "extra": ""
   },
   {
+   "id": "openai:https://openai.com/index/cloudflare-cyber",
+   "source": "openai",
+   "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+   "url": "https://openai.com/index/cloudflare-cyber",
+   "published_at": "2026-10-21T00:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/empowering-cyber-defenders",
+   "source": "openai",
+   "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+   "url": "https://openai.com/index/empowering-cyber-defenders",
+   "published_at": "2026-10-21T00:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xcoz8s/more_4x_intel_b65_test_results_performance",
+   "source": "reddit",
+   "title": "More 4x Intel B65 test results - Performance improvements - ~30% faster prefill and TTFT in flash-next vllm by increasing chunk size. & MPT benchmarks - and a video showing me actually using it in LibreChat.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcoz8s/more_4x_intel_b65_test_results_performance/",
+   "published_at": "2026-10-22T17:28:17+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xco88k/memt_10_nano_and_flash",
+   "source": "reddit",
+   "title": "MemT 1.0 nano and flash",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xco88k/memt_10_nano_and_flash/",
+   "published_at": "2026-10-22T17:01:06+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xcnxv9/at_this_point_is_it_even_funny",
+   "source": "reddit",
+   "title": "At this point, is it even funny?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcnxv9/at_this_point_is_it_even_funny/",
+   "published_at": "2026-10-22T16:50:39+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xcnsrj/ling30tinyubtree_dflash_draft_for_stock_mainline",
+   "source": "reddit",
+   "title": "Ling-3.0-tiny-UBTree DFlash draft for stock mainline llama.cpp (+8% prose, +61% code speedup)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcnsrj/ling30tinyubtree_dflash_draft_for_stock_mainline/",
+   "published_at": "2026-10-22T16:45:30+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xcniy3/next_logical_upgrade",
+   "source": "reddit",
+   "title": "Next logical upgrade?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcniy3/next_logical_upgrade/",
+   "published_at": "2026-10-22T16:35:13+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x06h7i/kandinsky_60_video_gen_video_upscaler",
+   "source": "reddit",
+   "title": "Kandinsky 6.0 video gen + video upscaler!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x06h7i/kandinsky_60_video_gen_video_upscaler/",
+   "published_at": "2026-10-07T19:58:11+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x05o5u/which_is_a_better_acronym_for_engines_like_strata",
+   "source": "reddit",
+   "title": "Which is a better acronym for engines like strata and ninfer",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x05o5u/which_is_a_better_acronym_for_engines_like_strata/",
+   "published_at": "2026-10-07T19:21:49+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x05hmd/is_there_any_possible_way_of_running",
+   "source": "reddit",
+   "title": "Is there any possible way of running PaddleOCR-VL-1.6 efficiently on a humble 8 GB VRAM GPU?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x05hmd/is_there_any_possible_way_of_running/",
+   "published_at": "2026-10-07T19:14:58+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x04h5n/32gb_ram_and_single_3090_users_which_moe_are_you",
+   "source": "reddit",
+   "title": "32GB RAM and single 3090 users, which MoE are you using and why?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x04h5n/32gb_ram_and_single_3090_users_which_moe_are_you/",
+   "published_at": "2026-10-07T18:36:06+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x03xkc/llama_add_a_gpu_cache_for_moe_experts_kept_in",
+   "source": "reddit",
+   "title": "llama : add a GPU cache for MoE experts kept in host memory by am17an · Pull Request #29887 · ggml-org/llama.cpp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x03xkc/llama_add_a_gpu_cache_for_moe_experts_kept_in/",
+   "published_at": "2026-10-07T18:15:14+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x03mrh/omnid1_600m_by_liquid_ai_running_in_the_browser",
+   "source": "reddit",
+   "title": "omni-d1 600M by Liquid AI running in the browser using WebGPU",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x03mrh/omnid1_600m_by_liquid_ai_running_in_the_browser/",
+   "published_at": "2026-10-07T18:04:05+00:00",
+   "extra": ""
+  },
+  {
    "id": "openai:https://openai.com/index/decisions-api",
    "source": "openai",
    "title": "Build more responsive apps with the Decisions API",
@@ -21756,27 +21798,11 @@
    "extra": ""
   },
   {
-   "id": "openai:https://openai.com/index/cloudflare-cyber",
-   "source": "openai",
-   "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
-   "url": "https://openai.com/index/cloudflare-cyber",
-   "published_at": "2026-10-21T00:00:00+00:00",
-   "extra": ""
-  },
-  {
    "id": "openai:https://openai.com/index/building-chatgpt-ad-stack",
    "source": "openai",
    "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
    "url": "https://openai.com/index/building-chatgpt-ad-stack",
    "published_at": "2026-10-21T07:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "openai:https://openai.com/index/empowering-cyber-defenders",
-   "source": "openai",
-   "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
-   "url": "https://openai.com/index/empowering-cyber-defenders",
-   "published_at": "2026-10-21T00:00:00+00:00",
    "extra": ""
   },
   {
@@ -21817,6 +21843,54 @@
    "title": "DeepSeek-V4.1-Flash-1017: Wish-Driven Programming Made Real",
    "url": "https://api-docs.deepseek.com/news/news261017/",
    "published_at": null,
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xd0gge/production_hyperslop_patch",
+   "source": "reddit",
+   "title": "Production Hyperslop Patch",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xd0gge/production_hyperslop_patch/",
+   "published_at": "2026-10-23T01:14:14+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xd0fgs/minimaxm31flash",
+   "source": "reddit",
+   "title": "MiniMax-M3.1-Flash",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xd0fgs/minimaxm31flash/",
+   "published_at": "2026-10-23T01:12:49+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xczcgk/flint_40ba25b_vs_ornith_15_35ba3b_vs_nemotron_35",
+   "source": "reddit",
+   "title": "Flint 40B-A2.5B vs Ornith 1.5 35B-A3B vs Nemotron 3.5 Lightning",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xczcgk/flint_40ba25b_vs_ornith_15_35ba3b_vs_nemotron_35/",
+   "published_at": "2026-10-23T00:21:32+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xcz58l/4bit_qlora_with_training_factory_from_thousandml",
+   "source": "reddit",
+   "title": "4-bit QLoRA with Training Factory from ThousandML",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcz58l/4bit_qlora_with_training_factory_from_thousandml/",
+   "published_at": "2026-10-23T00:11:57+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xcylhj/qwen_38_flash_next_129_gb_is_better_than_26_bpw",
+   "source": "reddit",
+   "title": "Qwen 3.8 Flash Next (129 GB) is better than 2.6 bpw DeepSeek V4.1 Flash 1017 (187 GB + 203 GB Engram)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcylhj/qwen_38_flash_next_129_gb_is_better_than_26_bpw/",
+   "published_at": "2026-10-22T23:47:26+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xcylcg/what_are_some_ways_that_people_in_here_have_tried",
+   "source": "reddit",
+   "title": "What are some ways that people in here have tried to utilize RT cores for better inference?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcylcg/what_are_some_ways_that_people_in_here_have_tried/",
+   "published_at": "2026-10-22T23:47:16+00:00",
    "extra": ""
   },
   {
@@ -21940,46 +22014,6 @@
    "extra": ""
   },
   {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xcoz8s/more_4x_intel_b65_test_results_performance",
-   "source": "reddit",
-   "title": "More 4x Intel B65 test results - Performance improvements - ~30% faster prefill and TTFT in flash-next vllm by increasing chunk size. & MPT benchmarks - and a video showing me actually using it in LibreChat.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcoz8s/more_4x_intel_b65_test_results_performance/",
-   "published_at": "2026-10-22T17:28:17+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xco88k/memt_10_nano_and_flash",
-   "source": "reddit",
-   "title": "MemT 1.0 nano and flash",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xco88k/memt_10_nano_and_flash/",
-   "published_at": "2026-10-22T17:01:06+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xcnxv9/at_this_point_is_it_even_funny",
-   "source": "reddit",
-   "title": "At this point, is it even funny?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcnxv9/at_this_point_is_it_even_funny/",
-   "published_at": "2026-10-22T16:50:39+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xcnsrj/ling30tinyubtree_dflash_draft_for_stock_mainline",
-   "source": "reddit",
-   "title": "Ling-3.0-tiny-UBTree DFlash draft for stock mainline llama.cpp (+8% prose, +61% code speedup)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcnsrj/ling30tinyubtree_dflash_draft_for_stock_mainline/",
-   "published_at": "2026-10-22T16:45:30+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xcniy3/next_logical_upgrade",
-   "source": "reddit",
-   "title": "Next logical upgrade?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcniy3/next_logical_upgrade/",
-   "published_at": "2026-10-22T16:35:13+00:00",
-   "extra": ""
-  },
-  {
    "id": "hn:50198052",
    "source": "hn",
    "title": "Show HN: Kino Transcode – Open Red and Blackmagic Raw Files in the Browser",
@@ -22001,6 +22035,14 @@
    "title": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
    "url": "https://huggingface.co/destined/hurston-1",
    "published_at": "2026-10-21T11:56:29Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:50202957",
+   "source": "hn",
+   "title": "Show HN: Bloom – an org-mode compatible Android app for managing notes and tasks",
+   "url": "https://github.com/rrajath/bloom",
+   "published_at": "2026-10-23T00:22:31Z",
    "extra": "points=1"
   },
   {
@@ -22108,52 +22150,68 @@
    "extra": "points=11"
   },
   {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x06h7i/kandinsky_60_video_gen_video_upscaler",
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x02t8t/a_341_gb_deepseek_on_a_128_gb_mac_2x_decode_and",
    "source": "reddit",
-   "title": "Kandinsky 6.0 video gen + video upscaler!",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x06h7i/kandinsky_60_video_gen_video_upscaler/",
-   "published_at": "2026-10-07T19:58:11+00:00",
+   "title": "A 341 GB DeepSeek on a 128 GB Mac: 2x decode and first token in 0.2 s instead of 2.5 s, streaming from two SSDs, same tokens as stock ds4. The trick wasn't a kernel: I made the codebase small enough for an agent",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x02t8t/a_341_gb_deepseek_on_a_128_gb_mac_2x_decode_and/",
+   "published_at": "2026-10-07T17:33:38+00:00",
    "extra": ""
   },
   {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x05o5u/which_is_a_better_acronym_for_engines_like_strata",
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x02b88/porting_libero_to_mujoco_warp_130_robot",
    "source": "reddit",
-   "title": "Which is a better acronym for engines like strata and ninfer",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x05o5u/which_is_a_better_acronym_for_engines_like_strata/",
-   "published_at": "2026-10-07T19:21:49+00:00",
+   "title": "Porting LIBERO to MuJoCo Warp: 130 robot manipulation tasks on one $700 AMD GPU",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x02b88/porting_libero_to_mujoco_warp_130_robot/",
+   "published_at": "2026-10-07T17:14:25+00:00",
    "extra": ""
   },
   {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x05hmd/is_there_any_possible_way_of_running",
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x023z4/qwen38flashnext_on_6x3090_6x4090_without_nvlink",
    "source": "reddit",
-   "title": "Is there any possible way of running PaddleOCR-VL-1.6 efficiently on a humble 8 GB VRAM GPU?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x05hmd/is_there_any_possible_way_of_running/",
-   "published_at": "2026-10-07T19:14:58+00:00",
+   "title": "Qwen3.8-Flash-Next on 6x3090 / 6x4090 without NVLink: prefill 8-10x faster and long-context decode 2-3x faster than stock llama.cpp, binaries included",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x023z4/qwen38flashnext_on_6x3090_6x4090_without_nvlink/",
+   "published_at": "2026-10-07T17:06:50+00:00",
    "extra": ""
   },
   {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x04h5n/32gb_ram_and_single_3090_users_which_moe_are_you",
-   "source": "reddit",
-   "title": "32GB RAM and single 3090 users, which MoE are you using and why?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x04h5n/32gb_ram_and_single_3090_users_which_moe_are_you/",
-   "published_at": "2026-10-07T18:36:06+00:00",
-   "extra": ""
+   "id": "hn:49995804",
+   "source": "hn",
+   "title": "Show HN: VoiceGremlin, a SaaS tool for automated tests against AI phone agents",
+   "url": "https://voicegremlin.com/",
+   "published_at": "2026-10-07T17:16:36Z",
+   "extra": "points=3"
   },
   {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x03xkc/llama_add_a_gpu_cache_for_moe_experts_kept_in",
-   "source": "reddit",
-   "title": "llama : add a GPU cache for MoE experts kept in host memory by am17an · Pull Request #29887 · ggml-org/llama.cpp",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x03xkc/llama_add_a_gpu_cache_for_moe_experts_kept_in/",
-   "published_at": "2026-10-07T18:15:14+00:00",
-   "extra": ""
+   "id": "hn:49982629",
+   "source": "hn",
+   "title": "Show HN: Gretel – Topic specific feeds built from YouTube recommendations",
+   "url": "https://github.com/Relic-a/Gretel/",
+   "published_at": "2026-10-06T19:04:55Z",
+   "extra": "points=2"
   },
   {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x03mrh/omnid1_600m_by_liquid_ai_running_in_the_browser",
-   "source": "reddit",
-   "title": "omni-d1 600M by Liquid AI running in the browser using WebGPU",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x03mrh/omnid1_600m_by_liquid_ai_running_in_the_browser/",
-   "published_at": "2026-10-07T18:04:05+00:00",
-   "extra": ""
+   "id": "hn:49978155",
+   "source": "hn",
+   "title": "Show HN: Azurade, image and video generation with MCP, credits never expire",
+   "url": "https://azurade.com/developers/",
+   "published_at": "2026-10-06T13:29:38Z",
+   "extra": "points=2"
+  },
+  {
+   "id": "hn:49990278",
+   "source": "hn",
+   "title": "Pretty soon all software will be de facto open-source",
+   "url": "https://twitter.com/amasad/status/2107671204639465961",
+   "published_at": "2026-10-07T09:25:01Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:49982822",
+   "source": "hn",
+   "title": "Show HN: HieraticBench – Can AI read ancient Egyptian handwriting?",
+   "url": "https://hieraticbench.vercel.app/",
+   "published_at": "2026-10-06T19:22:15Z",
+   "extra": "points=3"
   }
  ],
  "pending_push": [
