@@ -3511,81 +3511,15 @@
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xgvrcn/diffusion_llms_are_not_a_good_fit_for_distributed": "2026-10-27T20:01:45.553194+00:00",
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xgvcnu/sensenova_68_code2video_an_opensourced_model_that": "2026-10-27T20:01:45.553194+00:00",
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xgv8ql/step_aside_sesame_dessa_is_here_the_conversation": "2026-10-27T20:01:45.553194+00:00",
-  "hn:50260348": "2026-10-27T20:01:45.553194+00:00"
+  "hn:50260348": "2026-10-27T20:01:45.553194+00:00",
+  "openai:https://openai.com/index/grupo-boticario": "2026-10-27T23:43:55.330498+00:00",
+  "openai:https://openai.com/index/localiza-generative-ai": "2026-10-27T23:43:55.330498+00:00",
+  "modelscope:ZhipuAI/GLM-4.6V-Flash": "2026-10-27T23:43:55.330498+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xh7lfl/exploring_nextconcept_modeling_ncm_transformer": "2026-10-27T23:43:55.939546+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xh7ank/i_claude_tested_48_local_models_on_an_m1_max_64gb": "2026-10-27T23:43:55.939546+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xh50at/new_audio_model_lfm3audio2b": "2026-10-27T23:43:55.939546+00:00"
  },
  "pending": [
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x357dq/standard_evals_cant_tell_my_local_quants_apart_my",
-   "source": "reddit",
-   "title": "Standard evals can't tell my local quants apart. My own agentic bench can (Qwen3.8 27B / Flash-Next, Q3 to Q8)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x357dq/standard_evals_cant_tell_my_local_quants_apart_my/",
-   "published_at": "2026-10-11T10:51:10+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x33p4o/reminder_try_probabilistic_mtp_if_you_missed_it",
-   "source": "reddit",
-   "title": "Reminder: try probabilistic MTP if you missed it. Decode +14% on prose",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x33p4o/reminder_try_probabilistic_mtp_if_you_missed_it/",
-   "published_at": "2026-10-11T09:20:09+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x33avs/is_is_fomo_to_think_that_buying_ram_now_is_the",
-   "source": "reddit",
-   "title": "Is is FOMO to think that buying RAM now is the best thing to do?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x33avs/is_is_fomo_to_think_that_buying_ram_now_is_the/",
-   "published_at": "2026-10-11T08:55:37+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x32vhx/psa_deepseek_v41_flash_habitually_exfiltrates_api",
-   "source": "reddit",
-   "title": "PSA: DeepSeek V4.1 Flash habitually exfiltrates API keys. It is dangerously misaligned and may be hazardous to use",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x32vhx/psa_deepseek_v41_flash_habitually_exfiltrates_api/",
-   "published_at": "2026-10-11T08:29:02+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x32sjy/what_setup_do_you_use_which_harness_and_how_do",
-   "source": "reddit",
-   "title": "What setup do you use, which harness? and how do you customize it to run qwen 3.8 flash next swift with a high context length and a reasonable amount of tok/sec?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x32sjy/what_setup_do_you_use_which_harness_and_how_do/",
-   "published_at": "2026-10-11T08:23:50+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x32pqp/local_voice_assistant_based_on_qwen35_4b_with",
-   "source": "reddit",
-   "title": "Local Voice Assistant based on Qwen3.5 4B with skills/toolcalling. No dedicated GPU. Local STT+TTS",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x32pqp/local_voice_assistant_based_on_qwen35_4b_with/",
-   "published_at": "2026-10-11T08:18:55+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x31ak8/qwen_38_27b_q5_vs_qwen_38_next_q3_s_for_document",
-   "source": "reddit",
-   "title": "Qwen 3.8 27B Q5 vs Qwen 3.8 Next Q3_S for document analysis",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x31ak8/qwen_38_27b_q5_vs_qwen_38_next_q3_s_for_document/",
-   "published_at": "2026-10-11T06:52:26+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x30cv1/m5_ultra_256gb_or_2x_dgx_spark_which_one",
-   "source": "reddit",
-   "title": "M5 Ultra 256GB or 2x DGX Spark? Which one?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x30cv1/m5_ultra_256gb_or_2x_dgx_spark_which_one/",
-   "published_at": "2026-10-11T05:55:30+00:00",
-   "extra": ""
-  },
-  {
-   "id": "hn:50025559",
-   "source": "hn",
-   "title": "Show HN: Lacuna – open-source inline AI writing suggestions for your Mac",
-   "url": "https://jackdamon.org/blog/lacuna/",
-   "published_at": "2026-10-09T19:31:15Z",
-   "extra": "points=1"
-  },
   {
    "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wtqpjt/sftmill_easily_offpolicy_distill_any_existing_llm",
    "source": "reddit",
@@ -23979,6 +23913,62 @@
    "extra": ""
   },
   {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xgwyx9/8x_r9700_system_upgrade",
+   "source": "reddit",
+   "title": "8x R9700 System Upgrade",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgwyx9/8x_r9700_system_upgrade/",
+   "published_at": "2026-10-27T16:18:34+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xgwm1e/a_local_coding_model_benchmark_should_include_the",
+   "source": "reddit",
+   "title": "A local coding model benchmark should include the whole setup",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgwm1e/a_local_coding_model_benchmark_should_include_the/",
+   "published_at": "2026-10-27T16:05:23+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xgw2qm/sparkx2617b_almost_the_same_perf_as_4b",
+   "source": "reddit",
+   "title": "Spark-X2.6-1.7B, almost the same perf as 4b",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgw2qm/sparkx2617b_almost_the_same_perf_as_4b/",
+   "published_at": "2026-10-27T15:45:54+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xgw1ix/qwen_38_27b_really_feels_good_but_the_processing",
+   "source": "reddit",
+   "title": "QWen 3.8 27B really feels good, but the processing is enormous",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgw1ix/qwen_38_27b_really_feels_good_but_the_processing/",
+   "published_at": "2026-10-27T15:44:40+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wtuukc/infill_and_output_toks_speeds_after_new_build",
+   "source": "reddit",
+   "title": "infill and output tok/s speeds after \"new\" build compared to old questions",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtuukc/infill_and_output_toks_speeds_after_new_build/",
+   "published_at": "2026-09-30T03:47:14+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wtt3cq/best_approach_for_automatically_tagging_local",
+   "source": "reddit",
+   "title": "Best approach for automatically tagging local music collection?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtt3cq/best_approach_for_automatically_tagging_local/",
+   "published_at": "2026-09-30T02:17:31+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x35o1y/microsoftaescode_8b_and_32b",
+   "source": "reddit",
+   "title": "microsoft/AesCode 8B and 32B",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x35o1y/microsoftaescode_8b_and_32b/",
+   "published_at": "2026-10-11T11:17:46+00:00",
+   "extra": ""
+  },
+  {
    "id": "openai:https://openai.com/index/oracle-apps-in-chatgpt",
    "source": "openai",
    "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
@@ -24047,6 +24037,14 @@
    "source": "anthropic",
    "title": "S1 Sec",
    "url": "https://www.anthropic.com/news/s1-sec",
+   "published_at": null,
+   "extra": ""
+  },
+  {
+   "id": "anthropic:expanding-partnership-gsa",
+   "source": "anthropic",
+   "title": "Expanding Partnership Gsa",
+   "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
    "published_at": null,
    "extra": ""
   },
@@ -24121,6 +24119,46 @@
    "url": "https://openrouter.ai/openai/gpt-6.1-terra:batch",
    "published_at": "2026-10-26T18:13:29+00:00",
    "extra": "context=1050000"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xh7v4e/llamacpp_with_qwen_38_flash_next_q4_performing",
+   "source": "reddit",
+   "title": "Llama.cpp with Qwen 3.8 flash next Q4 performing wierd with concurrency",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xh7v4e/llamacpp_with_qwen_38_flash_next_q4_performing/",
+   "published_at": "2026-10-27T23:09:28+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xh72iu/i_built_a_local_gpu_benchmark_server_for_4b_to",
+   "source": "reddit",
+   "title": "I built a local GPU benchmark server for 4B to 35B models because I was tired of synthetic cloud leaderboards and tiny sample tests",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xh72iu/i_built_a_local_gpu_benchmark_server_for_4b_to/",
+   "published_at": "2026-10-27T22:35:47+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xh4bnd/openais_major_results_over_the_last_3_months_came",
+   "source": "reddit",
+   "title": "OpenAI's major results over the last 3 months came from scaling test-time compute with agent swarms. I've been building an open-source equivalent for the past year, and I'd love for you guys to try it.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xh4bnd/openais_major_results_over_the_last_3_months_came/",
+   "published_at": "2026-10-27T20:47:38+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xh3oqw/be_careful_what_you_wish_for_people_started_using",
+   "source": "reddit",
+   "title": "Be careful what you wish for: people started using my inference engine",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xh3oqw/be_careful_what_you_wish_for_people_started_using/",
+   "published_at": "2026-10-27T20:23:55+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xh3iek/the_reason_why_5090s_are_10k_now",
+   "source": "reddit",
+   "title": "The reason why 5090's are $10k now...",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xh3iek/the_reason_why_5090s_are_10k_now/",
+   "published_at": "2026-10-27T20:17:21+00:00",
+   "extra": ""
   },
   {
    "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xh234g/possible_to_run_qwen_38_flash_next_on_this_setup",
@@ -24208,38 +24246,6 @@
    "title": "Reproducing neuron-level steering of Qwen3.5-4B in llama.cpp with control vectors",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgx96e/reproducing_neuronlevel_steering_of_qwen354b_in/",
    "published_at": "2026-10-27T16:28:58+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xgwyx9/8x_r9700_system_upgrade",
-   "source": "reddit",
-   "title": "8x R9700 System Upgrade",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgwyx9/8x_r9700_system_upgrade/",
-   "published_at": "2026-10-27T16:18:34+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xgwm1e/a_local_coding_model_benchmark_should_include_the",
-   "source": "reddit",
-   "title": "A local coding model benchmark should include the whole setup",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgwm1e/a_local_coding_model_benchmark_should_include_the/",
-   "published_at": "2026-10-27T16:05:23+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xgw2qm/sparkx2617b_almost_the_same_perf_as_4b",
-   "source": "reddit",
-   "title": "Spark-X2.6-1.7B, almost the same perf as 4b",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgw2qm/sparkx2617b_almost_the_same_perf_as_4b/",
-   "published_at": "2026-10-27T15:45:54+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xgw1ix/qwen_38_27b_really_feels_good_but_the_processing",
-   "source": "reddit",
-   "title": "QWen 3.8 27B really feels good, but the processing is enormous",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgw1ix/qwen_38_27b_really_feels_good_but_the_processing/",
-   "published_at": "2026-10-27T15:44:40+00:00",
    "extra": ""
   },
   {
@@ -24347,28 +24353,76 @@
    "extra": "points=1"
   },
   {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wtuukc/infill_and_output_toks_speeds_after_new_build",
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x357dq/standard_evals_cant_tell_my_local_quants_apart_my",
    "source": "reddit",
-   "title": "infill and output tok/s speeds after \"new\" build compared to old questions",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtuukc/infill_and_output_toks_speeds_after_new_build/",
-   "published_at": "2026-09-30T03:47:14+00:00",
+   "title": "Standard evals can't tell my local quants apart. My own agentic bench can (Qwen3.8 27B / Flash-Next, Q3 to Q8)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x357dq/standard_evals_cant_tell_my_local_quants_apart_my/",
+   "published_at": "2026-10-11T10:51:10+00:00",
    "extra": ""
   },
   {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wtt3cq/best_approach_for_automatically_tagging_local",
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x33p4o/reminder_try_probabilistic_mtp_if_you_missed_it",
    "source": "reddit",
-   "title": "Best approach for automatically tagging local music collection?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtt3cq/best_approach_for_automatically_tagging_local/",
-   "published_at": "2026-09-30T02:17:31+00:00",
+   "title": "Reminder: try probabilistic MTP if you missed it. Decode +14% on prose",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x33p4o/reminder_try_probabilistic_mtp_if_you_missed_it/",
+   "published_at": "2026-10-11T09:20:09+00:00",
    "extra": ""
   },
   {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x35o1y/microsoftaescode_8b_and_32b",
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x33avs/is_is_fomo_to_think_that_buying_ram_now_is_the",
    "source": "reddit",
-   "title": "microsoft/AesCode 8B and 32B",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x35o1y/microsoftaescode_8b_and_32b/",
-   "published_at": "2026-10-11T11:17:46+00:00",
+   "title": "Is is FOMO to think that buying RAM now is the best thing to do?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x33avs/is_is_fomo_to_think_that_buying_ram_now_is_the/",
+   "published_at": "2026-10-11T08:55:37+00:00",
    "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x32vhx/psa_deepseek_v41_flash_habitually_exfiltrates_api",
+   "source": "reddit",
+   "title": "PSA: DeepSeek V4.1 Flash habitually exfiltrates API keys. It is dangerously misaligned and may be hazardous to use",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x32vhx/psa_deepseek_v41_flash_habitually_exfiltrates_api/",
+   "published_at": "2026-10-11T08:29:02+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x32sjy/what_setup_do_you_use_which_harness_and_how_do",
+   "source": "reddit",
+   "title": "What setup do you use, which harness? and how do you customize it to run qwen 3.8 flash next swift with a high context length and a reasonable amount of tok/sec?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x32sjy/what_setup_do_you_use_which_harness_and_how_do/",
+   "published_at": "2026-10-11T08:23:50+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x32pqp/local_voice_assistant_based_on_qwen35_4b_with",
+   "source": "reddit",
+   "title": "Local Voice Assistant based on Qwen3.5 4B with skills/toolcalling. No dedicated GPU. Local STT+TTS",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x32pqp/local_voice_assistant_based_on_qwen35_4b_with/",
+   "published_at": "2026-10-11T08:18:55+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x31ak8/qwen_38_27b_q5_vs_qwen_38_next_q3_s_for_document",
+   "source": "reddit",
+   "title": "Qwen 3.8 27B Q5 vs Qwen 3.8 Next Q3_S for document analysis",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x31ak8/qwen_38_27b_q5_vs_qwen_38_next_q3_s_for_document/",
+   "published_at": "2026-10-11T06:52:26+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x30cv1/m5_ultra_256gb_or_2x_dgx_spark_which_one",
+   "source": "reddit",
+   "title": "M5 Ultra 256GB or 2x DGX Spark? Which one?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x30cv1/m5_ultra_256gb_or_2x_dgx_spark_which_one/",
+   "published_at": "2026-10-11T05:55:30+00:00",
+   "extra": ""
+  },
+  {
+   "id": "hn:50025559",
+   "source": "hn",
+   "title": "Show HN: Lacuna – open-source inline AI writing suggestions for your Mac",
+   "url": "https://jackdamon.org/blog/lacuna/",
+   "published_at": "2026-10-09T19:31:15Z",
+   "extra": "points=1"
   }
  ],
  "pending_push": [
@@ -34491,6 +34545,36 @@
    "extra": "points=2",
    "event_type": "release",
    "summary": "Poisoned Open Weights"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xh7lfl/exploring_nextconcept_modeling_ncm_transformer",
+   "source": "reddit",
+   "title": "Exploring Next-Concept Modeling (NCM) & Transformer Interpretability: Repository of 20 Exploratory Studies & Controls",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xh7lfl/exploring_nextconcept_modeling_ncm_transformer/",
+   "published_at": "2026-10-27T22:58:12+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "Exploring Next-Concept Modeling (NCM) & Transformer Interpretability: Repository of 20 Exploratory Studies & Controls"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xh7ank/i_claude_tested_48_local_models_on_an_m1_max_64gb",
+   "source": "reddit",
+   "title": "I (Claude) tested 48 local models on an M1 Max 64GB as agents (16 multi-step tool tasks + 10 rebuilt from real agent failures, x3 runs), plus speed and context for 54",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xh7ank/i_claude_tested_48_local_models_on_an_m1_max_64gb/",
+   "published_at": "2026-10-27T22:45:22+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "I (Claude) tested 48 local models on an M1 Max 64GB as agents (16 multi-step tool tasks + 10 rebuilt from real agent failures, x3 runs), plus speed and context for 54"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xh50at/new_audio_model_lfm3audio2b",
+   "source": "reddit",
+   "title": "New audio model: LFM3-Audio-2B",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xh50at/new_audio_model_lfm3audio2b/",
+   "published_at": "2026-10-27T21:14:07+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "New audio model: LFM3-Audio-2B"
   }
  ]
 }
