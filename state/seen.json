@@ -3731,9 +3731,39 @@
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xnrhvb/kimik31pro_is_now_openweights": "2026-11-04T16:12:11.403934+00:00",
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xnoqyy/i_removed_85_of_gemmas_weights_and_it_is_mostly": "2026-11-04T16:12:11.403934+00:00",
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xnnr3k/tencent_says_hy4_ranks_among_the_best_open_models": "2026-11-04T16:12:11.403934+00:00",
-  "hn:50365750": "2026-11-04T16:12:11.403934+00:00"
+  "hn:50365750": "2026-11-04T16:12:11.403934+00:00",
+  "openai:https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties": "2026-11-04T22:08:22.901779+00:00",
+  "openai:https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai": "2026-11-04T22:08:22.901779+00:00",
+  "hf:microsoft/OptiMind-RL": "2026-11-04T22:08:22.901779+00:00",
+  "hf:facebook/free-range-gaussians": "2026-11-04T22:08:22.901779+00:00",
+  "hn:50341581": "2026-11-04T22:08:22.901779+00:00",
+  "hn:50339336": "2026-11-04T22:08:22.901779+00:00",
+  "hn:50339221": "2026-11-04T22:08:22.901779+00:00",
+  "hn:50340083": "2026-11-04T22:08:22.901779+00:00",
+  "hn:50341649": "2026-11-04T22:08:22.901779+00:00",
+  "hn:50339547": "2026-11-04T22:08:22.901779+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xo1a7b/github_w61k3rlexisuitereleases_does_qwen_and": "2026-11-04T22:08:23.217757+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xo07dd/is_finetuning_dead_is_making_a_big_model_like": "2026-11-04T22:08:23.217757+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xnzynf/auroraimg2100m_releases": "2026-11-04T22:08:23.217757+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xnzo38/qwen38_27b_q4_on_my_lowend_laptop_and_it_became": "2026-11-04T22:08:23.217757+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xnz8ct/deepseek_alone_accounted_for_53_of_all_27": "2026-11-04T22:08:23.217757+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xnxrh2/what_do_you_guys_do_all_day_with_these_ai_models": "2026-11-04T22:08:23.217757+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xnu9iv/rust_inference_engine_for_qwen_models_on_a_12_gb": "2026-11-04T22:08:23.217757+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xntjsf/to_those_that_used_the_api_over_the_last_few": "2026-11-04T22:08:23.217757+00:00",
+  "hn:50371272": "2026-11-04T22:08:23.217757+00:00",
+  "hn:50368208": "2026-11-04T22:08:23.217757+00:00",
+  "hn:50368804": "2026-11-04T22:08:23.217757+00:00",
+  "hn:50369623": "2026-11-04T22:08:23.217757+00:00"
  },
  "pending": [
+  {
+   "id": "hn:50353601",
+   "source": "hn",
+   "title": "Show HN: I built Knemora – An Open-source AI Second brain",
+   "url": "https://github.com/federicolaterra/knemora",
+   "published_at": "2026-11-03T15:58:06Z",
+   "extra": "points=1"
+  },
   {
    "id": "openai:https://openai.com/index/unlocking-new-ways-of-working",
    "source": "openai",
@@ -27527,54 +27557,6 @@
    "extra": ""
   },
   {
-   "id": "openai:https://openai.com/index/openai-to-acquire-pierre",
-   "source": "openai",
-   "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-   "url": "https://openai.com/index/openai-to-acquire-pierre",
-   "published_at": "2026-11-04T14:30:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "openai:https://openai.com/index/daybreak-red-aws-govcloud",
-   "source": "openai",
-   "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-   "url": "https://openai.com/index/daybreak-red-aws-govcloud",
-   "published_at": "2026-11-04T07:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "openai:https://openai.com/index/accelerating-engineering-for-the-physical-world",
-   "source": "openai",
-   "title": "Accelerating engineering for the physical world",
-   "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-   "published_at": "2026-11-03T12:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "openai:https://openai.com/index/cisco-cyber",
-   "source": "openai",
-   "title": "How Cisco defends at machine speed with OpenAI",
-   "url": "https://openai.com/index/cisco-cyber",
-   "published_at": "2026-11-03T08:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "openai:https://openai.com/index/heimstaden",
-   "source": "openai",
-   "title": "Heimstaden is changing residential real estate management with AI",
-   "url": "https://openai.com/index/heimstaden",
-   "published_at": "2026-11-03T08:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "openai:https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
-   "source": "openai",
-   "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-   "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
-   "published_at": "2026-11-03T00:00:00+00:00",
-   "extra": ""
-  },
-  {
    "id": "openai:https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
    "source": "openai",
    "title": "Rewarding defenders with bigger bug bounties",
@@ -27589,86 +27571,6 @@
    "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
    "published_at": "2026-11-02T18:00:00+00:00",
    "extra": ""
-  },
-  {
-   "id": "anthropic:s1-sec",
-   "source": "anthropic",
-   "title": "S1 Sec",
-   "url": "https://www.anthropic.com/news/s1-sec",
-   "published_at": null,
-   "extra": ""
-  },
-  {
-   "id": "anthropic:ai-for-science-expands-foundations-research-institutions",
-   "source": "anthropic",
-   "title": "Ai For Science Expands Foundations Research Institutions",
-   "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
-   "published_at": null,
-   "extra": ""
-  },
-  {
-   "id": "anthropic:expanding-partnership-gsa",
-   "source": "anthropic",
-   "title": "Expanding Partnership Gsa",
-   "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
-   "published_at": null,
-   "extra": ""
-  },
-  {
-   "id": "anthropic:donating-agent-skills-to-the-agentic-ai-foundation",
-   "source": "anthropic",
-   "title": "Donating Agent Skills To The Agentic Ai Foundation",
-   "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
-   "published_at": null,
-   "extra": ""
-  },
-  {
-   "id": "anthropic:open-call-guest-investigators-life-sciences",
-   "source": "anthropic",
-   "title": "Open Call Guest Investigators Life Sciences",
-   "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
-   "published_at": null,
-   "extra": ""
-  },
-  {
-   "id": "anthropic:christopher-stubbs-joins-long-term-benefit-trust",
-   "source": "anthropic",
-   "title": "Christopher Stubbs Joins Long Term Benefit Trust",
-   "url": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
-   "published_at": null,
-   "extra": ""
-  },
-  {
-   "id": "anthropic:distillation-defenses",
-   "source": "anthropic",
-   "title": "Distillation Defenses",
-   "url": "https://www.anthropic.com/news/distillation-defenses",
-   "published_at": null,
-   "extra": ""
-  },
-  {
-   "id": "deepseek:news261017",
-   "source": "deepseek",
-   "title": "DeepSeek-V4.1-Flash-1017: Wish-Driven Programming Made Real",
-   "url": "https://api-docs.deepseek.com/news/news261017/",
-   "published_at": null,
-   "extra": ""
-  },
-  {
-   "id": "openrouter:tencent/hy4",
-   "source": "openrouter",
-   "title": "Tencent: Hy4",
-   "url": "https://openrouter.ai/tencent/hy4",
-   "published_at": "2026-11-04T04:20:31+00:00",
-   "extra": "context=1048576"
-  },
-  {
-   "id": "openrouter:stealth/crouton-alpha",
-   "source": "openrouter",
-   "title": "Crouton Alpha",
-   "url": "https://openrouter.ai/stealth/crouton-alpha",
-   "published_at": "2026-11-03T01:38:50+00:00",
-   "extra": "context=1048576"
   },
   {
    "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xnrcfw/paper_think_less_locally_local_preference",
@@ -27823,30 +27725,6 @@
    "extra": ""
   },
   {
-   "id": "hn:50366894",
-   "source": "hn",
-   "title": "Show HN: An Open Source Superhuman Email Client Clone",
-   "url": "https://github.com/michaelmagan/OpenHuman",
-   "published_at": "2026-11-04T15:22:44Z",
-   "extra": "points=3"
-  },
-  {
-   "id": "hn:50363115",
-   "source": "hn",
-   "title": "Show HN: Hormuz Signal – Iran war escalation risk from real data",
-   "url": "https://www.HormuzSignal.com/",
-   "published_at": "2026-11-04T09:22:38Z",
-   "extra": "points=2"
-  },
-  {
-   "id": "hn:50350736",
-   "source": "hn",
-   "title": "BudHist Benchmark: Testing the Knowledge of Buddhist History in Open-Weight LLMs",
-   "url": "https://mbingenheimer.net/budhistbenchmark/",
-   "published_at": "2026-11-03T11:38:46Z",
-   "extra": "points=1"
-  },
-  {
    "id": "hn:50341581",
    "source": "hn",
    "title": "Ask HN: \"Net neutrality\" for AI compute and memory?",
@@ -27871,67 +27749,11 @@
    "extra": "points=12"
   },
   {
-   "id": "hn:50363461",
-   "source": "hn",
-   "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
-   "url": "https://news.ycombinator.com/item?id=50363461",
-   "published_at": "2026-11-04T10:10:27Z",
-   "extra": "points=365"
-  },
-  {
-   "id": "hn:50359936",
-   "source": "hn",
-   "title": "Show HN: Spooler – a simple, managed message queue",
-   "url": "https://spooler.sh/",
-   "published_at": "2026-11-04T00:02:30Z",
-   "extra": "points=1"
-  },
-  {
-   "id": "hn:50358314",
-   "source": "hn",
-   "title": "Show HN: Kairos – Open-source risk and fraud decisioning platform",
-   "url": "https://github.com/finic-ai/kairos",
-   "published_at": "2026-11-03T21:16:48Z",
-   "extra": "points=52"
-  },
-  {
-   "id": "hn:50354370",
-   "source": "hn",
-   "title": "Show HN: Oathshaper – A BioWare Inspired Open RPG Game Engine",
-   "url": "https://github.com/oathshaper/oathshaper",
-   "published_at": "2026-11-03T16:48:13Z",
-   "extra": "points=1"
-  },
-  {
    "id": "hn:50340083",
    "source": "hn",
    "title": "Show HN: Hanging Context – news by an agent, for other agents",
    "url": "https://hangingcontext.com/",
    "published_at": "2026-11-02T17:16:01Z",
-   "extra": "points=1"
-  },
-  {
-   "id": "hn:50365294",
-   "source": "hn",
-   "title": "Show HN: AutoCua, one prompt drives computer, browser, phones, code at same time",
-   "url": "https://github.com/ComputerUseAgent/AutoCua",
-   "published_at": "2026-11-04T13:32:41Z",
-   "extra": "points=3"
-  },
-  {
-   "id": "hn:50365195",
-   "source": "hn",
-   "title": "Open Source as a Research Method",
-   "url": "https://lemire.me/blog/2026/11/04/open-source-as-a-research-method/",
-   "published_at": "2026-11-04T13:22:51Z",
-   "extra": "points=2"
-  },
-  {
-   "id": "hn:50353601",
-   "source": "hn",
-   "title": "Show HN: I built Knemora – An Open-source AI Second brain",
-   "url": "https://github.com/federicolaterra/knemora",
-   "published_at": "2026-11-03T15:58:06Z",
    "extra": "points=1"
   },
   {
@@ -27973,6 +27795,390 @@
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgii3h/deepseek_engineer_relections_on_rsi_burying_my/",
    "published_at": "2026-09-14T22:38:42+00:00",
    "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/openai-to-acquire-pierre",
+   "source": "openai",
+   "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+   "url": "https://openai.com/index/openai-to-acquire-pierre",
+   "published_at": "2026-11-04T14:30:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/daybreak-red-aws-govcloud",
+   "source": "openai",
+   "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+   "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+   "published_at": "2026-11-04T07:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/accelerating-engineering-for-the-physical-world",
+   "source": "openai",
+   "title": "Accelerating engineering for the physical world",
+   "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+   "published_at": "2026-11-03T12:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/cisco-cyber",
+   "source": "openai",
+   "title": "How Cisco defends at machine speed with OpenAI",
+   "url": "https://openai.com/index/cisco-cyber",
+   "published_at": "2026-11-03T08:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/heimstaden",
+   "source": "openai",
+   "title": "Heimstaden is changing residential real estate management with AI",
+   "url": "https://openai.com/index/heimstaden",
+   "published_at": "2026-11-03T08:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+   "source": "openai",
+   "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+   "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+   "published_at": "2026-11-03T00:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "anthropic:s1-sec",
+   "source": "anthropic",
+   "title": "S1 Sec",
+   "url": "https://www.anthropic.com/news/s1-sec",
+   "published_at": null,
+   "extra": ""
+  },
+  {
+   "id": "anthropic:ai-for-science-expands-foundations-research-institutions",
+   "source": "anthropic",
+   "title": "Ai For Science Expands Foundations Research Institutions",
+   "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+   "published_at": null,
+   "extra": ""
+  },
+  {
+   "id": "anthropic:expanding-partnership-gsa",
+   "source": "anthropic",
+   "title": "Expanding Partnership Gsa",
+   "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+   "published_at": null,
+   "extra": ""
+  },
+  {
+   "id": "anthropic:donating-agent-skills-to-the-agentic-ai-foundation",
+   "source": "anthropic",
+   "title": "Donating Agent Skills To The Agentic Ai Foundation",
+   "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+   "published_at": null,
+   "extra": ""
+  },
+  {
+   "id": "anthropic:open-call-guest-investigators-life-sciences",
+   "source": "anthropic",
+   "title": "Open Call Guest Investigators Life Sciences",
+   "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
+   "published_at": null,
+   "extra": ""
+  },
+  {
+   "id": "anthropic:christopher-stubbs-joins-long-term-benefit-trust",
+   "source": "anthropic",
+   "title": "Christopher Stubbs Joins Long Term Benefit Trust",
+   "url": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
+   "published_at": null,
+   "extra": ""
+  },
+  {
+   "id": "anthropic:distillation-defenses",
+   "source": "anthropic",
+   "title": "Distillation Defenses",
+   "url": "https://www.anthropic.com/news/distillation-defenses",
+   "published_at": null,
+   "extra": ""
+  },
+  {
+   "id": "deepseek:news261017",
+   "source": "deepseek",
+   "title": "DeepSeek-V4.1-Flash-1017: Wish-Driven Programming Made Real",
+   "url": "https://api-docs.deepseek.com/news/news261017/",
+   "published_at": null,
+   "extra": ""
+  },
+  {
+   "id": "modelscope:moonshotai/Kimi-K3.1-Pro",
+   "source": "modelscope",
+   "title": "Kimi-K3.1-Pro",
+   "url": "https://modelscope.cn/models/moonshotai/Kimi-K3.1-Pro",
+   "published_at": "2026-11-04T16:02:39+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openrouter:ricursiveai/ripple-65b-preview",
+   "source": "openrouter",
+   "title": "ricursiveAI/Ripple-65B-Preview",
+   "url": "https://openrouter.ai/ricursiveai/ripple-65b-preview",
+   "published_at": "2026-11-04T19:03:10+00:00",
+   "extra": "context=16384"
+  },
+  {
+   "id": "openrouter:tencent/hy4",
+   "source": "openrouter",
+   "title": "Tencent: Hy4",
+   "url": "https://openrouter.ai/tencent/hy4",
+   "published_at": "2026-11-04T04:20:31+00:00",
+   "extra": "context=1048576"
+  },
+  {
+   "id": "openrouter:stealth/crouton-alpha",
+   "source": "openrouter",
+   "title": "Crouton Alpha",
+   "url": "https://openrouter.ai/stealth/crouton-alpha",
+   "published_at": "2026-11-03T01:38:50+00:00",
+   "extra": "context=1048576"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xo18bg/qwen_35ba3b_has_better_reasoning_than_gemma_4_26b",
+   "source": "reddit",
+   "title": "Qwen 35B-A3B has better reasoning than gemma 4 26B A4B. Is there anything better (with that speed ans size and activated parameters)?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xo18bg/qwen_35ba3b_has_better_reasoning_than_gemma_4_26b/",
+   "published_at": "2026-11-04T21:58:44+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xnztmc/what_inference_engine_do_you_use",
+   "source": "reddit",
+   "title": "What inference engine do you use",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnztmc/what_inference_engine_do_you_use/",
+   "published_at": "2026-11-04T21:02:41+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xnxsdd/custom_engine_epidemic_an_idea_on_how_anyone",
+   "source": "reddit",
+   "title": "Custom engine epidemic: an idea on how anyone could benefit (or how to gently stop it)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnxsdd/custom_engine_epidemic_an_idea_on_how_anyone/",
+   "published_at": "2026-11-04T19:43:13+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xnxgph/rtx_3090_stuck_at_pcie_x8_in_an_x16_slot_tried",
+   "source": "reddit",
+   "title": "RTX 3090 stuck at PCIe x8 in an x16 slot. Tried everything, card or board?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnxgph/rtx_3090_stuck_at_pcie_x8_in_an_x16_slot_tried/",
+   "published_at": "2026-11-04T19:30:47+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xnx3cs/ricursiveairipple65bpreview_hugging_face",
+   "source": "reddit",
+   "title": "ricursiveAI/Ripple-65B-Preview · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnx3cs/ricursiveairipple65bpreview_hugging_face/",
+   "published_at": "2026-11-04T19:16:16+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xnw1s5/as_of_november_2026_what_is_the_best_harness_for",
+   "source": "reddit",
+   "title": "As of November 2026, what is the best harness for doing long autonomous coding tasks, ones that have full loop of dev/test/update etc cycles, things that might take days+ to complete?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnw1s5/as_of_november_2026_what_is_the_best_harness_for/",
+   "published_at": "2026-11-04T18:36:12+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xnvbxn/new_qwen38flashnext_unsloth_dynamic_v31_ggufs",
+   "source": "reddit",
+   "title": "New Qwen3.8-Flash-Next Unsloth Dynamic V3.1 GGUFs",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnvbxn/new_qwen38flashnext_unsloth_dynamic_v31_ggufs/",
+   "published_at": "2026-11-04T18:08:58+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xnv93y/dory_nvidias_looped_transformer",
+   "source": "reddit",
+   "title": "Dory - NVIDIA's Looped Transformer",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnv93y/dory_nvidias_looped_transformer/",
+   "published_at": "2026-11-04T18:05:56+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xnv3s3/glm_53_flashmayas24_42_toks_on_8x_rtx_3060",
+   "source": "reddit",
+   "title": "GLM 5.3 flash(Maya-S24) 42 tok/s on 8x rtx 3060 clustered over 2x x79 ud3 mobo",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnv3s3/glm_53_flashmayas24_42_toks_on_8x_rtx_3060/",
+   "published_at": "2026-11-04T18:00:23+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xnuva2/unsloth_qwen38flashnext_ggufs_v31_update_november",
+   "source": "reddit",
+   "title": "Unsloth Qwen3.8-Flash-Next GGUFs V3.1 Update (November 4th 2026)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnuva2/unsloth_qwen38flashnext_ggufs_v31_update_november/",
+   "published_at": "2026-11-04T17:51:33+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xnutr6/qwen_38_flash_next_gsq_rco_quant_as_good_as_bf16",
+   "source": "reddit",
+   "title": "Qwen 3.8 Flash Next GSQ RCO quant as good as BF16",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnutr6/qwen_38_flash_next_gsq_rco_quant_as_good_as_bf16/",
+   "published_at": "2026-11-04T17:50:03+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xnuauq/ssd_streaming",
+   "source": "reddit",
+   "title": "SSD Streaming",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnuauq/ssd_streaming/",
+   "published_at": "2026-11-04T17:30:42+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xnu74b/testing_whether_speaker_labels_survive_a_17minute",
+   "source": "reddit",
+   "title": "Testing whether speaker labels survive a 17-minute gap in a public meeting",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnu74b/testing_whether_speaker_labels_survive_a_17minute/",
+   "published_at": "2026-11-04T17:26:58+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xnu6y1/kimi_k31_is_likely_benchmaxxed_with_some_proof",
+   "source": "reddit",
+   "title": "Kimi K3.1 is likely benchmaxxed (with some proof)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnu6y1/kimi_k31_is_likely_benchmaxxed_with_some_proof/",
+   "published_at": "2026-11-04T17:26:47+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xnu6ri/just_got_my_mac_mini_m6_32gb_first_steps",
+   "source": "reddit",
+   "title": "Just got my Mac Mini M6 32GB. First steps?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnu6ri/just_got_my_mac_mini_m6_32gb_first_steps/",
+   "published_at": "2026-11-04T17:26:36+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xnu36y/2x_rtx_5090_vs_2x_rtx_pro_6000_vs_2x_rtx_pro_6000",
+   "source": "reddit",
+   "title": "2x RTX 5090 vs 2x RTX PRO 6000 vs 2x RTX PRO 6000 Max-Q",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnu36y/2x_rtx_5090_vs_2x_rtx_pro_6000_vs_2x_rtx_pro_6000/",
+   "published_at": "2026-11-04T17:22:39+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xntou1/lfm3omni2b_running_fully_offline_on_my_iphone_18",
+   "source": "reddit",
+   "title": "LFM3-Omni-2B running fully offline on my iPhone 18 Pro Max at ~80 tok/s, powered by custom WebGPU kernels in a React Native app.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xntou1/lfm3omni2b_running_fully_offline_on_my_iphone_18/",
+   "published_at": "2026-11-04T17:08:06+00:00",
+   "extra": ""
+  },
+  {
+   "id": "hn:50369925",
+   "source": "hn",
+   "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+   "url": "https://www.ricursive.com/ripple",
+   "published_at": "2026-11-04T18:53:29Z",
+   "extra": "points=147"
+  },
+  {
+   "id": "hn:50369618",
+   "source": "hn",
+   "title": "Ripple-65B Preview: Ricursive Intelligence's Open-Weight American SOTA Model",
+   "url": "https://twitter.com/RicursiveAI/status/2118046765857546733",
+   "published_at": "2026-11-04T18:30:20Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:50366894",
+   "source": "hn",
+   "title": "Show HN: An Open Source Superhuman Email Client Clone",
+   "url": "https://github.com/michaelmagan/OpenHuman",
+   "published_at": "2026-11-04T15:22:44Z",
+   "extra": "points=3"
+  },
+  {
+   "id": "hn:50363115",
+   "source": "hn",
+   "title": "Show HN: Hormuz Signal – Iran war escalation risk from real data",
+   "url": "https://www.HormuzSignal.com/",
+   "published_at": "2026-11-04T09:22:38Z",
+   "extra": "points=2"
+  },
+  {
+   "id": "hn:50354370",
+   "source": "hn",
+   "title": "Show HN: Oathshaper – A BioWare Inspired Open RPG Game Engine",
+   "url": "https://github.com/oathshaper/oathshaper",
+   "published_at": "2026-11-03T16:48:13Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:50350736",
+   "source": "hn",
+   "title": "BudHist Benchmark: Testing the Knowledge of Buddhist History in Open-Weight LLMs",
+   "url": "https://mbingenheimer.net/budhistbenchmark/",
+   "published_at": "2026-11-03T11:38:46Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:50371090",
+   "source": "hn",
+   "title": "Show HN: Gauge – Open-Source CLI to recursively improve your docs",
+   "url": "https://github.com/gauge-sh/gauge-cli",
+   "published_at": "2026-11-04T20:31:30Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:50363461",
+   "source": "hn",
+   "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+   "url": "https://news.ycombinator.com/item?id=50363461",
+   "published_at": "2026-11-04T10:10:27Z",
+   "extra": "points=365"
+  },
+  {
+   "id": "hn:50359936",
+   "source": "hn",
+   "title": "Show HN: Spooler – a simple, managed message queue",
+   "url": "https://spooler.sh/",
+   "published_at": "2026-11-04T00:02:30Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:50358314",
+   "source": "hn",
+   "title": "Show HN: Kairos – Open-source risk and fraud decisioning platform",
+   "url": "https://github.com/finic-ai/kairos",
+   "published_at": "2026-11-03T21:16:48Z",
+   "extra": "points=52"
+  },
+  {
+   "id": "hn:50368035",
+   "source": "hn",
+   "title": "Show HN: ScreenGuard – Open-source digital wellbeing and app limits for Linux",
+   "url": "https://github.com/adityakrishnan005-a11y/ScreenGuard",
+   "published_at": "2026-11-04T16:33:54Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:50365294",
+   "source": "hn",
+   "title": "Show HN: AutoCua, one prompt drives computer, browser, phones, code at same time",
+   "url": "https://github.com/ComputerUseAgent/AutoCua",
+   "published_at": "2026-11-04T13:32:41Z",
+   "extra": "points=3"
+  },
+  {
+   "id": "hn:50365195",
+   "source": "hn",
+   "title": "Open Source as a Research Method",
+   "url": "https://lemire.me/blog/2026/11/04/open-source-as-a-research-method/",
+   "published_at": "2026-11-04T13:22:51Z",
+   "extra": "points=2"
   }
  ],
  "pending_push": [
@@ -39625,6 +39831,126 @@
    "extra": "points=2",
    "event_type": "release",
    "summary": "Show HN: Swarm World – local LLM creatures living in a little tile world"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xo1a7b/github_w61k3rlexisuitereleases_does_qwen_and",
+   "source": "reddit",
+   "title": "GitHub - W61k3r/LexiSuite-Releases: does qwen and gemma ok.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xo1a7b/github_w61k3rlexisuitereleases_does_qwen_and/",
+   "published_at": "2026-11-04T22:00:43+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "GitHub - W61k3r/LexiSuite-Releases: does qwen and gemma ok."
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xo07dd/is_finetuning_dead_is_making_a_big_model_like",
+   "source": "reddit",
+   "title": "Is fine-tuning dead? is making a big model (like astra) edit weights of a small model the new meta?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xo07dd/is_finetuning_dead_is_making_a_big_model_like/",
+   "published_at": "2026-11-04T21:17:12+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "Is fine-tuning dead? is making a big model (like astra) edit weights of a small model the new meta?"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xnzynf/auroraimg2100m_releases",
+   "source": "reddit",
+   "title": "AuroraIMG2-100M Releases!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnzynf/auroraimg2100m_releases/",
+   "published_at": "2026-11-04T21:07:51+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "AuroraIMG2-100M Releases!"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xnzo38/qwen38_27b_q4_on_my_lowend_laptop_and_it_became",
+   "source": "reddit",
+   "title": "Qwen3.8 27B Q4 on my low-end Laptop, and it became my main Model usage for coding",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnzo38/qwen38_27b_q4_on_my_lowend_laptop_and_it_became/",
+   "published_at": "2026-11-04T20:56:55+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "Qwen3.8 27B Q4 on my low-end Laptop, and it became my main Model usage for coding"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xnz8ct/deepseek_alone_accounted_for_53_of_all_27",
+   "source": "reddit",
+   "title": "Deepseek alone accounted for 53% of all (27 trillion) tokens on Openrouter yesterday. Open-weights labs totaling over 75% now",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnz8ct/deepseek_alone_accounted_for_53_of_all_27/",
+   "published_at": "2026-11-04T20:39:28+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "Deepseek alone accounted for 53% of all (27 trillion) tokens on Openrouter yesterday. Open-weights labs totaling over 75% now"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xnxrh2/what_do_you_guys_do_all_day_with_these_ai_models",
+   "source": "reddit",
+   "title": "What do you guys do all day with these AI models",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnxrh2/what_do_you_guys_do_all_day_with_these_ai_models/",
+   "published_at": "2026-11-04T19:42:17+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "What do you guys do all day with these AI models"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xnu9iv/rust_inference_engine_for_qwen_models_on_a_12_gb",
+   "source": "reddit",
+   "title": "Rust inference engine for Qwen models on a 12 GB GPU, and it runs Qwen3.8-Flash-Next faster than the original Strata",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnu9iv/rust_inference_engine_for_qwen_models_on_a_12_gb/",
+   "published_at": "2026-11-04T17:29:24+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "Rust inference engine for Qwen models on a 12 GB GPU, and it runs Qwen3.8-Flash-Next faster than the original Strata"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xntjsf/to_those_that_used_the_api_over_the_last_few",
+   "source": "reddit",
+   "title": "To those that used the API over the last few weeks - where does Kimi-K3.1-Pro land amongst closed weight LLMs?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xntjsf/to_those_that_used_the_api_over_the_last_few/",
+   "published_at": "2026-11-04T17:03:01+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "To those that used the API over the last few weeks - where does Kimi-K3.1-Pro land amongst closed weight LLMs?"
+  },
+  {
+   "id": "hn:50371272",
+   "source": "hn",
+   "title": "Verne V0.5: U.S. Open-Weight SOTA Robotics Foundation Model",
+   "url": "https://vernerobotics.com/research/verne-v0-5",
+   "published_at": "2026-11-04T20:47:24Z",
+   "extra": "points=5",
+   "event_type": "release",
+   "summary": "Verne V0.5: U.S. Open-Weight SOTA Robotics Foundation Model"
+  },
+  {
+   "id": "hn:50368208",
+   "source": "hn",
+   "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
+   "url": "https://www.linum.ai/field-notes/pjit-21k",
+   "published_at": "2026-11-04T16:45:11Z",
+   "extra": "points=2",
+   "event_type": "release",
+   "summary": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)"
+  },
+  {
+   "id": "hn:50368804",
+   "source": "hn",
+   "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
+   "url": "https://news.ycombinator.com/item?id=50368804",
+   "published_at": "2026-11-04T17:31:53Z",
+   "extra": "points=53",
+   "event_type": "release",
+   "summary": "Launch HN: Kino AI (YC S23) – AI media manager and video editor"
+  },
+  {
+   "id": "hn:50369623",
+   "source": "hn",
+   "title": "Open-source LLM Firewall with reversible PII scrubbing and FinOps routing",
+   "url": "https://github.com/67spp/sentinsentinel-ai-gateway",
+   "published_at": "2026-11-04T18:30:45Z",
+   "extra": "points=1",
+   "event_type": "release",
+   "summary": "Open-source LLM Firewall with reversible PII scrubbing and FinOps routing"
   }
  ]
 }
