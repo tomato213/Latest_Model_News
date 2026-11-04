@@ -3710,65 +3710,16 @@
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xmvn4q/four_open_coding_models_prompted_to_finish_an": "2026-11-03T20:55:36.288536+00:00",
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xmv3lc/qwen352b_at_620_toks_inside_chrome_modelspecific": "2026-11-03T20:55:36.288536+00:00",
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xmupji/were_building_a_way_for_ai_agents_to_share": "2026-11-03T20:55:36.288536+00:00",
-  "hn:50354629": "2026-11-03T20:55:36.288536+00:00"
+  "hn:50354629": "2026-11-03T20:55:36.288536+00:00",
+  "openai:https://openai.com/index/qodo-codex-plugin": "2026-11-04T01:14:43.724797+00:00",
+  "openai:https://openai.com/index/dan-driscoll-joins-openai": "2026-11-04T01:14:43.724797+00:00",
+  "openai:https://openai.com/ads/customers/evernote": "2026-11-04T01:14:43.724797+00:00",
+  "hn:50330585": "2026-11-04T01:14:43.724797+00:00",
+  "hn:50330601": "2026-11-04T01:14:43.724797+00:00",
+  "hn:50330213": "2026-11-04T01:14:43.724797+00:00",
+  "hn:50358078": "2026-11-04T01:14:44.124891+00:00"
  },
  "pending": [
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x5tsni/inclusionailing31flash_hugging_face",
-   "source": "reddit",
-   "title": "inclusionAI/Ling-3.1-flash · Hugging Face",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5tsni/inclusionailing31flash_hugging_face/",
-   "published_at": "2026-10-14T15:11:14+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x5skta/cuda_hip_gdn_chunked_kernel_by_am17an_pull",
-   "source": "reddit",
-   "title": "cuda, hip: GDN chunked kernel by am17an · Pull Request #29353 · ggml-org/llama.cpp",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5skta/cuda_hip_gdn_chunked_kernel_by_am17an_pull/",
-   "published_at": "2026-10-14T14:23:13+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x5qd8l/rumor_is_that_zen_6_will_replace_the_igpu_with_an",
-   "source": "reddit",
-   "title": "Rumor is that Zen 6 will replace the iGPU with an NPU on desktop processors",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5qd8l/rumor_is_that_zen_6_will_replace_the_igpu_with_an/",
-   "published_at": "2026-10-14T12:50:01+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x5p822/qfn_q_2_strata_configs_for_8gb_vram_and_32gb_ram",
-   "source": "reddit",
-   "title": "QFN Q_2 strata configs for 8gb vram and 32gb ram. 36 tps | 340 prefill 176128 context.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5p822/qfn_q_2_strata_configs_for_8gb_vram_and_32gb_ram/",
-   "published_at": "2026-10-14T11:54:40+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x5oy54/best_open_sourced_computer_use_alternative",
-   "source": "reddit",
-   "title": "Best open sourced computer use alternative",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5oy54/best_open_sourced_computer_use_alternative/",
-   "published_at": "2026-10-14T11:40:03+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x5odh2/common_add_specdraftnubatch_by_ggerganov_pull",
-   "source": "reddit",
-   "title": "common : add --spec-draft-n-ubatch by ggerganov · Pull Request #30459 · ggml-org/llama.cpp",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5odh2/common_add_specdraftnubatch_by_ggerganov_pull/",
-   "published_at": "2026-10-14T11:08:21+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wvwssq/strata_on_a_power_limited_5090_and_96gb_of",
-   "source": "reddit",
-   "title": "Strata on a power limited 5090 and 96GB of DDR5-6400 is cranking out 150-200 tok/s decode and 5-6k prefill! Qwen3.8-Flash-Next at IQ3_S, CTX at 128k tokens (8-bit).",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvwssq/strata_on_a_power_limited_5090_and_96gb_of/",
-   "published_at": "2026-10-02T15:29:54+00:00",
-   "extra": ""
-  },
   {
    "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wp6loz/why_doent_ai_companies_agree_on_a_single_standard",
    "source": "reddit",
@@ -27186,6 +27137,102 @@
    "extra": ""
   },
   {
+   "id": "openai:https://openai.com/index/dan-driscoll-joins-openai",
+   "source": "openai",
+   "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+   "url": "https://openai.com/index/dan-driscoll-joins-openai",
+   "published_at": "2026-11-02T00:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/qodo-codex-plugin",
+   "source": "openai",
+   "title": "Qodo builds context into AI code review with Codex",
+   "url": "https://openai.com/index/qodo-codex-plugin",
+   "published_at": "2026-11-02T00:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xmv9ju/has_anyone_done_a_indepth_comparison_between",
+   "source": "reddit",
+   "title": "Has anyone done a in-depth comparison between Qwen-3.8 27b @ 8bpw and Qwen-3.8-FN @ 4bpw?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmv9ju/has_anyone_done_a_indepth_comparison_between/",
+   "published_at": "2026-11-03T15:02:08+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xmuwub/two_3060ti_8gb_and_64gb_ddr4_worth_using",
+   "source": "reddit",
+   "title": "Two 3060ti 8gb and 64gb DDR4, worth using?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmuwub/two_3060ti_8gb_and_64gb_ddr4_worth_using/",
+   "published_at": "2026-11-03T14:48:46+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xmumk2/kimi_k331_potential_for_strata_maya",
+   "source": "reddit",
+   "title": "Kimi K3/3.1 potential for Strata/ Maya?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmumk2/kimi_k331_potential_for_strata_maya/",
+   "published_at": "2026-11-03T14:37:42+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xmu0iz/mtmd_add_nemotron_35_transcribe_support_by",
+   "source": "reddit",
+   "title": "mtmd : add Nemotron 3.5 Transcribe support by pskrunner14 · Pull Request #31471 · ggml-org/llama.cpp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmu0iz/mtmd_add_nemotron_35_transcribe_support_by/",
+   "published_at": "2026-11-03T14:13:57+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xmtlm7/balbalv2_turkish_speech_recognition_that_runs_on",
+   "source": "reddit",
+   "title": "balbal-v2: Turkish speech recognition that runs on CPU, 2nd on Mu-Bench TR after Google Chirp 3",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmtlm7/balbalv2_turkish_speech_recognition_that_runs_on/",
+   "published_at": "2026-11-03T13:57:18+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xmtert/httpswwwcrowdgptnet",
+   "source": "reddit",
+   "title": "https://www.crowdgpt.net/",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmtert/httpswwwcrowdgptnet/",
+   "published_at": "2026-11-03T13:49:37+00:00",
+   "extra": ""
+  },
+  {
+   "id": "hn:50330585",
+   "source": "hn",
+   "title": "Avartha: Fastest open-weight frontier voice AI beats OpenAI, Google, and xAI",
+   "url": "https://avartha.ai/blog/introducing-avartha/",
+   "published_at": "2026-11-01T22:28:27Z",
+   "extra": "points=3"
+  },
+  {
+   "id": "hn:50337688",
+   "source": "hn",
+   "title": "Show HN: Slop Node for Keeta",
+   "url": "https://github.com/xescure/slop-node",
+   "published_at": "2026-11-02T14:58:19Z",
+   "extra": "points=2"
+  },
+  {
+   "id": "hn:50330601",
+   "source": "hn",
+   "title": "Show HN: CheckOwners to find your repo's hidden single points of failure",
+   "url": "https://github.com/smusali/checkOwners",
+   "published_at": "2026-11-01T22:29:45Z",
+   "extra": "points=3"
+  },
+  {
+   "id": "hn:50330213",
+   "source": "hn",
+   "title": "Show HN: Nonce – Open-source, least-privilege Gmail access for AI agents",
+   "url": "https://www.anonce.io/",
+   "published_at": "2026-11-01T21:44:21Z",
+   "extra": "points=1"
+  },
+  {
    "id": "openai:https://openai.com/index/accelerating-engineering-for-the-physical-world",
    "source": "openai",
    "title": "Accelerating engineering for the physical world",
@@ -27247,22 +27294,6 @@
    "title": "LifeVal",
    "url": "https://openai.com/index/lifeval",
    "published_at": "2026-11-02T09:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "openai:https://openai.com/index/dan-driscoll-joins-openai",
-   "source": "openai",
-   "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-   "url": "https://openai.com/index/dan-driscoll-joins-openai",
-   "published_at": "2026-11-02T00:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "openai:https://openai.com/index/qodo-codex-plugin",
-   "source": "openai",
-   "title": "Qodo builds context into AI code review with Codex",
-   "url": "https://openai.com/index/qodo-codex-plugin",
-   "published_at": "2026-11-02T00:00:00+00:00",
    "extra": ""
   },
   {
@@ -27344,6 +27375,70 @@
    "url": "https://openrouter.ai/z-ai/glm-5.3-flashx-legal",
    "published_at": "2026-11-02T13:29:14+00:00",
    "extra": "context=1048576"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xnanyh/keeping_up_with_new_inference_engines",
+   "source": "reddit",
+   "title": "Keeping up with new inference engines",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnanyh/keeping_up_with_new_inference_engines/",
+   "published_at": "2026-11-04T00:58:01+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xnajcu/wheres_my_qwen_4",
+   "source": "reddit",
+   "title": "Where's my Qwen 4?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnajcu/wheres_my_qwen_4/",
+   "published_at": "2026-11-04T00:52:06+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xn7rfh/llamacpp_fork_qfn_specific_quant_ultra_specific",
+   "source": "reddit",
+   "title": "[llama.cpp fork]: QFN + [specific quant] + [ultra specific hardware config] = [incredible and irreproducible pp and tg]",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xn7rfh/llamacpp_fork_qfn_specific_quant_ultra_specific/",
+   "published_at": "2026-11-03T22:48:57+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xn7prx/keep_cmp_170_or_sell_for_upgrades",
+   "source": "reddit",
+   "title": "Keep CMP 170 or sell for upgrades?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xn7prx/keep_cmp_170_or_sell_for_upgrades/",
+   "published_at": "2026-11-03T22:47:07+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xn7pi2/how_to_create_an_agent_a_quick_explanation_of",
+   "source": "reddit",
+   "title": "How to create an agent, a quick explanation of eval space",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xn7pi2/how_to_create_an_agent_a_quick_explanation_of/",
+   "published_at": "2026-11-03T22:46:45+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xn78cm/some_trust_me_bro_benchmarks_while_we_prep_the",
+   "source": "reddit",
+   "title": "Some \"trust me bro\" benchmarks while we prep the repo to open-source",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xn78cm/some_trust_me_bro_benchmarks_while_we_prep_the/",
+   "published_at": "2026-11-03T22:27:02+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xn6mm0/gemma4_graph_optimizations_massive_gains_on_pp",
+   "source": "reddit",
+   "title": "gemma4: graph optimizations (massive gains on pp for E2B and E4B) by max-krasnyansky · Pull Request #31356 · ggml-org/llama.cpp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xn6mm0/gemma4_graph_optimizations_massive_gains_on_pp/",
+   "published_at": "2026-11-03T22:02:49+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xn568h/british_fintech_revolut_slashes_ai_coding_costs",
+   "source": "reddit",
+   "title": "British fintech Revolut slashes AI coding costs 10x by cutting out Claude and going self-hosted",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xn568h/british_fintech_revolut_slashes_ai_coding_costs/",
+   "published_at": "2026-11-03T21:05:30+00:00",
+   "extra": ""
   },
   {
    "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xn4qn1/basalt_020_qwen_38_flash_next_nvfp4_300_ts_prose",
@@ -27458,54 +27553,6 @@
    "extra": ""
   },
   {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xmv9ju/has_anyone_done_a_indepth_comparison_between",
-   "source": "reddit",
-   "title": "Has anyone done a in-depth comparison between Qwen-3.8 27b @ 8bpw and Qwen-3.8-FN @ 4bpw?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmv9ju/has_anyone_done_a_indepth_comparison_between/",
-   "published_at": "2026-11-03T15:02:08+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xmuwub/two_3060ti_8gb_and_64gb_ddr4_worth_using",
-   "source": "reddit",
-   "title": "Two 3060ti 8gb and 64gb DDR4, worth using?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmuwub/two_3060ti_8gb_and_64gb_ddr4_worth_using/",
-   "published_at": "2026-11-03T14:48:46+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xmumk2/kimi_k331_potential_for_strata_maya",
-   "source": "reddit",
-   "title": "Kimi K3/3.1 potential for Strata/ Maya?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmumk2/kimi_k331_potential_for_strata_maya/",
-   "published_at": "2026-11-03T14:37:42+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xmu0iz/mtmd_add_nemotron_35_transcribe_support_by",
-   "source": "reddit",
-   "title": "mtmd : add Nemotron 3.5 Transcribe support by pskrunner14 · Pull Request #31471 · ggml-org/llama.cpp",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmu0iz/mtmd_add_nemotron_35_transcribe_support_by/",
-   "published_at": "2026-11-03T14:13:57+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xmtlm7/balbalv2_turkish_speech_recognition_that_runs_on",
-   "source": "reddit",
-   "title": "balbal-v2: Turkish speech recognition that runs on CPU, 2nd on Mu-Bench TR after Google Chirp 3",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmtlm7/balbalv2_turkish_speech_recognition_that_runs_on/",
-   "published_at": "2026-11-03T13:57:18+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xmtert/httpswwwcrowdgptnet",
-   "source": "reddit",
-   "title": "https://www.crowdgpt.net/",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmtert/httpswwwcrowdgptnet/",
-   "published_at": "2026-11-03T13:49:37+00:00",
-   "extra": ""
-  },
-  {
    "id": "hn:50354370",
    "source": "hn",
    "title": "Show HN: Oathshaper – A BioWare Inspired Open RPG Game Engine",
@@ -27546,20 +27593,20 @@
    "extra": "points=12"
   },
   {
-   "id": "hn:50330585",
+   "id": "hn:50359936",
    "source": "hn",
-   "title": "Avartha: Fastest open-weight frontier voice AI beats OpenAI, Google, and xAI",
-   "url": "https://avartha.ai/blog/introducing-avartha/",
-   "published_at": "2026-11-01T22:28:27Z",
-   "extra": "points=3"
+   "title": "Show HN: Spooler – a simple, managed message queue",
+   "url": "https://spooler.sh/",
+   "published_at": "2026-11-04T00:02:30Z",
+   "extra": "points=1"
   },
   {
-   "id": "hn:50341649",
+   "id": "hn:50358314",
    "source": "hn",
-   "title": "Show HN: Mago, an open source AI video studio, runs locally with Comfy",
-   "url": "https://github.com/MagoStudio/MagoStudio",
-   "published_at": "2026-11-02T18:49:44Z",
-   "extra": "points=1"
+   "title": "Show HN: Kairos – Open-source risk and fraud decisioning platform",
+   "url": "https://github.com/finic-ai/kairos",
+   "published_at": "2026-11-03T21:16:48Z",
+   "extra": "points=52"
   },
   {
    "id": "hn:50340083",
@@ -27568,14 +27615,6 @@
    "url": "https://hangingcontext.com/",
    "published_at": "2026-11-02T17:16:01Z",
    "extra": "points=1"
-  },
-  {
-   "id": "hn:50337688",
-   "source": "hn",
-   "title": "Show HN: Slop Node for Keeta",
-   "url": "https://github.com/xescure/slop-node",
-   "published_at": "2026-11-02T14:58:19Z",
-   "extra": "points=2"
   },
   {
    "id": "hn:50337394",
@@ -27594,6 +27633,14 @@
    "extra": "points=1"
   },
   {
+   "id": "hn:50341649",
+   "source": "hn",
+   "title": "Show HN: Mago, an open source AI video studio, runs locally with Comfy",
+   "url": "https://github.com/MagoStudio/MagoStudio",
+   "published_at": "2026-11-02T18:49:44Z",
+   "extra": "points=1"
+  },
+  {
    "id": "hn:50339547",
    "source": "hn",
    "title": "Show HN: Open-source, Lightroom Alternative RAW editor made by photographer",
@@ -27602,20 +27649,60 @@
    "extra": "points=1"
   },
   {
-   "id": "hn:50330601",
-   "source": "hn",
-   "title": "Show HN: CheckOwners to find your repo's hidden single points of failure",
-   "url": "https://github.com/smusali/checkOwners",
-   "published_at": "2026-11-01T22:29:45Z",
-   "extra": "points=3"
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x5tsni/inclusionailing31flash_hugging_face",
+   "source": "reddit",
+   "title": "inclusionAI/Ling-3.1-flash · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5tsni/inclusionailing31flash_hugging_face/",
+   "published_at": "2026-10-14T15:11:14+00:00",
+   "extra": ""
   },
   {
-   "id": "hn:50330213",
-   "source": "hn",
-   "title": "Show HN: Nonce – Open-source, least-privilege Gmail access for AI agents",
-   "url": "https://www.anonce.io/",
-   "published_at": "2026-11-01T21:44:21Z",
-   "extra": "points=1"
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x5skta/cuda_hip_gdn_chunked_kernel_by_am17an_pull",
+   "source": "reddit",
+   "title": "cuda, hip: GDN chunked kernel by am17an · Pull Request #29353 · ggml-org/llama.cpp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5skta/cuda_hip_gdn_chunked_kernel_by_am17an_pull/",
+   "published_at": "2026-10-14T14:23:13+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x5qd8l/rumor_is_that_zen_6_will_replace_the_igpu_with_an",
+   "source": "reddit",
+   "title": "Rumor is that Zen 6 will replace the iGPU with an NPU on desktop processors",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5qd8l/rumor_is_that_zen_6_will_replace_the_igpu_with_an/",
+   "published_at": "2026-10-14T12:50:01+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x5p822/qfn_q_2_strata_configs_for_8gb_vram_and_32gb_ram",
+   "source": "reddit",
+   "title": "QFN Q_2 strata configs for 8gb vram and 32gb ram. 36 tps | 340 prefill 176128 context.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5p822/qfn_q_2_strata_configs_for_8gb_vram_and_32gb_ram/",
+   "published_at": "2026-10-14T11:54:40+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x5oy54/best_open_sourced_computer_use_alternative",
+   "source": "reddit",
+   "title": "Best open sourced computer use alternative",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5oy54/best_open_sourced_computer_use_alternative/",
+   "published_at": "2026-10-14T11:40:03+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x5odh2/common_add_specdraftnubatch_by_ggerganov_pull",
+   "source": "reddit",
+   "title": "common : add --spec-draft-n-ubatch by ggerganov · Pull Request #30459 · ggml-org/llama.cpp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5odh2/common_add_specdraftnubatch_by_ggerganov_pull/",
+   "published_at": "2026-10-14T11:08:21+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wvwssq/strata_on_a_power_limited_5090_and_96gb_of",
+   "source": "reddit",
+   "title": "Strata on a power limited 5090 and 96GB of DDR5-6400 is cranking out 150-200 tok/s decode and 5-6k prefill! Qwen3.8-Flash-Next at IQ3_S, CTX at 128k tokens (8-bit).",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvwssq/strata_on_a_power_limited_5090_and_96gb_of/",
+   "published_at": "2026-10-02T15:29:54+00:00",
+   "extra": ""
   }
  ],
  "pending_push": [
@@ -39168,6 +39255,16 @@
    "extra": "points=2",
    "event_type": "release",
    "summary": "Revolut Cuts A.I. Coding Costs 90% with a Chinese Open-Weight Model"
+  },
+  {
+   "id": "hn:50358078",
+   "source": "hn",
+   "title": "Revolut swaps Claude for GLM open-weight model, cutting AI coding bill by 90%",
+   "url": "https://dealroom.co/news/169124-revolut-swaps-claude-code-for-a-chinese-open-weight-model-cutting-its-ai/",
+   "published_at": "2026-11-03T20:57:15Z",
+   "extra": "points=10",
+   "event_type": "release",
+   "summary": "Revolut swaps Claude for GLM open-weight model, cutting AI coding bill by 90%"
   }
  ]
 }
