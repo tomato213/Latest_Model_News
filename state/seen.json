@@ -3717,33 +3717,14 @@
   "hn:50330585": "2026-11-04T01:14:43.724797+00:00",
   "hn:50330601": "2026-11-04T01:14:43.724797+00:00",
   "hn:50330213": "2026-11-04T01:14:43.724797+00:00",
-  "hn:50358078": "2026-11-04T01:14:44.124891+00:00"
+  "hn:50358078": "2026-11-04T01:14:44.124891+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xnhzbz/introducing_hy4_open_weights_soon": "2026-11-04T07:57:46.860535+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xnhq66/revolut_sidelines_claude_code_for_a_selfhosted": "2026-11-04T07:57:46.860535+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xngb2i/comfyui_v0440_released": "2026-11-04T07:57:46.860535+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xng029/ai_agent_task_performance_of_small_llm_models_4b": "2026-11-04T07:57:46.860535+00:00",
+  "hn:50362031": "2026-11-04T07:57:46.860535+00:00"
  },
  "pending": [
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wp6loz/why_doent_ai_companies_agree_on_a_single_standard",
-   "source": "reddit",
-   "title": "Why doen't AI companies agree on a single standard?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wp6loz/why_doent_ai_companies_agree_on_a_single_standard/",
-   "published_at": "2026-09-24T16:38:34+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wgpnah/gpu_mix_nvidia_and_amd_with_vulkan_benchmarks",
-   "source": "reddit",
-   "title": "GPU Mix - Nvidia and AMD with Vulkan benchmarks",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgpnah/gpu_mix_nvidia_and_amd_with_vulkan_benchmarks/",
-   "published_at": "2026-09-15T04:03:02+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wgm5dg/what_are_opensource_views_on_slowing_down_ai",
-   "source": "reddit",
-   "title": "What are Open-Source Views on 'Slowing Down AI'?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgm5dg/what_are_opensource_views_on_slowing_down_ai/",
-   "published_at": "2026-09-15T01:17:12+00:00",
-   "extra": ""
-  },
   {
    "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wgjg9a/i_think_muse_glimmer_is_slept_on",
    "source": "reddit",
@@ -27233,6 +27214,134 @@
    "extra": "points=1"
   },
   {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xnajcu/wheres_my_qwen_4",
+   "source": "reddit",
+   "title": "Where's my Qwen 4?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnajcu/wheres_my_qwen_4/",
+   "published_at": "2026-11-04T00:52:06+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xn12rf/5_approaches_to_managing_memory_and_context_in_ai",
+   "source": "reddit",
+   "title": "5 approaches to managing memory and context in AI agents (and why bigger context windows don't solve everything)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xn12rf/5_approaches_to_managing_memory_and_context_in_ai/",
+   "published_at": "2026-11-03T18:34:38+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xn11wd/i_compared_4_decisionmodel_leaderboards",
+   "source": "reddit",
+   "title": "I compared 4 decision-model leaderboards. Fine-tuning beats size under 5B, Arabic collapses below 1B, and the leaderboards don’t agree on #1 [OC]",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xn11wd/i_compared_4_decisionmodel_leaderboards/",
+   "published_at": "2026-11-03T18:33:47+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xmzo2s/261103526_library_of_layers_lol_adaptively",
+   "source": "reddit",
+   "title": "[2611.03526] Library of Layers (LoL): Adaptively Ordering Transformer Layers at Runtime",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmzo2s/261103526_library_of_layers_lol_adaptively/",
+   "published_at": "2026-11-03T17:44:41+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xmze1m/how_did_you_get_better_at_building_agentic",
+   "source": "reddit",
+   "title": "How did you get better at building agentic systems? What helped most?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmze1m/how_did_you_get_better_at_building_agentic/",
+   "published_at": "2026-11-03T17:34:27+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xmyji8/can_qwen_directly_control_the_robot_as_well_as",
+   "source": "reddit",
+   "title": "“Can Qwen directly control the robot as well as GPT-6 Astra?”",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmyji8/can_qwen_directly_control_the_robot_as_well_as/",
+   "published_at": "2026-11-03T17:03:57+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xmxrfi/black_friday_coming_up_best_costeffective_rig_for",
+   "source": "reddit",
+   "title": "Black Friday coming up, best cost-effective rig for local inference?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmxrfi/black_friday_coming_up_best_costeffective_rig_for/",
+   "published_at": "2026-11-03T16:35:14+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xmxr1q/claude_code_enjoyer_wanting_to_go_local_what",
+   "source": "reddit",
+   "title": "Claude Code enjoyer wanting to go local. What would your newbie harness of choice be?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmxr1q/claude_code_enjoyer_wanting_to_go_local_what/",
+   "published_at": "2026-11-03T16:34:52+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xmwryg/were_the_product_team_at_reflection_the_lab",
+   "source": "reddit",
+   "title": "We’re the product team at Reflection, the lab behind Beam — Ask Us Anything!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmwryg/were_the_product_team_at_reflection_the_lab/",
+   "published_at": "2026-11-03T15:59:20+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x5tsni/inclusionailing31flash_hugging_face",
+   "source": "reddit",
+   "title": "inclusionAI/Ling-3.1-flash · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5tsni/inclusionailing31flash_hugging_face/",
+   "published_at": "2026-10-14T15:11:14+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x5skta/cuda_hip_gdn_chunked_kernel_by_am17an_pull",
+   "source": "reddit",
+   "title": "cuda, hip: GDN chunked kernel by am17an · Pull Request #29353 · ggml-org/llama.cpp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5skta/cuda_hip_gdn_chunked_kernel_by_am17an_pull/",
+   "published_at": "2026-10-14T14:23:13+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x5qd8l/rumor_is_that_zen_6_will_replace_the_igpu_with_an",
+   "source": "reddit",
+   "title": "Rumor is that Zen 6 will replace the iGPU with an NPU on desktop processors",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5qd8l/rumor_is_that_zen_6_will_replace_the_igpu_with_an/",
+   "published_at": "2026-10-14T12:50:01+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x5p822/qfn_q_2_strata_configs_for_8gb_vram_and_32gb_ram",
+   "source": "reddit",
+   "title": "QFN Q_2 strata configs for 8gb vram and 32gb ram. 36 tps | 340 prefill 176128 context.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5p822/qfn_q_2_strata_configs_for_8gb_vram_and_32gb_ram/",
+   "published_at": "2026-10-14T11:54:40+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x5oy54/best_open_sourced_computer_use_alternative",
+   "source": "reddit",
+   "title": "Best open sourced computer use alternative",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5oy54/best_open_sourced_computer_use_alternative/",
+   "published_at": "2026-10-14T11:40:03+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x5odh2/common_add_specdraftnubatch_by_ggerganov_pull",
+   "source": "reddit",
+   "title": "common : add --spec-draft-n-ubatch by ggerganov · Pull Request #30459 · ggml-org/llama.cpp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5odh2/common_add_specdraftnubatch_by_ggerganov_pull/",
+   "published_at": "2026-10-14T11:08:21+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wvwssq/strata_on_a_power_limited_5090_and_96gb_of",
+   "source": "reddit",
+   "title": "Strata on a power limited 5090 and 96GB of DDR5-6400 is cranking out 150-200 tok/s decode and 5-6k prefill! Qwen3.8-Flash-Next at IQ3_S, CTX at 128k tokens (8-bit).",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvwssq/strata_on_a_power_limited_5090_and_96gb_of/",
+   "published_at": "2026-10-02T15:29:54+00:00",
+   "extra": ""
+  },
+  {
    "id": "openai:https://openai.com/index/accelerating-engineering-for-the-physical-world",
    "source": "openai",
    "title": "Accelerating engineering for the physical world",
@@ -27273,18 +27382,18 @@
    "extra": ""
   },
   {
-   "id": "openai:https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-   "source": "openai",
-   "title": "Rewarding defenders with bigger bug bounties",
-   "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-   "published_at": "2026-11-02T18:00:00+00:00",
-   "extra": ""
-  },
-  {
    "id": "openai:https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
    "source": "openai",
    "title": "Preparing our next security sprint to harden OpenAI",
    "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+   "published_at": "2026-11-02T18:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+   "source": "openai",
+   "title": "Rewarding defenders with bigger bug bounties",
+   "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
    "published_at": "2026-11-02T18:00:00+00:00",
    "extra": ""
   },
@@ -27361,6 +27470,14 @@
    "extra": ""
   },
   {
+   "id": "openrouter:tencent/hy4",
+   "source": "openrouter",
+   "title": "Tencent: Hy4",
+   "url": "https://openrouter.ai/tencent/hy4",
+   "published_at": "2026-11-04T04:20:31+00:00",
+   "extra": "context=1048576"
+  },
+  {
    "id": "openrouter:stealth/crouton-alpha",
    "source": "openrouter",
    "title": "Crouton Alpha",
@@ -27377,19 +27494,67 @@
    "extra": "context=1048576"
   },
   {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xnibe1/4x_rtx_3090_3x_rtx_3060_for_local_inference_long",
+   "source": "reddit",
+   "title": "4x RTX 3090 + 3x RTX 3060 for local inference long term - EPYC, Threadripper or my existing X570?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnibe1/4x_rtx_3090_3x_rtx_3060_for_local_inference_long/",
+   "published_at": "2026-11-04T07:44:34+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xnfzky/b70_price_increase_incoming_intel_might",
+   "source": "reddit",
+   "title": "B70 Price Increase Incoming --> Intel Might Discontinue the Arc B580 to Prioritize Higher-Margin Arc Pro Cards",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnfzky/b70_price_increase_incoming_intel_might/",
+   "published_at": "2026-11-04T05:25:56+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xnfz48/llm_decompilation_benchmark",
+   "source": "reddit",
+   "title": "LLM Decompilation Benchmark?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnfz48/llm_decompilation_benchmark/",
+   "published_at": "2026-11-04T05:25:12+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xnervh/deepprinciplehydrogen10_hugging_face",
+   "source": "reddit",
+   "title": "deep-principle/Hydrogen-1.0 · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnervh/deepprinciplehydrogen10_hugging_face/",
+   "published_at": "2026-11-04T04:21:10+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xndmc6/project_oneiros_continuous_lie_group_sequence",
+   "source": "reddit",
+   "title": "Project Oneiros: Continuous Lie Group Sequence Processing",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xndmc6/project_oneiros_continuous_lie_group_sequence/",
+   "published_at": "2026-11-04T03:21:47+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xnct4r/3x3090s_with_qwen38_flash_next_with_pcie_gen4_1x",
+   "source": "reddit",
+   "title": "3x3090s with Qwen3.8 Flash Next with PCIe Gen4 1x speeds",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnct4r/3x3090s_with_qwen38_flash_next_with_pcie_gen4_1x/",
+   "published_at": "2026-11-04T02:41:20+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xncfr9/do_the_results_of_the_midterm_elections_influence",
+   "source": "reddit",
+   "title": "Do the results of the midterm elections influence anything within the local AI scene, whether hardware, laws, etc.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xncfr9/do_the_results_of_the_midterm_elections_influence/",
+   "published_at": "2026-11-04T02:23:05+00:00",
+   "extra": ""
+  },
+  {
    "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xnanyh/keeping_up_with_new_inference_engines",
    "source": "reddit",
    "title": "Keeping up with new inference engines",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnanyh/keeping_up_with_new_inference_engines/",
    "published_at": "2026-11-04T00:58:01+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xnajcu/wheres_my_qwen_4",
-   "source": "reddit",
-   "title": "Where's my Qwen 4?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnajcu/wheres_my_qwen_4/",
-   "published_at": "2026-11-04T00:52:06+00:00",
    "extra": ""
   },
   {
@@ -27489,70 +27654,6 @@
    "extra": ""
   },
   {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xn12rf/5_approaches_to_managing_memory_and_context_in_ai",
-   "source": "reddit",
-   "title": "5 approaches to managing memory and context in AI agents (and why bigger context windows don't solve everything)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xn12rf/5_approaches_to_managing_memory_and_context_in_ai/",
-   "published_at": "2026-11-03T18:34:38+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xn11wd/i_compared_4_decisionmodel_leaderboards",
-   "source": "reddit",
-   "title": "I compared 4 decision-model leaderboards. Fine-tuning beats size under 5B, Arabic collapses below 1B, and the leaderboards don’t agree on #1 [OC]",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xn11wd/i_compared_4_decisionmodel_leaderboards/",
-   "published_at": "2026-11-03T18:33:47+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xmzo2s/261103526_library_of_layers_lol_adaptively",
-   "source": "reddit",
-   "title": "[2611.03526] Library of Layers (LoL): Adaptively Ordering Transformer Layers at Runtime",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmzo2s/261103526_library_of_layers_lol_adaptively/",
-   "published_at": "2026-11-03T17:44:41+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xmze1m/how_did_you_get_better_at_building_agentic",
-   "source": "reddit",
-   "title": "How did you get better at building agentic systems? What helped most?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmze1m/how_did_you_get_better_at_building_agentic/",
-   "published_at": "2026-11-03T17:34:27+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xmyji8/can_qwen_directly_control_the_robot_as_well_as",
-   "source": "reddit",
-   "title": "“Can Qwen directly control the robot as well as GPT-6 Astra?”",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmyji8/can_qwen_directly_control_the_robot_as_well_as/",
-   "published_at": "2026-11-03T17:03:57+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xmxrfi/black_friday_coming_up_best_costeffective_rig_for",
-   "source": "reddit",
-   "title": "Black Friday coming up, best cost-effective rig for local inference?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmxrfi/black_friday_coming_up_best_costeffective_rig_for/",
-   "published_at": "2026-11-03T16:35:14+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xmxr1q/claude_code_enjoyer_wanting_to_go_local_what",
-   "source": "reddit",
-   "title": "Claude Code enjoyer wanting to go local. What would your newbie harness of choice be?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmxr1q/claude_code_enjoyer_wanting_to_go_local_what/",
-   "published_at": "2026-11-03T16:34:52+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xmwryg/were_the_product_team_at_reflection_the_lab",
-   "source": "reddit",
-   "title": "We’re the product team at Reflection, the lab behind Beam — Ask Us Anything!",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmwryg/were_the_product_team_at_reflection_the_lab/",
-   "published_at": "2026-11-03T15:59:20+00:00",
-   "extra": ""
-  },
-  {
    "id": "hn:50354370",
    "source": "hn",
    "title": "Show HN: Oathshaper – A BioWare Inspired Open RPG Game Engine",
@@ -27591,6 +27692,14 @@
    "url": "https://p.migdal.pl/warsaw-vibe-voxel/",
    "published_at": "2026-11-02T16:25:26Z",
    "extra": "points=12"
+  },
+  {
+   "id": "hn:50361973",
+   "source": "hn",
+   "title": "Ask HN: Advice on local efficient analogical retrieval?",
+   "url": "https://news.ycombinator.com/item?id=50361973",
+   "published_at": "2026-11-04T06:09:55Z",
+   "extra": "points=1"
   },
   {
    "id": "hn:50359936",
@@ -27649,59 +27758,27 @@
    "extra": "points=1"
   },
   {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x5tsni/inclusionailing31flash_hugging_face",
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wp6loz/why_doent_ai_companies_agree_on_a_single_standard",
    "source": "reddit",
-   "title": "inclusionAI/Ling-3.1-flash · Hugging Face",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5tsni/inclusionailing31flash_hugging_face/",
-   "published_at": "2026-10-14T15:11:14+00:00",
+   "title": "Why doen't AI companies agree on a single standard?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wp6loz/why_doent_ai_companies_agree_on_a_single_standard/",
+   "published_at": "2026-09-24T16:38:34+00:00",
    "extra": ""
   },
   {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x5skta/cuda_hip_gdn_chunked_kernel_by_am17an_pull",
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wgpnah/gpu_mix_nvidia_and_amd_with_vulkan_benchmarks",
    "source": "reddit",
-   "title": "cuda, hip: GDN chunked kernel by am17an · Pull Request #29353 · ggml-org/llama.cpp",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5skta/cuda_hip_gdn_chunked_kernel_by_am17an_pull/",
-   "published_at": "2026-10-14T14:23:13+00:00",
+   "title": "GPU Mix - Nvidia and AMD with Vulkan benchmarks",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgpnah/gpu_mix_nvidia_and_amd_with_vulkan_benchmarks/",
+   "published_at": "2026-09-15T04:03:02+00:00",
    "extra": ""
   },
   {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x5qd8l/rumor_is_that_zen_6_will_replace_the_igpu_with_an",
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wgm5dg/what_are_opensource_views_on_slowing_down_ai",
    "source": "reddit",
-   "title": "Rumor is that Zen 6 will replace the iGPU with an NPU on desktop processors",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5qd8l/rumor_is_that_zen_6_will_replace_the_igpu_with_an/",
-   "published_at": "2026-10-14T12:50:01+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x5p822/qfn_q_2_strata_configs_for_8gb_vram_and_32gb_ram",
-   "source": "reddit",
-   "title": "QFN Q_2 strata configs for 8gb vram and 32gb ram. 36 tps | 340 prefill 176128 context.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5p822/qfn_q_2_strata_configs_for_8gb_vram_and_32gb_ram/",
-   "published_at": "2026-10-14T11:54:40+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x5oy54/best_open_sourced_computer_use_alternative",
-   "source": "reddit",
-   "title": "Best open sourced computer use alternative",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5oy54/best_open_sourced_computer_use_alternative/",
-   "published_at": "2026-10-14T11:40:03+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x5odh2/common_add_specdraftnubatch_by_ggerganov_pull",
-   "source": "reddit",
-   "title": "common : add --spec-draft-n-ubatch by ggerganov · Pull Request #30459 · ggml-org/llama.cpp",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5odh2/common_add_specdraftnubatch_by_ggerganov_pull/",
-   "published_at": "2026-10-14T11:08:21+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wvwssq/strata_on_a_power_limited_5090_and_96gb_of",
-   "source": "reddit",
-   "title": "Strata on a power limited 5090 and 96GB of DDR5-6400 is cranking out 150-200 tok/s decode and 5-6k prefill! Qwen3.8-Flash-Next at IQ3_S, CTX at 128k tokens (8-bit).",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvwssq/strata_on_a_power_limited_5090_and_96gb_of/",
-   "published_at": "2026-10-02T15:29:54+00:00",
+   "title": "What are Open-Source Views on 'Slowing Down AI'?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgm5dg/what_are_opensource_views_on_slowing_down_ai/",
+   "published_at": "2026-09-15T01:17:12+00:00",
    "extra": ""
   }
  ],
@@ -39265,6 +39342,56 @@
    "extra": "points=10",
    "event_type": "release",
    "summary": "Revolut swaps Claude for GLM open-weight model, cutting AI coding bill by 90%"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xnhzbz/introducing_hy4_open_weights_soon",
+   "source": "reddit",
+   "title": "Introducing Hy4 (open weights soon)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnhzbz/introducing_hy4_open_weights_soon/",
+   "published_at": "2026-11-04T07:23:10+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "Introducing Hy4 (open weights soon)"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xnhq66/revolut_sidelines_claude_code_for_a_selfhosted",
+   "source": "reddit",
+   "title": "Revolut sidelines Claude Code for a self-hosted Chinese model, says it pays 90% less",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnhq66/revolut_sidelines_claude_code_for_a_selfhosted/",
+   "published_at": "2026-11-04T07:07:35+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "Revolut sidelines Claude Code for a self-hosted Chinese model, says it pays 90% less"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xngb2i/comfyui_v0440_released",
+   "source": "reddit",
+   "title": "ComfyUI v0.44.0 released",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xngb2i/comfyui_v0440_released/",
+   "published_at": "2026-11-04T05:43:50+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "ComfyUI v0.44.0 released"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xng029/ai_agent_task_performance_of_small_llm_models_4b",
+   "source": "reddit",
+   "title": "AI Agent Task performance of small LLM models (4B and below) in self-assessment set",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xng029/ai_agent_task_performance_of_small_llm_models_4b/",
+   "published_at": "2026-11-04T05:26:38+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "AI Agent Task performance of small LLM models (4B and below) in self-assessment set"
+  },
+  {
+   "id": "hn:50362031",
+   "source": "hn",
+   "title": "MIT researchers edit Qwen weights with GPT-6 Astra to boost math",
+   "url": "https://venturebeat.com/technology/like-gene-editing-for-neural-networks-mit-researchers-used-gpt-6-astra-to-edit-qwens-open-weights-directly-boosting-math-performance",
+   "published_at": "2026-11-04T06:18:38Z",
+   "extra": "points=2",
+   "event_type": "release",
+   "summary": "MIT researchers edit Qwen weights with GPT-6 Astra to boost math"
   }
  ]
 }
