@@ -3765,9 +3765,60 @@
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xod8nb/int8vllm_updated_with_nemotron_35_bolt_74b": "2026-11-05T10:44:30.290649+00:00",
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xobe4h/ccore_glb3dcoder_4b_final_model_and_full_weights": "2026-11-05T10:44:30.290649+00:00",
   "hn:50375366": "2026-11-05T10:44:30.290649+00:00",
-  "hn:50377448": "2026-11-05T10:44:30.290649+00:00"
+  "hn:50377448": "2026-11-05T10:44:30.290649+00:00",
+  "openai:https://openai.com/index/accelerating-engineering-for-the-physical-world": "2026-11-05T18:40:50.684851+00:00",
+  "hn:50354370": "2026-11-05T18:40:50.684851+00:00",
+  "hn:50350736": "2026-11-05T18:40:50.684851+00:00",
+  "hn:50353601": "2026-11-05T18:40:50.684851+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xoowb4/i_added_local_tts_and_stt_to_applellm_using_whats": "2026-11-05T18:40:51.148497+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xomsxq/i_was_curious_how_small_local_models_handle": "2026-11-05T18:40:51.148497+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xolh19/hardware_is_a_amd_395_ai_with_128_gb_ram_still": "2026-11-05T18:40:51.148497+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xoji3b/getting_editable_layers_out_of_qwenimage_21_a": "2026-11-05T18:40:51.148497+00:00",
+  "hn:50379331": "2026-11-05T18:40:51.148497+00:00",
+  "hn:50376606": "2026-11-05T18:40:51.148497+00:00",
+  "hn:50381687": "2026-11-05T18:40:51.148497+00:00"
  },
  "pending": [
+  {
+   "id": "hn:50379624",
+   "source": "hn",
+   "title": "Show HN: Penthera, offline pentest security scanner (open-source, rule-based)",
+   "url": "https://github.com/danoszz/penthera",
+   "published_at": "2026-11-05T14:37:58Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:50379221",
+   "source": "hn",
+   "title": "Show HN: Waymark – A workflow engine that compiles jobs instead of replaying",
+   "url": "https://github.com/piercefreeman/waymark",
+   "published_at": "2026-11-05T14:06:31Z",
+   "extra": "points=4"
+  },
+  {
+   "id": "hn:50368035",
+   "source": "hn",
+   "title": "Show HN: ScreenGuard – Open-source digital wellbeing and app limits for Linux",
+   "url": "https://github.com/adityakrishnan005-a11y/ScreenGuard",
+   "published_at": "2026-11-04T16:33:54Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:50365294",
+   "source": "hn",
+   "title": "Show HN: AutoCua, one prompt drives computer, browser, phones, code at same time",
+   "url": "https://github.com/ComputerUseAgent/AutoCua",
+   "published_at": "2026-11-04T13:32:41Z",
+   "extra": "points=3"
+  },
+  {
+   "id": "hn:50365195",
+   "source": "hn",
+   "title": "Open Source as a Research Method",
+   "url": "https://lemire.me/blog/2026/11/04/open-source-as-a-research-method/",
+   "published_at": "2026-11-04T13:22:51Z",
+   "extra": "points=2"
+  },
   {
    "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1ww4hne/buying_rtx_5090_at_micro_center_reportedly_now",
    "source": "reddit",
@@ -27817,30 +27868,6 @@
    "extra": ""
   },
   {
-   "id": "hn:50359936",
-   "source": "hn",
-   "title": "Show HN: Spooler – a simple, managed message queue",
-   "url": "https://spooler.sh/",
-   "published_at": "2026-11-04T00:02:30Z",
-   "extra": "points=1"
-  },
-  {
-   "id": "hn:50358314",
-   "source": "hn",
-   "title": "Show HN: Kairos – Open-source risk and fraud decisioning platform",
-   "url": "https://github.com/finic-ai/kairos",
-   "published_at": "2026-11-03T21:16:48Z",
-   "extra": "points=52"
-  },
-  {
-   "id": "hn:50365195",
-   "source": "hn",
-   "title": "Open Source as a Research Method",
-   "url": "https://lemire.me/blog/2026/11/04/open-source-as-a-research-method/",
-   "published_at": "2026-11-04T13:22:51Z",
-   "extra": "points=2"
-  },
-  {
    "id": "openai:https://openai.com/index/unlocking-new-ways-of-working",
    "source": "openai",
    "title": "How workers are unlocking new ways of working",
@@ -27889,140 +27916,12 @@
    "extra": ""
   },
   {
-   "id": "openai:https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
-   "source": "openai",
-   "title": "Setting a new standard for responsible AI infrastructure",
-   "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
-   "published_at": "2026-11-05T02:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "openai:https://openai.com/index/openai-to-acquire-pierre",
-   "source": "openai",
-   "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-   "url": "https://openai.com/index/openai-to-acquire-pierre",
-   "published_at": "2026-11-04T14:30:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "openai:https://openai.com/index/daybreak-red-aws-govcloud",
-   "source": "openai",
-   "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-   "url": "https://openai.com/index/daybreak-red-aws-govcloud",
-   "published_at": "2026-11-04T07:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "openai:https://openai.com/index/a-thousand-fewer-paths-to-root",
-   "source": "openai",
-   "title": "A thousand fewer paths to root",
-   "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-   "published_at": "2026-11-04T08:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "openai:https://openai.com/index/devrev-enterprise-self-service",
-   "source": "openai",
-   "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
-   "url": "https://openai.com/index/devrev-enterprise-self-service",
-   "published_at": "2026-11-04T00:00:00+00:00",
-   "extra": ""
-  },
-  {
    "id": "openai:https://openai.com/index/accelerating-engineering-for-the-physical-world",
    "source": "openai",
    "title": "Accelerating engineering for the physical world",
    "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
    "published_at": "2026-11-03T12:00:00+00:00",
    "extra": ""
-  },
-  {
-   "id": "anthropic:s1-sec",
-   "source": "anthropic",
-   "title": "S1 Sec",
-   "url": "https://www.anthropic.com/news/s1-sec",
-   "published_at": null,
-   "extra": ""
-  },
-  {
-   "id": "anthropic:ai-for-science-expands-foundations-research-institutions",
-   "source": "anthropic",
-   "title": "Ai For Science Expands Foundations Research Institutions",
-   "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
-   "published_at": null,
-   "extra": ""
-  },
-  {
-   "id": "anthropic:expanding-partnership-gsa",
-   "source": "anthropic",
-   "title": "Expanding Partnership Gsa",
-   "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
-   "published_at": null,
-   "extra": ""
-  },
-  {
-   "id": "anthropic:donating-agent-skills-to-the-agentic-ai-foundation",
-   "source": "anthropic",
-   "title": "Donating Agent Skills To The Agentic Ai Foundation",
-   "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
-   "published_at": null,
-   "extra": ""
-  },
-  {
-   "id": "anthropic:open-call-guest-investigators-life-sciences",
-   "source": "anthropic",
-   "title": "Open Call Guest Investigators Life Sciences",
-   "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
-   "published_at": null,
-   "extra": ""
-  },
-  {
-   "id": "anthropic:christopher-stubbs-joins-long-term-benefit-trust",
-   "source": "anthropic",
-   "title": "Christopher Stubbs Joins Long Term Benefit Trust",
-   "url": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
-   "published_at": null,
-   "extra": ""
-  },
-  {
-   "id": "anthropic:distillation-defenses",
-   "source": "anthropic",
-   "title": "Distillation Defenses",
-   "url": "https://www.anthropic.com/news/distillation-defenses",
-   "published_at": null,
-   "extra": ""
-  },
-  {
-   "id": "deepseek:news261017",
-   "source": "deepseek",
-   "title": "DeepSeek-V4.1-Flash-1017: Wish-Driven Programming Made Real",
-   "url": "https://api-docs.deepseek.com/news/news261017/",
-   "published_at": null,
-   "extra": ""
-  },
-  {
-   "id": "modelscope:moonshotai/Kimi-K3.1-Pro",
-   "source": "modelscope",
-   "title": "Kimi-K3.1-Pro",
-   "url": "https://modelscope.cn/models/moonshotai/Kimi-K3.1-Pro",
-   "published_at": "2026-11-04T16:02:39+00:00",
-   "extra": ""
-  },
-  {
-   "id": "openrouter:ricursiveai/ripple-65b-preview",
-   "source": "openrouter",
-   "title": "ricursiveAI/Ripple-65B-Preview",
-   "url": "https://openrouter.ai/ricursiveai/ripple-65b-preview",
-   "published_at": "2026-11-04T19:03:10+00:00",
-   "extra": "context=16384"
-  },
-  {
-   "id": "openrouter:tencent/hy4",
-   "source": "openrouter",
-   "title": "Tencent: Hy4",
-   "url": "https://openrouter.ai/tencent/hy4",
-   "published_at": "2026-11-04T04:20:31+00:00",
-   "extra": "context=1048576"
   },
   {
    "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xoeeyf/qwen3827b_has_become_unuseable_recently",
@@ -28161,46 +28060,6 @@
    "extra": ""
   },
   {
-   "id": "hn:50371709",
-   "source": "hn",
-   "title": "Show HN: Zero-axiom Lean 4 proof that Yang-Mills on R^4 is a \"round square\"",
-   "url": "https://zenodo.org/records/23918639/files/RoundSquare.lean?download=1",
-   "published_at": "2026-11-04T21:20:31Z",
-   "extra": "points=2"
-  },
-  {
-   "id": "hn:50369925",
-   "source": "hn",
-   "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
-   "url": "https://www.ricursive.com/ripple",
-   "published_at": "2026-11-04T18:53:29Z",
-   "extra": "points=147"
-  },
-  {
-   "id": "hn:50369618",
-   "source": "hn",
-   "title": "Ripple-65B Preview: Ricursive Intelligence's Open-Weight American SOTA Model",
-   "url": "https://twitter.com/RicursiveAI/status/2118046765857546733",
-   "published_at": "2026-11-04T18:30:20Z",
-   "extra": "points=1"
-  },
-  {
-   "id": "hn:50366894",
-   "source": "hn",
-   "title": "Show HN: An Open Source Superhuman Email Client Clone",
-   "url": "https://github.com/michaelmagan/OpenHuman",
-   "published_at": "2026-11-04T15:22:44Z",
-   "extra": "points=3"
-  },
-  {
-   "id": "hn:50363115",
-   "source": "hn",
-   "title": "Show HN: Hormuz Signal – Iran war escalation risk from real data",
-   "url": "https://www.HormuzSignal.com/",
-   "published_at": "2026-11-04T09:22:38Z",
-   "extra": "points=2"
-  },
-  {
    "id": "hn:50354370",
    "source": "hn",
    "title": "Show HN: Oathshaper – A BioWare Inspired Open RPG Game Engine",
@@ -28215,38 +28074,6 @@
    "url": "https://mbingenheimer.net/budhistbenchmark/",
    "published_at": "2026-11-03T11:38:46Z",
    "extra": "points=1"
-  },
-  {
-   "id": "hn:50371090",
-   "source": "hn",
-   "title": "Show HN: Gauge – Open-Source CLI to recursively improve your docs",
-   "url": "https://github.com/gauge-sh/gauge-cli",
-   "published_at": "2026-11-04T20:31:30Z",
-   "extra": "points=1"
-  },
-  {
-   "id": "hn:50363461",
-   "source": "hn",
-   "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
-   "url": "https://news.ycombinator.com/item?id=50363461",
-   "published_at": "2026-11-04T10:10:27Z",
-   "extra": "points=365"
-  },
-  {
-   "id": "hn:50368035",
-   "source": "hn",
-   "title": "Show HN: ScreenGuard – Open-source digital wellbeing and app limits for Linux",
-   "url": "https://github.com/adityakrishnan005-a11y/ScreenGuard",
-   "published_at": "2026-11-04T16:33:54Z",
-   "extra": "points=1"
-  },
-  {
-   "id": "hn:50365294",
-   "source": "hn",
-   "title": "Show HN: AutoCua, one prompt drives computer, browser, phones, code at same time",
-   "url": "https://github.com/ComputerUseAgent/AutoCua",
-   "published_at": "2026-11-04T13:32:41Z",
-   "extra": "points=3"
   },
   {
    "id": "hn:50353601",
@@ -28327,6 +28154,430 @@
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwa91p/to_mr_jensen_huang_please_stop_your_150b_stock/",
    "published_at": "2026-10-03T01:00:10+00:00",
    "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+   "source": "openai",
+   "title": "Setting a new standard for responsible AI infrastructure",
+   "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+   "published_at": "2026-11-05T02:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/openai-to-acquire-pierre",
+   "source": "openai",
+   "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+   "url": "https://openai.com/index/openai-to-acquire-pierre",
+   "published_at": "2026-11-04T14:30:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/daybreak-red-aws-govcloud",
+   "source": "openai",
+   "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+   "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+   "published_at": "2026-11-04T07:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/a-thousand-fewer-paths-to-root",
+   "source": "openai",
+   "title": "A thousand fewer paths to root",
+   "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+   "published_at": "2026-11-04T08:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/devrev-enterprise-self-service",
+   "source": "openai",
+   "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+   "url": "https://openai.com/index/devrev-enterprise-self-service",
+   "published_at": "2026-11-04T00:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "anthropic:s1-sec",
+   "source": "anthropic",
+   "title": "S1 Sec",
+   "url": "https://www.anthropic.com/news/s1-sec",
+   "published_at": null,
+   "extra": ""
+  },
+  {
+   "id": "anthropic:ai-for-science-expands-foundations-research-institutions",
+   "source": "anthropic",
+   "title": "Ai For Science Expands Foundations Research Institutions",
+   "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+   "published_at": null,
+   "extra": ""
+  },
+  {
+   "id": "anthropic:expanding-partnership-gsa",
+   "source": "anthropic",
+   "title": "Expanding Partnership Gsa",
+   "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+   "published_at": null,
+   "extra": ""
+  },
+  {
+   "id": "anthropic:donating-agent-skills-to-the-agentic-ai-foundation",
+   "source": "anthropic",
+   "title": "Donating Agent Skills To The Agentic Ai Foundation",
+   "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+   "published_at": null,
+   "extra": ""
+  },
+  {
+   "id": "anthropic:open-call-guest-investigators-life-sciences",
+   "source": "anthropic",
+   "title": "Open Call Guest Investigators Life Sciences",
+   "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
+   "published_at": null,
+   "extra": ""
+  },
+  {
+   "id": "anthropic:christopher-stubbs-joins-long-term-benefit-trust",
+   "source": "anthropic",
+   "title": "Christopher Stubbs Joins Long Term Benefit Trust",
+   "url": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
+   "published_at": null,
+   "extra": ""
+  },
+  {
+   "id": "anthropic:distillation-defenses",
+   "source": "anthropic",
+   "title": "Distillation Defenses",
+   "url": "https://www.anthropic.com/news/distillation-defenses",
+   "published_at": null,
+   "extra": ""
+  },
+  {
+   "id": "deepseek:news261017",
+   "source": "deepseek",
+   "title": "DeepSeek-V4.1-Flash-1017: Wish-Driven Programming Made Real",
+   "url": "https://api-docs.deepseek.com/news/news261017/",
+   "published_at": null,
+   "extra": ""
+  },
+  {
+   "id": "modelscope:moonshotai/Kimi-K3.1-Pro",
+   "source": "modelscope",
+   "title": "Kimi-K3.1-Pro",
+   "url": "https://modelscope.cn/models/moonshotai/Kimi-K3.1-Pro",
+   "published_at": "2026-11-04T16:02:39+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openrouter:google/gemini-omni-1.2-flash",
+   "source": "openrouter",
+   "title": "Google: Gemini Omni 1.2 Flash",
+   "url": "https://openrouter.ai/google/gemini-omni-1.2-flash",
+   "published_at": "2026-11-05T17:16:01+00:00",
+   "extra": "context=131072"
+  },
+  {
+   "id": "openrouter:google/gemini-omni-1.1-flash",
+   "source": "openrouter",
+   "title": "Google: Gemini Omni 1.1 Flash",
+   "url": "https://openrouter.ai/google/gemini-omni-1.1-flash",
+   "published_at": "2026-11-04T20:54:28+00:00",
+   "extra": "context=131072"
+  },
+  {
+   "id": "openrouter:ricursiveai/ripple-65b-preview",
+   "source": "openrouter",
+   "title": "ricursiveAI/Ripple-65B-Preview",
+   "url": "https://openrouter.ai/ricursiveai/ripple-65b-preview",
+   "published_at": "2026-11-04T19:03:10+00:00",
+   "extra": "context=16384"
+  },
+  {
+   "id": "openrouter:tencent/hy4",
+   "source": "openrouter",
+   "title": "Tencent: Hy4",
+   "url": "https://openrouter.ai/tencent/hy4",
+   "published_at": "2026-11-04T04:20:31+00:00",
+   "extra": "context=1048576"
+  },
+  {
+   "id": "openrouter:openrouter/auto-code",
+   "source": "openrouter",
+   "title": "Auto Code",
+   "url": "https://openrouter.ai/openrouter/auto-code",
+   "published_at": "2026-11-05T13:12:01+00:00",
+   "extra": "context=2000000"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xoqgar/spark_your_ai_workflows_with_edgemesa_n_ai",
+   "source": "reddit",
+   "title": "Spark your AI Workflows with EdgeMesa N AI+",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoqgar/spark_your_ai_workflows_with_edgemesa_n_ai/",
+   "published_at": "2026-11-05T18:35:28+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xoqc59/add_support_for_the_xing4_0_by_shuxiaoqiong_pull",
+   "source": "reddit",
+   "title": "Add support for the xing4_0 by shuxiaoqiong · Pull Request #31589 · ggml-org/llama.cpp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoqc59/add_support_for_the_xing4_0_by_shuxiaoqiong_pull/",
+   "published_at": "2026-11-05T18:30:55+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xoq4vq/deepseekv41flash1017_on_one_rtx_3090_big_updates",
+   "source": "reddit",
+   "title": "DeepSeek-V4.1-Flash-1017 on one RTX 3090: Big updates to the Delta Inference Engine v0.93. Same 41 tok/s at 192GB/IQ2 at better quality, usable from 64 GB RAM, first token ~40% sooner, new Unsloth quants at full speed, EXL3, basic multi-GPU, public CI and more",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoq4vq/deepseekv41flash1017_on_one_rtx_3090_big_updates/",
+   "published_at": "2026-11-05T18:23:22+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xoogj8/nemotron_35_bolt_e4b_on_jetson_orin_nano_super_at",
+   "source": "reddit",
+   "title": "Nemotron 3.5 Bolt E4B on Jetson Orin Nano Super at 27.7 tok/s!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoogj8/nemotron_35_bolt_e4b_on_jetson_orin_nano_super_at/",
+   "published_at": "2026-11-05T17:20:38+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xoo9gh/add_support_for_the_xing4_0_by_shuxiaoqiong_pull",
+   "source": "reddit",
+   "title": "Add support for the xing4_0 by shuxiaoqiong · Pull Request #31589 · ggml-org/llama.cpp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoo9gh/add_support_for_the_xing4_0_by_shuxiaoqiong_pull/",
+   "published_at": "2026-11-05T17:13:16+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xoo730/can_opus_weightspaceedit_qwen3827b_to_refuse_less",
+   "source": "reddit",
+   "title": "Can Opus weight-space-edit Qwen3.8-27B to refuse less? Yes",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoo730/can_opus_weightspaceedit_qwen3827b_to_refuse_less/",
+   "published_at": "2026-11-05T17:10:49+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xoo0pp/paper_specopd_branchparallel_onpolicy",
+   "source": "reddit",
+   "title": "[Paper] SpecOPD: Branch-Parallel On-Policy Distillation for Speculative Decoding - By Qwen",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoo0pp/paper_specopd_branchparallel_onpolicy/",
+   "published_at": "2026-11-05T17:03:58+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xonxqo/training_a_sota_pangramlike_detector_on_a_4070ti",
+   "source": "reddit",
+   "title": "Training a SOTA Pangram-like detector on a 4070ti",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xonxqo/training_a_sota_pangramlike_detector_on_a_4070ti/",
+   "published_at": "2026-11-05T17:00:57+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xonmnb/where_is_qwen_4_and_ds_v41_5_pro_glm_55",
+   "source": "reddit",
+   "title": "Where is Qwen 4? And DS v4.1 / 5 pro ? Glm 5.5?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xonmnb/where_is_qwen_4_and_ds_v41_5_pro_glm_55/",
+   "published_at": "2026-11-05T16:49:17+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xomy0i/guide_qwen38_flashnext_on_a_single_rtx_5080_64gb",
+   "source": "reddit",
+   "title": "[GUIDE] Qwen3.8 Flash-Next on a single RTX 5080 + 64GB RAM: >250 tok/s tg and 5700 tok/s prefill in real agent coding sessions (Basalt + new Unsloth UD-IQ3_XXS + Lamina drafter),+ how it compares to llama.cpp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xomy0i/guide_qwen38_flashnext_on_a_single_rtx_5080_64gb/",
+   "published_at": "2026-11-05T16:23:15+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xomst7/paper_fireflash_an_open_recipe_for_longhorizon",
+   "source": "reddit",
+   "title": "[Paper] FireFlash : An Open Recipe for Long-Horizon Agentic RL Achieving the Performance-Cost Pareto Frontier",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xomst7/paper_fireflash_an_open_recipe_for_longhorizon/",
+   "published_at": "2026-11-05T16:17:42+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xomom1/dream_come_true_i_trained_48_inbrowser_24_khz_tts",
+   "source": "reddit",
+   "title": "Dream come true: I trained 48 in-browser 24 kHz TTS voices for Classical Sanskrit, English & 10 Indic languages (21.7 MB mobile iSTFTNet / 27.9 MB HiFi-GAN)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xomom1/dream_come_true_i_trained_48_inbrowser_24_khz_tts/",
+   "published_at": "2026-11-05T16:13:12+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xokhyq/which_harnesstool_should_i_use",
+   "source": "reddit",
+   "title": "Which harness/tool should I use?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xokhyq/which_harnesstool_should_i_use/",
+   "published_at": "2026-11-05T14:47:48+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xojryw/nvidia_rtx_pro_5500_blackwell_appears_at_17999",
+   "source": "reddit",
+   "title": "NVIDIA RTX PRO 5500 Blackwell appears at $17,999 MSRP, higher than RTX PRO 6000 at $16,000 MSRP set some months ago by NVIDIA - VideoCardz",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xojryw/nvidia_rtx_pro_5500_blackwell_appears_at_17999/",
+   "published_at": "2026-11-05T14:17:46+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xoib84/tiiny_ai_performance_tests_i_just_got_my_tiiny",
+   "source": "reddit",
+   "title": "Tiiny AI Performance tests. I just got my Tiiny, and here's what it can do.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoib84/tiiny_ai_performance_tests_i_just_got_my_tiiny/",
+   "published_at": "2026-11-05T13:13:11+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xoiaye/an_opensource_project_just_ranked_1_on",
+   "source": "reddit",
+   "title": "An open-source project just ranked #1 on EnterpriseRAG-Bench, ahead of the listed systems from OpenAI, Google, Microsoft and Amazon",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoiaye/an_opensource_project_just_ranked_1_on/",
+   "published_at": "2026-11-05T13:12:49+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xohbd3/my_first_experience_with_agentic_ai",
+   "source": "reddit",
+   "title": "My first experience with agentic AI",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xohbd3/my_first_experience_with_agentic_ai/",
+   "published_at": "2026-11-05T12:23:36+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xoh2s7/rather_qwen427b_at_1m_ctx_than_a_big_moe_at_128k",
+   "source": "reddit",
+   "title": "Rather Qwen4-27b at 1M ctx than a big MOE at 128k",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoh2s7/rather_qwen427b_at_1m_ctx_than_a_big_moe_at_128k/",
+   "published_at": "2026-11-05T12:11:04+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xoglot/quantization_livestream_with_goats_of_inference",
+   "source": "reddit",
+   "title": "Quantization livestream with goats of inference",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoglot/quantization_livestream_with_goats_of_inference/",
+   "published_at": "2026-11-05T11:46:10+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xogbx6/hardware",
+   "source": "reddit",
+   "title": "Hardware?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xogbx6/hardware/",
+   "published_at": "2026-11-05T11:30:25+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xofnbi/thinking_about_upgrading_ram_to_128gb",
+   "source": "reddit",
+   "title": "Thinking about upgrading ram to 128GB",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xofnbi/thinking_about_upgrading_ram_to_128gb/",
+   "published_at": "2026-11-05T10:50:26+00:00",
+   "extra": ""
+  },
+  {
+   "id": "hn:50371709",
+   "source": "hn",
+   "title": "Show HN: Zero-axiom Lean 4 proof that Yang-Mills on R^4 is a \"round square\"",
+   "url": "https://zenodo.org/records/23918639/files/RoundSquare.lean?download=1",
+   "published_at": "2026-11-04T21:20:31Z",
+   "extra": "points=2"
+  },
+  {
+   "id": "hn:50369925",
+   "source": "hn",
+   "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+   "url": "https://www.ricursive.com/ripple",
+   "published_at": "2026-11-04T18:53:29Z",
+   "extra": "points=147"
+  },
+  {
+   "id": "hn:50369618",
+   "source": "hn",
+   "title": "Ripple-65B Preview: Ricursive Intelligence's Open-Weight American SOTA Model",
+   "url": "https://twitter.com/RicursiveAI/status/2118046765857546733",
+   "published_at": "2026-11-04T18:30:20Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:50366894",
+   "source": "hn",
+   "title": "Show HN: An Open Source Superhuman Email Client Clone",
+   "url": "https://github.com/michaelmagan/OpenHuman",
+   "published_at": "2026-11-04T15:22:44Z",
+   "extra": "points=3"
+  },
+  {
+   "id": "hn:50363115",
+   "source": "hn",
+   "title": "Show HN: Hormuz Signal – Iran war escalation risk from real data",
+   "url": "https://www.HormuzSignal.com/",
+   "published_at": "2026-11-04T09:22:38Z",
+   "extra": "points=2"
+  },
+  {
+   "id": "hn:50382213",
+   "source": "hn",
+   "title": "Show HN: A terminal viewer for plain text data files (JSON,YAML,CSV,XML,)",
+   "url": "https://aless.tabnas.dev/",
+   "published_at": "2026-11-05T18:03:21Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:50371090",
+   "source": "hn",
+   "title": "Show HN: Gauge – Open-Source CLI to recursively improve your docs",
+   "url": "https://github.com/gauge-sh/gauge-cli",
+   "published_at": "2026-11-04T20:31:30Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:50363461",
+   "source": "hn",
+   "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+   "url": "https://news.ycombinator.com/item?id=50363461",
+   "published_at": "2026-11-04T10:10:27Z",
+   "extra": "points=365"
+  },
+  {
+   "id": "hn:50359936",
+   "source": "hn",
+   "title": "Show HN: Spooler – a simple, managed message queue",
+   "url": "https://spooler.sh/",
+   "published_at": "2026-11-04T00:02:30Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:50358314",
+   "source": "hn",
+   "title": "Show HN: Kairos – Open-source risk and fraud decisioning platform",
+   "url": "https://github.com/finic-ai/kairos",
+   "published_at": "2026-11-03T21:16:48Z",
+   "extra": "points=52"
+  },
+  {
+   "id": "hn:50382039",
+   "source": "hn",
+   "title": "Ask HN: How to verify response generated by AI in API response quickly",
+   "url": "https://news.ycombinator.com/item?id=50382039",
+   "published_at": "2026-11-05T17:47:57Z",
+   "extra": "points=2"
+  },
+  {
+   "id": "hn:50380521",
+   "source": "hn",
+   "title": "Show HN: Resource Manager – Manage all resources on the computer",
+   "url": "https://github.com/BIOcanse/Resource-Manager",
+   "published_at": "2026-11-05T15:42:38Z",
+   "extra": "points=2"
+  },
+  {
+   "id": "hn:50380012",
+   "source": "hn",
+   "title": "Show HN: Revline – An open-source AI-native video editor",
+   "url": "https://tryrevline.com",
+   "published_at": "2026-11-05T15:06:16Z",
+   "extra": "points=1"
   }
  ],
  "pending_push": [
@@ -40169,6 +40420,76 @@
    "extra": "points=2",
    "event_type": "release",
    "summary": "Kinference: Open-source inference control plane for vLLM"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xoowb4/i_added_local_tts_and_stt_to_applellm_using_whats",
+   "source": "reddit",
+   "title": "I added local TTS and STT to apple-llm using what's already on your Mac. 30 minutes of narration renders in under 20 seconds on an M4 Air",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoowb4/i_added_local_tts_and_stt_to_applellm_using_whats/",
+   "published_at": "2026-11-05T17:37:08+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "I added local TTS and STT to apple-llm using what's already on your Mac. 30 minutes of narration renders in under 20 seconds on an M4 Air"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xomsxq/i_was_curious_how_small_local_models_handle",
+   "source": "reddit",
+   "title": "I was curious how small local models handle Polish grammar – a quick 15-task test on 8 GB VRAM",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xomsxq/i_was_curious_how_small_local_models_handle/",
+   "published_at": "2026-11-05T16:17:50+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "I was curious how small local models handle Polish grammar – a quick 15-task test on 8 GB VRAM"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xolh19/hardware_is_a_amd_395_ai_with_128_gb_ram_still",
+   "source": "reddit",
+   "title": "[Hardware] Is a AMD 395+ AI with 128 GB RAM still good choice for local LLMs? (inference mostly)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xolh19/hardware_is_a_amd_395_ai_with_128_gb_ram_still/",
+   "published_at": "2026-11-05T15:25:34+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "[Hardware] Is a AMD 395+ AI with 128 GB RAM still good choice for local LLMs? (inference mostly)"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xoji3b/getting_editable_layers_out_of_qwenimage_21_a",
+   "source": "reddit",
+   "title": "Getting editable layers out of Qwen-Image 2.1, a model that only edits: what works, what still fails (local, open source) Kokon",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoji3b/getting_editable_layers_out_of_qwenimage_21_a/",
+   "published_at": "2026-11-05T14:06:27+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "Getting editable layers out of Qwen-Image 2.1, a model that only edits: what works, what still fails (local, open source) Kokon"
+  },
+  {
+   "id": "hn:50379331",
+   "source": "hn",
+   "title": "The architecture of open-weight LLMs: MoE, hybrid layers, ternary weights",
+   "url": "https://www.silasdata.com/llm-playground-inside-architectures/",
+   "published_at": "2026-11-05T14:16:45Z",
+   "extra": "points=5",
+   "event_type": "release",
+   "summary": "The architecture of open-weight LLMs: MoE, hybrid layers, ternary weights"
+  },
+  {
+   "id": "hn:50376606",
+   "source": "hn",
+   "title": "Ask HN: Can current AI models reverse engineer CUDA drivers?",
+   "url": "https://news.ycombinator.com/item?id=50376606",
+   "published_at": "2026-11-05T08:25:13Z",
+   "extra": "points=2",
+   "event_type": "release",
+   "summary": "Ask HN: Can current AI models reverse engineer CUDA drivers?"
+  },
+  {
+   "id": "hn:50381687",
+   "source": "hn",
+   "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
+   "url": "https://github.com/rivet-dev/rivet",
+   "published_at": "2026-11-05T17:17:42Z",
+   "extra": "points=21",
+   "event_type": "release",
+   "summary": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3"
   }
  ]
 }
