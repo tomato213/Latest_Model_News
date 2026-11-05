@@ -3753,65 +3753,13 @@
   "hn:50371272": "2026-11-04T22:08:23.217757+00:00",
   "hn:50368208": "2026-11-04T22:08:23.217757+00:00",
   "hn:50368804": "2026-11-04T22:08:23.217757+00:00",
-  "hn:50369623": "2026-11-04T22:08:23.217757+00:00"
+  "hn:50369623": "2026-11-04T22:08:23.217757+00:00",
+  "openai:https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer": "2026-11-05T02:43:58.911085+00:00",
+  "openrouter:stealth/crouton-alpha": "2026-11-05T02:43:58.911085+00:00",
+  "openai:https://openai.com/index/introducing-images-2-6": "2026-11-05T02:43:59.441633+00:00",
+  "hn:50374382": "2026-11-05T02:43:59.441633+00:00"
  },
  "pending": [
-  {
-   "id": "hn:50353601",
-   "source": "hn",
-   "title": "Show HN: I built Knemora – An Open-source AI Second brain",
-   "url": "https://github.com/federicolaterra/knemora",
-   "published_at": "2026-11-03T15:58:06Z",
-   "extra": "points=1"
-  },
-  {
-   "id": "openai:https://openai.com/index/unlocking-new-ways-of-working",
-   "source": "openai",
-   "title": "How workers are unlocking new ways of working",
-   "url": "https://openai.com/index/unlocking-new-ways-of-working",
-   "published_at": "2026-09-16T09:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wj778h/are_there_any_standard_benchmarks_out_for_afm3",
-   "source": "reddit",
-   "title": "Are there any standard benchmarks out for AFM3 Core / Advanced yet?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj778h/are_there_any_standard_benchmarks_out_for_afm3/",
-   "published_at": "2026-09-17T21:39:49+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wj74f4/jev_reproductions_tracker_keeping_up_with_jev",
-   "source": "reddit",
-   "title": "jev reproductions tracker. keeping up with jev reproduction efforts",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj74f4/jev_reproductions_tracker_keeping_up_with_jev/",
-   "published_at": "2026-09-17T21:36:39+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wj6zxt/september_2026_updated_chart_of_strix_halo_mini",
-   "source": "reddit",
-   "title": "September 2026 updated chart of strix halo mini pc size chartstrix.png",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj6zxt/september_2026_updated_chart_of_strix_halo_mini/",
-   "published_at": "2026-09-17T21:31:30+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wj62hl/call_for_compute_help_optimize_qwen_inference",
-   "source": "reddit",
-   "title": "Call for compute - help optimize Qwen inference speed on local hardware",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj62hl/call_for_compute_help_optimize_qwen_inference/",
-   "published_at": "2026-09-17T20:55:17+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wj5ld9/sensible_output_style_if_youre_tired_of_your",
-   "source": "reddit",
-   "title": "Sensible Output Style - If you're tired of your coding agent speaking in Clanker-Speak",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj5ld9/sensible_output_style_if_youre_tired_of_your/",
-   "published_at": "2026-09-17T20:37:11+00:00",
-   "extra": ""
-  },
   {
    "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x626lt/what_is_the_true_value_of_a_local_ai_machine",
    "source": "reddit",
@@ -27797,6 +27745,54 @@
    "extra": ""
   },
   {
+   "id": "openai:https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+   "source": "openai",
+   "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+   "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+   "published_at": "2026-11-03T00:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openrouter:stealth/crouton-alpha",
+   "source": "openrouter",
+   "title": "Crouton Alpha",
+   "url": "https://openrouter.ai/stealth/crouton-alpha",
+   "published_at": "2026-11-03T01:38:50+00:00",
+   "extra": "context=1048576"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xnu6y1/kimi_k31_is_likely_benchmaxxed_with_some_proof",
+   "source": "reddit",
+   "title": "Kimi K3.1 is likely benchmaxxed (with some proof)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnu6y1/kimi_k31_is_likely_benchmaxxed_with_some_proof/",
+   "published_at": "2026-11-04T17:26:47+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xnu6ri/just_got_my_mac_mini_m6_32gb_first_steps",
+   "source": "reddit",
+   "title": "Just got my Mac Mini M6 32GB. First steps?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnu6ri/just_got_my_mac_mini_m6_32gb_first_steps/",
+   "published_at": "2026-11-04T17:26:36+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xnu36y/2x_rtx_5090_vs_2x_rtx_pro_6000_vs_2x_rtx_pro_6000",
+   "source": "reddit",
+   "title": "2x RTX 5090 vs 2x RTX PRO 6000 vs 2x RTX PRO 6000 Max-Q",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnu36y/2x_rtx_5090_vs_2x_rtx_pro_6000_vs_2x_rtx_pro_6000/",
+   "published_at": "2026-11-04T17:22:39+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xntou1/lfm3omni2b_running_fully_offline_on_my_iphone_18",
+   "source": "reddit",
+   "title": "LFM3-Omni-2B running fully offline on my iPhone 18 Pro Max at ~80 tok/s, powered by custom WebGPU kernels in a React Native app.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xntou1/lfm3omni2b_running_fully_offline_on_my_iphone_18/",
+   "published_at": "2026-11-04T17:08:06+00:00",
+   "extra": ""
+  },
+  {
    "id": "openai:https://openai.com/index/openai-to-acquire-pierre",
    "source": "openai",
    "title": "OpenAI to acquire Pierre Computer Company, Inc.",
@@ -27810,6 +27806,22 @@
    "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
    "url": "https://openai.com/index/daybreak-red-aws-govcloud",
    "published_at": "2026-11-04T07:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/a-thousand-fewer-paths-to-root",
+   "source": "openai",
+   "title": "A thousand fewer paths to root",
+   "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+   "published_at": "2026-11-04T08:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/devrev-enterprise-self-service",
+   "source": "openai",
+   "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+   "url": "https://openai.com/index/devrev-enterprise-self-service",
+   "published_at": "2026-11-04T00:00:00+00:00",
    "extra": ""
   },
   {
@@ -27834,14 +27846,6 @@
    "title": "Heimstaden is changing residential real estate management with AI",
    "url": "https://openai.com/index/heimstaden",
    "published_at": "2026-11-03T08:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "openai:https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
-   "source": "openai",
-   "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-   "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
-   "published_at": "2026-11-03T00:00:00+00:00",
    "extra": ""
   },
   {
@@ -27933,12 +27937,52 @@
    "extra": "context=1048576"
   },
   {
-   "id": "openrouter:stealth/crouton-alpha",
-   "source": "openrouter",
-   "title": "Crouton Alpha",
-   "url": "https://openrouter.ai/stealth/crouton-alpha",
-   "published_at": "2026-11-03T01:38:50+00:00",
-   "extra": "context=1048576"
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xo5qvt/rtx_3070_ti_16g_modified_graphics_card",
+   "source": "reddit",
+   "title": "RTX 3070 Ti 16G modified graphics card",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xo5qvt/rtx_3070_ti_16g_modified_graphics_card/",
+   "published_at": "2026-11-05T01:17:24+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xo3vgi/best_upgrade_for_32gb_ram_12gb_vram_pc",
+   "source": "reddit",
+   "title": "Best Upgrade for 32gb RAM + 12gb VRAM PC?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xo3vgi/best_upgrade_for_32gb_ram_12gb_vram_pc/",
+   "published_at": "2026-11-04T23:52:07+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xo3ikc/what_are_you_looking_forward_to_in_qwen_4",
+   "source": "reddit",
+   "title": "What are you looking forward to in Qwen 4?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xo3ikc/what_are_you_looking_forward_to_in_qwen_4/",
+   "published_at": "2026-11-04T23:35:49+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xo3gwa/27b_vs_flash_next",
+   "source": "reddit",
+   "title": "27B vs Flash next",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xo3gwa/27b_vs_flash_next/",
+   "published_at": "2026-11-04T23:33:43+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xo3aeo/feeding_dual_tesla_v100s_with_nvme_gen_5_ssds",
+   "source": "reddit",
+   "title": "Feeding dual Tesla v100's with NVMe gen 5 ssd's: Viable or a waste of money?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xo3aeo/feeding_dual_tesla_v100s_with_nvme_gen_5_ssds/",
+   "published_at": "2026-11-04T23:25:31+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xo2arv/ricursive_intelligence_ripple65bpreview_new_dense",
+   "source": "reddit",
+   "title": "Ricursive Intelligence Ripple-65B-Preview: New Dense Model!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xo2arv/ricursive_intelligence_ripple65bpreview_new_dense/",
+   "published_at": "2026-11-04T22:42:48+00:00",
+   "extra": ""
   },
   {
    "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xo18bg/qwen_35ba3b_has_better_reasoning_than_gemma_4_26b",
@@ -28045,36 +28089,12 @@
    "extra": ""
   },
   {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xnu6y1/kimi_k31_is_likely_benchmaxxed_with_some_proof",
-   "source": "reddit",
-   "title": "Kimi K3.1 is likely benchmaxxed (with some proof)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnu6y1/kimi_k31_is_likely_benchmaxxed_with_some_proof/",
-   "published_at": "2026-11-04T17:26:47+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xnu6ri/just_got_my_mac_mini_m6_32gb_first_steps",
-   "source": "reddit",
-   "title": "Just got my Mac Mini M6 32GB. First steps?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnu6ri/just_got_my_mac_mini_m6_32gb_first_steps/",
-   "published_at": "2026-11-04T17:26:36+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xnu36y/2x_rtx_5090_vs_2x_rtx_pro_6000_vs_2x_rtx_pro_6000",
-   "source": "reddit",
-   "title": "2x RTX 5090 vs 2x RTX PRO 6000 vs 2x RTX PRO 6000 Max-Q",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnu36y/2x_rtx_5090_vs_2x_rtx_pro_6000_vs_2x_rtx_pro_6000/",
-   "published_at": "2026-11-04T17:22:39+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xntou1/lfm3omni2b_running_fully_offline_on_my_iphone_18",
-   "source": "reddit",
-   "title": "LFM3-Omni-2B running fully offline on my iPhone 18 Pro Max at ~80 tok/s, powered by custom WebGPU kernels in a React Native app.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xntou1/lfm3omni2b_running_fully_offline_on_my_iphone_18/",
-   "published_at": "2026-11-04T17:08:06+00:00",
-   "extra": ""
+   "id": "hn:50371709",
+   "source": "hn",
+   "title": "Show HN: Zero-axiom Lean 4 proof that Yang-Mills on R^4 is a \"round square\"",
+   "url": "https://zenodo.org/records/23918639/files/RoundSquare.lean?download=1",
+   "published_at": "2026-11-04T21:20:31Z",
+   "extra": "points=2"
   },
   {
    "id": "hn:50369925",
@@ -28179,6 +28199,62 @@
    "url": "https://lemire.me/blog/2026/11/04/open-source-as-a-research-method/",
    "published_at": "2026-11-04T13:22:51Z",
    "extra": "points=2"
+  },
+  {
+   "id": "hn:50353601",
+   "source": "hn",
+   "title": "Show HN: I built Knemora – An Open-source AI Second brain",
+   "url": "https://github.com/federicolaterra/knemora",
+   "published_at": "2026-11-03T15:58:06Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "openai:https://openai.com/index/unlocking-new-ways-of-working",
+   "source": "openai",
+   "title": "How workers are unlocking new ways of working",
+   "url": "https://openai.com/index/unlocking-new-ways-of-working",
+   "published_at": "2026-09-16T09:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wj778h/are_there_any_standard_benchmarks_out_for_afm3",
+   "source": "reddit",
+   "title": "Are there any standard benchmarks out for AFM3 Core / Advanced yet?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj778h/are_there_any_standard_benchmarks_out_for_afm3/",
+   "published_at": "2026-09-17T21:39:49+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wj74f4/jev_reproductions_tracker_keeping_up_with_jev",
+   "source": "reddit",
+   "title": "jev reproductions tracker. keeping up with jev reproduction efforts",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj74f4/jev_reproductions_tracker_keeping_up_with_jev/",
+   "published_at": "2026-09-17T21:36:39+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wj6zxt/september_2026_updated_chart_of_strix_halo_mini",
+   "source": "reddit",
+   "title": "September 2026 updated chart of strix halo mini pc size chartstrix.png",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj6zxt/september_2026_updated_chart_of_strix_halo_mini/",
+   "published_at": "2026-09-17T21:31:30+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wj62hl/call_for_compute_help_optimize_qwen_inference",
+   "source": "reddit",
+   "title": "Call for compute - help optimize Qwen inference speed on local hardware",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj62hl/call_for_compute_help_optimize_qwen_inference/",
+   "published_at": "2026-09-17T20:55:17+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wj5ld9/sensible_output_style_if_youre_tired_of_your",
+   "source": "reddit",
+   "title": "Sensible Output Style - If you're tired of your coding agent speaking in Clanker-Speak",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj5ld9/sensible_output_style_if_youre_tired_of_your/",
+   "published_at": "2026-09-17T20:37:11+00:00",
+   "extra": ""
   }
  ],
  "pending_push": [
@@ -39951,6 +40027,26 @@
    "extra": "points=1",
    "event_type": "release",
    "summary": "Open-source LLM Firewall with reversible PII scrubbing and FinOps routing"
+  },
+  {
+   "id": "openai:https://openai.com/index/introducing-images-2-6",
+   "source": "openai",
+   "title": "Introducing Images 2.6",
+   "url": "https://openai.com/index/introducing-images-2-6",
+   "published_at": "2026-11-04T00:00:00+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "Introducing Images 2.6"
+  },
+  {
+   "id": "hn:50374382",
+   "source": "hn",
+   "title": "Kimi K3.1 Pro's open weights: 1.56 TB, MXFP4, and a $20M revenue license line",
+   "url": "https://theainewsreport.com/2026-11-04-kimi-k3-1-pro-open-weights-license-hardware-explained.html",
+   "published_at": "2026-11-05T02:32:09Z",
+   "extra": "points=1",
+   "event_type": "release",
+   "summary": "Kimi K3.1 Pro's open weights: 1.56 TB, MXFP4, and a $20M revenue license line"
   }
  ]
 }
