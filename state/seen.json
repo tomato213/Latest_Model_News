@@ -3776,7 +3776,14 @@
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xoji3b/getting_editable_layers_out_of_qwenimage_21_a": "2026-11-05T18:40:51.148497+00:00",
   "hn:50379331": "2026-11-05T18:40:51.148497+00:00",
   "hn:50376606": "2026-11-05T18:40:51.148497+00:00",
-  "hn:50381687": "2026-11-05T18:40:51.148497+00:00"
+  "hn:50381687": "2026-11-05T18:40:51.148497+00:00",
+  "openai:https://openai.com/index/devrev-enterprise-self-service": "2026-11-06T00:07:04.404540+00:00",
+  "hn:50359936": "2026-11-06T00:07:04.404540+00:00",
+  "hn:50358314": "2026-11-06T00:07:04.404540+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xou096/i_fixed_my_tiny_tts_by_editing_the_weights": "2026-11-06T00:07:04.755721+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xottw2/strata_for_all_qwen_models_from_little_to_big": "2026-11-06T00:07:04.755721+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xor5nr/the_ultimate_moe_training_handbook_training": "2026-11-06T00:07:04.755721+00:00",
+  "hn:50384502": "2026-11-06T00:07:04.755721+00:00"
  },
  "pending": [
   {
@@ -28156,11 +28163,155 @@
    "extra": ""
   },
   {
+   "id": "openai:https://openai.com/index/devrev-enterprise-self-service",
+   "source": "openai",
+   "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+   "url": "https://openai.com/index/devrev-enterprise-self-service",
+   "published_at": "2026-11-04T00:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xomy0i/guide_qwen38_flashnext_on_a_single_rtx_5080_64gb",
+   "source": "reddit",
+   "title": "[GUIDE] Qwen3.8 Flash-Next on a single RTX 5080 + 64GB RAM: >250 tok/s tg and 5700 tok/s prefill in real agent coding sessions (Basalt + new Unsloth UD-IQ3_XXS + Lamina drafter),+ how it compares to llama.cpp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xomy0i/guide_qwen38_flashnext_on_a_single_rtx_5080_64gb/",
+   "published_at": "2026-11-05T16:23:15+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xomst7/paper_fireflash_an_open_recipe_for_longhorizon",
+   "source": "reddit",
+   "title": "[Paper] FireFlash : An Open Recipe for Long-Horizon Agentic RL Achieving the Performance-Cost Pareto Frontier",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xomst7/paper_fireflash_an_open_recipe_for_longhorizon/",
+   "published_at": "2026-11-05T16:17:42+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xomom1/dream_come_true_i_trained_48_inbrowser_24_khz_tts",
+   "source": "reddit",
+   "title": "Dream come true: I trained 48 in-browser 24 kHz TTS voices for Classical Sanskrit, English & 10 Indic languages (21.7 MB mobile iSTFTNet / 27.9 MB HiFi-GAN)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xomom1/dream_come_true_i_trained_48_inbrowser_24_khz_tts/",
+   "published_at": "2026-11-05T16:13:12+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xokhyq/which_harnesstool_should_i_use",
+   "source": "reddit",
+   "title": "Which harness/tool should I use?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xokhyq/which_harnesstool_should_i_use/",
+   "published_at": "2026-11-05T14:47:48+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xojryw/nvidia_rtx_pro_5500_blackwell_appears_at_17999",
+   "source": "reddit",
+   "title": "NVIDIA RTX PRO 5500 Blackwell appears at $17,999 MSRP, higher than RTX PRO 6000 at $16,000 MSRP set some months ago by NVIDIA - VideoCardz",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xojryw/nvidia_rtx_pro_5500_blackwell_appears_at_17999/",
+   "published_at": "2026-11-05T14:17:46+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xoib84/tiiny_ai_performance_tests_i_just_got_my_tiiny",
+   "source": "reddit",
+   "title": "Tiiny AI Performance tests. I just got my Tiiny, and here's what it can do.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoib84/tiiny_ai_performance_tests_i_just_got_my_tiiny/",
+   "published_at": "2026-11-05T13:13:11+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xoiaye/an_opensource_project_just_ranked_1_on",
+   "source": "reddit",
+   "title": "An open-source project just ranked #1 on EnterpriseRAG-Bench, ahead of the listed systems from OpenAI, Google, Microsoft and Amazon",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoiaye/an_opensource_project_just_ranked_1_on/",
+   "published_at": "2026-11-05T13:12:49+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xohbd3/my_first_experience_with_agentic_ai",
+   "source": "reddit",
+   "title": "My first experience with agentic AI",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xohbd3/my_first_experience_with_agentic_ai/",
+   "published_at": "2026-11-05T12:23:36+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xoh2s7/rather_qwen427b_at_1m_ctx_than_a_big_moe_at_128k",
+   "source": "reddit",
+   "title": "Rather Qwen4-27b at 1M ctx than a big MOE at 128k",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoh2s7/rather_qwen427b_at_1m_ctx_than_a_big_moe_at_128k/",
+   "published_at": "2026-11-05T12:11:04+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xoglot/quantization_livestream_with_goats_of_inference",
+   "source": "reddit",
+   "title": "Quantization livestream with goats of inference",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoglot/quantization_livestream_with_goats_of_inference/",
+   "published_at": "2026-11-05T11:46:10+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xogbx6/hardware",
+   "source": "reddit",
+   "title": "Hardware?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xogbx6/hardware/",
+   "published_at": "2026-11-05T11:30:25+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xofnbi/thinking_about_upgrading_ram_to_128gb",
+   "source": "reddit",
+   "title": "Thinking about upgrading ram to 128GB",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xofnbi/thinking_about_upgrading_ram_to_128gb/",
+   "published_at": "2026-11-05T10:50:26+00:00",
+   "extra": ""
+  },
+  {
+   "id": "hn:50359936",
+   "source": "hn",
+   "title": "Show HN: Spooler – a simple, managed message queue",
+   "url": "https://spooler.sh/",
+   "published_at": "2026-11-04T00:02:30Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:50358314",
+   "source": "hn",
+   "title": "Show HN: Kairos – Open-source risk and fraud decisioning platform",
+   "url": "https://github.com/finic-ai/kairos",
+   "published_at": "2026-11-03T21:16:48Z",
+   "extra": "points=52"
+  },
+  {
+   "id": "openai:https://openai.com/index/introducing-gpt-6-cyber",
+   "source": "openai",
+   "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+   "url": "https://openai.com/index/introducing-gpt-6-cyber",
+   "published_at": "2026-11-05T09:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/merge-builds-with-openai",
+   "source": "openai",
+   "title": "Merge builds product and business tools with OpenAI technology",
+   "url": "https://openai.com/index/merge-builds-with-openai",
+   "published_at": "2026-11-05T08:00:00+00:00",
+   "extra": ""
+  },
+  {
    "id": "openai:https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
    "source": "openai",
    "title": "Setting a new standard for responsible AI infrastructure",
    "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
    "published_at": "2026-11-05T02:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/ads/customers/flipsnack",
+   "source": "openai",
+   "title": "Flipsnack grows product signups with conversion optimization",
+   "url": "https://openai.com/ads/customers/flipsnack",
+   "published_at": "2026-11-05T00:45:15+00:00",
    "extra": ""
   },
   {
@@ -28185,14 +28336,6 @@
    "title": "A thousand fewer paths to root",
    "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
    "published_at": "2026-11-04T08:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "openai:https://openai.com/index/devrev-enterprise-self-service",
-   "source": "openai",
-   "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
-   "url": "https://openai.com/index/devrev-enterprise-self-service",
-   "published_at": "2026-11-04T00:00:00+00:00",
    "extra": ""
   },
   {
@@ -28308,6 +28451,102 @@
    "extra": "context=2000000"
   },
   {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xoy5mj/this_makes_zero_sense_supply_and_demand_doesnt",
+   "source": "reddit",
+   "title": "This makes zero sense ... supply and demand doesn't work like this ... especially with all of the AI stock valuations crashing out rn ... any guesses as to what's really going on?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoy5mj/this_makes_zero_sense_supply_and_demand_doesnt/",
+   "published_at": "2026-11-05T23:51:03+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xoxx4a/qwen3827b_benchmark_6_inference_engines_gguf_vs",
+   "source": "reddit",
+   "title": "Qwen3.8-27B Benchmark: 6 Inference Engines, GGUF vs NInfer, 256K Context — Comparing Both Speed AND Quality",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoxx4a/qwen3827b_benchmark_6_inference_engines_gguf_vs/",
+   "published_at": "2026-11-05T23:39:57+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xoxkq8/anyone_knows_anything_about_this_quantized_k31m",
+   "source": "reddit",
+   "title": "Anyone knows anything about this Quantized K3.1m Worth it?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoxkq8/anyone_knows_anything_about_this_quantized_k31m/",
+   "published_at": "2026-11-05T23:24:34+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xoxcr3/72_ts_on_12gb_3060_gpu_arena",
+   "source": "reddit",
+   "title": "72 t/s on 12gb 3060 - GPU Arena",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoxcr3/72_ts_on_12gb_3060_gpu_arena/",
+   "published_at": "2026-11-05T23:14:45+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xow94y/level1techs_the_cuda_hour_is_late_also_who_made",
+   "source": "reddit",
+   "title": "Level1Techs - The CUDA hour is Late. Also, Who Made the R9700 this fast?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xow94y/level1techs_the_cuda_hour_is_late_also_who_made/",
+   "published_at": "2026-11-05T22:25:54+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xovnaa/maybe_well_get_cheap_ram_for_christmas_after_all",
+   "source": "reddit",
+   "title": "Maybe we'll get cheap RAM for Christmas after all!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xovnaa/maybe_well_get_cheap_ram_for_christmas_after_all/",
+   "published_at": "2026-11-05T22:00:25+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xov5e1/nooooo_oh_good_psu",
+   "source": "reddit",
+   "title": "Nooooo!!! Oh good, PSU",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xov5e1/nooooo_oh_good_psu/",
+   "published_at": "2026-11-05T21:40:10+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xoubyo/lawyer_with_too_many_gpus_part_4_deepseekv41flash",
+   "source": "reddit",
+   "title": "Lawyer with too many GPUs, part 4: DeepSeek-V4.1-Flash on eight V100s from 2018. 200+ tok/s on code, ~110 on legal writing, 2,200 tok/s prefill at 128K, 524K context, every weight in VRAM",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoubyo/lawyer_with_too_many_gpus_part_4_deepseekv41flash/",
+   "published_at": "2026-11-05T21:07:54+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xosw1w/appreciation_post_for_orcacybernano10",
+   "source": "reddit",
+   "title": "Appreciation post for OrcaCyber-Nano-1.0",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xosw1w/appreciation_post_for_orcacybernano10/",
+   "published_at": "2026-11-05T20:09:52+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xossr5/zai_chief_scientist_jie_tang_just_revealed_the",
+   "source": "reddit",
+   "title": "Z.ai chief scientist Jie Tang just revealed the training pipeline behind the upcoming GLM-5.5 (32B, 122B, and 256B)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xossr5/zai_chief_scientist_jie_tang_just_revealed_the/",
+   "published_at": "2026-11-05T20:06:15+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xos8ow/yet_another_exp_qwen_38_flash_rtx_3080_ti_12_gb",
+   "source": "reddit",
+   "title": "Yet Another Exp - Qwen 3.8 Flash - RTX 3080 TI 12 GB RAM - 64 GB RAM - Looking forward to see your results on similar RIG - On my shty Benchmark - Goal: Uber Demand Discovery Model Test - Video Result in comment",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xos8ow/yet_another_exp_qwen_38_flash_rtx_3080_ti_12_gb/",
+   "published_at": "2026-11-05T19:44:23+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xoql51/deepseek_fixed_my_hdmi_display_show_case",
+   "source": "reddit",
+   "title": "Deepseek fixed my HDMI display show case",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoql51/deepseek_fixed_my_hdmi_display_show_case/",
+   "published_at": "2026-11-05T18:40:31+00:00",
+   "extra": ""
+  },
+  {
    "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xoqgar/spark_your_ai_workflows_with_edgemesa_n_ai",
    "source": "reddit",
    "title": "Spark your AI Workflows with EdgeMesa N AI+",
@@ -28380,100 +28619,20 @@
    "extra": ""
   },
   {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xomy0i/guide_qwen38_flashnext_on_a_single_rtx_5080_64gb",
-   "source": "reddit",
-   "title": "[GUIDE] Qwen3.8 Flash-Next on a single RTX 5080 + 64GB RAM: >250 tok/s tg and 5700 tok/s prefill in real agent coding sessions (Basalt + new Unsloth UD-IQ3_XXS + Lamina drafter),+ how it compares to llama.cpp",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xomy0i/guide_qwen38_flashnext_on_a_single_rtx_5080_64gb/",
-   "published_at": "2026-11-05T16:23:15+00:00",
-   "extra": ""
+   "id": "hn:50383228",
+   "source": "hn",
+   "title": "Show HN: Thinker – Trim context and cache knowledge to extend agent usage limits",
+   "url": "https://thinker.sh/how-it-works",
+   "published_at": "2026-11-05T19:22:23Z",
+   "extra": "points=3"
   },
   {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xomst7/paper_fireflash_an_open_recipe_for_longhorizon",
-   "source": "reddit",
-   "title": "[Paper] FireFlash : An Open Recipe for Long-Horizon Agentic RL Achieving the Performance-Cost Pareto Frontier",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xomst7/paper_fireflash_an_open_recipe_for_longhorizon/",
-   "published_at": "2026-11-05T16:17:42+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xomom1/dream_come_true_i_trained_48_inbrowser_24_khz_tts",
-   "source": "reddit",
-   "title": "Dream come true: I trained 48 in-browser 24 kHz TTS voices for Classical Sanskrit, English & 10 Indic languages (21.7 MB mobile iSTFTNet / 27.9 MB HiFi-GAN)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xomom1/dream_come_true_i_trained_48_inbrowser_24_khz_tts/",
-   "published_at": "2026-11-05T16:13:12+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xokhyq/which_harnesstool_should_i_use",
-   "source": "reddit",
-   "title": "Which harness/tool should I use?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xokhyq/which_harnesstool_should_i_use/",
-   "published_at": "2026-11-05T14:47:48+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xojryw/nvidia_rtx_pro_5500_blackwell_appears_at_17999",
-   "source": "reddit",
-   "title": "NVIDIA RTX PRO 5500 Blackwell appears at $17,999 MSRP, higher than RTX PRO 6000 at $16,000 MSRP set some months ago by NVIDIA - VideoCardz",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xojryw/nvidia_rtx_pro_5500_blackwell_appears_at_17999/",
-   "published_at": "2026-11-05T14:17:46+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xoib84/tiiny_ai_performance_tests_i_just_got_my_tiiny",
-   "source": "reddit",
-   "title": "Tiiny AI Performance tests. I just got my Tiiny, and here's what it can do.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoib84/tiiny_ai_performance_tests_i_just_got_my_tiiny/",
-   "published_at": "2026-11-05T13:13:11+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xoiaye/an_opensource_project_just_ranked_1_on",
-   "source": "reddit",
-   "title": "An open-source project just ranked #1 on EnterpriseRAG-Bench, ahead of the listed systems from OpenAI, Google, Microsoft and Amazon",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoiaye/an_opensource_project_just_ranked_1_on/",
-   "published_at": "2026-11-05T13:12:49+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xohbd3/my_first_experience_with_agentic_ai",
-   "source": "reddit",
-   "title": "My first experience with agentic AI",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xohbd3/my_first_experience_with_agentic_ai/",
-   "published_at": "2026-11-05T12:23:36+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xoh2s7/rather_qwen427b_at_1m_ctx_than_a_big_moe_at_128k",
-   "source": "reddit",
-   "title": "Rather Qwen4-27b at 1M ctx than a big MOE at 128k",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoh2s7/rather_qwen427b_at_1m_ctx_than_a_big_moe_at_128k/",
-   "published_at": "2026-11-05T12:11:04+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xoglot/quantization_livestream_with_goats_of_inference",
-   "source": "reddit",
-   "title": "Quantization livestream with goats of inference",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoglot/quantization_livestream_with_goats_of_inference/",
-   "published_at": "2026-11-05T11:46:10+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xogbx6/hardware",
-   "source": "reddit",
-   "title": "Hardware?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xogbx6/hardware/",
-   "published_at": "2026-11-05T11:30:25+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xofnbi/thinking_about_upgrading_ram_to_128gb",
-   "source": "reddit",
-   "title": "Thinking about upgrading ram to 128GB",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xofnbi/thinking_about_upgrading_ram_to_128gb/",
-   "published_at": "2026-11-05T10:50:26+00:00",
-   "extra": ""
+   "id": "hn:50382957",
+   "source": "hn",
+   "title": "Introducing Ripple-65B Preview, a Frontier Open-Weight Model",
+   "url": "https://www.ricursive.com/ripple",
+   "published_at": "2026-11-05T18:59:36Z",
+   "extra": "points=1"
   },
   {
    "id": "hn:50371709",
@@ -28540,20 +28699,12 @@
    "extra": "points=365"
   },
   {
-   "id": "hn:50359936",
+   "id": "hn:50386034",
    "source": "hn",
-   "title": "Show HN: Spooler – a simple, managed message queue",
-   "url": "https://spooler.sh/",
-   "published_at": "2026-11-04T00:02:30Z",
+   "title": "Show HN: Stenvakt, a server hardening and patching tool",
+   "url": "https://stenvakt.com/",
+   "published_at": "2026-11-05T23:26:17Z",
    "extra": "points=1"
-  },
-  {
-   "id": "hn:50358314",
-   "source": "hn",
-   "title": "Show HN: Kairos – Open-source risk and fraud decisioning platform",
-   "url": "https://github.com/finic-ai/kairos",
-   "published_at": "2026-11-03T21:16:48Z",
-   "extra": "points=52"
   },
   {
    "id": "hn:50382039",
@@ -40490,6 +40641,46 @@
    "extra": "points=21",
    "event_type": "release",
    "summary": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xou096/i_fixed_my_tiny_tts_by_editing_the_weights",
+   "source": "reddit",
+   "title": "I fixed my tiny TTS by editing the weights directly, no retraining",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xou096/i_fixed_my_tiny_tts_by_editing_the_weights/",
+   "published_at": "2026-11-05T20:54:52+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "I fixed my tiny TTS by editing the weights directly, no retraining"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xottw2/strata_for_all_qwen_models_from_little_to_big",
+   "source": "reddit",
+   "title": "Strata for all Qwen models from little to big",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xottw2/strata_for_all_qwen_models_from_little_to_big/",
+   "published_at": "2026-11-05T20:47:30+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "Strata for all Qwen models from little to big"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xor5nr/the_ultimate_moe_training_handbook_training",
+   "source": "reddit",
+   "title": "The Ultimate MoE Training Handbook: training Mixture-of-Experts models with Megatron-LM, setting by setting.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xor5nr/the_ultimate_moe_training_handbook_training/",
+   "published_at": "2026-11-05T19:01:53+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "The Ultimate MoE Training Handbook: training Mixture-of-Experts models with Megatron-LM, setting by setting."
+  },
+  {
+   "id": "hn:50384502",
+   "source": "hn",
+   "title": "Show HN: Cerea – yet another self-hosted LLM chat front end",
+   "url": "https://github.com/paoloviviani/Cerea",
+   "published_at": "2026-11-05T21:11:50Z",
+   "extra": "points=1",
+   "event_type": "release",
+   "summary": "Show HN: Cerea – yet another self-hosted LLM chat front end"
   }
  ]
 }
