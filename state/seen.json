@@ -3783,7 +3783,12 @@
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xou096/i_fixed_my_tiny_tts_by_editing_the_weights": "2026-11-06T00:07:04.755721+00:00",
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xottw2/strata_for_all_qwen_models_from_little_to_big": "2026-11-06T00:07:04.755721+00:00",
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xor5nr/the_ultimate_moe_training_handbook_training": "2026-11-06T00:07:04.755721+00:00",
-  "hn:50384502": "2026-11-06T00:07:04.755721+00:00"
+  "hn:50384502": "2026-11-06T00:07:04.755721+00:00",
+  "openrouter:tencent/hy4": "2026-11-06T06:32:51.426680+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xp38jl/comparing_gpu_stats_for_local_llm_usage": "2026-11-06T06:32:51.888720+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xp32od/introducing_inkling_2_small": "2026-11-06T06:32:51.888720+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xp01ck/endtoend_desktop_quantization_workspace_for_large": "2026-11-06T06:32:51.888720+00:00",
+  "hn:50388824": "2026-11-06T06:32:51.888720+00:00"
  },
  "pending": [
   {
@@ -28283,6 +28288,102 @@
    "extra": "points=52"
   },
   {
+   "id": "openrouter:tencent/hy4",
+   "source": "openrouter",
+   "title": "Tencent: Hy4",
+   "url": "https://openrouter.ai/tencent/hy4",
+   "published_at": "2026-11-04T04:20:31+00:00",
+   "extra": "context=1048576"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xow94y/level1techs_the_cuda_hour_is_late_also_who_made",
+   "source": "reddit",
+   "title": "Level1Techs - The CUDA hour is Late. Also, Who Made the R9700 this fast?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xow94y/level1techs_the_cuda_hour_is_late_also_who_made/",
+   "published_at": "2026-11-05T22:25:54+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xoqgar/spark_your_ai_workflows_with_edgemesa_n_ai",
+   "source": "reddit",
+   "title": "Spark your AI Workflows with EdgeMesa N AI+",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoqgar/spark_your_ai_workflows_with_edgemesa_n_ai/",
+   "published_at": "2026-11-05T18:35:28+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xoq4vq/deepseekv41flash1017_on_one_rtx_3090_big_updates",
+   "source": "reddit",
+   "title": "DeepSeek-V4.1-Flash-1017 on one RTX 3090: Big updates to the Delta Inference Engine v0.93. Same 41 tok/s at 192GB/IQ2 at better quality, usable from 64 GB RAM, first token ~40% sooner, new Unsloth quants at full speed, EXL3, basic multi-GPU, public CI and more",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoq4vq/deepseekv41flash1017_on_one_rtx_3090_big_updates/",
+   "published_at": "2026-11-05T18:23:22+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xoogj8/nemotron_35_bolt_e4b_on_jetson_orin_nano_super_at",
+   "source": "reddit",
+   "title": "Nemotron 3.5 Bolt E4B on Jetson Orin Nano Super at 27.7 tok/s!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoogj8/nemotron_35_bolt_e4b_on_jetson_orin_nano_super_at/",
+   "published_at": "2026-11-05T17:20:38+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xoo9gh/add_support_for_the_xing4_0_by_shuxiaoqiong_pull",
+   "source": "reddit",
+   "title": "Add support for the xing4_0 by shuxiaoqiong · Pull Request #31589 · ggml-org/llama.cpp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoo9gh/add_support_for_the_xing4_0_by_shuxiaoqiong_pull/",
+   "published_at": "2026-11-05T17:13:16+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xoo730/can_opus_weightspaceedit_qwen3827b_to_refuse_less",
+   "source": "reddit",
+   "title": "Can Opus weight-space-edit Qwen3.8-27B to refuse less? Yes",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoo730/can_opus_weightspaceedit_qwen3827b_to_refuse_less/",
+   "published_at": "2026-11-05T17:10:49+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xoo0pp/paper_specopd_branchparallel_onpolicy",
+   "source": "reddit",
+   "title": "[Paper] SpecOPD: Branch-Parallel On-Policy Distillation for Speculative Decoding - By Qwen",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoo0pp/paper_specopd_branchparallel_onpolicy/",
+   "published_at": "2026-11-05T17:03:58+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xonxqo/training_a_sota_pangramlike_detector_on_a_4070ti",
+   "source": "reddit",
+   "title": "Training a SOTA Pangram-like detector on a 4070ti",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xonxqo/training_a_sota_pangramlike_detector_on_a_4070ti/",
+   "published_at": "2026-11-05T17:00:57+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xonmnb/where_is_qwen_4_and_ds_v41_5_pro_glm_55",
+   "source": "reddit",
+   "title": "Where is Qwen 4? And DS v4.1 / 5 pro ? Glm 5.5?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xonmnb/where_is_qwen_4_and_ds_v41_5_pro_glm_55/",
+   "published_at": "2026-11-05T16:49:17+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/australian-universities-ai-native-graduates",
+   "source": "openai",
+   "title": "Australian universities are creating AI-native graduates",
+   "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+   "published_at": "2026-11-05T17:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/cultfit-builds-with-codex",
+   "source": "openai",
+   "title": "Cult.fit builds operational muscle with Codex",
+   "url": "https://openai.com/index/cultfit-builds-with-codex",
+   "published_at": "2026-11-05T20:00:00+00:00",
+   "extra": ""
+  },
+  {
    "id": "openai:https://openai.com/index/introducing-gpt-6-cyber",
    "source": "openai",
    "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
@@ -28312,6 +28413,14 @@
    "title": "Flipsnack grows product signups with conversion optimization",
    "url": "https://openai.com/ads/customers/flipsnack",
    "published_at": "2026-11-05T00:45:15+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/franklin-templeton",
+   "source": "openai",
+   "title": "Franklin Templeton uses OpenAI to support investment research",
+   "url": "https://openai.com/index/franklin-templeton",
+   "published_at": "2026-11-05T00:00:00+00:00",
    "extra": ""
   },
   {
@@ -28435,20 +28544,68 @@
    "extra": "context=16384"
   },
   {
-   "id": "openrouter:tencent/hy4",
-   "source": "openrouter",
-   "title": "Tencent: Hy4",
-   "url": "https://openrouter.ai/tencent/hy4",
-   "published_at": "2026-11-04T04:20:31+00:00",
-   "extra": "context=1048576"
-  },
-  {
    "id": "openrouter:openrouter/auto-code",
    "source": "openrouter",
    "title": "Auto Code",
    "url": "https://openrouter.ai/openrouter/auto-code",
    "published_at": "2026-11-05T13:12:01+00:00",
    "extra": "context=2000000"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xp4lv5/bring_agentic_coding_ondevice_with_foundry_local",
+   "source": "reddit",
+   "title": "Bring Agentic Coding On-Device with Foundry Local",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xp4lv5/bring_agentic_coding_ondevice_with_foundry_local/",
+   "published_at": "2026-11-06T05:14:39+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xp293p/knightshift_radio_livestreaming_radio_from_a",
+   "source": "reddit",
+   "title": "Knightshift Radio = livestreaming radio from a singel B70",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xp293p/knightshift_radio_livestreaming_radio_from_a/",
+   "published_at": "2026-11-06T03:07:45+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xp1qgc/how_much_can_a_m6_32gb_run",
+   "source": "reddit",
+   "title": "how much can a m6 32gb run?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xp1qgc/how_much_can_a_m6_32gb_run/",
+   "published_at": "2026-11-06T02:42:11+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xp00rz/i_got_server_side_barge_in_working_in",
+   "source": "reddit",
+   "title": "I got server side barge in working in VoiceManager TTS/STT, I'm stoked.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xp00rz/i_got_server_side_barge_in_working_in/",
+   "published_at": "2026-11-06T01:17:33+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xozbe6/ccore_glb3dcoder_dataset_is_here_3918_rendered",
+   "source": "reddit",
+   "title": "CCORE GLB-3D-Coder dataset is here: 3,918 rendered and tested examples across 40 domains",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xozbe6/ccore_glb3dcoder_dataset_is_here_3918_rendered/",
+   "published_at": "2026-11-06T00:43:25+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xoyr90/cpython_0day_vulnerabilities_threaten_the_ai",
+   "source": "reddit",
+   "title": "CPython 0-Day Vulnerabilities Threaten the AI Supply Chain",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoyr90/cpython_0day_vulnerabilities_threaten_the_ai/",
+   "published_at": "2026-11-06T00:17:41+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xoykiu/running_deepseek_on_one_rtx_3090_20tks",
+   "source": "reddit",
+   "title": "Running deepseek on one RTX 3090: 20tks",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoykiu/running_deepseek_on_one_rtx_3090_20tks/",
+   "published_at": "2026-11-06T00:08:49+00:00",
+   "extra": ""
   },
   {
    "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xoy5mj/this_makes_zero_sense_supply_and_demand_doesnt",
@@ -28480,14 +28637,6 @@
    "title": "72 t/s on 12gb 3060 - GPU Arena",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoxcr3/72_ts_on_12gb_3060_gpu_arena/",
    "published_at": "2026-11-05T23:14:45+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xow94y/level1techs_the_cuda_hour_is_late_also_who_made",
-   "source": "reddit",
-   "title": "Level1Techs - The CUDA hour is Late. Also, Who Made the R9700 this fast?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xow94y/level1techs_the_cuda_hour_is_late_also_who_made/",
-   "published_at": "2026-11-05T22:25:54+00:00",
    "extra": ""
   },
   {
@@ -28547,75 +28696,11 @@
    "extra": ""
   },
   {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xoqgar/spark_your_ai_workflows_with_edgemesa_n_ai",
-   "source": "reddit",
-   "title": "Spark your AI Workflows with EdgeMesa N AI+",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoqgar/spark_your_ai_workflows_with_edgemesa_n_ai/",
-   "published_at": "2026-11-05T18:35:28+00:00",
-   "extra": ""
-  },
-  {
    "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xoqc59/add_support_for_the_xing4_0_by_shuxiaoqiong_pull",
    "source": "reddit",
    "title": "Add support for the xing4_0 by shuxiaoqiong · Pull Request #31589 · ggml-org/llama.cpp",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoqc59/add_support_for_the_xing4_0_by_shuxiaoqiong_pull/",
    "published_at": "2026-11-05T18:30:55+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xoq4vq/deepseekv41flash1017_on_one_rtx_3090_big_updates",
-   "source": "reddit",
-   "title": "DeepSeek-V4.1-Flash-1017 on one RTX 3090: Big updates to the Delta Inference Engine v0.93. Same 41 tok/s at 192GB/IQ2 at better quality, usable from 64 GB RAM, first token ~40% sooner, new Unsloth quants at full speed, EXL3, basic multi-GPU, public CI and more",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoq4vq/deepseekv41flash1017_on_one_rtx_3090_big_updates/",
-   "published_at": "2026-11-05T18:23:22+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xoogj8/nemotron_35_bolt_e4b_on_jetson_orin_nano_super_at",
-   "source": "reddit",
-   "title": "Nemotron 3.5 Bolt E4B on Jetson Orin Nano Super at 27.7 tok/s!",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoogj8/nemotron_35_bolt_e4b_on_jetson_orin_nano_super_at/",
-   "published_at": "2026-11-05T17:20:38+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xoo9gh/add_support_for_the_xing4_0_by_shuxiaoqiong_pull",
-   "source": "reddit",
-   "title": "Add support for the xing4_0 by shuxiaoqiong · Pull Request #31589 · ggml-org/llama.cpp",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoo9gh/add_support_for_the_xing4_0_by_shuxiaoqiong_pull/",
-   "published_at": "2026-11-05T17:13:16+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xoo730/can_opus_weightspaceedit_qwen3827b_to_refuse_less",
-   "source": "reddit",
-   "title": "Can Opus weight-space-edit Qwen3.8-27B to refuse less? Yes",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoo730/can_opus_weightspaceedit_qwen3827b_to_refuse_less/",
-   "published_at": "2026-11-05T17:10:49+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xoo0pp/paper_specopd_branchparallel_onpolicy",
-   "source": "reddit",
-   "title": "[Paper] SpecOPD: Branch-Parallel On-Policy Distillation for Speculative Decoding - By Qwen",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoo0pp/paper_specopd_branchparallel_onpolicy/",
-   "published_at": "2026-11-05T17:03:58+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xonxqo/training_a_sota_pangramlike_detector_on_a_4070ti",
-   "source": "reddit",
-   "title": "Training a SOTA Pangram-like detector on a 4070ti",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xonxqo/training_a_sota_pangramlike_detector_on_a_4070ti/",
-   "published_at": "2026-11-05T17:00:57+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xonmnb/where_is_qwen_4_and_ds_v41_5_pro_glm_55",
-   "source": "reddit",
-   "title": "Where is Qwen 4? And DS v4.1 / 5 pro ? Glm 5.5?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xonmnb/where_is_qwen_4_and_ds_v41_5_pro_glm_55/",
-   "published_at": "2026-11-05T16:49:17+00:00",
    "extra": ""
   },
   {
@@ -40681,6 +40766,46 @@
    "extra": "points=1",
    "event_type": "release",
    "summary": "Show HN: Cerea – yet another self-hosted LLM chat front end"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xp38jl/comparing_gpu_stats_for_local_llm_usage",
+   "source": "reddit",
+   "title": "Comparing GPU stats for local LLM usage",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xp38jl/comparing_gpu_stats_for_local_llm_usage/",
+   "published_at": "2026-11-06T03:59:19+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "Comparing GPU stats for local LLM usage"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xp32od/introducing_inkling_2_small",
+   "source": "reddit",
+   "title": "Introducing Inkling 2 Small",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xp32od/introducing_inkling_2_small/",
+   "published_at": "2026-11-06T03:50:26+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "Introducing Inkling 2 Small"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xp01ck/endtoend_desktop_quantization_workspace_for_large",
+   "source": "reddit",
+   "title": "End-to-End Desktop Quantization workspace for Large Language Models: Load local Safetensors or Huggingface, Step-by-Step guided Conversions to GGUF, MLX, and ONNX, and Visualize Model Changes and quick publishing to huggingface with full model card.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xp01ck/endtoend_desktop_quantization_workspace_for_large/",
+   "published_at": "2026-11-06T01:18:19+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "End-to-End Desktop Quantization workspace for Large Language Models: Load local Safetensors or Huggingface, Step-by-Step guided Conversions to GGUF, MLX, and ONNX, and Visualize Model Changes and quick publishing to huggingface with full model card."
+  },
+  {
+   "id": "hn:50388824",
+   "source": "hn",
+   "title": "Inkling 2 Small: highest-scoring open weights model developed outside China",
+   "url": "https://artificialanalysis.ai/articles/thinking-machines-releases-inkling-2-small-highest-scoring-open-weights-model-outside-of-chinia-upon-weights-release-it",
+   "published_at": "2026-11-06T06:18:29Z",
+   "extra": "points=1",
+   "event_type": "release",
+   "summary": "Inkling 2 Small: highest-scoring open weights model developed outside China"
   }
  ]
 }
