@@ -3903,9 +3903,88 @@
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xsde08/these_names_are_wild_but_i_love_themnew_model": "2026-11-10T07:42:10.991691+00:00",
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xsaurn/cudarocm_dualbackends_llm_inference_for": "2026-11-10T07:42:10.991691+00:00",
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xs9nux/i_made_a_400m_model_for_npc_judgement_calls_in": "2026-11-10T07:42:10.991691+00:00",
-  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xs8hfw/free_opensource_voice_typing_for_any_app_on": "2026-11-10T07:42:10.991691+00:00"
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xs8hfw/free_opensource_voice_typing_for_any_app_on": "2026-11-10T07:42:10.991691+00:00",
+  "hn:50413970": "2026-11-10T16:22:44.805718+00:00",
+  "hn:50413587": "2026-11-10T16:22:44.805718+00:00",
+  "anthropic:roadshow-launch": "2026-11-10T16:22:45.376374+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xsqv86/tts_bench_91_open_tts_models_and_28_paid_tts_apis": "2026-11-10T16:22:45.376374+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xsoaeo/lingbottouch_a_robbyant_collection_a_foundation": "2026-11-10T16:22:45.376374+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xso1ie/minimax_h3image_released_an_openweight_image": "2026-11-10T16:22:45.376374+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xsmcwc/simple_models_for_simple_and_easy_agentic_tasks": "2026-11-10T16:22:45.376374+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xsl5t4/lokalbot_orchestrates_five_local_models_for_a": "2026-11-10T16:22:45.376374+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xskn3z/dna_factory_yet_another_llm_training_framework": "2026-11-10T16:22:45.376374+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xski9d/decision_model_to_edit_llm_weight_directly_no": "2026-11-10T16:22:45.376374+00:00",
+  "hn:50441764": "2026-11-10T16:22:45.376374+00:00",
+  "hn:50439363": "2026-11-10T16:22:45.376374+00:00",
+  "hn:50438889": "2026-11-10T16:22:45.376374+00:00",
+  "hn:50441321": "2026-11-10T16:22:45.376374+00:00",
+  "hn:50438001": "2026-11-10T16:22:45.376374+00:00"
  },
  "pending": [
+  {
+   "id": "hn:50441216",
+   "source": "hn",
+   "title": "Show HN: QueenMQ – slow LLM calls blocked our Kafka partitions, so we built it",
+   "url": "https://github.com/queen-mq/queen",
+   "published_at": "2026-11-10T14:52:36Z",
+   "extra": "points=2"
+  },
+  {
+   "id": "hn:50440317",
+   "source": "hn",
+   "title": "Show HN: A Hacker's Web Browser – Any Site to API (Open-Source)",
+   "url": "https://github.com/realsirjoe/relinos",
+   "published_at": "2026-11-10T13:49:15Z",
+   "extra": "points=2"
+  },
+  {
+   "id": "hn:50439598",
+   "source": "hn",
+   "title": "Show HN: Markview – a fast Markdown reader in Rust, Obsidian Vault compatible",
+   "url": "https://github.com/szdytom/markview",
+   "published_at": "2026-11-10T12:47:21Z",
+   "extra": "points=2"
+  },
+  {
+   "id": "hn:50438931",
+   "source": "hn",
+   "title": "Show HN: Tokspur a 3x faster open source inference engine for Macs",
+   "url": "https://github.com/san-digital/tokspur",
+   "published_at": "2026-11-10T11:42:45Z",
+   "extra": "points=3"
+  },
+  {
+   "id": "hn:50427934",
+   "source": "hn",
+   "title": "Show HN: DBDelve – Open-Source DB Client Made with Rust and GPUI",
+   "url": "https://news.ycombinator.com/item?id=50427934",
+   "published_at": "2026-11-09T16:36:38Z",
+   "extra": "points=91"
+  },
+  {
+   "id": "hn:50426559",
+   "source": "hn",
+   "title": "Show HN: Thrum – run Claude Code, Codex and other coding agents as one team",
+   "url": "https://thrum.team/",
+   "published_at": "2026-11-09T14:59:42Z",
+   "extra": "points=6"
+  },
+  {
+   "id": "hn:50426158",
+   "source": "hn",
+   "title": "Show HN: Product Analytics for your agent. 100x+ cheaper analytics/BI",
+   "url": "https://slurp.run/",
+   "published_at": "2026-11-09T14:30:22Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:50424070",
+   "source": "hn",
+   "title": "Show HN: TimeScroll – an open-source, local replacement for Rewind on Mac",
+   "url": "https://github.com/XInTheDark/TimeScrollApp",
+   "published_at": "2026-11-09T11:19:39Z",
+   "extra": "points=2"
+  },
   {
    "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wpqyaz/gemma_4_developer_agent_competition",
    "source": "reddit",
@@ -29963,134 +30042,6 @@
    "extra": "points=28"
   },
   {
-   "id": "openai:https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-   "source": "openai",
-   "title": "ChatGPT Enterprise now available in AWS Marketplace",
-   "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-   "published_at": "2026-11-09T19:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "openai:https://openai.com/index/coderabbit-codex-daybreak",
-   "source": "openai",
-   "title": "CodeRabbit scales agentic software development and ships 20x more",
-   "url": "https://openai.com/index/coderabbit-codex-daybreak",
-   "published_at": "2026-11-09T08:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "openai:https://openai.com/index/kuken",
-   "source": "openai",
-   "title": "Kuken Industries searches 70 years of drawings in minutes",
-   "url": "https://openai.com/index/kuken",
-   "published_at": "2026-11-09T08:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "anthropic:s1-sec",
-   "source": "anthropic",
-   "title": "S1 Sec",
-   "url": "https://www.anthropic.com/news/s1-sec",
-   "published_at": null,
-   "extra": ""
-  },
-  {
-   "id": "anthropic:ai-for-science-expands-foundations-research-institutions",
-   "source": "anthropic",
-   "title": "Ai For Science Expands Foundations Research Institutions",
-   "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
-   "published_at": null,
-   "extra": ""
-  },
-  {
-   "id": "anthropic:expanding-partnership-gsa",
-   "source": "anthropic",
-   "title": "Expanding Partnership Gsa",
-   "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
-   "published_at": null,
-   "extra": ""
-  },
-  {
-   "id": "anthropic:donating-agent-skills-to-the-agentic-ai-foundation",
-   "source": "anthropic",
-   "title": "Donating Agent Skills To The Agentic Ai Foundation",
-   "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
-   "published_at": null,
-   "extra": ""
-  },
-  {
-   "id": "anthropic:open-call-guest-investigators-life-sciences",
-   "source": "anthropic",
-   "title": "Open Call Guest Investigators Life Sciences",
-   "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
-   "published_at": null,
-   "extra": ""
-  },
-  {
-   "id": "anthropic:christopher-stubbs-joins-long-term-benefit-trust",
-   "source": "anthropic",
-   "title": "Christopher Stubbs Joins Long Term Benefit Trust",
-   "url": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
-   "published_at": null,
-   "extra": ""
-  },
-  {
-   "id": "anthropic:distillation-defenses",
-   "source": "anthropic",
-   "title": "Distillation Defenses",
-   "url": "https://www.anthropic.com/news/distillation-defenses",
-   "published_at": null,
-   "extra": ""
-  },
-  {
-   "id": "deepseek:news261017",
-   "source": "deepseek",
-   "title": "DeepSeek-V4.1-Flash-1017: Wish-Driven Programming Made Real",
-   "url": "https://api-docs.deepseek.com/news/news261017/",
-   "published_at": null,
-   "extra": ""
-  },
-  {
-   "id": "openrouter:nex-agi/nex-n2.6",
-   "source": "openrouter",
-   "title": "Nex AGI: Nex-N2.6",
-   "url": "https://openrouter.ai/nex-agi/nex-n2.6",
-   "published_at": "2026-11-10T03:46:19+00:00",
-   "extra": "context=262144"
-  },
-  {
-   "id": "openrouter:thinkingmachines/inkling-2-small:free",
-   "source": "openrouter",
-   "title": "Thinking Machines: Inkling 2 Small (free)",
-   "url": "https://openrouter.ai/thinkingmachines/inkling-2-small:free",
-   "published_at": "2026-11-09T22:04:07+00:00",
-   "extra": "context=1048576"
-  },
-  {
-   "id": "openrouter:anthropic/claude-fable-5.2",
-   "source": "openrouter",
-   "title": "Anthropic: Claude Fable 5.2",
-   "url": "https://openrouter.ai/anthropic/claude-fable-5.2",
-   "published_at": "2026-11-09T19:49:41+00:00",
-   "extra": "context=1000000"
-  },
-  {
-   "id": "openrouter:anthropic/claude-fable-5.2:batch",
-   "source": "openrouter",
-   "title": "Anthropic: Claude Fable 5.2 (batch)",
-   "url": "https://openrouter.ai/anthropic/claude-fable-5.2:batch",
-   "published_at": "2026-11-09T19:49:41+00:00",
-   "extra": "context=1000000"
-  },
-  {
-   "id": "openrouter:meta/muse-ember",
-   "source": "openrouter",
-   "title": "Meta: Muse Ember",
-   "url": "https://openrouter.ai/meta/muse-ember",
-   "published_at": "2026-11-09T18:07:28+00:00",
-   "extra": "context=1048576"
-  },
-  {
    "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xsgpby/feat_external_ple_file_loading_by_pwilkin_pull",
    "source": "reddit",
    "title": "feat: external PLE file loading by pwilkin · Pull Request #31185 · ggml-org/llama.cpp",
@@ -30219,22 +30170,6 @@
    "extra": ""
   },
   {
-   "id": "hn:50436636",
-   "source": "hn",
-   "title": "Tell HN: Notion AI chat sessions have been exposed via Fireworks AI hack",
-   "url": "https://news.ycombinator.com/item?id=50436636",
-   "published_at": "2026-11-10T06:00:48Z",
-   "extra": "points=9"
-  },
-  {
-   "id": "hn:50431764",
-   "source": "hn",
-   "title": "Show HN: Negs (Spektrafilm) brings spectral film simulations to the browser",
-   "url": "https://getnegs.com/try/",
-   "published_at": "2026-11-09T20:41:22Z",
-   "extra": "points=1"
-  },
-  {
    "id": "hn:50429960",
    "source": "hn",
    "title": "Show HN: Search 17 years of \"What are you working on?\"",
@@ -30243,67 +30178,11 @@
    "extra": "points=1"
   },
   {
-   "id": "hn:50429636",
-   "source": "hn",
-   "title": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
-   "url": "https://meowdisplay.app/",
-   "published_at": "2026-11-09T18:39:22Z",
-   "extra": "points=70"
-  },
-  {
-   "id": "hn:50429225",
-   "source": "hn",
-   "title": "Muse Ember",
-   "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
-   "published_at": "2026-11-09T18:11:35Z",
-   "extra": "points=10"
-  },
-  {
-   "id": "hn:50419019",
-   "source": "hn",
-   "title": "Tell HN: A flood of reports of Opus 5.5 being nerfed",
-   "url": "https://news.ycombinator.com/item?id=50419019",
-   "published_at": "2026-11-08T23:49:19Z",
-   "extra": "points=1"
-  },
-  {
    "id": "hn:50413970",
    "source": "hn",
    "title": "Show HN: Recalc – Spreadsheet where cells can be Claude Code or Codex terminals",
    "url": "https://github.com/sshah03/recalc",
    "published_at": "2026-11-08T15:12:07Z",
-   "extra": "points=2"
-  },
-  {
-   "id": "hn:50427934",
-   "source": "hn",
-   "title": "Show HN: DBDelve – Open-Source DB Client Made with Rust and GPUI",
-   "url": "https://news.ycombinator.com/item?id=50427934",
-   "published_at": "2026-11-09T16:36:38Z",
-   "extra": "points=91"
-  },
-  {
-   "id": "hn:50426559",
-   "source": "hn",
-   "title": "Show HN: Thrum – run Claude Code, Codex and other coding agents as one team",
-   "url": "https://thrum.team/",
-   "published_at": "2026-11-09T14:59:42Z",
-   "extra": "points=6"
-  },
-  {
-   "id": "hn:50426158",
-   "source": "hn",
-   "title": "Show HN: Product Analytics for your agent. 100x+ cheaper analytics/BI",
-   "url": "https://slurp.run/",
-   "published_at": "2026-11-09T14:30:22Z",
-   "extra": "points=1"
-  },
-  {
-   "id": "hn:50424070",
-   "source": "hn",
-   "title": "Show HN: TimeScroll – an open-source, local replacement for Rewind on Mac",
-   "url": "https://github.com/XInTheDark/TimeScrollApp",
-   "published_at": "2026-11-09T11:19:39Z",
    "extra": "points=2"
   },
   {
@@ -30401,6 +30280,382 @@
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpr6jp/has_anyone_benchmarked_ai_agents_against_the/",
    "published_at": "2026-09-25T08:50:17+00:00",
    "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+   "source": "openai",
+   "title": "Helping caregivers use AI in everyday life",
+   "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+   "published_at": "2026-11-10T12:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/closing-ai-guidance-gap-education",
+   "source": "openai",
+   "title": "Closing the AI guidance gap in education",
+   "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+   "published_at": "2026-11-10T09:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/ai-effect-on-freelance-work",
+   "source": "openai",
+   "title": "Work at the Frontier: AI’s effect on freelance work",
+   "url": "https://openai.com/index/ai-effect-on-freelance-work",
+   "published_at": "2026-11-10T07:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+   "source": "openai",
+   "title": "ChatGPT Enterprise now available in AWS Marketplace",
+   "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+   "published_at": "2026-11-09T19:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/coderabbit-codex-daybreak",
+   "source": "openai",
+   "title": "CodeRabbit scales agentic software development and ships 20x more",
+   "url": "https://openai.com/index/coderabbit-codex-daybreak",
+   "published_at": "2026-11-09T08:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/kuken",
+   "source": "openai",
+   "title": "Kuken Industries searches 70 years of drawings in minutes",
+   "url": "https://openai.com/index/kuken",
+   "published_at": "2026-11-09T08:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "anthropic:s1-sec",
+   "source": "anthropic",
+   "title": "S1 Sec",
+   "url": "https://www.anthropic.com/news/s1-sec",
+   "published_at": null,
+   "extra": ""
+  },
+  {
+   "id": "anthropic:ai-for-science-expands-foundations-research-institutions",
+   "source": "anthropic",
+   "title": "Ai For Science Expands Foundations Research Institutions",
+   "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+   "published_at": null,
+   "extra": ""
+  },
+  {
+   "id": "anthropic:expanding-partnership-gsa",
+   "source": "anthropic",
+   "title": "Expanding Partnership Gsa",
+   "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+   "published_at": null,
+   "extra": ""
+  },
+  {
+   "id": "anthropic:donating-agent-skills-to-the-agentic-ai-foundation",
+   "source": "anthropic",
+   "title": "Donating Agent Skills To The Agentic Ai Foundation",
+   "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+   "published_at": null,
+   "extra": ""
+  },
+  {
+   "id": "anthropic:open-call-guest-investigators-life-sciences",
+   "source": "anthropic",
+   "title": "Open Call Guest Investigators Life Sciences",
+   "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
+   "published_at": null,
+   "extra": ""
+  },
+  {
+   "id": "anthropic:christopher-stubbs-joins-long-term-benefit-trust",
+   "source": "anthropic",
+   "title": "Christopher Stubbs Joins Long Term Benefit Trust",
+   "url": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
+   "published_at": null,
+   "extra": ""
+  },
+  {
+   "id": "anthropic:distillation-defenses",
+   "source": "anthropic",
+   "title": "Distillation Defenses",
+   "url": "https://www.anthropic.com/news/distillation-defenses",
+   "published_at": null,
+   "extra": ""
+  },
+  {
+   "id": "deepseek:news261017",
+   "source": "deepseek",
+   "title": "DeepSeek-V4.1-Flash-1017: Wish-Driven Programming Made Real",
+   "url": "https://api-docs.deepseek.com/news/news261017/",
+   "published_at": null,
+   "extra": ""
+  },
+  {
+   "id": "openrouter:google/gemini-4-carbon",
+   "source": "openrouter",
+   "title": "Google: Gemini 4 Carbon",
+   "url": "https://openrouter.ai/google/gemini-4-carbon",
+   "published_at": "2026-11-10T16:07:51+00:00",
+   "extra": "context=1048576"
+  },
+  {
+   "id": "openrouter:google/gemini-4-carbon:batch",
+   "source": "openrouter",
+   "title": "Google: Gemini 4 Carbon (batch)",
+   "url": "https://openrouter.ai/google/gemini-4-carbon:batch",
+   "published_at": "2026-11-10T16:07:51+00:00",
+   "extra": "context=1048576"
+  },
+  {
+   "id": "openrouter:nex-agi/nex-n2.6",
+   "source": "openrouter",
+   "title": "Nex AGI: Nex-N2.6",
+   "url": "https://openrouter.ai/nex-agi/nex-n2.6",
+   "published_at": "2026-11-10T03:46:19+00:00",
+   "extra": "context=262144"
+  },
+  {
+   "id": "openrouter:thinkingmachines/inkling-2-small:free",
+   "source": "openrouter",
+   "title": "Thinking Machines: Inkling 2 Small (free)",
+   "url": "https://openrouter.ai/thinkingmachines/inkling-2-small:free",
+   "published_at": "2026-11-09T22:04:07+00:00",
+   "extra": "context=1048576"
+  },
+  {
+   "id": "openrouter:anthropic/claude-fable-5.2",
+   "source": "openrouter",
+   "title": "Anthropic: Claude Fable 5.2",
+   "url": "https://openrouter.ai/anthropic/claude-fable-5.2",
+   "published_at": "2026-11-09T19:49:41+00:00",
+   "extra": "context=1000000"
+  },
+  {
+   "id": "openrouter:anthropic/claude-fable-5.2:batch",
+   "source": "openrouter",
+   "title": "Anthropic: Claude Fable 5.2 (batch)",
+   "url": "https://openrouter.ai/anthropic/claude-fable-5.2:batch",
+   "published_at": "2026-11-09T19:49:41+00:00",
+   "extra": "context=1000000"
+  },
+  {
+   "id": "openrouter:meta/muse-ember",
+   "source": "openrouter",
+   "title": "Meta: Muse Ember",
+   "url": "https://openrouter.ai/meta/muse-ember",
+   "published_at": "2026-11-09T18:07:28+00:00",
+   "extra": "context=1048576"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xspmhe/startlux_4b_9b_instant_system1jev_q40_on_4_x",
+   "source": "reddit",
+   "title": "Startlux 4B 9B Instant (System1/Jev) Q40 on 4 x Raspberry Pi 5 8GB",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xspmhe/startlux_4b_9b_instant_system1jev_q40_on_4_x/",
+   "published_at": "2026-11-10T15:22:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xspgpa/i_built_a_desktop_app_to_run_a_whole_team_of",
+   "source": "reddit",
+   "title": "I built a desktop app to run a whole team of Hermes Agent bots from one window (open source, MIT, macOS)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xspgpa/i_built_a_desktop_app_to_run_a_whole_team_of/",
+   "published_at": "2026-11-10T15:15:34+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xsp6ub/strata_vs_basalt_more_differences_than_speed",
+   "source": "reddit",
+   "title": "Strata vs Basalt more differences than speed.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsp6ub/strata_vs_basalt_more_differences_than_speed/",
+   "published_at": "2026-11-10T15:05:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xsp3xt/minimaxaiminimaxh3image_hugging_face",
+   "source": "reddit",
+   "title": "MiniMaxAI/MiniMax-H3-Image · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsp3xt/minimaxaiminimaxh3image_hugging_face/",
+   "published_at": "2026-11-10T15:01:52+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xsp309/42_gpu_power_reduction_with_zero_performance_loss",
+   "source": "reddit",
+   "title": "42% GPU power reduction with zero performance loss.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsp309/42_gpu_power_reduction_with_zero_performance_loss/",
+   "published_at": "2026-11-10T15:00:54+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xsp2tv/kvark_sparkle_11_qwen3827b_finetune_apache_20",
+   "source": "reddit",
+   "title": "Kvark Sparkle 1.1 (Qwen3.8-27B fine-tune, Apache 2.0): agentic document QA that says \"not in the documents\" 91.5% of the time, with 7-48% fewer reasoning tokens than the base",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsp2tv/kvark_sparkle_11_qwen3827b_finetune_apache_20/",
+   "published_at": "2026-11-10T15:00:45+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xsorsx/we_tested_qwen36_27b_qwen38_27b_and_glm53_flash",
+   "source": "reddit",
+   "title": "We tested Qwen3.6 27B, Qwen3.8 27B and GLM-5.3 Flash on real tasks in Elixir, OCaml, Haskell and 10 other less common languages",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsorsx/we_tested_qwen36_27b_qwen38_27b_and_glm53_flash/",
+   "published_at": "2026-11-10T14:48:25+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xsocrj/my_08b_finetune_proofreads_spanish_at_138_ms_per",
+   "source": "reddit",
+   "title": "My 0.8B fine-tune proofreads Spanish at 138 ms per sentence on a CPU",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsocrj/my_08b_finetune_proofreads_spanish_at_138_ms_per/",
+   "published_at": "2026-11-10T14:31:04+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xso3y1/deepseek_v41_flash_failed_after_1_hour_gpt6_astra",
+   "source": "reddit",
+   "title": "DeepSeek V4.1 Flash failed after 1 hour — GPT-6 Astra finished in 7 minutes. Can fine-tuning help?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xso3y1/deepseek_v41_flash_failed_after_1_hour_gpt6_astra/",
+   "published_at": "2026-11-10T14:20:59+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xso32l/adventistsaisophonrealtimev1_hugging_face",
+   "source": "reddit",
+   "title": "adventists-ai/Sophon-Realtime-v1 · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xso32l/adventistsaisophonrealtimev1_hugging_face/",
+   "published_at": "2026-11-10T14:20:01+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xsnufl/paper_worldfoundry_towards_unified_infrastructure",
+   "source": "reddit",
+   "title": "[Paper] WorldFoundry: Towards Unified Infrastructure for World Intelligence",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsnufl/paper_worldfoundry_towards_unified_infrastructure/",
+   "published_at": "2026-11-10T14:09:53+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xsn0hz/i_built_lokey_an_opensource_android_keyboard_with",
+   "source": "reddit",
+   "title": "I built Lokey, an open-source Android keyboard with on-device AI",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsn0hz/i_built_lokey_an_opensource_android_keyboard_with/",
+   "published_at": "2026-11-10T13:33:36+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xsmc20/does_this_exist_a_voicebased_rpgcyoa_that_doesnt",
+   "source": "reddit",
+   "title": "Does this exist? A voice-based RPG/CYOA that doesn't have or need a GUI? Yes, I did search the sub.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsmc20/does_this_exist_a_voicebased_rpgcyoa_that_doesnt/",
+   "published_at": "2026-11-10T13:02:14+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xsm494/stream_clipping_with_zero_tokens_spent_finding",
+   "source": "reddit",
+   "title": "Stream clipping with zero tokens spent finding clips and a local qwen as the judge",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsm494/stream_clipping_with_zero_tokens_spent_finding/",
+   "published_at": "2026-11-10T12:52:09+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xsljn6/nobody_wondering_why_the_us_takes_nvidia_ceo",
+   "source": "reddit",
+   "title": "Nobody wondering why the US takes Nvidia CEO affair public?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsljn6/nobody_wondering_why_the_us_takes_nvidia_ceo/",
+   "published_at": "2026-11-10T12:23:33+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xsl8w7/strata_after_heavy_optimizations",
+   "source": "reddit",
+   "title": "Strata after heavy optimizations",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsl8w7/strata_after_heavy_optimizations/",
+   "published_at": "2026-11-10T12:08:12+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xsl4qt/paper_exploring_weightspace_programming",
+   "source": "reddit",
+   "title": "[Paper] Exploring Weight-Space Programming: Capabilities, Generalization, and Limitations",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsl4qt/paper_exploring_weightspace_programming/",
+   "published_at": "2026-11-10T12:02:19+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xskr0m/xiangjuntangjovox64_hugging_face_imageto3d",
+   "source": "reddit",
+   "title": "xiangjuntang/JoVox-64 · Hugging Face - Image-to-3D",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xskr0m/xiangjuntangjovox64_hugging_face_imageto3d/",
+   "published_at": "2026-11-10T11:41:51+00:00",
+   "extra": ""
+  },
+  {
+   "id": "hn:50436636",
+   "source": "hn",
+   "title": "Tell HN: Notion AI chat sessions have been exposed via Fireworks AI hack",
+   "url": "https://news.ycombinator.com/item?id=50436636",
+   "published_at": "2026-11-10T06:00:48Z",
+   "extra": "points=9"
+  },
+  {
+   "id": "hn:50440232",
+   "source": "hn",
+   "title": "Show HN: Usul – Express neural networks as raw math in C++23",
+   "url": "https://github.com/crushr3sist/Usul-cpp",
+   "published_at": "2026-11-10T13:43:38Z",
+   "extra": "points=2"
+  },
+  {
+   "id": "hn:50439152",
+   "source": "hn",
+   "title": "Show HN: VoxaDub – Open-source AI video dubbing with speaker-aware voices",
+   "url": "https://github.com/kadirb4rut/voxadub",
+   "published_at": "2026-11-10T12:06:21Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:50431764",
+   "source": "hn",
+   "title": "Show HN: Negs (Spektrafilm) brings spectral film simulations to the browser",
+   "url": "https://getnegs.com/try/",
+   "published_at": "2026-11-09T20:41:22Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:50429636",
+   "source": "hn",
+   "title": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
+   "url": "https://meowdisplay.app/",
+   "published_at": "2026-11-09T18:39:22Z",
+   "extra": "points=70"
+  },
+  {
+   "id": "hn:50429225",
+   "source": "hn",
+   "title": "Muse Ember",
+   "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+   "published_at": "2026-11-09T18:11:35Z",
+   "extra": "points=10"
+  },
+  {
+   "id": "hn:50419019",
+   "source": "hn",
+   "title": "Tell HN: A flood of reports of Opus 5.5 being nerfed",
+   "url": "https://news.ycombinator.com/item?id=50419019",
+   "published_at": "2026-11-08T23:49:19Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:50442258",
+   "source": "hn",
+   "title": "Show HN: Ilo Musi 8 – Handheld Game Console Emulating CHIP-8 Platform",
+   "url": "https://ilomusi8.sadale.net/en/welcome",
+   "published_at": "2026-11-10T16:04:08Z",
+   "extra": "points=1"
   }
  ],
  "pending_push": [
@@ -43103,6 +43358,136 @@
    "extra": "",
    "event_type": "release",
    "summary": "Free, open-source voice typing for any app on Android and iPhone: the speech model runs on your phone, so it works offline"
+  },
+  {
+   "id": "anthropic:roadshow-launch",
+   "source": "anthropic",
+   "title": "Roadshow Launch",
+   "url": "https://www.anthropic.com/news/roadshow-launch",
+   "published_at": null,
+   "extra": "",
+   "event_type": "release",
+   "summary": "Roadshow Launch"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xsqv86/tts_bench_91_open_tts_models_and_28_paid_tts_apis",
+   "source": "reddit",
+   "title": "TTS bench - 91 open TTS models and 28 paid TTS APIs on the same prompts",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsqv86/tts_bench_91_open_tts_models_and_28_paid_tts_apis/",
+   "published_at": "2026-11-10T16:09:25+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "TTS bench - 91 open TTS models and 28 paid TTS APIs on the same prompts"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xsoaeo/lingbottouch_a_robbyant_collection_a_foundation",
+   "source": "reddit",
+   "title": "LingBot-Touch - a robbyant Collection - A Foundation Model for Heterogeneous Tactile Representation Learning",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsoaeo/lingbottouch_a_robbyant_collection_a_foundation/",
+   "published_at": "2026-11-10T14:28:26+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "LingBot-Touch - a robbyant Collection - A Foundation Model for Heterogeneous Tactile Representation Learning"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xso1ie/minimax_h3image_released_an_openweight_image",
+   "source": "reddit",
+   "title": "MiniMax H3-Image Released, an Open-Weight Image Model built on H3",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xso1ie/minimax_h3image_released_an_openweight_image/",
+   "published_at": "2026-11-10T14:18:08+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "MiniMax H3-Image Released, an Open-Weight Image Model built on H3"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xsmcwc/simple_models_for_simple_and_easy_agentic_tasks",
+   "source": "reddit",
+   "title": "Simple models for simple and easy agentic tasks",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsmcwc/simple_models_for_simple_and_easy_agentic_tasks/",
+   "published_at": "2026-11-10T13:03:21+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "Simple models for simple and easy agentic tasks"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xsl5t4/lokalbot_orchestrates_five_local_models_for_a",
+   "source": "reddit",
+   "title": "LokalBot orchestrates five local models for a suite of features like ASR, diarization, 4B LLM, autocomplete, embeddings,and TTS",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsl5t4/lokalbot_orchestrates_five_local_models_for_a/",
+   "published_at": "2026-11-10T12:03:44+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "LokalBot orchestrates five local models for a suite of features like ASR, diarization, 4B LLM, autocomplete, embeddings,and TTS"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xskn3z/dna_factory_yet_another_llm_training_framework",
+   "source": "reddit",
+   "title": "DNA Factory: yet another LLM training framework",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xskn3z/dna_factory_yet_another_llm_training_framework/",
+   "published_at": "2026-11-10T11:35:34+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "DNA Factory: yet another LLM training framework"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xski9d/decision_model_to_edit_llm_weight_directly_no",
+   "source": "reddit",
+   "title": "Decision model to edit LLM weight directly - No training",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xski9d/decision_model_to_edit_llm_weight_directly_no/",
+   "published_at": "2026-11-10T11:27:44+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "Decision model to edit LLM weight directly - No training"
+  },
+  {
+   "id": "hn:50441764",
+   "source": "hn",
+   "title": "MiniMax H3-Image Released, an Open-Weight Image Model Built on H3",
+   "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+   "published_at": "2026-11-10T15:29:36Z",
+   "extra": "points=3",
+   "event_type": "release",
+   "summary": "MiniMax H3-Image Released, an Open-Weight Image Model Built on H3"
+  },
+  {
+   "id": "hn:50439363",
+   "source": "hn",
+   "title": "Serving open-weight models at scale with vLLM",
+   "url": "https://ngrok.com/blog/vllm",
+   "published_at": "2026-11-10T12:27:12Z",
+   "extra": "points=2",
+   "event_type": "release",
+   "summary": "Serving open-weight models at scale with vLLM"
+  },
+  {
+   "id": "hn:50438889",
+   "source": "hn",
+   "title": "Show HN: You can now train your own LLMs with less memory, on your consumer GPUs",
+   "url": "https://news.ycombinator.com/item?id=50438889",
+   "published_at": "2026-11-10T11:38:51Z",
+   "extra": "points=4",
+   "event_type": "release",
+   "summary": "Show HN: You can now train your own LLMs with less memory, on your consumer GPUs"
+  },
+  {
+   "id": "hn:50441321",
+   "source": "hn",
+   "title": "Show HN: Sugo – Turn PDFs and Screenshots into Compact Markdown for LLMs",
+   "url": "https://github.com/Muralnick/sugo",
+   "published_at": "2026-11-10T14:59:06Z",
+   "extra": "points=1",
+   "event_type": "release",
+   "summary": "Show HN: Sugo – Turn PDFs and Screenshots into Compact Markdown for LLMs"
+  },
+  {
+   "id": "hn:50438001",
+   "source": "hn",
+   "title": "Tell HN: Gemini Carbon released",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/.",
+   "published_at": "2026-11-10T09:39:49Z",
+   "extra": "points=2",
+   "event_type": "release",
+   "summary": "Tell HN: Gemini Carbon released"
   }
  ]
 }
