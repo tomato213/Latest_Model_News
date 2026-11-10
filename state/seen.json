@@ -3918,17 +3918,24 @@
   "hn:50439363": "2026-11-10T16:22:45.376374+00:00",
   "hn:50438889": "2026-11-10T16:22:45.376374+00:00",
   "hn:50441321": "2026-11-10T16:22:45.376374+00:00",
-  "hn:50438001": "2026-11-10T16:22:45.376374+00:00"
+  "hn:50438001": "2026-11-10T16:22:45.376374+00:00",
+  "openai:https://openai.com/business/learn/how-openai-uses-codex": "2026-11-10T21:55:36.825450+00:00",
+  "openai:https://openai.com/business/customer-stories/blue-j": "2026-11-10T21:55:36.825450+00:00",
+  "openai:https://openai.com/business/learn/new-in-chatgpt-for-business-april-updates-2025": "2026-11-10T21:55:36.825450+00:00",
+  "openai:https://openai.com/business/learn/new-in-chatgpt-for-work-march-updates-2025": "2026-11-10T21:55:36.825450+00:00",
+  "openai:https://openai.com/business/customer-stories/ada": "2026-11-10T21:55:36.825450+00:00",
+  "openai:https://openai.com/business/learn/fine-tuning-gpt-4o-webinar": "2026-11-10T21:55:36.825450+00:00",
+  "openai:https://openai.com/business/learn/enabling-a-data-driven-workforce-webinar": "2026-11-10T21:55:36.825450+00:00",
+  "openai:https://openai.com/index/introducing-businesses-chatgpt": "2026-11-10T21:55:37.274796+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xszbe7/apple_has_new_mac_app_coming_to_make_running": "2026-11-10T21:55:37.274796+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xswmb7/the_surprising_effectiveness_of_deleting_weights": "2026-11-10T21:55:37.274796+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xssydv/what_do_you_see_as_the_role_of_local_agentsllms": "2026-11-10T21:55:37.274796+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xsrkym/2027_is_the_year_of_open_models": "2026-11-10T21:55:37.274796+00:00",
+  "hn:50443951": "2026-11-10T21:55:37.274796+00:00",
+  "hn:50442896": "2026-11-10T21:55:37.274796+00:00",
+  "hn:50441216": "2026-11-10T21:55:37.274796+00:00"
  },
  "pending": [
-  {
-   "id": "hn:50441216",
-   "source": "hn",
-   "title": "Show HN: QueenMQ – slow LLM calls blocked our Kafka partitions, so we built it",
-   "url": "https://github.com/queen-mq/queen",
-   "published_at": "2026-11-10T14:52:36Z",
-   "extra": "points=2"
-  },
   {
    "id": "hn:50440317",
    "source": "hn",
@@ -30282,6 +30289,94 @@
    "extra": ""
   },
   {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xspgpa/i_built_a_desktop_app_to_run_a_whole_team_of",
+   "source": "reddit",
+   "title": "I built a desktop app to run a whole team of Hermes Agent bots from one window (open source, MIT, macOS)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xspgpa/i_built_a_desktop_app_to_run_a_whole_team_of/",
+   "published_at": "2026-11-10T15:15:34+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xso3y1/deepseek_v41_flash_failed_after_1_hour_gpt6_astra",
+   "source": "reddit",
+   "title": "DeepSeek V4.1 Flash failed after 1 hour — GPT-6 Astra finished in 7 minutes. Can fine-tuning help?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xso3y1/deepseek_v41_flash_failed_after_1_hour_gpt6_astra/",
+   "published_at": "2026-11-10T14:20:59+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xso32l/adventistsaisophonrealtimev1_hugging_face",
+   "source": "reddit",
+   "title": "adventists-ai/Sophon-Realtime-v1 · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xso32l/adventistsaisophonrealtimev1_hugging_face/",
+   "published_at": "2026-11-10T14:20:01+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xsnufl/paper_worldfoundry_towards_unified_infrastructure",
+   "source": "reddit",
+   "title": "[Paper] WorldFoundry: Towards Unified Infrastructure for World Intelligence",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsnufl/paper_worldfoundry_towards_unified_infrastructure/",
+   "published_at": "2026-11-10T14:09:53+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xsn0hz/i_built_lokey_an_opensource_android_keyboard_with",
+   "source": "reddit",
+   "title": "I built Lokey, an open-source Android keyboard with on-device AI",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsn0hz/i_built_lokey_an_opensource_android_keyboard_with/",
+   "published_at": "2026-11-10T13:33:36+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xsmc20/does_this_exist_a_voicebased_rpgcyoa_that_doesnt",
+   "source": "reddit",
+   "title": "Does this exist? A voice-based RPG/CYOA that doesn't have or need a GUI? Yes, I did search the sub.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsmc20/does_this_exist_a_voicebased_rpgcyoa_that_doesnt/",
+   "published_at": "2026-11-10T13:02:14+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xsm494/stream_clipping_with_zero_tokens_spent_finding",
+   "source": "reddit",
+   "title": "Stream clipping with zero tokens spent finding clips and a local qwen as the judge",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsm494/stream_clipping_with_zero_tokens_spent_finding/",
+   "published_at": "2026-11-10T12:52:09+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xsljn6/nobody_wondering_why_the_us_takes_nvidia_ceo",
+   "source": "reddit",
+   "title": "Nobody wondering why the US takes Nvidia CEO affair public?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsljn6/nobody_wondering_why_the_us_takes_nvidia_ceo/",
+   "published_at": "2026-11-10T12:23:33+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xsl8w7/strata_after_heavy_optimizations",
+   "source": "reddit",
+   "title": "Strata after heavy optimizations",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsl8w7/strata_after_heavy_optimizations/",
+   "published_at": "2026-11-10T12:08:12+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xsl4qt/paper_exploring_weightspace_programming",
+   "source": "reddit",
+   "title": "[Paper] Exploring Weight-Space Programming: Capabilities, Generalization, and Limitations",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsl4qt/paper_exploring_weightspace_programming/",
+   "published_at": "2026-11-10T12:02:19+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xskr0m/xiangjuntangjovox64_hugging_face_imageto3d",
+   "source": "reddit",
+   "title": "xiangjuntang/JoVox-64 · Hugging Face - Image-to-3D",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xskr0m/xiangjuntangjovox64_hugging_face_imageto3d/",
+   "published_at": "2026-11-10T11:41:51+00:00",
+   "extra": ""
+  },
+  {
    "id": "openai:https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
    "source": "openai",
    "title": "Helping caregivers use AI in everyday life",
@@ -30394,6 +30489,22 @@
    "extra": ""
   },
   {
+   "id": "openrouter:baidu/ernie-5.5-flash-preview",
+   "source": "openrouter",
+   "title": "Baidu: ERNIE-5.5-Flash-Preview",
+   "url": "https://openrouter.ai/baidu/ernie-5.5-flash-preview",
+   "published_at": "2026-11-10T17:58:53+00:00",
+   "extra": "context=1024000"
+  },
+  {
+   "id": "openrouter:baidu/ernie-light-dt-1.0-intl",
+   "source": "openrouter",
+   "title": "Baidu: ERNIE-Light-DT-1.0",
+   "url": "https://openrouter.ai/baidu/ernie-light-dt-1.0-intl",
+   "published_at": "2026-11-10T17:21:00+00:00",
+   "extra": "context=1024000"
+  },
+  {
    "id": "openrouter:google/gemini-4-carbon",
    "source": "openrouter",
    "title": "Google: Gemini 4 Carbon",
@@ -30450,19 +30561,107 @@
    "extra": "context=1048576"
   },
   {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xsz81v/qwhen_can_i_see_you",
+   "source": "reddit",
+   "title": "QWhen can I see you",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsz81v/qwhen_can_i_see_you/",
+   "published_at": "2026-11-10T21:26:56+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xsytlk/my_ai_is_lazier_than_me",
+   "source": "reddit",
+   "title": "My AI is lazier than me",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsytlk/my_ai_is_lazier_than_me/",
+   "published_at": "2026-11-10T21:11:05+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xsys2g/cmp170hx_and_g292",
+   "source": "reddit",
+   "title": "Cmp170hx and g292?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsys2g/cmp170hx_and_g292/",
+   "published_at": "2026-11-10T21:09:26+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xsyges/anyone_willing_to_benchmark_my_moe_runtime_on",
+   "source": "reddit",
+   "title": "Anyone willing to benchmark my MoE runtime on their M-series Mac?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsyges/anyone_willing_to_benchmark_my_moe_runtime_on/",
+   "published_at": "2026-11-10T20:57:02+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xsw9mr/does_strata_like_projects_trade_accuracy_for_speed",
+   "source": "reddit",
+   "title": "Does Strata like projects trade accuracy for speed?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsw9mr/does_strata_like_projects_trade_accuracy_for_speed/",
+   "published_at": "2026-11-10T19:31:36+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xsv5z1/loop_guard_qfnstrata_experiment",
+   "source": "reddit",
+   "title": "Loop Guard QFN/Strata experiment",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsv5z1/loop_guard_qfnstrata_experiment/",
+   "published_at": "2026-11-10T18:49:25+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xsv4r7/comparisons_to_previous_gen_frontier",
+   "source": "reddit",
+   "title": "Comparisons to previous Gen \"Frontier\"?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsv4r7/comparisons_to_previous_gen_frontier/",
+   "published_at": "2026-11-10T18:48:08+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xsub9f/trending_on_huggingface2d_to_3d",
+   "source": "reddit",
+   "title": "Trending on huggingface:2D to 3D",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsub9f/trending_on_huggingface2d_to_3d/",
+   "published_at": "2026-11-10T18:17:48+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xsswud/amd_epyc_9686f_linux_benchmarks_96_zen_6_cores_at",
+   "source": "reddit",
+   "title": "AMD EPYC 9686F Linux benchmarks: 96 Zen 6 cores at up to 5.3GHz",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsswud/amd_epyc_9686f_linux_benchmarks_96_zen_6_cores_at/",
+   "published_at": "2026-11-10T17:25:33+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xssj9q/i_trained_a_348mactive_moe_on_11b_tokens_it",
+   "source": "reddit",
+   "title": "I trained a 348M-active MoE on ~11B tokens. It scores 85.5% vs Qwen2.5-1.5B's 53.3% on shuffled fact chains. GGUF + eval set — please try to break it.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xssj9q/i_trained_a_348mactive_moe_on_11b_tokens_it/",
+   "published_at": "2026-11-10T17:11:20+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xssfdp/amd_talks_up_their_mext_software_amid_ram_crisis",
+   "source": "reddit",
+   "title": "AMD talks up their MEXT software amid RAM crisis - Linux support but not open-source",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xssfdp/amd_talks_up_their_mext_software_amid_ram_crisis/",
+   "published_at": "2026-11-10T17:07:24+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xsrg0l/speakleashbielik11bv31instruct_hugging_face",
+   "source": "reddit",
+   "title": "speakleash/Bielik-11B-v3.1-Instruct · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsrg0l/speakleashbielik11bv31instruct_hugging_face/",
+   "published_at": "2026-11-10T16:30:55+00:00",
+   "extra": ""
+  },
+  {
    "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xspmhe/startlux_4b_9b_instant_system1jev_q40_on_4_x",
    "source": "reddit",
    "title": "Startlux 4B 9B Instant (System1/Jev) Q40 on 4 x Raspberry Pi 5 8GB",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xspmhe/startlux_4b_9b_instant_system1jev_q40_on_4_x/",
    "published_at": "2026-11-10T15:22:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xspgpa/i_built_a_desktop_app_to_run_a_whole_team_of",
-   "source": "reddit",
-   "title": "I built a desktop app to run a whole team of Hermes Agent bots from one window (open source, MIT, macOS)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xspgpa/i_built_a_desktop_app_to_run_a_whole_team_of/",
-   "published_at": "2026-11-10T15:15:34+00:00",
    "extra": ""
   },
   {
@@ -30514,84 +30713,12 @@
    "extra": ""
   },
   {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xso3y1/deepseek_v41_flash_failed_after_1_hour_gpt6_astra",
-   "source": "reddit",
-   "title": "DeepSeek V4.1 Flash failed after 1 hour — GPT-6 Astra finished in 7 minutes. Can fine-tuning help?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xso3y1/deepseek_v41_flash_failed_after_1_hour_gpt6_astra/",
-   "published_at": "2026-11-10T14:20:59+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xso32l/adventistsaisophonrealtimev1_hugging_face",
-   "source": "reddit",
-   "title": "adventists-ai/Sophon-Realtime-v1 · Hugging Face",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xso32l/adventistsaisophonrealtimev1_hugging_face/",
-   "published_at": "2026-11-10T14:20:01+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xsnufl/paper_worldfoundry_towards_unified_infrastructure",
-   "source": "reddit",
-   "title": "[Paper] WorldFoundry: Towards Unified Infrastructure for World Intelligence",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsnufl/paper_worldfoundry_towards_unified_infrastructure/",
-   "published_at": "2026-11-10T14:09:53+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xsn0hz/i_built_lokey_an_opensource_android_keyboard_with",
-   "source": "reddit",
-   "title": "I built Lokey, an open-source Android keyboard with on-device AI",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsn0hz/i_built_lokey_an_opensource_android_keyboard_with/",
-   "published_at": "2026-11-10T13:33:36+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xsmc20/does_this_exist_a_voicebased_rpgcyoa_that_doesnt",
-   "source": "reddit",
-   "title": "Does this exist? A voice-based RPG/CYOA that doesn't have or need a GUI? Yes, I did search the sub.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsmc20/does_this_exist_a_voicebased_rpgcyoa_that_doesnt/",
-   "published_at": "2026-11-10T13:02:14+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xsm494/stream_clipping_with_zero_tokens_spent_finding",
-   "source": "reddit",
-   "title": "Stream clipping with zero tokens spent finding clips and a local qwen as the judge",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsm494/stream_clipping_with_zero_tokens_spent_finding/",
-   "published_at": "2026-11-10T12:52:09+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xsljn6/nobody_wondering_why_the_us_takes_nvidia_ceo",
-   "source": "reddit",
-   "title": "Nobody wondering why the US takes Nvidia CEO affair public?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsljn6/nobody_wondering_why_the_us_takes_nvidia_ceo/",
-   "published_at": "2026-11-10T12:23:33+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xsl8w7/strata_after_heavy_optimizations",
-   "source": "reddit",
-   "title": "Strata after heavy optimizations",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsl8w7/strata_after_heavy_optimizations/",
-   "published_at": "2026-11-10T12:08:12+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xsl4qt/paper_exploring_weightspace_programming",
-   "source": "reddit",
-   "title": "[Paper] Exploring Weight-Space Programming: Capabilities, Generalization, and Limitations",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsl4qt/paper_exploring_weightspace_programming/",
-   "published_at": "2026-11-10T12:02:19+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xskr0m/xiangjuntangjovox64_hugging_face_imageto3d",
-   "source": "reddit",
-   "title": "xiangjuntang/JoVox-64 · Hugging Face - Image-to-3D",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xskr0m/xiangjuntangjovox64_hugging_face_imageto3d/",
-   "published_at": "2026-11-10T11:41:51+00:00",
-   "extra": ""
+   "id": "hn:50446179",
+   "source": "hn",
+   "title": "In open-weight AI, America is the one playing catch-up",
+   "url": "https://village.dev/blog/in-open-weight-ai-america-is-the-one-playing-catch-up/",
+   "published_at": "2026-11-10T20:53:09Z",
+   "extra": "points=2"
   },
   {
    "id": "hn:50436636",
@@ -30647,6 +30774,14 @@
    "title": "Tell HN: A flood of reports of Opus 5.5 being nerfed",
    "url": "https://news.ycombinator.com/item?id=50419019",
    "published_at": "2026-11-08T23:49:19Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:50446007",
+   "source": "hn",
+   "title": "Show HN: Cloakroom – Keeps secrets away from agents",
+   "url": "https://github.com/shanjeevrajendran/cloakroom",
+   "published_at": "2026-11-10T20:39:46Z",
    "extra": "points=1"
   },
   {
@@ -43488,6 +43623,86 @@
    "extra": "points=2",
    "event_type": "release",
    "summary": "Tell HN: Gemini Carbon released"
+  },
+  {
+   "id": "openai:https://openai.com/index/introducing-businesses-chatgpt",
+   "source": "openai",
+   "title": "Introducing Businesses in ChatGPT",
+   "url": "https://openai.com/index/introducing-businesses-chatgpt",
+   "published_at": "2026-11-10T10:00:00+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "Introducing Businesses in ChatGPT"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xszbe7/apple_has_new_mac_app_coming_to_make_running",
+   "source": "reddit",
+   "title": "Apple has new Mac app coming to make running local AI models easy",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xszbe7/apple_has_new_mac_app_coming_to_make_running/",
+   "published_at": "2026-11-10T21:30:36+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "Apple has new Mac app coming to make running local AI models easy"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xswmb7/the_surprising_effectiveness_of_deleting_weights",
+   "source": "reddit",
+   "title": "The Surprising Effectiveness of Deleting Weights in LLM Post-Training",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xswmb7/the_surprising_effectiveness_of_deleting_weights/",
+   "published_at": "2026-11-10T19:44:57+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "The Surprising Effectiveness of Deleting Weights in LLM Post-Training"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xssydv/what_do_you_see_as_the_role_of_local_agentsllms",
+   "source": "reddit",
+   "title": "What do you see as the role of local agents/LLMs in the future of gaming?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xssydv/what_do_you_see_as_the_role_of_local_agentsllms/",
+   "published_at": "2026-11-10T17:27:12+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "What do you see as the role of local agents/LLMs in the future of gaming?"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xsrkym/2027_is_the_year_of_open_models",
+   "source": "reddit",
+   "title": "2027 is the year of open models",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsrkym/2027_is_the_year_of_open_models/",
+   "published_at": "2026-11-10T16:36:04+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "2027 is the year of open models"
+  },
+  {
+   "id": "hn:50443951",
+   "source": "hn",
+   "title": "IFM Releases Pan 2 an open world model",
+   "url": "https://ifm.ai/pan/",
+   "published_at": "2026-11-10T18:11:14Z",
+   "extra": "points=1",
+   "event_type": "release",
+   "summary": "IFM Releases Pan 2 an open world model"
+  },
+  {
+   "id": "hn:50442896",
+   "source": "hn",
+   "title": "Rewriting model serving around independent workloads and release controls",
+   "url": "https://medium.com/affirmengineering/push-button-releases-rewriting-model-serving-from-the-runtime-up-9557519641e1",
+   "published_at": "2026-11-10T16:49:13Z",
+   "extra": "points=1",
+   "event_type": "release",
+   "summary": "Rewriting model serving around independent workloads and release controls"
+  },
+  {
+   "id": "hn:50441216",
+   "source": "hn",
+   "title": "Show HN: QueenMQ – slow LLM calls blocked our Kafka partitions, so we built it",
+   "url": "https://github.com/queen-mq/queen",
+   "published_at": "2026-11-10T14:52:36Z",
+   "extra": "points=2",
+   "event_type": "release",
+   "summary": "Show HN: QueenMQ – slow LLM calls blocked our Kafka partitions, so we built it"
   }
  ]
 }
