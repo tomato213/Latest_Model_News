@@ -3946,9 +3946,104 @@
   "openai:https://openai.com/index/kuken": "2026-11-11T09:14:38.521615+00:00",
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xt6uwd/comfyui_v0450_released": "2026-11-11T09:14:39.000502+00:00",
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xt6096/have_been_getting_into_local_llms_recently": "2026-11-11T09:14:39.000502+00:00",
-  "hn:50449320": "2026-11-11T09:14:39.000502+00:00"
+  "hn:50449320": "2026-11-11T09:14:39.000502+00:00",
+  "hf:facebook/stereo_crossinjection": "2026-11-11T17:24:51.818482+00:00",
+  "hn:50427934": "2026-11-11T17:24:51.818482+00:00",
+  "hn:50426559": "2026-11-11T17:24:51.818482+00:00",
+  "hn:50426158": "2026-11-11T17:24:51.818482+00:00",
+  "hn:50424070": "2026-11-11T17:24:51.818482+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtmcoe/unsloth_dynamic_v31_released_for_qwen3827b": "2026-11-11T17:24:52.251384+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtju4x/nvidia_geforce_rtx_5080_24_gb_reportedly": "2026-11-11T17:24:52.251384+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xthtwt/paper_treeising_repairing_language_models_with": "2026-11-11T17:24:52.251384+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtgnh9/you_can_now_train_your_own_llms_with_less_memory": "2026-11-11T17:24:52.251384+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtgii5/how_are_the_k2_horizon_models": "2026-11-11T17:24:52.251384+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtfvct/askmdb_my_new_project_where_i_finetuned_qwen": "2026-11-11T17:24:52.251384+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtfk3n/qwen4_open_weights_not_soon": "2026-11-11T17:24:52.251384+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xted8w/ernie_55_flash_will_be_released_in_two_weeks": "2026-11-11T17:24:52.251384+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtdwps/nvidia_reportedly_cancels_geforce_rtx_5080_24gb": "2026-11-11T17:24:52.251384+00:00",
+  "hn:50455811": "2026-11-11T17:24:52.251384+00:00"
  },
  "pending": [
+  {
+   "id": "hn:50429225",
+   "source": "hn",
+   "title": "Muse Ember",
+   "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+   "published_at": "2026-11-09T18:11:35Z",
+   "extra": "points=10"
+  },
+  {
+   "id": "hn:50455219",
+   "source": "hn",
+   "title": "Show HN: ZeGrapher v4: modern open-source math plotter – Desmos-inspired",
+   "url": "https://zegrapher.com/en/",
+   "published_at": "2026-11-11T16:25:00Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:50454221",
+   "source": "hn",
+   "title": "Show HN: Perch by mxRaven, a self-hosted mailbox and CLI in 1 file",
+   "url": "https://perch.mxraven.com",
+   "published_at": "2026-11-11T14:57:04Z",
+   "extra": "points=5"
+  },
+  {
+   "id": "hn:50452040",
+   "source": "hn",
+   "title": "Show HN: Pots – Open-source Grok Bot alternative, used by 6 startups for a month",
+   "url": "https://github.com/Crokily/pi-durable-bot",
+   "published_at": "2026-11-11T11:11:34Z",
+   "extra": "points=5"
+  },
+  {
+   "id": "hn:50452035",
+   "source": "hn",
+   "title": "Show HN: Ember.js, Re-Born in Rust",
+   "url": "https://auric.spa",
+   "published_at": "2026-11-11T11:11:13Z",
+   "extra": "points=2"
+  },
+  {
+   "id": "hn:50446007",
+   "source": "hn",
+   "title": "Show HN: Cloakroom – Keeps secrets away from agents",
+   "url": "https://github.com/shanjeevrajendran/cloakroom",
+   "published_at": "2026-11-10T20:39:46Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:50442258",
+   "source": "hn",
+   "title": "Show HN: Ilo Musi 8 – Handheld Game Console Emulating CHIP-8 Platform",
+   "url": "https://ilomusi8.sadale.net/en/welcome",
+   "published_at": "2026-11-10T16:04:08Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:50440317",
+   "source": "hn",
+   "title": "Show HN: A Hacker's Web Browser – Any Site to API (Open-Source)",
+   "url": "https://github.com/realsirjoe/relinos",
+   "published_at": "2026-11-10T13:49:15Z",
+   "extra": "points=2"
+  },
+  {
+   "id": "hn:50439598",
+   "source": "hn",
+   "title": "Show HN: Markview – a fast Markdown reader in Rust, Obsidian Vault compatible",
+   "url": "https://github.com/szdytom/markview",
+   "published_at": "2026-11-10T12:47:21Z",
+   "extra": "points=2"
+  },
+  {
+   "id": "hn:50438931",
+   "source": "hn",
+   "title": "Show HN: Tokspur a 3x faster open source inference engine for Macs",
+   "url": "https://github.com/san-digital/tokspur",
+   "published_at": "2026-11-10T11:42:45Z",
+   "extra": "points=3"
+  },
   {
    "id": "hn:50426559",
    "source": "hn",
@@ -30534,6 +30629,166 @@
    "extra": ""
   },
   {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtd7bl/a100_vs_r9700",
+   "source": "reddit",
+   "title": "A100 vs R9700",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtd7bl/a100_vs_r9700/",
+   "published_at": "2026-11-11T09:10:56+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtcw3k/multiagentmultitower_system",
+   "source": "reddit",
+   "title": "Multi-agent-multi-tower system",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtcw3k/multiagentmultitower_system/",
+   "published_at": "2026-11-11T08:51:26+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtcrgm/qwen4max_preview_is_out_on_api_access_no_word_on",
+   "source": "reddit",
+   "title": "Qwen4-Max Preview is out on API access. No word on weights release yet",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtcrgm/qwen4max_preview_is_out_on_api_access_no_word_on/",
+   "published_at": "2026-11-11T08:42:58+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtckm8/qwen4maxpreview_on_qwencloud",
+   "source": "reddit",
+   "title": "qwen4-max-preview on qwencloud",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtckm8/qwen4maxpreview_on_qwencloud/",
+   "published_at": "2026-11-11T08:30:34+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtccty/how_to_get_into_agent_orchestration",
+   "source": "reddit",
+   "title": "How to get into Agent orchestration",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtccty/how_to_get_into_agent_orchestration/",
+   "published_at": "2026-11-11T08:17:09+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtbfnx/763b_deepseek_v41_flash_on_one_32_gb_card_50_toks",
+   "source": "reddit",
+   "title": "763B DeepSeek V4.1 Flash on one 32 GB card: 50 tok/s, and what the 2-bit quant costs (top-1 agreement 83.5 %)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtbfnx/763b_deepseek_v41_flash_on_one_32_gb_card_50_toks/",
+   "published_at": "2026-11-11T07:20:19+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtb9gw/zyphrazonos3mini_hugging_face",
+   "source": "reddit",
+   "title": "Zyphra/ZONOS3-Mini · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtb9gw/zyphrazonos3mini_hugging_face/",
+   "published_at": "2026-11-11T07:09:56+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtb199/ifmpan2_hugging_face",
+   "source": "reddit",
+   "title": "IFM/PAN2 · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtb199/ifmpan2_hugging_face/",
+   "published_at": "2026-11-11T06:56:07+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xt9o3t/llamacpp_add_fp8_kvcache",
+   "source": "reddit",
+   "title": "llama.cpp: Add FP8 KV-cache",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt9o3t/llamacpp_add_fp8_kvcache/",
+   "published_at": "2026-11-11T05:36:19+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xt82mz/microsoft_research_backdoored_an_ai_agent_by",
+   "source": "reddit",
+   "title": "Microsoft Research backdoored an AI agent by directly editing fewer than 10 dormant neurons",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt82mz/microsoft_research_backdoored_an_ai_agent_by/",
+   "published_at": "2026-11-11T04:09:44+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xt81pu/deletion_tuning_vs_lora_for_small_local_finetunes",
+   "source": "reddit",
+   "title": "Deletion tuning vs LoRA for small local fine-tunes, anyone tried it yet?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt81pu/deletion_tuning_vs_lora_for_small_local_finetunes/",
+   "published_at": "2026-11-11T04:08:24+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xt7z2u/m5_ultra_fine_tuning",
+   "source": "reddit",
+   "title": "M5 Ultra fine tuning",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt7z2u/m5_ultra_fine_tuning/",
+   "published_at": "2026-11-11T04:04:34+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xt6toe/glm53flash_mistakes",
+   "source": "reddit",
+   "title": "GLM-5.3-flash mistakes",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt6toe/glm53flash_mistakes/",
+   "published_at": "2026-11-11T03:06:17+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xt6rc7/glb3dcoder_i_tried_making_a_17b_version_for_godot",
+   "source": "reddit",
+   "title": "[GLB-3D-Coder] I tried making a 1.7B version for Godot",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt6rc7/glb3dcoder_i_tried_making_a_17b_version_for_godot/",
+   "published_at": "2026-11-11T03:03:09+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xt68y7/pacman_benchmark",
+   "source": "reddit",
+   "title": "Pac-Man Benchmark",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt68y7/pacman_benchmark/",
+   "published_at": "2026-11-11T02:38:07+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xt3hjd/i_built_a_zerodependency_streaming_markdown",
+   "source": "reddit",
+   "title": "I built a zero-dependency streaming Markdown renderer for AI chat replies, n× faster than the next one I benchmarked",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt3hjd/i_built_a_zerodependency_streaming_markdown/",
+   "published_at": "2026-11-11T00:27:43+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xt2mjk/xemaya_an_intel_arc_inference_engine_to_run",
+   "source": "reddit",
+   "title": "XeMaya, an Intel Arc inference engine to run DeepSeek V4.1 and GLM 5.3",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt2mjk/xemaya_an_intel_arc_inference_engine_to_run/",
+   "published_at": "2026-11-10T23:50:54+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xt2l8r/are_moes_on_phones_viable_via_custom_engines",
+   "source": "reddit",
+   "title": "are MoEs on phones viable via custom engines?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt2l8r/are_moes_on_phones_viable_via_custom_engines/",
+   "published_at": "2026-11-10T23:49:18+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xsytlk/my_ai_is_lazier_than_me",
+   "source": "reddit",
+   "title": "My AI is lazier than me",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsytlk/my_ai_is_lazier_than_me/",
+   "published_at": "2026-11-10T21:11:05+00:00",
+   "extra": ""
+  },
+  {
+   "id": "hn:50427934",
+   "source": "hn",
+   "title": "Show HN: DBDelve – Open-Source DB Client Made with Rust and GPUI",
+   "url": "https://news.ycombinator.com/item?id=50427934",
+   "published_at": "2026-11-09T16:36:38Z",
+   "extra": "points=91"
+  },
+  {
    "id": "openai:https://openai.com/index/chatgpt-plus-for-veterans",
    "source": "openai",
    "title": "ChatGPT Plus for veterans and servicemembers",
@@ -30726,156 +30981,140 @@
    "extra": "context=1048576"
   },
   {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtd7bl/a100_vs_r9700",
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtmrii/deepseek_has_two_numbers_for_active_parameter",
    "source": "reddit",
-   "title": "A100 vs R9700",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtd7bl/a100_vs_r9700/",
-   "published_at": "2026-11-11T09:10:56+00:00",
+   "title": "DeepSeek has Two Numbers for Active Parameter Count. How?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtmrii/deepseek_has_two_numbers_for_active_parameter/",
+   "published_at": "2026-11-11T16:47:55+00:00",
    "extra": ""
   },
   {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtcw3k/multiagentmultitower_system",
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtmeif/open_source_self_driving_is_here",
    "source": "reddit",
-   "title": "Multi-agent-multi-tower system",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtcw3k/multiagentmultitower_system/",
-   "published_at": "2026-11-11T08:51:26+00:00",
+   "title": "Open source self driving is here!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtmeif/open_source_self_driving_is_here/",
+   "published_at": "2026-11-11T16:34:38+00:00",
    "extra": ""
   },
   {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtcrgm/qwen4max_preview_is_out_on_api_access_no_word_on",
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtmbkn/kraftonraon1nano_hugging_face",
    "source": "reddit",
-   "title": "Qwen4-Max Preview is out on API access. No word on weights release yet",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtcrgm/qwen4max_preview_is_out_on_api_access_no_word_on/",
-   "published_at": "2026-11-11T08:42:58+00:00",
+   "title": "KRAFTON/Raon-1-nano · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtmbkn/kraftonraon1nano_hugging_face/",
+   "published_at": "2026-11-11T16:31:38+00:00",
    "extra": ""
   },
   {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtckm8/qwen4maxpreview_on_qwencloud",
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtlyhe/new_qwen3827b_unsloth_dynamic_v31_ggufs",
    "source": "reddit",
-   "title": "qwen4-max-preview on qwencloud",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtckm8/qwen4maxpreview_on_qwencloud/",
-   "published_at": "2026-11-11T08:30:34+00:00",
+   "title": "New Qwen3.8-27B Unsloth Dynamic V3.1 GGUFs",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtlyhe/new_qwen3827b_unsloth_dynamic_v31_ggufs/",
+   "published_at": "2026-11-11T16:17:55+00:00",
    "extra": ""
   },
   {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtccty/how_to_get_into_agent_orchestration",
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtkswo/dont_use_qwen_38_27b_on_your_m5_max_ultra",
    "source": "reddit",
-   "title": "How to get into Agent orchestration",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtccty/how_to_get_into_agent_orchestration/",
-   "published_at": "2026-11-11T08:17:09+00:00",
+   "title": "Don’t use Qwen 3.8 27B on your M5 Max / Ultra",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtkswo/dont_use_qwen_38_27b_on_your_m5_max_ultra/",
+   "published_at": "2026-11-11T15:34:20+00:00",
    "extra": ""
   },
   {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtbfnx/763b_deepseek_v41_flash_on_one_32_gb_card_50_toks",
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtjze2/biweekly_megathread_project_showcase",
    "source": "reddit",
-   "title": "763B DeepSeek V4.1 Flash on one 32 GB card: 50 tok/s, and what the 2-bit quant costs (top-1 agreement 83.5 %)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtbfnx/763b_deepseek_v41_flash_on_one_32_gb_card_50_toks/",
-   "published_at": "2026-11-11T07:20:19+00:00",
+   "title": "[Bi-Weekly Megathread] Project Showcase",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtjze2/biweekly_megathread_project_showcase/",
+   "published_at": "2026-11-11T15:02:21+00:00",
    "extra": ""
   },
   {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtb9gw/zyphrazonos3mini_hugging_face",
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtjmhg/whats_the_best_35b_moe",
    "source": "reddit",
-   "title": "Zyphra/ZONOS3-Mini · Hugging Face",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtb9gw/zyphrazonos3mini_hugging_face/",
-   "published_at": "2026-11-11T07:09:56+00:00",
+   "title": "Whats the best 35b MoE?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtjmhg/whats_the_best_35b_moe/",
+   "published_at": "2026-11-11T14:48:07+00:00",
    "extra": ""
   },
   {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtb199/ifmpan2_hugging_face",
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtj1oq/second_5060_ti_cant_fit_in_my_am4_b550m",
    "source": "reddit",
-   "title": "IFM/PAN2 · Hugging Face",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtb199/ifmpan2_hugging_face/",
-   "published_at": "2026-11-11T06:56:07+00:00",
+   "title": "Second 5060 Ti can't fit in my AM4 B550M motherboard: What are the best ways to run 2/3 GPUs?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtj1oq/second_5060_ti_cant_fit_in_my_am4_b550m/",
+   "published_at": "2026-11-11T14:24:27+00:00",
    "extra": ""
   },
   {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xt9o3t/llamacpp_add_fp8_kvcache",
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtizre/rules_and_moderation_what_do_you_want_to_see",
    "source": "reddit",
-   "title": "llama.cpp: Add FP8 KV-cache",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt9o3t/llamacpp_add_fp8_kvcache/",
-   "published_at": "2026-11-11T05:36:19+00:00",
+   "title": "Rules and moderation, what do you want to see changed?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtizre/rules_and_moderation_what_do_you_want_to_see/",
+   "published_at": "2026-11-11T14:22:08+00:00",
    "extra": ""
   },
   {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xt82mz/microsoft_research_backdoored_an_ai_agent_by",
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtioaa/effects_of_pcie_bandwidth_on_inference",
    "source": "reddit",
-   "title": "Microsoft Research backdoored an AI agent by directly editing fewer than 10 dormant neurons",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt82mz/microsoft_research_backdoored_an_ai_agent_by/",
-   "published_at": "2026-11-11T04:09:44+00:00",
+   "title": "Effects of PCIe bandwidth on inference",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtioaa/effects_of_pcie_bandwidth_on_inference/",
+   "published_at": "2026-11-11T14:09:01+00:00",
    "extra": ""
   },
   {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xt81pu/deletion_tuning_vs_lora_for_small_local_finetunes",
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xti4bc/deepseek_41_running_local",
    "source": "reddit",
-   "title": "Deletion tuning vs LoRA for small local fine-tunes, anyone tried it yet?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt81pu/deletion_tuning_vs_lora_for_small_local_finetunes/",
-   "published_at": "2026-11-11T04:08:24+00:00",
+   "title": "DeepSeek 4.1 running local...",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xti4bc/deepseek_41_running_local/",
+   "published_at": "2026-11-11T13:45:30+00:00",
    "extra": ""
   },
   {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xt7z2u/m5_ultra_fine_tuning",
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xthu1w/strands_decider_v_the_jevs",
    "source": "reddit",
-   "title": "M5 Ultra fine tuning",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt7z2u/m5_ultra_fine_tuning/",
-   "published_at": "2026-11-11T04:04:34+00:00",
+   "title": "Strands Decider v. the Jevs",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xthu1w/strands_decider_v_the_jevs/",
+   "published_at": "2026-11-11T13:32:40+00:00",
    "extra": ""
   },
   {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xt6toe/glm53flash_mistakes",
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xthiki/nexn26_is_out_the_update_is_mostly_about_getting",
    "source": "reddit",
-   "title": "GLM-5.3-flash mistakes",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt6toe/glm53flash_mistakes/",
-   "published_at": "2026-11-11T03:06:17+00:00",
+   "title": "Nex-N2.6 is out. The update is mostly about getting stuck less.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xthiki/nexn26_is_out_the_update_is_mostly_about_getting/",
+   "published_at": "2026-11-11T13:18:01+00:00",
    "extra": ""
   },
   {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xt6rc7/glb3dcoder_i_tried_making_a_17b_version_for_godot",
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtfmlq/qwen_4_flappy_bird_game_test_single_prompt",
    "source": "reddit",
-   "title": "[GLB-3D-Coder] I tried making a 1.7B version for Godot",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt6rc7/glb3dcoder_i_tried_making_a_17b_version_for_godot/",
-   "published_at": "2026-11-11T03:03:09+00:00",
+   "title": "Qwen 4 Flappy Bird Game Test, single prompt.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtfmlq/qwen_4_flappy_bird_game_test_single_prompt/",
+   "published_at": "2026-11-11T11:41:55+00:00",
    "extra": ""
   },
   {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xt68y7/pacman_benchmark",
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtfle1/training_memorilla_on_strix_halo_for_gemma4",
    "source": "reddit",
-   "title": "Pac-Man Benchmark",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt68y7/pacman_benchmark/",
-   "published_at": "2026-11-11T02:38:07+00:00",
+   "title": "Training Memorilla on Strix Halo for Gemma4",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtfle1/training_memorilla_on_strix_halo_for_gemma4/",
+   "published_at": "2026-11-11T11:39:55+00:00",
    "extra": ""
   },
   {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xt3hjd/i_built_a_zerodependency_streaming_markdown",
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtf9xp/anyone_else_not_using_using_preserve_thinking",
    "source": "reddit",
-   "title": "I built a zero-dependency streaming Markdown renderer for AI chat replies, n× faster than the next one I benchmarked",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt3hjd/i_built_a_zerodependency_streaming_markdown/",
-   "published_at": "2026-11-11T00:27:43+00:00",
+   "title": "Anyone else not using using \"preserve_thinking\" ?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtf9xp/anyone_else_not_using_using_preserve_thinking/",
+   "published_at": "2026-11-11T11:20:57+00:00",
    "extra": ""
   },
   {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xt2mjk/xemaya_an_intel_arc_inference_engine_to_run",
-   "source": "reddit",
-   "title": "XeMaya, an Intel Arc inference engine to run DeepSeek V4.1 and GLM 5.3",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt2mjk/xemaya_an_intel_arc_inference_engine_to_run/",
-   "published_at": "2026-11-10T23:50:54+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xt2l8r/are_moes_on_phones_viable_via_custom_engines",
-   "source": "reddit",
-   "title": "are MoEs on phones viable via custom engines?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt2l8r/are_moes_on_phones_viable_via_custom_engines/",
-   "published_at": "2026-11-10T23:49:18+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xsytlk/my_ai_is_lazier_than_me",
-   "source": "reddit",
-   "title": "My AI is lazier than me",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsytlk/my_ai_is_lazier_than_me/",
-   "published_at": "2026-11-10T21:11:05+00:00",
-   "extra": ""
+   "id": "hn:50454625",
+   "source": "hn",
+   "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
+   "url": "https://github.com/FrigadeHQ/yogurt",
+   "published_at": "2026-11-11T15:33:06Z",
+   "extra": "points=11"
   },
   {
    "id": "hn:50446179",
@@ -30886,12 +31125,28 @@
    "extra": "points=2"
   },
   {
+   "id": "hn:50436713",
+   "source": "hn",
+   "title": "Show HN: Zumungo AI Driven Home Automation",
+   "url": "https://zumungo.com/get-started.html",
+   "published_at": "2026-11-10T06:15:54Z",
+   "extra": "points=1"
+  },
+  {
    "id": "hn:50436636",
    "source": "hn",
    "title": "Tell HN: Notion AI chat sessions have been exposed via Fireworks AI hack",
    "url": "https://news.ycombinator.com/item?id=50436636",
    "published_at": "2026-11-10T06:00:48Z",
    "extra": "points=9"
+  },
+  {
+   "id": "hn:50454344",
+   "source": "hn",
+   "title": "Show HN: EarthData – find places to visit or live that match what you care about",
+   "url": "https://earthdata.io/en",
+   "published_at": "2026-11-11T15:08:10Z",
+   "extra": "points=1"
   },
   {
    "id": "hn:50440232",
@@ -30932,62 +31187,6 @@
    "url": "https://meowdisplay.app/",
    "published_at": "2026-11-09T18:39:22Z",
    "extra": "points=70"
-  },
-  {
-   "id": "hn:50429225",
-   "source": "hn",
-   "title": "Muse Ember",
-   "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
-   "published_at": "2026-11-09T18:11:35Z",
-   "extra": "points=10"
-  },
-  {
-   "id": "hn:50446007",
-   "source": "hn",
-   "title": "Show HN: Cloakroom – Keeps secrets away from agents",
-   "url": "https://github.com/shanjeevrajendran/cloakroom",
-   "published_at": "2026-11-10T20:39:46Z",
-   "extra": "points=1"
-  },
-  {
-   "id": "hn:50442258",
-   "source": "hn",
-   "title": "Show HN: Ilo Musi 8 – Handheld Game Console Emulating CHIP-8 Platform",
-   "url": "https://ilomusi8.sadale.net/en/welcome",
-   "published_at": "2026-11-10T16:04:08Z",
-   "extra": "points=1"
-  },
-  {
-   "id": "hn:50440317",
-   "source": "hn",
-   "title": "Show HN: A Hacker's Web Browser – Any Site to API (Open-Source)",
-   "url": "https://github.com/realsirjoe/relinos",
-   "published_at": "2026-11-10T13:49:15Z",
-   "extra": "points=2"
-  },
-  {
-   "id": "hn:50439598",
-   "source": "hn",
-   "title": "Show HN: Markview – a fast Markdown reader in Rust, Obsidian Vault compatible",
-   "url": "https://github.com/szdytom/markview",
-   "published_at": "2026-11-10T12:47:21Z",
-   "extra": "points=2"
-  },
-  {
-   "id": "hn:50438931",
-   "source": "hn",
-   "title": "Show HN: Tokspur a 3x faster open source inference engine for Macs",
-   "url": "https://github.com/san-digital/tokspur",
-   "published_at": "2026-11-10T11:42:45Z",
-   "extra": "points=3"
-  },
-  {
-   "id": "hn:50427934",
-   "source": "hn",
-   "title": "Show HN: DBDelve – Open-Source DB Client Made with Rust and GPUI",
-   "url": "https://news.ycombinator.com/item?id=50427934",
-   "published_at": "2026-11-09T16:36:38Z",
-   "extra": "points=91"
   }
  ],
  "pending_push": [
@@ -43970,6 +44169,106 @@
    "extra": "points=3",
    "event_type": "release",
    "summary": "Show HN: Caramel: a speech-to-speech conversation model trained only on audio"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtmcoe/unsloth_dynamic_v31_released_for_qwen3827b",
+   "source": "reddit",
+   "title": "Unsloth Dynamic V3.1 released for Qwen3.8-27B, DeepSeek-V4.1-Flash-1017 and Qwen3.8-Flash-Next",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtmcoe/unsloth_dynamic_v31_released_for_qwen3827b/",
+   "published_at": "2026-11-11T16:32:45+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "Unsloth Dynamic V3.1 released for Qwen3.8-27B, DeepSeek-V4.1-Flash-1017 and Qwen3.8-Flash-Next"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtju4x/nvidia_geforce_rtx_5080_24_gb_reportedly",
+   "source": "reddit",
+   "title": "NVIDIA GeForce RTX 5080 24 GB Reportedly Cancelled, 16 GB Model Remains",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtju4x/nvidia_geforce_rtx_5080_24_gb_reportedly/",
+   "published_at": "2026-11-11T14:56:45+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "NVIDIA GeForce RTX 5080 24 GB Reportedly Cancelled, 16 GB Model Remains"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xthtwt/paper_treeising_repairing_language_models_with",
+   "source": "reddit",
+   "title": "[Paper] Tree-Ising: Repairing Language Models with Bit-Level Ising Edits",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xthtwt/paper_treeising_repairing_language_models_with/",
+   "published_at": "2026-11-11T13:32:30+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "[Paper] Tree-Ising: Repairing Language Models with Bit-Level Ising Edits"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtgnh9/you_can_now_train_your_own_llms_with_less_memory",
+   "source": "reddit",
+   "title": "You can now train your own LLMs with less memory, on your gaming GPUs",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtgnh9/you_can_now_train_your_own_llms_with_less_memory/",
+   "published_at": "2026-11-11T12:36:21+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "You can now train your own LLMs with less memory, on your gaming GPUs"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtgii5/how_are_the_k2_horizon_models",
+   "source": "reddit",
+   "title": "How are the K2 Horizon Models ?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtgii5/how_are_the_k2_horizon_models/",
+   "published_at": "2026-11-11T12:29:32+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "How are the K2 Horizon Models ?"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtfvct/askmdb_my_new_project_where_i_finetuned_qwen",
+   "source": "reddit",
+   "title": "askmdb: My new project where I fine-tuned Qwen models to build a MongoDB CLI assistant - turn plain-language questions into MongoDB queries",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtfvct/askmdb_my_new_project_where_i_finetuned_qwen/",
+   "published_at": "2026-11-11T11:55:54+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "askmdb: My new project where I fine-tuned Qwen models to build a MongoDB CLI assistant - turn plain-language questions into MongoDB queries"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtfk3n/qwen4_open_weights_not_soon",
+   "source": "reddit",
+   "title": "Qwen4 open weights not soon?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtfk3n/qwen4_open_weights_not_soon/",
+   "published_at": "2026-11-11T11:37:52+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "Qwen4 open weights not soon?"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xted8w/ernie_55_flash_will_be_released_in_two_weeks",
+   "source": "reddit",
+   "title": "Ernie 5.5 Flash will be released in two weeks",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xted8w/ernie_55_flash_will_be_released_in_two_weeks/",
+   "published_at": "2026-11-11T10:26:23+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "Ernie 5.5 Flash will be released in two weeks"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtdwps/nvidia_reportedly_cancels_geforce_rtx_5080_24gb",
+   "source": "reddit",
+   "title": "NVIDIA reportedly cancels GeForce RTX 5080 24GB launch, brings back 16GB model over GDDR7 costs",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtdwps/nvidia_reportedly_cancels_geforce_rtx_5080_24gb/",
+   "published_at": "2026-11-11T09:58:50+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "NVIDIA reportedly cancels GeForce RTX 5080 24GB launch, brings back 16GB model over GDDR7 costs"
+  },
+  {
+   "id": "hn:50455811",
+   "source": "hn",
+   "title": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
+   "url": "https://news.ycombinator.com/item?id=50455811",
+   "published_at": "2026-11-11T17:11:56Z",
+   "extra": "points=2",
+   "event_type": "release",
+   "summary": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents"
   }
  ]
 }
