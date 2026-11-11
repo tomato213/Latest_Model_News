@@ -3941,9 +3941,38 @@
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xt4bnl/i_built_a_free_app_that_turns_epub_and_pdf_books": "2026-11-11T01:52:26.731049+00:00",
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xt2x2d/i_baked_xkcdartist_a_172_mb_int8_onnx_browser": "2026-11-11T01:52:26.731049+00:00",
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xt0ah5/what_tasks_have_you_moved_from_cloud_models_to": "2026-11-11T01:52:26.731049+00:00",
-  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xt059z/we_got_custom_inference_per_model_per_hardware": "2026-11-11T01:52:26.731049+00:00"
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xt059z/we_got_custom_inference_per_model_per_hardware": "2026-11-11T01:52:26.731049+00:00",
+  "openai:https://openai.com/index/coderabbit-codex-daybreak": "2026-11-11T09:14:38.521615+00:00",
+  "openai:https://openai.com/index/kuken": "2026-11-11T09:14:38.521615+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xt6uwd/comfyui_v0450_released": "2026-11-11T09:14:39.000502+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xt6096/have_been_getting_into_local_llms_recently": "2026-11-11T09:14:39.000502+00:00",
+  "hn:50449320": "2026-11-11T09:14:39.000502+00:00"
  },
  "pending": [
+  {
+   "id": "hn:50426559",
+   "source": "hn",
+   "title": "Show HN: Thrum – run Claude Code, Codex and other coding agents as one team",
+   "url": "https://thrum.team/",
+   "published_at": "2026-11-09T14:59:42Z",
+   "extra": "points=6"
+  },
+  {
+   "id": "hn:50426158",
+   "source": "hn",
+   "title": "Show HN: Product Analytics for your agent. 100x+ cheaper analytics/BI",
+   "url": "https://slurp.run/",
+   "published_at": "2026-11-09T14:30:22Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:50424070",
+   "source": "hn",
+   "title": "Show HN: TimeScroll – an open-source, local replacement for Rewind on Mac",
+   "url": "https://github.com/XInTheDark/TimeScrollApp",
+   "published_at": "2026-11-09T11:19:39Z",
+   "extra": "points=2"
+  },
   {
    "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wpprlr/former_intel_ceo_hbm_is_lousy_high_bandwidth",
    "source": "reddit",
@@ -30121,14 +30150,6 @@
    "extra": ""
   },
   {
-   "id": "hn:50429960",
-   "source": "hn",
-   "title": "Show HN: Search 17 years of \"What are you working on?\"",
-   "url": "https://stillworkingonit.vercel.app/",
-   "published_at": "2026-11-09T18:59:05Z",
-   "extra": "points=1"
-  },
-  {
    "id": "hn:50413970",
    "source": "hn",
    "title": "Show HN: Recalc – Spreadsheet where cells can be Claude Code or Codex terminals",
@@ -30385,38 +30406,6 @@
    "extra": "points=1"
   },
   {
-   "id": "openai:https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-   "source": "openai",
-   "title": "Helping caregivers use AI in everyday life",
-   "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-   "published_at": "2026-11-10T12:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "openai:https://openai.com/index/closing-ai-guidance-gap-education",
-   "source": "openai",
-   "title": "Closing the AI guidance gap in education",
-   "url": "https://openai.com/index/closing-ai-guidance-gap-education",
-   "published_at": "2026-11-10T09:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "openai:https://openai.com/index/ai-effect-on-freelance-work",
-   "source": "openai",
-   "title": "Work at the Frontier: AI’s effect on freelance work",
-   "url": "https://openai.com/index/ai-effect-on-freelance-work",
-   "published_at": "2026-11-10T07:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "openai:https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-   "source": "openai",
-   "title": "ChatGPT Enterprise now available in AWS Marketplace",
-   "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-   "published_at": "2026-11-09T19:00:00+00:00",
-   "extra": ""
-  },
-  {
    "id": "openai:https://openai.com/index/coderabbit-codex-daybreak",
    "source": "openai",
    "title": "CodeRabbit scales agentic software development and ships 20x more",
@@ -30433,70 +30422,6 @@
    "extra": ""
   },
   {
-   "id": "anthropic:s1-sec",
-   "source": "anthropic",
-   "title": "S1 Sec",
-   "url": "https://www.anthropic.com/news/s1-sec",
-   "published_at": null,
-   "extra": ""
-  },
-  {
-   "id": "anthropic:ai-for-science-expands-foundations-research-institutions",
-   "source": "anthropic",
-   "title": "Ai For Science Expands Foundations Research Institutions",
-   "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
-   "published_at": null,
-   "extra": ""
-  },
-  {
-   "id": "anthropic:expanding-partnership-gsa",
-   "source": "anthropic",
-   "title": "Expanding Partnership Gsa",
-   "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
-   "published_at": null,
-   "extra": ""
-  },
-  {
-   "id": "anthropic:donating-agent-skills-to-the-agentic-ai-foundation",
-   "source": "anthropic",
-   "title": "Donating Agent Skills To The Agentic Ai Foundation",
-   "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
-   "published_at": null,
-   "extra": ""
-  },
-  {
-   "id": "anthropic:open-call-guest-investigators-life-sciences",
-   "source": "anthropic",
-   "title": "Open Call Guest Investigators Life Sciences",
-   "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
-   "published_at": null,
-   "extra": ""
-  },
-  {
-   "id": "anthropic:christopher-stubbs-joins-long-term-benefit-trust",
-   "source": "anthropic",
-   "title": "Christopher Stubbs Joins Long Term Benefit Trust",
-   "url": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
-   "published_at": null,
-   "extra": ""
-  },
-  {
-   "id": "anthropic:distillation-defenses",
-   "source": "anthropic",
-   "title": "Distillation Defenses",
-   "url": "https://www.anthropic.com/news/distillation-defenses",
-   "published_at": null,
-   "extra": ""
-  },
-  {
-   "id": "deepseek:news261017",
-   "source": "deepseek",
-   "title": "DeepSeek-V4.1-Flash-1017: Wish-Driven Programming Made Real",
-   "url": "https://api-docs.deepseek.com/news/news261017/",
-   "published_at": null,
-   "extra": ""
-  },
-  {
    "id": "openrouter:baidu/ernie-5.5-flash-preview",
    "source": "openrouter",
    "title": "Baidu: ERNIE-5.5-Flash-Preview",
@@ -30505,107 +30430,11 @@
    "extra": "context=1024000"
   },
   {
-   "id": "openrouter:baidu/ernie-light-dt-1.0-intl",
-   "source": "openrouter",
-   "title": "Baidu: ERNIE-Light-DT-1.0",
-   "url": "https://openrouter.ai/baidu/ernie-light-dt-1.0-intl",
-   "published_at": "2026-11-10T17:21:00+00:00",
-   "extra": "context=1024000"
-  },
-  {
-   "id": "openrouter:google/gemini-4-carbon",
-   "source": "openrouter",
-   "title": "Google: Gemini 4 Carbon",
-   "url": "https://openrouter.ai/google/gemini-4-carbon",
-   "published_at": "2026-11-10T16:07:51+00:00",
-   "extra": "context=1048576"
-  },
-  {
-   "id": "openrouter:google/gemini-4-carbon:batch",
-   "source": "openrouter",
-   "title": "Google: Gemini 4 Carbon (batch)",
-   "url": "https://openrouter.ai/google/gemini-4-carbon:batch",
-   "published_at": "2026-11-10T16:07:51+00:00",
-   "extra": "context=1048576"
-  },
-  {
-   "id": "openrouter:nex-agi/nex-n2.6",
-   "source": "openrouter",
-   "title": "Nex AGI: Nex-N2.6",
-   "url": "https://openrouter.ai/nex-agi/nex-n2.6",
-   "published_at": "2026-11-10T03:46:19+00:00",
-   "extra": "context=262144"
-  },
-  {
-   "id": "openrouter:thinkingmachines/inkling-2-small:free",
-   "source": "openrouter",
-   "title": "Thinking Machines: Inkling 2 Small (free)",
-   "url": "https://openrouter.ai/thinkingmachines/inkling-2-small:free",
-   "published_at": "2026-11-09T22:04:07+00:00",
-   "extra": "context=1048576"
-  },
-  {
-   "id": "openrouter:anthropic/claude-fable-5.2",
-   "source": "openrouter",
-   "title": "Anthropic: Claude Fable 5.2",
-   "url": "https://openrouter.ai/anthropic/claude-fable-5.2",
-   "published_at": "2026-11-09T19:49:41+00:00",
-   "extra": "context=1000000"
-  },
-  {
-   "id": "openrouter:anthropic/claude-fable-5.2:batch",
-   "source": "openrouter",
-   "title": "Anthropic: Claude Fable 5.2 (batch)",
-   "url": "https://openrouter.ai/anthropic/claude-fable-5.2:batch",
-   "published_at": "2026-11-09T19:49:41+00:00",
-   "extra": "context=1000000"
-  },
-  {
-   "id": "openrouter:meta/muse-ember",
-   "source": "openrouter",
-   "title": "Meta: Muse Ember",
-   "url": "https://openrouter.ai/meta/muse-ember",
-   "published_at": "2026-11-09T18:07:28+00:00",
-   "extra": "context=1048576"
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xt3hjd/i_built_a_zerodependency_streaming_markdown",
-   "source": "reddit",
-   "title": "I built a zero-dependency streaming Markdown renderer for AI chat replies, n× faster than the next one I benchmarked",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt3hjd/i_built_a_zerodependency_streaming_markdown/",
-   "published_at": "2026-11-11T00:27:43+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xt2mjk/xemaya_an_intel_arc_inference_engine_to_run",
-   "source": "reddit",
-   "title": "XeMaya, an Intel Arc inference engine to run DeepSeek V4.1 and GLM 5.3",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt2mjk/xemaya_an_intel_arc_inference_engine_to_run/",
-   "published_at": "2026-11-10T23:50:54+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xt2l8r/are_moes_on_phones_viable_via_custom_engines",
-   "source": "reddit",
-   "title": "are MoEs on phones viable via custom engines?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt2l8r/are_moes_on_phones_viable_via_custom_engines/",
-   "published_at": "2026-11-10T23:49:18+00:00",
-   "extra": ""
-  },
-  {
    "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xt0h68/ai",
    "source": "reddit",
    "title": "AI",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt0h68/ai/",
    "published_at": "2026-11-10T22:18:08+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xsytlk/my_ai_is_lazier_than_me",
-   "source": "reddit",
-   "title": "My AI is lazier than me",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsytlk/my_ai_is_lazier_than_me/",
-   "published_at": "2026-11-10T21:11:05+00:00",
    "extra": ""
   },
   {
@@ -30697,6 +30526,358 @@
    "extra": ""
   },
   {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wpqyaz/gemma_4_developer_agent_competition",
+   "source": "reddit",
+   "title": "Gemma 4 Developer Agent Competition",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpqyaz/gemma_4_developer_agent_competition/",
+   "published_at": "2026-09-25T08:34:34+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/chatgpt-plus-for-veterans",
+   "source": "openai",
+   "title": "ChatGPT Plus for veterans and servicemembers",
+   "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+   "published_at": "2026-11-11T08:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+   "source": "openai",
+   "title": "Helping caregivers use AI in everyday life",
+   "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+   "published_at": "2026-11-10T12:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/closing-ai-guidance-gap-education",
+   "source": "openai",
+   "title": "Closing the AI guidance gap in education",
+   "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+   "published_at": "2026-11-10T09:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/singapore-airlines-travel-work",
+   "source": "openai",
+   "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+   "url": "https://openai.com/index/singapore-airlines-travel-work",
+   "published_at": "2026-11-10T08:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/ai-effect-on-freelance-work",
+   "source": "openai",
+   "title": "Work at the Frontier: AI’s effect on freelance work",
+   "url": "https://openai.com/index/ai-effect-on-freelance-work",
+   "published_at": "2026-11-10T07:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/cogent-security",
+   "source": "openai",
+   "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+   "url": "https://openai.com/index/cogent-security",
+   "published_at": "2026-11-10T00:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+   "source": "openai",
+   "title": "ChatGPT Enterprise now available in AWS Marketplace",
+   "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+   "published_at": "2026-11-09T19:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "anthropic:s1-sec",
+   "source": "anthropic",
+   "title": "S1 Sec",
+   "url": "https://www.anthropic.com/news/s1-sec",
+   "published_at": null,
+   "extra": ""
+  },
+  {
+   "id": "anthropic:ai-for-science-expands-foundations-research-institutions",
+   "source": "anthropic",
+   "title": "Ai For Science Expands Foundations Research Institutions",
+   "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+   "published_at": null,
+   "extra": ""
+  },
+  {
+   "id": "anthropic:expanding-partnership-gsa",
+   "source": "anthropic",
+   "title": "Expanding Partnership Gsa",
+   "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+   "published_at": null,
+   "extra": ""
+  },
+  {
+   "id": "anthropic:donating-agent-skills-to-the-agentic-ai-foundation",
+   "source": "anthropic",
+   "title": "Donating Agent Skills To The Agentic Ai Foundation",
+   "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+   "published_at": null,
+   "extra": ""
+  },
+  {
+   "id": "anthropic:open-call-guest-investigators-life-sciences",
+   "source": "anthropic",
+   "title": "Open Call Guest Investigators Life Sciences",
+   "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
+   "published_at": null,
+   "extra": ""
+  },
+  {
+   "id": "anthropic:christopher-stubbs-joins-long-term-benefit-trust",
+   "source": "anthropic",
+   "title": "Christopher Stubbs Joins Long Term Benefit Trust",
+   "url": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
+   "published_at": null,
+   "extra": ""
+  },
+  {
+   "id": "anthropic:distillation-defenses",
+   "source": "anthropic",
+   "title": "Distillation Defenses",
+   "url": "https://www.anthropic.com/news/distillation-defenses",
+   "published_at": null,
+   "extra": ""
+  },
+  {
+   "id": "deepseek:news261017",
+   "source": "deepseek",
+   "title": "DeepSeek-V4.1-Flash-1017: Wish-Driven Programming Made Real",
+   "url": "https://api-docs.deepseek.com/news/news261017/",
+   "published_at": null,
+   "extra": ""
+  },
+  {
+   "id": "openrouter:baidu/ernie-5.5-flash-preview:free",
+   "source": "openrouter",
+   "title": "Baidu: ERNIE-5.5-Flash-Preview (free)",
+   "url": "https://openrouter.ai/baidu/ernie-5.5-flash-preview:free",
+   "published_at": "2026-11-10T17:58:53+00:00",
+   "extra": "context=1024000"
+  },
+  {
+   "id": "openrouter:baidu/ernie-light-dt-1.0-intl",
+   "source": "openrouter",
+   "title": "Baidu: ERNIE-Light-DT-1.0",
+   "url": "https://openrouter.ai/baidu/ernie-light-dt-1.0-intl",
+   "published_at": "2026-11-10T17:21:00+00:00",
+   "extra": "context=1024000"
+  },
+  {
+   "id": "openrouter:google/gemini-4-carbon",
+   "source": "openrouter",
+   "title": "Google: Gemini 4 Carbon",
+   "url": "https://openrouter.ai/google/gemini-4-carbon",
+   "published_at": "2026-11-10T16:07:51+00:00",
+   "extra": "context=1048576"
+  },
+  {
+   "id": "openrouter:google/gemini-4-carbon:batch",
+   "source": "openrouter",
+   "title": "Google: Gemini 4 Carbon (batch)",
+   "url": "https://openrouter.ai/google/gemini-4-carbon:batch",
+   "published_at": "2026-11-10T16:07:51+00:00",
+   "extra": "context=1048576"
+  },
+  {
+   "id": "openrouter:nex-agi/nex-n2.6",
+   "source": "openrouter",
+   "title": "Nex AGI: Nex-N2.6",
+   "url": "https://openrouter.ai/nex-agi/nex-n2.6",
+   "published_at": "2026-11-10T03:46:19+00:00",
+   "extra": "context=262144"
+  },
+  {
+   "id": "openrouter:thinkingmachines/inkling-2-small:free",
+   "source": "openrouter",
+   "title": "Thinking Machines: Inkling 2 Small (free)",
+   "url": "https://openrouter.ai/thinkingmachines/inkling-2-small:free",
+   "published_at": "2026-11-09T22:04:07+00:00",
+   "extra": "context=1048576"
+  },
+  {
+   "id": "openrouter:anthropic/claude-fable-5.2",
+   "source": "openrouter",
+   "title": "Anthropic: Claude Fable 5.2",
+   "url": "https://openrouter.ai/anthropic/claude-fable-5.2",
+   "published_at": "2026-11-09T19:49:41+00:00",
+   "extra": "context=1000000"
+  },
+  {
+   "id": "openrouter:anthropic/claude-fable-5.2:batch",
+   "source": "openrouter",
+   "title": "Anthropic: Claude Fable 5.2 (batch)",
+   "url": "https://openrouter.ai/anthropic/claude-fable-5.2:batch",
+   "published_at": "2026-11-09T19:49:41+00:00",
+   "extra": "context=1000000"
+  },
+  {
+   "id": "openrouter:meta/muse-ember",
+   "source": "openrouter",
+   "title": "Meta: Muse Ember",
+   "url": "https://openrouter.ai/meta/muse-ember",
+   "published_at": "2026-11-09T18:07:28+00:00",
+   "extra": "context=1048576"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtd7bl/a100_vs_r9700",
+   "source": "reddit",
+   "title": "A100 vs R9700",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtd7bl/a100_vs_r9700/",
+   "published_at": "2026-11-11T09:10:56+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtcw3k/multiagentmultitower_system",
+   "source": "reddit",
+   "title": "Multi-agent-multi-tower system",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtcw3k/multiagentmultitower_system/",
+   "published_at": "2026-11-11T08:51:26+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtcrgm/qwen4max_preview_is_out_on_api_access_no_word_on",
+   "source": "reddit",
+   "title": "Qwen4-Max Preview is out on API access. No word on weights release yet",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtcrgm/qwen4max_preview_is_out_on_api_access_no_word_on/",
+   "published_at": "2026-11-11T08:42:58+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtckm8/qwen4maxpreview_on_qwencloud",
+   "source": "reddit",
+   "title": "qwen4-max-preview on qwencloud",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtckm8/qwen4maxpreview_on_qwencloud/",
+   "published_at": "2026-11-11T08:30:34+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtccty/how_to_get_into_agent_orchestration",
+   "source": "reddit",
+   "title": "How to get into Agent orchestration",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtccty/how_to_get_into_agent_orchestration/",
+   "published_at": "2026-11-11T08:17:09+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtbfnx/763b_deepseek_v41_flash_on_one_32_gb_card_50_toks",
+   "source": "reddit",
+   "title": "763B DeepSeek V4.1 Flash on one 32 GB card: 50 tok/s, and what the 2-bit quant costs (top-1 agreement 83.5 %)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtbfnx/763b_deepseek_v41_flash_on_one_32_gb_card_50_toks/",
+   "published_at": "2026-11-11T07:20:19+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtb9gw/zyphrazonos3mini_hugging_face",
+   "source": "reddit",
+   "title": "Zyphra/ZONOS3-Mini · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtb9gw/zyphrazonos3mini_hugging_face/",
+   "published_at": "2026-11-11T07:09:56+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtb199/ifmpan2_hugging_face",
+   "source": "reddit",
+   "title": "IFM/PAN2 · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtb199/ifmpan2_hugging_face/",
+   "published_at": "2026-11-11T06:56:07+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xt9o3t/llamacpp_add_fp8_kvcache",
+   "source": "reddit",
+   "title": "llama.cpp: Add FP8 KV-cache",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt9o3t/llamacpp_add_fp8_kvcache/",
+   "published_at": "2026-11-11T05:36:19+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xt82mz/microsoft_research_backdoored_an_ai_agent_by",
+   "source": "reddit",
+   "title": "Microsoft Research backdoored an AI agent by directly editing fewer than 10 dormant neurons",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt82mz/microsoft_research_backdoored_an_ai_agent_by/",
+   "published_at": "2026-11-11T04:09:44+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xt81pu/deletion_tuning_vs_lora_for_small_local_finetunes",
+   "source": "reddit",
+   "title": "Deletion tuning vs LoRA for small local fine-tunes, anyone tried it yet?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt81pu/deletion_tuning_vs_lora_for_small_local_finetunes/",
+   "published_at": "2026-11-11T04:08:24+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xt7z2u/m5_ultra_fine_tuning",
+   "source": "reddit",
+   "title": "M5 Ultra fine tuning",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt7z2u/m5_ultra_fine_tuning/",
+   "published_at": "2026-11-11T04:04:34+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xt6toe/glm53flash_mistakes",
+   "source": "reddit",
+   "title": "GLM-5.3-flash mistakes",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt6toe/glm53flash_mistakes/",
+   "published_at": "2026-11-11T03:06:17+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xt6rc7/glb3dcoder_i_tried_making_a_17b_version_for_godot",
+   "source": "reddit",
+   "title": "[GLB-3D-Coder] I tried making a 1.7B version for Godot",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt6rc7/glb3dcoder_i_tried_making_a_17b_version_for_godot/",
+   "published_at": "2026-11-11T03:03:09+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xt68y7/pacman_benchmark",
+   "source": "reddit",
+   "title": "Pac-Man Benchmark",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt68y7/pacman_benchmark/",
+   "published_at": "2026-11-11T02:38:07+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xt3hjd/i_built_a_zerodependency_streaming_markdown",
+   "source": "reddit",
+   "title": "I built a zero-dependency streaming Markdown renderer for AI chat replies, n× faster than the next one I benchmarked",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt3hjd/i_built_a_zerodependency_streaming_markdown/",
+   "published_at": "2026-11-11T00:27:43+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xt2mjk/xemaya_an_intel_arc_inference_engine_to_run",
+   "source": "reddit",
+   "title": "XeMaya, an Intel Arc inference engine to run DeepSeek V4.1 and GLM 5.3",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt2mjk/xemaya_an_intel_arc_inference_engine_to_run/",
+   "published_at": "2026-11-10T23:50:54+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xt2l8r/are_moes_on_phones_viable_via_custom_engines",
+   "source": "reddit",
+   "title": "are MoEs on phones viable via custom engines?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt2l8r/are_moes_on_phones_viable_via_custom_engines/",
+   "published_at": "2026-11-10T23:49:18+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xsytlk/my_ai_is_lazier_than_me",
+   "source": "reddit",
+   "title": "My AI is lazier than me",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsytlk/my_ai_is_lazier_than_me/",
+   "published_at": "2026-11-10T21:11:05+00:00",
+   "extra": ""
+  },
+  {
    "id": "hn:50446179",
    "source": "hn",
    "title": "In open-weight AI, America is the one playing catch-up",
@@ -30734,6 +30915,14 @@
    "title": "Show HN: Negs (Spektrafilm) brings spectral film simulations to the browser",
    "url": "https://getnegs.com/try/",
    "published_at": "2026-11-09T20:41:22Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:50429960",
+   "source": "hn",
+   "title": "Show HN: Search 17 years of \"What are you working on?\"",
+   "url": "https://stillworkingonit.vercel.app/",
+   "published_at": "2026-11-09T18:59:05Z",
    "extra": "points=1"
   },
   {
@@ -30799,38 +30988,6 @@
    "url": "https://news.ycombinator.com/item?id=50427934",
    "published_at": "2026-11-09T16:36:38Z",
    "extra": "points=91"
-  },
-  {
-   "id": "hn:50426559",
-   "source": "hn",
-   "title": "Show HN: Thrum – run Claude Code, Codex and other coding agents as one team",
-   "url": "https://thrum.team/",
-   "published_at": "2026-11-09T14:59:42Z",
-   "extra": "points=6"
-  },
-  {
-   "id": "hn:50426158",
-   "source": "hn",
-   "title": "Show HN: Product Analytics for your agent. 100x+ cheaper analytics/BI",
-   "url": "https://slurp.run/",
-   "published_at": "2026-11-09T14:30:22Z",
-   "extra": "points=1"
-  },
-  {
-   "id": "hn:50424070",
-   "source": "hn",
-   "title": "Show HN: TimeScroll – an open-source, local replacement for Rewind on Mac",
-   "url": "https://github.com/XInTheDark/TimeScrollApp",
-   "published_at": "2026-11-09T11:19:39Z",
-   "extra": "points=2"
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wpqyaz/gemma_4_developer_agent_competition",
-   "source": "reddit",
-   "title": "Gemma 4 Developer Agent Competition",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpqyaz/gemma_4_developer_agent_competition/",
-   "published_at": "2026-09-25T08:34:34+00:00",
-   "extra": ""
   }
  ],
  "pending_push": [
@@ -43783,6 +43940,36 @@
    "extra": "",
    "event_type": "release",
    "summary": "We got custom inference per model per hardware now. How long before we get custom hardware for model?"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xt6uwd/comfyui_v0450_released",
+   "source": "reddit",
+   "title": "ComfyUI v0.45.0 released",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt6uwd/comfyui_v0450_released/",
+   "published_at": "2026-11-11T03:07:56+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "ComfyUI v0.45.0 released"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xt6096/have_been_getting_into_local_llms_recently",
+   "source": "reddit",
+   "title": "Have been getting into Local LLM’s recently, especially Qwen 3.8 27B on my M4 Pro MacBook (48GB) served using Splash and loving it! Now looking to try some harnesses to do some coding, any suggestions what ones I should try? Any favourites?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt6096/have_been_getting_into_local_llms_recently/",
+   "published_at": "2026-11-11T02:26:27+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "Have been getting into Local LLM’s recently, especially Qwen 3.8 27B on my M4 Pro MacBook (48GB) served using Splash and loving it! Now looking to try some harnesses to do some coding, any suggestions what ones I should try? Any favourites?"
+  },
+  {
+   "id": "hn:50449320",
+   "source": "hn",
+   "title": "Show HN: Caramel: a speech-to-speech conversation model trained only on audio",
+   "url": "https://naklecha.com/research/caramel-1",
+   "published_at": "2026-11-11T03:05:24Z",
+   "extra": "points=3",
+   "event_type": "release",
+   "summary": "Show HN: Caramel: a speech-to-speech conversation model trained only on audio"
   }
  ]
 }
