@@ -3961,57 +3961,26 @@
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtfk3n/qwen4_open_weights_not_soon": "2026-11-11T17:24:52.251384+00:00",
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xted8w/ernie_55_flash_will_be_released_in_two_weeks": "2026-11-11T17:24:52.251384+00:00",
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtdwps/nvidia_reportedly_cancels_geforce_rtx_5080_24gb": "2026-11-11T17:24:52.251384+00:00",
-  "hn:50455811": "2026-11-11T17:24:52.251384+00:00"
+  "hn:50455811": "2026-11-11T17:24:52.251384+00:00",
+  "openai:https://openai.com/index/chatgpt-enterprise-aws-marketplace": "2026-11-11T23:40:39.444199+00:00",
+  "hf:facebook/stereo-splat": "2026-11-11T23:40:39.444199+00:00",
+  "openrouter:thinkingmachines/inkling-2-small:free": "2026-11-11T23:40:39.444199+00:00",
+  "openrouter:anthropic/claude-fable-5.2": "2026-11-11T23:40:39.444199+00:00",
+  "openrouter:anthropic/claude-fable-5.2:batch": "2026-11-11T23:40:39.444199+00:00",
+  "openrouter:meta/muse-ember": "2026-11-11T23:40:39.444199+00:00",
+  "hn:50431764": "2026-11-11T23:40:39.444199+00:00",
+  "hn:50429960": "2026-11-11T23:40:39.444199+00:00",
+  "hn:50429636": "2026-11-11T23:40:39.444199+00:00",
+  "hn:50429225": "2026-11-11T23:40:39.444199+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtpqxm/new_paper_unless_told_otherwise_an_open_language": "2026-11-11T23:40:39.759835+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtpc2v/im_releasing_a_local_world_model_ive_been": "2026-11-11T23:40:39.759835+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtowe4/microsoft_files_a_patent_application_to_train_ai": "2026-11-11T23:40:39.759835+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtocct/i_made_open_models_for_yesno_and_multiplechoice": "2026-11-11T23:40:39.759835+00:00",
+  "hn:50457648": "2026-11-11T23:40:39.759835+00:00",
+  "hn:50458967": "2026-11-11T23:40:39.759835+00:00",
+  "hn:50443264": "2026-11-11T23:40:39.759835+00:00"
  },
  "pending": [
-  {
-   "id": "hn:50429225",
-   "source": "hn",
-   "title": "Muse Ember",
-   "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
-   "published_at": "2026-11-09T18:11:35Z",
-   "extra": "points=10"
-  },
-  {
-   "id": "hn:50455219",
-   "source": "hn",
-   "title": "Show HN: ZeGrapher v4: modern open-source math plotter – Desmos-inspired",
-   "url": "https://zegrapher.com/en/",
-   "published_at": "2026-11-11T16:25:00Z",
-   "extra": "points=1"
-  },
-  {
-   "id": "hn:50454221",
-   "source": "hn",
-   "title": "Show HN: Perch by mxRaven, a self-hosted mailbox and CLI in 1 file",
-   "url": "https://perch.mxraven.com",
-   "published_at": "2026-11-11T14:57:04Z",
-   "extra": "points=5"
-  },
-  {
-   "id": "hn:50452040",
-   "source": "hn",
-   "title": "Show HN: Pots – Open-source Grok Bot alternative, used by 6 startups for a month",
-   "url": "https://github.com/Crokily/pi-durable-bot",
-   "published_at": "2026-11-11T11:11:34Z",
-   "extra": "points=5"
-  },
-  {
-   "id": "hn:50452035",
-   "source": "hn",
-   "title": "Show HN: Ember.js, Re-Born in Rust",
-   "url": "https://auric.spa",
-   "published_at": "2026-11-11T11:11:13Z",
-   "extra": "points=2"
-  },
-  {
-   "id": "hn:50446007",
-   "source": "hn",
-   "title": "Show HN: Cloakroom – Keeps secrets away from agents",
-   "url": "https://github.com/shanjeevrajendran/cloakroom",
-   "published_at": "2026-11-10T20:39:46Z",
-   "extra": "points=1"
-  },
   {
    "id": "hn:50442258",
    "source": "hn",
@@ -4043,6 +4012,14 @@
    "url": "https://github.com/san-digital/tokspur",
    "published_at": "2026-11-10T11:42:45Z",
    "extra": "points=3"
+  },
+  {
+   "id": "hn:50429225",
+   "source": "hn",
+   "title": "Muse Ember",
+   "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+   "published_at": "2026-11-09T18:11:35Z",
+   "extra": "points=10"
   },
   {
    "id": "hn:50426559",
@@ -30789,11 +30766,147 @@
    "extra": "points=91"
   },
   {
+   "id": "openai:https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+   "source": "openai",
+   "title": "ChatGPT Enterprise now available in AWS Marketplace",
+   "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+   "published_at": "2026-11-09T19:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openrouter:thinkingmachines/inkling-2-small:free",
+   "source": "openrouter",
+   "title": "Thinking Machines: Inkling 2 Small (free)",
+   "url": "https://openrouter.ai/thinkingmachines/inkling-2-small:free",
+   "published_at": "2026-11-09T22:04:07+00:00",
+   "extra": "context=1048576"
+  },
+  {
+   "id": "openrouter:anthropic/claude-fable-5.2",
+   "source": "openrouter",
+   "title": "Anthropic: Claude Fable 5.2",
+   "url": "https://openrouter.ai/anthropic/claude-fable-5.2",
+   "published_at": "2026-11-09T19:49:41+00:00",
+   "extra": "context=1000000"
+  },
+  {
+   "id": "openrouter:anthropic/claude-fable-5.2:batch",
+   "source": "openrouter",
+   "title": "Anthropic: Claude Fable 5.2 (batch)",
+   "url": "https://openrouter.ai/anthropic/claude-fable-5.2:batch",
+   "published_at": "2026-11-09T19:49:41+00:00",
+   "extra": "context=1000000"
+  },
+  {
+   "id": "openrouter:meta/muse-ember",
+   "source": "openrouter",
+   "title": "Meta: Muse Ember",
+   "url": "https://openrouter.ai/meta/muse-ember",
+   "published_at": "2026-11-09T18:07:28+00:00",
+   "extra": "context=1048576"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtioaa/effects_of_pcie_bandwidth_on_inference",
+   "source": "reddit",
+   "title": "Effects of PCIe bandwidth on inference",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtioaa/effects_of_pcie_bandwidth_on_inference/",
+   "published_at": "2026-11-11T14:09:01+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xti4bc/deepseek_41_running_local",
+   "source": "reddit",
+   "title": "DeepSeek 4.1 running local...",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xti4bc/deepseek_41_running_local/",
+   "published_at": "2026-11-11T13:45:30+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xthu1w/strands_decider_v_the_jevs",
+   "source": "reddit",
+   "title": "Strands Decider v. the Jevs",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xthu1w/strands_decider_v_the_jevs/",
+   "published_at": "2026-11-11T13:32:40+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xthiki/nexn26_is_out_the_update_is_mostly_about_getting",
+   "source": "reddit",
+   "title": "Nex-N2.6 is out. The update is mostly about getting stuck less.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xthiki/nexn26_is_out_the_update_is_mostly_about_getting/",
+   "published_at": "2026-11-11T13:18:01+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtfmlq/qwen_4_flappy_bird_game_test_single_prompt",
+   "source": "reddit",
+   "title": "Qwen 4 Flappy Bird Game Test, single prompt.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtfmlq/qwen_4_flappy_bird_game_test_single_prompt/",
+   "published_at": "2026-11-11T11:41:55+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtfle1/training_memorilla_on_strix_halo_for_gemma4",
+   "source": "reddit",
+   "title": "Training Memorilla on Strix Halo for Gemma4",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtfle1/training_memorilla_on_strix_halo_for_gemma4/",
+   "published_at": "2026-11-11T11:39:55+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtf9xp/anyone_else_not_using_using_preserve_thinking",
+   "source": "reddit",
+   "title": "Anyone else not using using \"preserve_thinking\" ?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtf9xp/anyone_else_not_using_using_preserve_thinking/",
+   "published_at": "2026-11-11T11:20:57+00:00",
+   "extra": ""
+  },
+  {
+   "id": "hn:50436713",
+   "source": "hn",
+   "title": "Show HN: Zumungo AI Driven Home Automation",
+   "url": "https://zumungo.com/get-started.html",
+   "published_at": "2026-11-10T06:15:54Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:50431764",
+   "source": "hn",
+   "title": "Show HN: Negs (Spektrafilm) brings spectral film simulations to the browser",
+   "url": "https://getnegs.com/try/",
+   "published_at": "2026-11-09T20:41:22Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:50429960",
+   "source": "hn",
+   "title": "Show HN: Search 17 years of \"What are you working on?\"",
+   "url": "https://stillworkingonit.vercel.app/",
+   "published_at": "2026-11-09T18:59:05Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:50429636",
+   "source": "hn",
+   "title": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
+   "url": "https://meowdisplay.app/",
+   "published_at": "2026-11-09T18:39:22Z",
+   "extra": "points=70"
+  },
+  {
    "id": "openai:https://openai.com/index/chatgpt-plus-for-veterans",
    "source": "openai",
    "title": "ChatGPT Plus for veterans and servicemembers",
    "url": "https://openai.com/index/chatgpt-plus-for-veterans",
    "published_at": "2026-11-11T08:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/jiostar-vijay-seshadri",
+   "source": "openai",
+   "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+   "url": "https://openai.com/index/jiostar-vijay-seshadri",
+   "published_at": "2026-11-11T00:00:00+00:00",
    "extra": ""
   },
   {
@@ -30834,14 +30947,6 @@
    "title": "Cogent and OpenAI build cyber defense factories for enterprises",
    "url": "https://openai.com/index/cogent-security",
    "published_at": "2026-11-10T00:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "openai:https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-   "source": "openai",
-   "title": "ChatGPT Enterprise now available in AWS Marketplace",
-   "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-   "published_at": "2026-11-09T19:00:00+00:00",
    "extra": ""
   },
   {
@@ -30949,36 +31054,84 @@
    "extra": "context=262144"
   },
   {
-   "id": "openrouter:thinkingmachines/inkling-2-small:free",
-   "source": "openrouter",
-   "title": "Thinking Machines: Inkling 2 Small (free)",
-   "url": "https://openrouter.ai/thinkingmachines/inkling-2-small:free",
-   "published_at": "2026-11-09T22:04:07+00:00",
-   "extra": "context=1048576"
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtvxtp/architecture_trends_from_full_to_local_attention",
+   "source": "reddit",
+   "title": "Architecture trends: From full to local attention",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtvxtp/architecture_trends_from_full_to_local_attention/",
+   "published_at": "2026-11-11T22:38:09+00:00",
+   "extra": ""
   },
   {
-   "id": "openrouter:anthropic/claude-fable-5.2",
-   "source": "openrouter",
-   "title": "Anthropic: Claude Fable 5.2",
-   "url": "https://openrouter.ai/anthropic/claude-fable-5.2",
-   "published_at": "2026-11-09T19:49:41+00:00",
-   "extra": "context=1000000"
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtvsi7/nvidia_is_preparing_to_oust_nvidia_ceo_jensen",
+   "source": "reddit",
+   "title": "Nvidia is Preparing to Oust Nvidia CEO Jensen Huang",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtvsi7/nvidia_is_preparing_to_oust_nvidia_ceo_jensen/",
+   "published_at": "2026-11-11T22:31:56+00:00",
+   "extra": ""
   },
   {
-   "id": "openrouter:anthropic/claude-fable-5.2:batch",
-   "source": "openrouter",
-   "title": "Anthropic: Claude Fable 5.2 (batch)",
-   "url": "https://openrouter.ai/anthropic/claude-fable-5.2:batch",
-   "published_at": "2026-11-09T19:49:41+00:00",
-   "extra": "context=1000000"
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtuylk/what_makes_a_benchmark_valuable",
+   "source": "reddit",
+   "title": "What Makes a Benchmark Valuable?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtuylk/what_makes_a_benchmark_valuable/",
+   "published_at": "2026-11-11T21:58:06+00:00",
+   "extra": ""
   },
   {
-   "id": "openrouter:meta/muse-ember",
-   "source": "openrouter",
-   "title": "Meta: Muse Ember",
-   "url": "https://openrouter.ai/meta/muse-ember",
-   "published_at": "2026-11-09T18:07:28+00:00",
-   "extra": "context=1048576"
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtux72/261029162v1_why_is_aigenerated_language_so_hard",
+   "source": "reddit",
+   "title": "[2610.29162v1] Why is AI-generated language so hard to understand?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtux72/261029162v1_why_is_aigenerated_language_so_hard/",
+   "published_at": "2026-11-11T21:56:29+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtt3rb/observations_from_seeing_qwen_4_maxs_outputs",
+   "source": "reddit",
+   "title": "Observations from seeing Qwen 4 max’s outputs",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtt3rb/observations_from_seeing_qwen_4_maxs_outputs/",
+   "published_at": "2026-11-11T20:43:59+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtqsuu/us_and_china_may_collaborate_on_ai_the_jokes",
+   "source": "reddit",
+   "title": "US and China \"may\" collaborate on AI. The jokes write themselves",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtqsuu/us_and_china_may_collaborate_on_ai_the_jokes/",
+   "published_at": "2026-11-11T19:15:33+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtqawn/android_and_ios_are_ready_for_disruption",
+   "source": "reddit",
+   "title": "Android and IOS are ready for disruption",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtqawn/android_and_ios_are_ready_for_disruption/",
+   "published_at": "2026-11-11T18:57:24+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtp6zr/it_looks_like_well_get_a_lump_of_coal_for",
+   "source": "reddit",
+   "title": "It looks like we'll get a lump of coal for Christmas after all.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtp6zr/it_looks_like_well_get_a_lump_of_coal_for/",
+   "published_at": "2026-11-11T18:15:46+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtp66d/two_years",
+   "source": "reddit",
+   "title": "Two years",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtp66d/two_years/",
+   "published_at": "2026-11-11T18:14:59+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xto0fa/opensource_method_macaq_beats_unsloth_ggufs",
+   "source": "reddit",
+   "title": "Open-source method (MACaQ) beats Unsloth GGUFs!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xto0fa/opensource_method_macaq_beats_unsloth_ggufs/",
+   "published_at": "2026-11-11T17:32:40+00:00",
+   "extra": ""
   },
   {
    "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtmrii/deepseek_has_two_numbers_for_active_parameter",
@@ -31053,62 +31206,6 @@
    "extra": ""
   },
   {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtioaa/effects_of_pcie_bandwidth_on_inference",
-   "source": "reddit",
-   "title": "Effects of PCIe bandwidth on inference",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtioaa/effects_of_pcie_bandwidth_on_inference/",
-   "published_at": "2026-11-11T14:09:01+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xti4bc/deepseek_41_running_local",
-   "source": "reddit",
-   "title": "DeepSeek 4.1 running local...",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xti4bc/deepseek_41_running_local/",
-   "published_at": "2026-11-11T13:45:30+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xthu1w/strands_decider_v_the_jevs",
-   "source": "reddit",
-   "title": "Strands Decider v. the Jevs",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xthu1w/strands_decider_v_the_jevs/",
-   "published_at": "2026-11-11T13:32:40+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xthiki/nexn26_is_out_the_update_is_mostly_about_getting",
-   "source": "reddit",
-   "title": "Nex-N2.6 is out. The update is mostly about getting stuck less.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xthiki/nexn26_is_out_the_update_is_mostly_about_getting/",
-   "published_at": "2026-11-11T13:18:01+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtfmlq/qwen_4_flappy_bird_game_test_single_prompt",
-   "source": "reddit",
-   "title": "Qwen 4 Flappy Bird Game Test, single prompt.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtfmlq/qwen_4_flappy_bird_game_test_single_prompt/",
-   "published_at": "2026-11-11T11:41:55+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtfle1/training_memorilla_on_strix_halo_for_gemma4",
-   "source": "reddit",
-   "title": "Training Memorilla on Strix Halo for Gemma4",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtfle1/training_memorilla_on_strix_halo_for_gemma4/",
-   "published_at": "2026-11-11T11:39:55+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtf9xp/anyone_else_not_using_using_preserve_thinking",
-   "source": "reddit",
-   "title": "Anyone else not using using \"preserve_thinking\" ?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtf9xp/anyone_else_not_using_using_preserve_thinking/",
-   "published_at": "2026-11-11T11:20:57+00:00",
-   "extra": ""
-  },
-  {
    "id": "hn:50454625",
    "source": "hn",
    "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
@@ -31125,20 +31222,28 @@
    "extra": "points=2"
   },
   {
-   "id": "hn:50436713",
-   "source": "hn",
-   "title": "Show HN: Zumungo AI Driven Home Automation",
-   "url": "https://zumungo.com/get-started.html",
-   "published_at": "2026-11-10T06:15:54Z",
-   "extra": "points=1"
-  },
-  {
    "id": "hn:50436636",
    "source": "hn",
    "title": "Tell HN: Notion AI chat sessions have been exposed via Fireworks AI hack",
    "url": "https://news.ycombinator.com/item?id=50436636",
    "published_at": "2026-11-10T06:00:48Z",
    "extra": "points=9"
+  },
+  {
+   "id": "hn:50457027",
+   "source": "hn",
+   "title": "Show HN: Daily Atlas, my geography quiz game where rarer answers score more",
+   "url": "https://dailyatlas.io/",
+   "published_at": "2026-11-11T18:53:05Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:50456921",
+   "source": "hn",
+   "title": "Show HN: Rebuilding Amazon SES in Rust",
+   "url": "https://github.com/nitrosend/nitromta",
+   "published_at": "2026-11-11T18:43:47Z",
+   "extra": "points=4"
   },
   {
    "id": "hn:50454344",
@@ -31165,28 +31270,52 @@
    "extra": "points=1"
   },
   {
-   "id": "hn:50431764",
+   "id": "hn:50459255",
    "source": "hn",
-   "title": "Show HN: Negs (Spektrafilm) brings spectral film simulations to the browser",
-   "url": "https://getnegs.com/try/",
-   "published_at": "2026-11-09T20:41:22Z",
+   "title": "Show HN: Zumungo – AI-driven home automation",
+   "url": "https://zumungo.com/get-started.html",
+   "published_at": "2026-11-11T21:58:28Z",
    "extra": "points=1"
   },
   {
-   "id": "hn:50429960",
+   "id": "hn:50455219",
    "source": "hn",
-   "title": "Show HN: Search 17 years of \"What are you working on?\"",
-   "url": "https://stillworkingonit.vercel.app/",
-   "published_at": "2026-11-09T18:59:05Z",
+   "title": "Show HN: ZeGrapher v4: modern open-source math plotter – Desmos-inspired",
+   "url": "https://zegrapher.com/en/",
+   "published_at": "2026-11-11T16:25:00Z",
    "extra": "points=1"
   },
   {
-   "id": "hn:50429636",
+   "id": "hn:50454221",
    "source": "hn",
-   "title": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
-   "url": "https://meowdisplay.app/",
-   "published_at": "2026-11-09T18:39:22Z",
-   "extra": "points=70"
+   "title": "Show HN: Perch by mxRaven, a self-hosted mailbox and CLI in 1 file",
+   "url": "https://perch.mxraven.com",
+   "published_at": "2026-11-11T14:57:04Z",
+   "extra": "points=5"
+  },
+  {
+   "id": "hn:50452040",
+   "source": "hn",
+   "title": "Show HN: Pots – Open-source Grok Bot alternative, used by 6 startups for a month",
+   "url": "https://github.com/Crokily/pi-durable-bot",
+   "published_at": "2026-11-11T11:11:34Z",
+   "extra": "points=5"
+  },
+  {
+   "id": "hn:50452035",
+   "source": "hn",
+   "title": "Show HN: Ember.js, Re-Born in Rust",
+   "url": "https://auric.spa",
+   "published_at": "2026-11-11T11:11:13Z",
+   "extra": "points=2"
+  },
+  {
+   "id": "hn:50446007",
+   "source": "hn",
+   "title": "Show HN: Cloakroom – Keeps secrets away from agents",
+   "url": "https://github.com/shanjeevrajendran/cloakroom",
+   "published_at": "2026-11-10T20:39:46Z",
+   "extra": "points=1"
   }
  ],
  "pending_push": [
@@ -44269,6 +44398,76 @@
    "extra": "points=2",
    "event_type": "release",
    "summary": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtpqxm/new_paper_unless_told_otherwise_an_open_language",
+   "source": "reddit",
+   "title": "New Paper -> Unless Told Otherwise, an Open Language Model Says OpenAI Made It",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtpqxm/new_paper_unless_told_otherwise_an_open_language/",
+   "published_at": "2026-11-11T18:36:37+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "New Paper -> Unless Told Otherwise, an Open Language Model Says OpenAI Made It"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtpc2v/im_releasing_a_local_world_model_ive_been",
+   "source": "reddit",
+   "title": "I'm releasing a Local World Model Ive been building that turns images into interactive videos you control in real time. It works on RTX 3060, 4060 and anything above, linking huggingface",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtpc2v/im_releasing_a_local_world_model_ive_been/",
+   "published_at": "2026-11-11T18:20:57+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "I'm releasing a Local World Model Ive been building that turns images into interactive videos you control in real time. It works on RTX 3060, 4060 and anything above, linking huggingface"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtowe4/microsoft_files_a_patent_application_to_train_ai",
+   "source": "reddit",
+   "title": "Microsoft files a patent application to train AI models on idle consumer GPUs",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtowe4/microsoft_files_a_patent_application_to_train_ai/",
+   "published_at": "2026-11-11T18:05:04+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "Microsoft files a patent application to train AI models on idle consumer GPUs"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtocct/i_made_open_models_for_yesno_and_multiplechoice",
+   "source": "reddit",
+   "title": "I made open models for yes/no and multiple-choice decisions in agents. The 26B MoE (4B active) beats Jev 1.13's published score, running CPU-only on a laptop",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtocct/i_made_open_models_for_yesno_and_multiplechoice/",
+   "published_at": "2026-11-11T17:44:19+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "I made open models for yes/no and multiple-choice decisions in agents. The 26B MoE (4B active) beats Jev 1.13's published score, running CPU-only on a laptop"
+  },
+  {
+   "id": "hn:50457648",
+   "source": "hn",
+   "title": "Nvidia releases Alpamayo 2 edge weights (local AV reasoning)",
+   "url": "https://developer.nvidia.com/blog/running-av-reasoning-models-within-onboard-compute-and-latency-limits/",
+   "published_at": "2026-11-11T19:47:02Z",
+   "extra": "points=1",
+   "event_type": "release",
+   "summary": "Nvidia releases Alpamayo 2 edge weights (local AV reasoning)"
+  },
+  {
+   "id": "hn:50458967",
+   "source": "hn",
+   "title": "Show HN: Open HashLMG – Local Motion Graphics by models on your device",
+   "url": "https://github.com/Hash-7777/open-Hash-LMG",
+   "published_at": "2026-11-11T21:30:07Z",
+   "extra": "points=2",
+   "event_type": "release",
+   "summary": "Show HN: Open HashLMG – Local Motion Graphics by models on your device"
+  },
+  {
+   "id": "hn:50443264",
+   "source": "hn",
+   "title": "TimeNet: Open-source data infrastructure for Temporal Foundation Models",
+   "url": "https://github.com/OpenTSLM/TimeNet",
+   "published_at": "2026-11-10T17:16:09Z",
+   "extra": "points=45",
+   "event_type": "release",
+   "summary": "TimeNet: Open-source data infrastructure for Temporal Foundation Models"
   }
  ]
 }
