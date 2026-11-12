@@ -3978,65 +3978,16 @@
   "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtocct/i_made_open_models_for_yesno_and_multiplechoice": "2026-11-11T23:40:39.759835+00:00",
   "hn:50457648": "2026-11-11T23:40:39.759835+00:00",
   "hn:50458967": "2026-11-11T23:40:39.759835+00:00",
-  "hn:50443264": "2026-11-11T23:40:39.759835+00:00"
+  "hn:50443264": "2026-11-11T23:40:39.759835+00:00",
+  "openai:https://openai.com/index/ai-effect-on-freelance-work": "2026-11-12T07:00:34.033540+00:00",
+  "openai:https://openai.com/index/cogent-security": "2026-11-12T07:00:34.033540+00:00",
+  "openrouter:nex-agi/nex-n2.6": "2026-11-12T07:00:34.033540+00:00",
+  "openrouter:moonshotai/kimi-k3.1-pro:batch": "2026-11-12T07:00:34.033540+00:00",
+  "hn:50436636": "2026-11-12T07:00:34.033540+00:00",
+  "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtzwxf/i_released_inflect_v3_lightweight_local_tts_in": "2026-11-12T07:00:34.470904+00:00",
+  "hn:50463935": "2026-11-12T07:00:34.470904+00:00"
  },
  "pending": [
-  {
-   "id": "hn:50442258",
-   "source": "hn",
-   "title": "Show HN: Ilo Musi 8 – Handheld Game Console Emulating CHIP-8 Platform",
-   "url": "https://ilomusi8.sadale.net/en/welcome",
-   "published_at": "2026-11-10T16:04:08Z",
-   "extra": "points=1"
-  },
-  {
-   "id": "hn:50440317",
-   "source": "hn",
-   "title": "Show HN: A Hacker's Web Browser – Any Site to API (Open-Source)",
-   "url": "https://github.com/realsirjoe/relinos",
-   "published_at": "2026-11-10T13:49:15Z",
-   "extra": "points=2"
-  },
-  {
-   "id": "hn:50439598",
-   "source": "hn",
-   "title": "Show HN: Markview – a fast Markdown reader in Rust, Obsidian Vault compatible",
-   "url": "https://github.com/szdytom/markview",
-   "published_at": "2026-11-10T12:47:21Z",
-   "extra": "points=2"
-  },
-  {
-   "id": "hn:50438931",
-   "source": "hn",
-   "title": "Show HN: Tokspur a 3x faster open source inference engine for Macs",
-   "url": "https://github.com/san-digital/tokspur",
-   "published_at": "2026-11-10T11:42:45Z",
-   "extra": "points=3"
-  },
-  {
-   "id": "hn:50429225",
-   "source": "hn",
-   "title": "Muse Ember",
-   "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
-   "published_at": "2026-11-09T18:11:35Z",
-   "extra": "points=10"
-  },
-  {
-   "id": "hn:50426559",
-   "source": "hn",
-   "title": "Show HN: Thrum – run Claude Code, Codex and other coding agents as one team",
-   "url": "https://thrum.team/",
-   "published_at": "2026-11-09T14:59:42Z",
-   "extra": "points=6"
-  },
-  {
-   "id": "hn:50426158",
-   "source": "hn",
-   "title": "Show HN: Product Analytics for your agent. 100x+ cheaper analytics/BI",
-   "url": "https://slurp.run/",
-   "published_at": "2026-11-09T14:30:22Z",
-   "extra": "points=1"
-  },
   {
    "id": "hn:50424070",
    "source": "hn",
@@ -30894,6 +30845,94 @@
    "extra": "points=70"
   },
   {
+   "id": "openai:https://openai.com/index/ai-effect-on-freelance-work",
+   "source": "openai",
+   "title": "Work at the Frontier: AI’s effect on freelance work",
+   "url": "https://openai.com/index/ai-effect-on-freelance-work",
+   "published_at": "2026-11-10T07:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/cogent-security",
+   "source": "openai",
+   "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+   "url": "https://openai.com/index/cogent-security",
+   "published_at": "2026-11-10T00:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openrouter:nex-agi/nex-n2.6",
+   "source": "openrouter",
+   "title": "Nex AGI: Nex-N2.6",
+   "url": "https://openrouter.ai/nex-agi/nex-n2.6",
+   "published_at": "2026-11-10T03:46:19+00:00",
+   "extra": "context=262144"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtmbkn/kraftonraon1nano_hugging_face",
+   "source": "reddit",
+   "title": "KRAFTON/Raon-1-nano · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtmbkn/kraftonraon1nano_hugging_face/",
+   "published_at": "2026-11-11T16:31:38+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtlyhe/new_qwen3827b_unsloth_dynamic_v31_ggufs",
+   "source": "reddit",
+   "title": "New Qwen3.8-27B Unsloth Dynamic V3.1 GGUFs",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtlyhe/new_qwen3827b_unsloth_dynamic_v31_ggufs/",
+   "published_at": "2026-11-11T16:17:55+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtkswo/dont_use_qwen_38_27b_on_your_m5_max_ultra",
+   "source": "reddit",
+   "title": "Don’t use Qwen 3.8 27B on your M5 Max / Ultra",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtkswo/dont_use_qwen_38_27b_on_your_m5_max_ultra/",
+   "published_at": "2026-11-11T15:34:20+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtjze2/biweekly_megathread_project_showcase",
+   "source": "reddit",
+   "title": "[Bi-Weekly Megathread] Project Showcase",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtjze2/biweekly_megathread_project_showcase/",
+   "published_at": "2026-11-11T15:02:21+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtjmhg/whats_the_best_35b_moe",
+   "source": "reddit",
+   "title": "Whats the best 35b MoE?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtjmhg/whats_the_best_35b_moe/",
+   "published_at": "2026-11-11T14:48:07+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtj1oq/second_5060_ti_cant_fit_in_my_am4_b550m",
+   "source": "reddit",
+   "title": "Second 5060 Ti can't fit in my AM4 B550M motherboard: What are the best ways to run 2/3 GPUs?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtj1oq/second_5060_ti_cant_fit_in_my_am4_b550m/",
+   "published_at": "2026-11-11T14:24:27+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtizre/rules_and_moderation_what_do_you_want_to_see",
+   "source": "reddit",
+   "title": "Rules and moderation, what do you want to see changed?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtizre/rules_and_moderation_what_do_you_want_to_see/",
+   "published_at": "2026-11-11T14:22:08+00:00",
+   "extra": ""
+  },
+  {
+   "id": "hn:50436636",
+   "source": "hn",
+   "title": "Tell HN: Notion AI chat sessions have been exposed via Fireworks AI hack",
+   "url": "https://news.ycombinator.com/item?id=50436636",
+   "published_at": "2026-11-10T06:00:48Z",
+   "extra": "points=9"
+  },
+  {
    "id": "openai:https://openai.com/index/chatgpt-plus-for-veterans",
    "source": "openai",
    "title": "ChatGPT Plus for veterans and servicemembers",
@@ -30931,22 +30970,6 @@
    "title": "Singapore Airlines elevates travel & work with OpenAI technology",
    "url": "https://openai.com/index/singapore-airlines-travel-work",
    "published_at": "2026-11-10T08:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "openai:https://openai.com/index/ai-effect-on-freelance-work",
-   "source": "openai",
-   "title": "Work at the Frontier: AI’s effect on freelance work",
-   "url": "https://openai.com/index/ai-effect-on-freelance-work",
-   "published_at": "2026-11-10T07:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "openai:https://openai.com/index/cogent-security",
-   "source": "openai",
-   "title": "Cogent and OpenAI build cyber defense factories for enterprises",
-   "url": "https://openai.com/index/cogent-security",
-   "published_at": "2026-11-10T00:00:00+00:00",
    "extra": ""
   },
   {
@@ -31014,6 +31037,14 @@
    "extra": ""
   },
   {
+   "id": "hf:facebook/meta-encoder-v1",
+   "source": "hf",
+   "title": "facebook/meta-encoder-v1",
+   "url": "https://huggingface.co/facebook/meta-encoder-v1",
+   "published_at": "2026-11-12T02:00:27.000Z",
+   "extra": "downloads=0 likes=5"
+  },
+  {
    "id": "openrouter:baidu/ernie-5.5-flash-preview:free",
    "source": "openrouter",
    "title": "Baidu: ERNIE-5.5-Flash-Preview (free)",
@@ -31046,12 +31077,60 @@
    "extra": "context=1048576"
   },
   {
-   "id": "openrouter:nex-agi/nex-n2.6",
-   "source": "openrouter",
-   "title": "Nex AGI: Nex-N2.6",
-   "url": "https://openrouter.ai/nex-agi/nex-n2.6",
-   "published_at": "2026-11-10T03:46:19+00:00",
-   "extra": "context=262144"
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xu5p6p/qwen4_is_coming_pull_requests_spoted_on_github",
+   "source": "reddit",
+   "title": "Qwen4 is coming, pull requests spoted on github",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xu5p6p/qwen4_is_coming_pull_requests_spoted_on_github/",
+   "published_at": "2026-11-12T06:39:02+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xu4ysu/ai_safety_and_our_future_could_this_affect",
+   "source": "reddit",
+   "title": "Ai safety and our future. Could this affect running locally in the future without regulation?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xu4ysu/ai_safety_and_our_future_could_this_affect/",
+   "published_at": "2026-11-12T05:56:32+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xu4n7b/gemma431b_latent_space_discovery_caring_and",
+   "source": "reddit",
+   "title": "Gemma4-31b latent space discovery: Caring and Contempt for user controlled by the same 3 neurons! Plus, how to find your own steering recipes and export to GGUF steering vector for llama.cpp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xu4n7b/gemma431b_latent_space_discovery_caring_and/",
+   "published_at": "2026-11-12T05:37:54+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xu2mdo/the_regulation_of_local_ai_couldshould_be_viewed",
+   "source": "reddit",
+   "title": "The regulation of local AI could/should be viewed as the largest censorship implementation in the history of mankind.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xu2mdo/the_regulation_of_local_ai_couldshould_be_viewed/",
+   "published_at": "2026-11-12T03:49:33+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xu1dkz/someone_voltageglitched_a_cmp_170hx_mining_card",
+   "source": "reddit",
+   "title": "Someone voltage-glitched a CMP 170HX mining card into a working A100-80G, and it's ~1.18x faster than retail",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xu1dkz/someone_voltageglitched_a_cmp_170hx_mining_card/",
+   "published_at": "2026-11-12T02:47:50+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtyxl9/deepseek_v41_flash_1017_exl3_29bpw_apex_2025",
+   "source": "reddit",
+   "title": "DeepSeek V4.1 Flash 1017 exl3 2.9bpw APEX 2025 benchmark results",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtyxl9/deepseek_v41_flash_1017_exl3_29bpw_apex_2025/",
+   "published_at": "2026-11-12T00:50:08+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xty1vc/simplest_local_agentic_setup",
+   "source": "reddit",
+   "title": "Simplest Local Agentic Setup",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xty1vc/simplest_local_agentic_setup/",
+   "published_at": "2026-11-12T00:09:37+00:00",
+   "extra": ""
   },
   {
    "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtvxtp/architecture_trends_from_full_to_local_attention",
@@ -31150,62 +31229,6 @@
    "extra": ""
   },
   {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtmbkn/kraftonraon1nano_hugging_face",
-   "source": "reddit",
-   "title": "KRAFTON/Raon-1-nano · Hugging Face",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtmbkn/kraftonraon1nano_hugging_face/",
-   "published_at": "2026-11-11T16:31:38+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtlyhe/new_qwen3827b_unsloth_dynamic_v31_ggufs",
-   "source": "reddit",
-   "title": "New Qwen3.8-27B Unsloth Dynamic V3.1 GGUFs",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtlyhe/new_qwen3827b_unsloth_dynamic_v31_ggufs/",
-   "published_at": "2026-11-11T16:17:55+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtkswo/dont_use_qwen_38_27b_on_your_m5_max_ultra",
-   "source": "reddit",
-   "title": "Don’t use Qwen 3.8 27B on your M5 Max / Ultra",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtkswo/dont_use_qwen_38_27b_on_your_m5_max_ultra/",
-   "published_at": "2026-11-11T15:34:20+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtjze2/biweekly_megathread_project_showcase",
-   "source": "reddit",
-   "title": "[Bi-Weekly Megathread] Project Showcase",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtjze2/biweekly_megathread_project_showcase/",
-   "published_at": "2026-11-11T15:02:21+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtjmhg/whats_the_best_35b_moe",
-   "source": "reddit",
-   "title": "Whats the best 35b MoE?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtjmhg/whats_the_best_35b_moe/",
-   "published_at": "2026-11-11T14:48:07+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtj1oq/second_5060_ti_cant_fit_in_my_am4_b550m",
-   "source": "reddit",
-   "title": "Second 5060 Ti can't fit in my AM4 B550M motherboard: What are the best ways to run 2/3 GPUs?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtj1oq/second_5060_ti_cant_fit_in_my_am4_b550m/",
-   "published_at": "2026-11-11T14:24:27+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtizre/rules_and_moderation_what_do_you_want_to_see",
-   "source": "reddit",
-   "title": "Rules and moderation, what do you want to see changed?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtizre/rules_and_moderation_what_do_you_want_to_see/",
-   "published_at": "2026-11-11T14:22:08+00:00",
-   "extra": ""
-  },
-  {
    "id": "hn:50454625",
    "source": "hn",
    "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
@@ -31222,12 +31245,12 @@
    "extra": "points=2"
   },
   {
-   "id": "hn:50436636",
+   "id": "hn:50462469",
    "source": "hn",
-   "title": "Tell HN: Notion AI chat sessions have been exposed via Fireworks AI hack",
-   "url": "https://news.ycombinator.com/item?id=50436636",
-   "published_at": "2026-11-10T06:00:48Z",
-   "extra": "points=9"
+   "title": "Show HN: Ramasite, a Self-Contained Laravel/Filament/SQLite CMS",
+   "url": "https://github.com/DaleFranks/ramasite",
+   "published_at": "2026-11-12T02:53:22Z",
+   "extra": "points=6"
   },
   {
    "id": "hn:50457027",
@@ -31315,6 +31338,62 @@
    "title": "Show HN: Cloakroom – Keeps secrets away from agents",
    "url": "https://github.com/shanjeevrajendran/cloakroom",
    "published_at": "2026-11-10T20:39:46Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:50442258",
+   "source": "hn",
+   "title": "Show HN: Ilo Musi 8 – Handheld Game Console Emulating CHIP-8 Platform",
+   "url": "https://ilomusi8.sadale.net/en/welcome",
+   "published_at": "2026-11-10T16:04:08Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:50440317",
+   "source": "hn",
+   "title": "Show HN: A Hacker's Web Browser – Any Site to API (Open-Source)",
+   "url": "https://github.com/realsirjoe/relinos",
+   "published_at": "2026-11-10T13:49:15Z",
+   "extra": "points=2"
+  },
+  {
+   "id": "hn:50439598",
+   "source": "hn",
+   "title": "Show HN: Markview – a fast Markdown reader in Rust, Obsidian Vault compatible",
+   "url": "https://github.com/szdytom/markview",
+   "published_at": "2026-11-10T12:47:21Z",
+   "extra": "points=2"
+  },
+  {
+   "id": "hn:50438931",
+   "source": "hn",
+   "title": "Show HN: Tokspur a 3x faster open source inference engine for Macs",
+   "url": "https://github.com/san-digital/tokspur",
+   "published_at": "2026-11-10T11:42:45Z",
+   "extra": "points=3"
+  },
+  {
+   "id": "hn:50429225",
+   "source": "hn",
+   "title": "Muse Ember",
+   "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+   "published_at": "2026-11-09T18:11:35Z",
+   "extra": "points=10"
+  },
+  {
+   "id": "hn:50426559",
+   "source": "hn",
+   "title": "Show HN: Thrum – run Claude Code, Codex and other coding agents as one team",
+   "url": "https://thrum.team/",
+   "published_at": "2026-11-09T14:59:42Z",
+   "extra": "points=6"
+  },
+  {
+   "id": "hn:50426158",
+   "source": "hn",
+   "title": "Show HN: Product Analytics for your agent. 100x+ cheaper analytics/BI",
+   "url": "https://slurp.run/",
+   "published_at": "2026-11-09T14:30:22Z",
    "extra": "points=1"
   }
  ],
@@ -44468,6 +44547,26 @@
    "extra": "points=45",
    "event_type": "release",
    "summary": "TimeNet: Open-source data infrastructure for Temporal Foundation Models"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xtzwxf/i_released_inflect_v3_lightweight_local_tts_in",
+   "source": "reddit",
+   "title": "I released Inflect v3: lightweight local TTS in 34M parameters (Apache 2.0)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtzwxf/i_released_inflect_v3_lightweight_local_tts_in/",
+   "published_at": "2026-11-12T01:36:10+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "I released Inflect v3: lightweight local TTS in 34M parameters (Apache 2.0)"
+  },
+  {
+   "id": "hn:50463935",
+   "source": "hn",
+   "title": "Show HN: OpenPocket – iOS app for running Qwen3.5, LFM and other LLMs offline",
+   "url": "https://apps.apple.com/th/app/openpocket/id6833028114",
+   "published_at": "2026-11-12T06:58:35Z",
+   "extra": "points=1",
+   "event_type": "release",
+   "summary": "Show HN: OpenPocket – iOS app for running Qwen3.5, LFM and other LLMs offline"
   }
  ]
 }
