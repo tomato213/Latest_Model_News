@@ -4175,145 +4175,24 @@
   "openai:https://openai.com/index/our-first-phase-of-embedded-assessments": "2026-11-18T11:29:40.538501+00:00",
   "openai:https://openai.com/index/advancing-computer-use-for-healthcare-teams": "2026-11-18T11:29:40.538501+00:00",
   "openai:https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare": "2026-11-18T11:29:40.538501+00:00",
-  "hn:50541404": "2026-11-18T11:29:40.987328+00:00"
+  "hn:50541404": "2026-11-18T11:29:40.987328+00:00",
+  "openai:https://openai.com/index/expanding-chatgpt-for-academic-researchers": "2026-11-18T19:32:41.540581+00:00",
+  "openai:https://openai.com/index/strengthening-online-child-safety": "2026-11-18T19:32:41.540581+00:00",
+  "openai:https://openai.com/index/science-at-the-frontier": "2026-11-18T19:32:41.540581+00:00",
+  "modelscope:deepseek-ai/DeepSeek-R1-Distill-Qwen-14B": "2026-11-18T19:32:41.540581+00:00",
+  "openrouter:tencent/hy4-flash": "2026-11-18T19:32:41.540581+00:00",
+  "hn:50517255": "2026-11-18T19:32:41.540581+00:00",
+  "hn:50516995": "2026-11-18T19:32:41.540581+00:00",
+  "hn:50521479": "2026-11-18T19:32:41.540581+00:00",
+  "hn:50520741": "2026-11-18T19:32:41.540581+00:00",
+  "hn:50519860": "2026-11-18T19:32:41.540581+00:00",
+  "hn:50518538": "2026-11-18T19:32:41.540581+00:00",
+  "hn:50517803": "2026-11-18T19:32:41.540581+00:00",
+  "openai:https://openai.com/index/advancing-chip-design-with-our-models": "2026-11-18T19:32:42.075521+00:00",
+  "hn:50547137": "2026-11-18T19:32:42.075521+00:00",
+  "hn:50549454": "2026-11-18T19:32:42.075521+00:00"
  },
  "pending": [
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x9b3df/is_there_a_strata_for_lfm_24b_a2b",
-   "source": "reddit",
-   "title": "Is there a Strata for lfm 24b a2b",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9b3df/is_there_a_strata_for_lfm_24b_a2b/",
-   "published_at": "2026-10-18T18:52:45+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x9aq2i/llamadoctor_cli_tool_and_live_dashboard_that",
-   "source": "reddit",
-   "title": "llama-doctor: CLI tool and live dashboard that reads your llama.cpp metrics and tells you what's wrong",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9aq2i/llamadoctor_cli_tool_and_live_dashboard_that/",
-   "published_at": "2026-10-18T18:38:01+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x98bby/psa_power_limit_your_5090s",
-   "source": "reddit",
-   "title": "PSA: Power limit your 5090s!",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x98bby/psa_power_limit_your_5090s/",
-   "published_at": "2026-10-18T17:02:33+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x95491/unslothdeepseekv41flash1017gguf_hugging_face",
-   "source": "reddit",
-   "title": "unsloth/DeepSeek-V4.1-Flash-1017-GGUF · Hugging Face",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x95491/unslothdeepseekv41flash1017gguf_hugging_face/",
-   "published_at": "2026-10-18T14:51:58+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x92rdf/what_quant_do_you_actually_use_day_to_day_anyone",
-   "source": "reddit",
-   "title": "What quant do you actually use day to day? Anyone happy with 2-bit or 3-bit?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x92rdf/what_quant_do_you_actually_use_day_to_day_anyone/",
-   "published_at": "2026-10-18T13:05:32+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wdqit1/running_qwen3827bq4_at_max_context_on_a_32_gb_gpu",
-   "source": "reddit",
-   "title": "Running Qwen3.8-27B-Q4 at max context on a 32 GB GPU while avoiding kvcache quantization",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdqit1/running_qwen3827bq4_at_max_context_on_a_32_gb_gpu/",
-   "published_at": "2026-09-11T19:41:29+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wdqcxu/is_this_the_real_deal_5090_96gb",
-   "source": "reddit",
-   "title": "Is this the real deal? 5090 96GB",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdqcxu/is_this_the_real_deal_5090_96gb/",
-   "published_at": "2026-09-11T19:35:28+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wdq136/psa_lmstudio_accepts_llamacpp_parameter_override",
-   "source": "reddit",
-   "title": "PSA: LMStudio accepts llama.cpp parameter override: Try --yarn-attn-factor 1.2 (it seems to improve creativity)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdq136/psa_lmstudio_accepts_llamacpp_parameter_override/",
-   "published_at": "2026-09-11T19:23:30+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wjv39j/i_posted_my_embedding_migration_project_here_it",
-   "source": "reddit",
-   "title": "I posted my embedding migration project here, it got a lot of attention, so I added the features you guys said were missing",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjv39j/i_posted_my_embedding_migration_project_here_it/",
-   "published_at": "2026-09-18T16:32:53+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wjtav9/inclusionairealtimevenus_hugging_face",
-   "source": "reddit",
-   "title": "inclusionAI/Realtime-Venus · Hugging Face",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjtav9/inclusionairealtimevenus_hugging_face/",
-   "published_at": "2026-09-18T15:27:14+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wjt5f3/bonsai_2_27b_q2_donkey_making_coffee_svg_and_a",
-   "source": "reddit",
-   "title": "Bonsai 2 27b Q2 - Donkey making coffee svg and a mushroom riding a donkey",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjt5f3/bonsai_2_27b_q2_donkey_making_coffee_svg_and_a/",
-   "published_at": "2026-09-18T15:21:38+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wjshvw/64gb_ddr4_2rtx_3090_with_4_sata_ssds_on_raid_5",
-   "source": "reddit",
-   "title": "64gb ddr4 + 2*rtx 3090 with 4 SATA SSDs on RAID 5",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjshvw/64gb_ddr4_2rtx_3090_with_4_sata_ssds_on_raid_5/",
-   "published_at": "2026-09-18T14:57:28+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wjs62f/minimax_code_goes_open_source",
-   "source": "reddit",
-   "title": "MiniMax Code goes open source",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjs62f/minimax_code_goes_open_source/",
-   "published_at": "2026-09-18T14:44:33+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wjs0hd/any_skills_to_allow_real_time_visibility_on_what",
-   "source": "reddit",
-   "title": "any skills to allow real time visibility on what my local ai is doing?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjs0hd/any_skills_to_allow_real_time_visibility_on_what/",
-   "published_at": "2026-09-18T14:38:36+00:00",
-   "extra": ""
-  },
-  {
-   "id": "hn:49733095",
-   "source": "hn",
-   "title": "Show HN: unSnag – Display tasks you can do and graph task dependencies",
-   "url": "https://unsnag.app",
-   "published_at": "2026-09-16T21:12:50Z",
-   "extra": "points=1"
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wedw86/anyone_had_luck_with_converted_3070s",
-   "source": "reddit",
-   "title": "Anyone had luck with converted 3070s?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wedw86/anyone_had_luck_with_converted_3070s/",
-   "published_at": "2026-09-12T14:20:30+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wejf5k/open_source_is_already_near_the_frontier_and",
-   "source": "reddit",
-   "title": "Open source is already near the frontier. And likely will pass soon. I got receipts.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wejf5k/open_source_is_already_near_the_frontier_and/",
-   "published_at": "2026-09-12T17:59:22+00:00",
-   "extra": ""
-  },
   {
    "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wedimm/settings_to_avoid_vram_overload_lm_studio",
    "source": "reddit",
@@ -33195,30 +33074,6 @@
    "extra": ""
   },
   {
-   "id": "openai:https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-   "source": "openai",
-   "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-   "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-   "published_at": "2026-11-18T00:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "openai:https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-   "source": "openai",
-   "title": "Strengthening NATO and allied cyber defenses with AI",
-   "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-   "published_at": "2026-11-17T00:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "openai:https://openai.com/index/astra-law-6-2",
-   "source": "openai",
-   "title": "Astra for Law leads in legal intelligence",
-   "url": "https://openai.com/index/astra-law-6-2",
-   "published_at": "2026-11-17T00:00:00+00:00",
-   "extra": ""
-  },
-  {
    "id": "openai:https://openai.com/index/expanding-chatgpt-for-academic-researchers",
    "source": "openai",
    "title": "Broadening access to AI for scientists",
@@ -33243,180 +33098,12 @@
    "extra": ""
   },
   {
-   "id": "anthropic:s1-sec",
-   "source": "anthropic",
-   "title": "S1 Sec",
-   "url": "https://www.anthropic.com/news/s1-sec",
-   "published_at": null,
-   "extra": ""
-  },
-  {
-   "id": "anthropic:ai-for-science-expands-foundations-research-institutions",
-   "source": "anthropic",
-   "title": "Ai For Science Expands Foundations Research Institutions",
-   "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
-   "published_at": null,
-   "extra": ""
-  },
-  {
-   "id": "anthropic:expanding-partnership-gsa",
-   "source": "anthropic",
-   "title": "Expanding Partnership Gsa",
-   "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
-   "published_at": null,
-   "extra": ""
-  },
-  {
-   "id": "anthropic:donating-agent-skills-to-the-agentic-ai-foundation",
-   "source": "anthropic",
-   "title": "Donating Agent Skills To The Agentic Ai Foundation",
-   "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
-   "published_at": null,
-   "extra": ""
-  },
-  {
-   "id": "anthropic:open-call-guest-investigators-life-sciences",
-   "source": "anthropic",
-   "title": "Open Call Guest Investigators Life Sciences",
-   "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
-   "published_at": null,
-   "extra": ""
-  },
-  {
-   "id": "anthropic:christopher-stubbs-joins-long-term-benefit-trust",
-   "source": "anthropic",
-   "title": "Christopher Stubbs Joins Long Term Benefit Trust",
-   "url": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
-   "published_at": null,
-   "extra": ""
-  },
-  {
-   "id": "anthropic:distillation-defenses",
-   "source": "anthropic",
-   "title": "Distillation Defenses",
-   "url": "https://www.anthropic.com/news/distillation-defenses",
-   "published_at": null,
-   "extra": ""
-  },
-  {
-   "id": "deepseek:news261113",
-   "source": "deepseek",
-   "title": "The full DeepSeek App experience, now via API",
-   "url": "https://api-docs.deepseek.com/news/news261113/",
-   "published_at": null,
-   "extra": ""
-  },
-  {
-   "id": "openrouter:openai/gpt-6.2-astra-pro",
-   "source": "openrouter",
-   "title": "OpenAI: GPT-6.2 Astra Pro",
-   "url": "https://openrouter.ai/openai/gpt-6.2-astra-pro",
-   "published_at": "2026-11-17T18:00:32+00:00",
-   "extra": "context=1050000"
-  },
-  {
-   "id": "openrouter:openai/gpt-6.2-astra-pro:batch",
-   "source": "openrouter",
-   "title": "OpenAI: GPT-6.2 Astra Pro (batch)",
-   "url": "https://openrouter.ai/openai/gpt-6.2-astra-pro:batch",
-   "published_at": "2026-11-17T18:00:32+00:00",
-   "extra": "context=1050000"
-  },
-  {
-   "id": "openrouter:openai/gpt-6.2-astra",
-   "source": "openrouter",
-   "title": "OpenAI: GPT-6.2 Astra",
-   "url": "https://openrouter.ai/openai/gpt-6.2-astra",
-   "published_at": "2026-11-17T18:00:23+00:00",
-   "extra": "context=1050000"
-  },
-  {
-   "id": "openrouter:openai/gpt-6.2-astra:batch",
-   "source": "openrouter",
-   "title": "OpenAI: GPT-6.2 Astra (batch)",
-   "url": "https://openrouter.ai/openai/gpt-6.2-astra:batch",
-   "published_at": "2026-11-17T18:00:23+00:00",
-   "extra": "context=1050000"
-  },
-  {
-   "id": "openrouter:openai/gpt-6.2-sol-pro",
-   "source": "openrouter",
-   "title": "OpenAI: GPT-6.2 Sol Pro",
-   "url": "https://openrouter.ai/openai/gpt-6.2-sol-pro",
-   "published_at": "2026-11-17T18:00:09+00:00",
-   "extra": "context=1050000"
-  },
-  {
-   "id": "openrouter:openai/gpt-6.2-sol-pro:batch",
-   "source": "openrouter",
-   "title": "OpenAI: GPT-6.2 Sol Pro (batch)",
-   "url": "https://openrouter.ai/openai/gpt-6.2-sol-pro:batch",
-   "published_at": "2026-11-17T18:00:09+00:00",
-   "extra": "context=1050000"
-  },
-  {
-   "id": "openrouter:openai/gpt-6.2-sol",
-   "source": "openrouter",
-   "title": "OpenAI: GPT-6.2 Sol",
-   "url": "https://openrouter.ai/openai/gpt-6.2-sol",
-   "published_at": "2026-11-17T17:59:31+00:00",
-   "extra": "context=1050000"
-  },
-  {
-   "id": "openrouter:openai/gpt-6.2-sol:batch",
-   "source": "openrouter",
-   "title": "OpenAI: GPT-6.2 Sol (batch)",
-   "url": "https://openrouter.ai/openai/gpt-6.2-sol:batch",
-   "published_at": "2026-11-17T17:59:31+00:00",
-   "extra": "context=1050000"
-  },
-  {
    "id": "openrouter:tencent/hy4-flash",
    "source": "openrouter",
    "title": "Tencent: Hy4 flash",
    "url": "https://openrouter.ai/tencent/hy4-flash",
    "published_at": "2026-11-16T14:18:26+00:00",
    "extra": "context=1048576"
-  },
-  {
-   "id": "hn:50539204",
-   "source": "hn",
-   "title": "Show HN: DecksMD – local first, Markdown flashcards app and plugin for Obsidian",
-   "url": "https://decksmd.app/",
-   "published_at": "2026-11-17T22:31:25Z",
-   "extra": "points=2"
-  },
-  {
-   "id": "hn:50537363",
-   "source": "hn",
-   "title": "GPT-6.2 Astra and Sol deliver most of the AA Cost per Task Pareto frontier",
-   "url": "https://artificialanalysis.ai/articles/openai-has-the-2-model-in-the-intelligence-index-with-the-release-of-gpt-6-2-astra-and-gpt-6-2-sol",
-   "published_at": "2026-11-17T20:05:42Z",
-   "extra": "points=2"
-  },
-  {
-   "id": "hn:50535716",
-   "source": "hn",
-   "title": "Show HN: Tool to measure log TCO savings without losing or migrating any data",
-   "url": "https://news.ycombinator.com/item?id=50535716",
-   "published_at": "2026-11-17T18:14:59Z",
-   "extra": "points=1"
-  },
-  {
-   "id": "hn:50528263",
-   "source": "hn",
-   "title": "OVH releases first model with EU public funding and supercomputer access",
-   "url": "https://twitter.com/olesovhcom/status/2122573582911869173",
-   "published_at": "2026-11-17T06:50:29Z",
-   "extra": "points=14"
-  },
-  {
-   "id": "hn:50523377",
-   "source": "hn",
-   "title": "Show HN: Open-source, real-time object tracking for live video feeds",
-   "url": "https://github.com/aryamandarda/tamserve",
-   "published_at": "2026-11-16T21:14:39Z",
-   "extra": "points=13"
   },
   {
    "id": "hn:50517255",
@@ -33433,38 +33120,6 @@
    "url": "https://github.com/etodanik/deslop",
    "published_at": "2026-11-16T12:41:48Z",
    "extra": "points=5"
-  },
-  {
-   "id": "hn:50538584",
-   "source": "hn",
-   "title": "Show HN: Even Keel – a task queue for coding agents",
-   "url": "https://github.com/NamerekT/even-keel",
-   "published_at": "2026-11-17T21:39:51Z",
-   "extra": "points=1"
-  },
-  {
-   "id": "hn:50533967",
-   "source": "hn",
-   "title": "Show HN: Crosshead - Working memory and persistent identity for agents",
-   "url": "https://crosshead.sh/",
-   "published_at": "2026-11-17T16:36:50Z",
-   "extra": "points=2"
-  },
-  {
-   "id": "hn:50531629",
-   "source": "hn",
-   "title": "Show HN: Revix AI – PR review against the standards your repo follows",
-   "url": "https://www.revix.ai",
-   "published_at": "2026-11-17T14:11:52Z",
-   "extra": "points=1"
-  },
-  {
-   "id": "hn:50529742",
-   "source": "hn",
-   "title": "Show HN: Wake, see what Claude Code did and where the tokens went",
-   "url": "https://rcruz.dev/wake/",
-   "published_at": "2026-11-17T10:41:09Z",
-   "extra": "points=2"
   },
   {
    "id": "hn:50521479",
@@ -33664,6 +33319,462 @@
    "title": "I messed up. Buying Z9PE-D8 WS with 4 x16 Slots and 256GB DDR3 RDIMM",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9d8hs/i_messed_up_buying_z9ped8_ws_with_4_x16_slots_and/",
    "published_at": "2026-10-18T20:17:26+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/inside-the-codex-sandbox",
+   "source": "openai",
+   "title": "Inside the Codex sandbox",
+   "url": "https://openai.com/index/inside-the-codex-sandbox",
+   "published_at": "2026-11-18T08:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/the-silent-consensus",
+   "source": "openai",
+   "title": "The Silent Consensus",
+   "url": "https://openai.com/index/the-silent-consensus",
+   "published_at": "2026-11-18T00:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+   "source": "openai",
+   "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+   "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+   "published_at": "2026-11-18T00:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+   "source": "openai",
+   "title": "Strengthening NATO and allied cyber defenses with AI",
+   "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+   "published_at": "2026-11-17T00:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/astra-law-6-2",
+   "source": "openai",
+   "title": "Astra for Law leads in legal intelligence",
+   "url": "https://openai.com/index/astra-law-6-2",
+   "published_at": "2026-11-17T00:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "anthropic:s1-sec",
+   "source": "anthropic",
+   "title": "S1 Sec",
+   "url": "https://www.anthropic.com/news/s1-sec",
+   "published_at": null,
+   "extra": ""
+  },
+  {
+   "id": "anthropic:ai-for-science-expands-foundations-research-institutions",
+   "source": "anthropic",
+   "title": "Ai For Science Expands Foundations Research Institutions",
+   "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+   "published_at": null,
+   "extra": ""
+  },
+  {
+   "id": "anthropic:expanding-partnership-gsa",
+   "source": "anthropic",
+   "title": "Expanding Partnership Gsa",
+   "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+   "published_at": null,
+   "extra": ""
+  },
+  {
+   "id": "anthropic:donating-agent-skills-to-the-agentic-ai-foundation",
+   "source": "anthropic",
+   "title": "Donating Agent Skills To The Agentic Ai Foundation",
+   "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+   "published_at": null,
+   "extra": ""
+  },
+  {
+   "id": "anthropic:open-call-guest-investigators-life-sciences",
+   "source": "anthropic",
+   "title": "Open Call Guest Investigators Life Sciences",
+   "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
+   "published_at": null,
+   "extra": ""
+  },
+  {
+   "id": "anthropic:christopher-stubbs-joins-long-term-benefit-trust",
+   "source": "anthropic",
+   "title": "Christopher Stubbs Joins Long Term Benefit Trust",
+   "url": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
+   "published_at": null,
+   "extra": ""
+  },
+  {
+   "id": "anthropic:distillation-defenses",
+   "source": "anthropic",
+   "title": "Distillation Defenses",
+   "url": "https://www.anthropic.com/news/distillation-defenses",
+   "published_at": null,
+   "extra": ""
+  },
+  {
+   "id": "deepseek:news261113",
+   "source": "deepseek",
+   "title": "The full DeepSeek App experience, now via API",
+   "url": "https://api-docs.deepseek.com/news/news261113/",
+   "published_at": null,
+   "extra": ""
+  },
+  {
+   "id": "hf:microsoft/Aion-1.0-Instruct-2.3B-ONNX-WebGPU",
+   "source": "hf",
+   "title": "microsoft/Aion-1.0-Instruct-2.3B-ONNX-WebGPU",
+   "url": "https://huggingface.co/microsoft/Aion-1.0-Instruct-2.3B-ONNX-WebGPU",
+   "published_at": "2026-11-18T17:08:25.000Z",
+   "extra": "downloads=0 likes=1"
+  },
+  {
+   "id": "hf:microsoft/Aion-1.0-Instruct-2.3B",
+   "source": "hf",
+   "title": "microsoft/Aion-1.0-Instruct-2.3B",
+   "url": "https://huggingface.co/microsoft/Aion-1.0-Instruct-2.3B",
+   "published_at": "2026-11-18T17:05:50.000Z",
+   "extra": "downloads=0 likes=15"
+  },
+  {
+   "id": "openrouter:openai/gpt-6.2-astra-pro",
+   "source": "openrouter",
+   "title": "OpenAI: GPT-6.2 Astra Pro",
+   "url": "https://openrouter.ai/openai/gpt-6.2-astra-pro",
+   "published_at": "2026-11-17T18:00:32+00:00",
+   "extra": "context=1050000"
+  },
+  {
+   "id": "openrouter:openai/gpt-6.2-astra-pro:batch",
+   "source": "openrouter",
+   "title": "OpenAI: GPT-6.2 Astra Pro (batch)",
+   "url": "https://openrouter.ai/openai/gpt-6.2-astra-pro:batch",
+   "published_at": "2026-11-17T18:00:32+00:00",
+   "extra": "context=1050000"
+  },
+  {
+   "id": "openrouter:openai/gpt-6.2-astra",
+   "source": "openrouter",
+   "title": "OpenAI: GPT-6.2 Astra",
+   "url": "https://openrouter.ai/openai/gpt-6.2-astra",
+   "published_at": "2026-11-17T18:00:23+00:00",
+   "extra": "context=1050000"
+  },
+  {
+   "id": "openrouter:openai/gpt-6.2-astra:batch",
+   "source": "openrouter",
+   "title": "OpenAI: GPT-6.2 Astra (batch)",
+   "url": "https://openrouter.ai/openai/gpt-6.2-astra:batch",
+   "published_at": "2026-11-17T18:00:23+00:00",
+   "extra": "context=1050000"
+  },
+  {
+   "id": "openrouter:openai/gpt-6.2-sol-pro",
+   "source": "openrouter",
+   "title": "OpenAI: GPT-6.2 Sol Pro",
+   "url": "https://openrouter.ai/openai/gpt-6.2-sol-pro",
+   "published_at": "2026-11-17T18:00:09+00:00",
+   "extra": "context=1050000"
+  },
+  {
+   "id": "openrouter:openai/gpt-6.2-sol-pro:batch",
+   "source": "openrouter",
+   "title": "OpenAI: GPT-6.2 Sol Pro (batch)",
+   "url": "https://openrouter.ai/openai/gpt-6.2-sol-pro:batch",
+   "published_at": "2026-11-17T18:00:09+00:00",
+   "extra": "context=1050000"
+  },
+  {
+   "id": "openrouter:openai/gpt-6.2-sol",
+   "source": "openrouter",
+   "title": "OpenAI: GPT-6.2 Sol",
+   "url": "https://openrouter.ai/openai/gpt-6.2-sol",
+   "published_at": "2026-11-17T17:59:31+00:00",
+   "extra": "context=1050000"
+  },
+  {
+   "id": "openrouter:openai/gpt-6.2-sol:batch",
+   "source": "openrouter",
+   "title": "OpenAI: GPT-6.2 Sol (batch)",
+   "url": "https://openrouter.ai/openai/gpt-6.2-sol:batch",
+   "published_at": "2026-11-17T17:59:31+00:00",
+   "extra": "context=1050000"
+  },
+  {
+   "id": "hn:50547934",
+   "source": "hn",
+   "title": "Show HN: Dez – plaintext open source AI multimedia studio",
+   "url": "https://github.com/taoeffect/dez",
+   "published_at": "2026-11-18T16:01:28Z",
+   "extra": "points=4"
+  },
+  {
+   "id": "hn:50542654",
+   "source": "hn",
+   "title": "Ask HN: Should we shut down current AI strategy? Vent Your Heart Out",
+   "url": "https://news.ycombinator.com/item?id=50542654",
+   "published_at": "2026-11-18T06:40:16Z",
+   "extra": "points=4"
+  },
+  {
+   "id": "hn:50539204",
+   "source": "hn",
+   "title": "Show HN: DecksMD – local first, Markdown flashcards app and plugin for Obsidian",
+   "url": "https://decksmd.app/",
+   "published_at": "2026-11-17T22:31:25Z",
+   "extra": "points=2"
+  },
+  {
+   "id": "hn:50537363",
+   "source": "hn",
+   "title": "GPT-6.2 Astra and Sol deliver most of the AA Cost per Task Pareto frontier",
+   "url": "https://artificialanalysis.ai/articles/openai-has-the-2-model-in-the-intelligence-index-with-the-release-of-gpt-6-2-astra-and-gpt-6-2-sol",
+   "published_at": "2026-11-17T20:05:42Z",
+   "extra": "points=2"
+  },
+  {
+   "id": "hn:50535716",
+   "source": "hn",
+   "title": "Show HN: Tool to measure log TCO savings without losing or migrating any data",
+   "url": "https://news.ycombinator.com/item?id=50535716",
+   "published_at": "2026-11-17T18:14:59Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:50528263",
+   "source": "hn",
+   "title": "OVH releases first model with EU public funding and supercomputer access",
+   "url": "https://twitter.com/olesovhcom/status/2122573582911869173",
+   "published_at": "2026-11-17T06:50:29Z",
+   "extra": "points=14"
+  },
+  {
+   "id": "hn:50523377",
+   "source": "hn",
+   "title": "Show HN: Open-source, real-time object tracking for live video feeds",
+   "url": "https://github.com/aryamandarda/tamserve",
+   "published_at": "2026-11-16T21:14:39Z",
+   "extra": "points=13"
+  },
+  {
+   "id": "hn:50549296",
+   "source": "hn",
+   "title": "Lumi, from learning RAG to an open-source, self-hosted chatbot for agencies",
+   "url": "https://github.com/nieve-consulting/lumi",
+   "published_at": "2026-11-18T17:33:30Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:50548660",
+   "source": "hn",
+   "title": "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
+   "url": "https://news.ycombinator.com/item?id=50548660",
+   "published_at": "2026-11-18T16:53:42Z",
+   "extra": "points=23"
+  },
+  {
+   "id": "hn:50548013",
+   "source": "hn",
+   "title": "Show HN: RedCat an open-source AI agent for your desktop",
+   "url": "https://github.com/manamaliahmad/redcat",
+   "published_at": "2026-11-18T16:07:19Z",
+   "extra": "points=3"
+  },
+  {
+   "id": "hn:50547235",
+   "source": "hn",
+   "title": "Show HN: Terminess, a harness that runs the official Claude Code and Codex CLIs",
+   "url": "https://github.com/Terminess/terminess",
+   "published_at": "2026-11-18T15:09:12Z",
+   "extra": "points=2"
+  },
+  {
+   "id": "hn:50546346",
+   "source": "hn",
+   "title": "Show HN: Open-source topological periodic system (Z=172 limit) in Python/PyQt6",
+   "url": "https://github.com/Dr-Logvinovich/IT3-Topological-Periodic-Matrix",
+   "published_at": "2026-11-18T13:55:03Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:50545764",
+   "source": "hn",
+   "title": "How we ended up building a set of elite text humanizers",
+   "url": "https://news.ycombinator.com/item?id=50545764",
+   "published_at": "2026-11-18T12:56:29Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:50538584",
+   "source": "hn",
+   "title": "Show HN: Even Keel – a task queue for coding agents",
+   "url": "https://github.com/NamerekT/even-keel",
+   "published_at": "2026-11-17T21:39:51Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:50533967",
+   "source": "hn",
+   "title": "Show HN: Crosshead - Working memory and persistent identity for agents",
+   "url": "https://crosshead.sh/",
+   "published_at": "2026-11-17T16:36:50Z",
+   "extra": "points=2"
+  },
+  {
+   "id": "hn:50531629",
+   "source": "hn",
+   "title": "Show HN: Revix AI – PR review against the standards your repo follows",
+   "url": "https://www.revix.ai",
+   "published_at": "2026-11-17T14:11:52Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:50529742",
+   "source": "hn",
+   "title": "Show HN: Wake, see what Claude Code did and where the tokens went",
+   "url": "https://rcruz.dev/wake/",
+   "published_at": "2026-11-17T10:41:09Z",
+   "extra": "points=2"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x9b3df/is_there_a_strata_for_lfm_24b_a2b",
+   "source": "reddit",
+   "title": "Is there a Strata for lfm 24b a2b",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9b3df/is_there_a_strata_for_lfm_24b_a2b/",
+   "published_at": "2026-10-18T18:52:45+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x9aq2i/llamadoctor_cli_tool_and_live_dashboard_that",
+   "source": "reddit",
+   "title": "llama-doctor: CLI tool and live dashboard that reads your llama.cpp metrics and tells you what's wrong",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9aq2i/llamadoctor_cli_tool_and_live_dashboard_that/",
+   "published_at": "2026-10-18T18:38:01+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x98bby/psa_power_limit_your_5090s",
+   "source": "reddit",
+   "title": "PSA: Power limit your 5090s!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x98bby/psa_power_limit_your_5090s/",
+   "published_at": "2026-10-18T17:02:33+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x95491/unslothdeepseekv41flash1017gguf_hugging_face",
+   "source": "reddit",
+   "title": "unsloth/DeepSeek-V4.1-Flash-1017-GGUF · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x95491/unslothdeepseekv41flash1017gguf_hugging_face/",
+   "published_at": "2026-10-18T14:51:58+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1x92rdf/what_quant_do_you_actually_use_day_to_day_anyone",
+   "source": "reddit",
+   "title": "What quant do you actually use day to day? Anyone happy with 2-bit or 3-bit?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x92rdf/what_quant_do_you_actually_use_day_to_day_anyone/",
+   "published_at": "2026-10-18T13:05:32+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wdqit1/running_qwen3827bq4_at_max_context_on_a_32_gb_gpu",
+   "source": "reddit",
+   "title": "Running Qwen3.8-27B-Q4 at max context on a 32 GB GPU while avoiding kvcache quantization",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdqit1/running_qwen3827bq4_at_max_context_on_a_32_gb_gpu/",
+   "published_at": "2026-09-11T19:41:29+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wdqcxu/is_this_the_real_deal_5090_96gb",
+   "source": "reddit",
+   "title": "Is this the real deal? 5090 96GB",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdqcxu/is_this_the_real_deal_5090_96gb/",
+   "published_at": "2026-09-11T19:35:28+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wdq136/psa_lmstudio_accepts_llamacpp_parameter_override",
+   "source": "reddit",
+   "title": "PSA: LMStudio accepts llama.cpp parameter override: Try --yarn-attn-factor 1.2 (it seems to improve creativity)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdq136/psa_lmstudio_accepts_llamacpp_parameter_override/",
+   "published_at": "2026-09-11T19:23:30+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wjv39j/i_posted_my_embedding_migration_project_here_it",
+   "source": "reddit",
+   "title": "I posted my embedding migration project here, it got a lot of attention, so I added the features you guys said were missing",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjv39j/i_posted_my_embedding_migration_project_here_it/",
+   "published_at": "2026-09-18T16:32:53+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wjtav9/inclusionairealtimevenus_hugging_face",
+   "source": "reddit",
+   "title": "inclusionAI/Realtime-Venus · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjtav9/inclusionairealtimevenus_hugging_face/",
+   "published_at": "2026-09-18T15:27:14+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wjt5f3/bonsai_2_27b_q2_donkey_making_coffee_svg_and_a",
+   "source": "reddit",
+   "title": "Bonsai 2 27b Q2 - Donkey making coffee svg and a mushroom riding a donkey",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjt5f3/bonsai_2_27b_q2_donkey_making_coffee_svg_and_a/",
+   "published_at": "2026-09-18T15:21:38+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wjshvw/64gb_ddr4_2rtx_3090_with_4_sata_ssds_on_raid_5",
+   "source": "reddit",
+   "title": "64gb ddr4 + 2*rtx 3090 with 4 SATA SSDs on RAID 5",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjshvw/64gb_ddr4_2rtx_3090_with_4_sata_ssds_on_raid_5/",
+   "published_at": "2026-09-18T14:57:28+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wjs62f/minimax_code_goes_open_source",
+   "source": "reddit",
+   "title": "MiniMax Code goes open source",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjs62f/minimax_code_goes_open_source/",
+   "published_at": "2026-09-18T14:44:33+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wjs0hd/any_skills_to_allow_real_time_visibility_on_what",
+   "source": "reddit",
+   "title": "any skills to allow real time visibility on what my local ai is doing?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjs0hd/any_skills_to_allow_real_time_visibility_on_what/",
+   "published_at": "2026-09-18T14:38:36+00:00",
+   "extra": ""
+  },
+  {
+   "id": "hn:49733095",
+   "source": "hn",
+   "title": "Show HN: unSnag – Display tasks you can do and graph task dependencies",
+   "url": "https://unsnag.app",
+   "published_at": "2026-09-16T21:12:50Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wedw86/anyone_had_luck_with_converted_3070s",
+   "source": "reddit",
+   "title": "Anyone had luck with converted 3070s?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wedw86/anyone_had_luck_with_converted_3070s/",
+   "published_at": "2026-09-12T14:20:30+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wejf5k/open_source_is_already_near_the_frontier_and",
+   "source": "reddit",
+   "title": "Open source is already near the frontier. And likely will pass soon. I got receipts.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wejf5k/open_source_is_already_near_the_frontier_and/",
+   "published_at": "2026-09-12T17:59:22+00:00",
    "extra": ""
   }
  ],
@@ -48127,6 +48238,36 @@
    "extra": "points=3",
    "event_type": "release",
    "summary": "Hugging Face and OpenRouter join forces to make open-weight models easy to run"
+  },
+  {
+   "id": "openai:https://openai.com/index/advancing-chip-design-with-our-models",
+   "source": "openai",
+   "title": "Advancing chip design with OpenAI models",
+   "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+   "published_at": "2026-11-18T00:00:00+00:00",
+   "extra": "",
+   "event_type": "release",
+   "summary": "Advancing chip design with OpenAI models"
+  },
+  {
+   "id": "hn:50547137",
+   "source": "hn",
+   "title": "Ask HN: Do LLMs really code better than you?",
+   "url": "https://news.ycombinator.com/item?id=50547137",
+   "published_at": "2026-11-18T15:03:25Z",
+   "extra": "points=2",
+   "event_type": "release",
+   "summary": "Ask HN: Do LLMs really code better than you?"
+  },
+  {
+   "id": "hn:50549454",
+   "source": "hn",
+   "title": "Show HN: Goldcrest, a household financial model you fill in by talking",
+   "url": "https://app.getgoldcrest.com",
+   "published_at": "2026-11-18T17:42:50Z",
+   "extra": "points=1",
+   "event_type": "release",
+   "summary": "Show HN: Goldcrest, a household financial model you fill in by talking"
   }
  ]
 }
