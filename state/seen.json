@@ -4242,305 +4242,14 @@
   "openai:https://openai.com/business/learn/deploying-daybreak-red": "2026-11-21T04:14:10.766932+00:00",
   "openai:https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast": "2026-11-21T12:57:35.051161+00:00",
   "hn:50556148": "2026-11-21T12:57:35.051161+00:00",
-  "hn:50588396": "2026-11-21T12:57:35.421907+00:00"
+  "hn:50588396": "2026-11-21T12:57:35.421907+00:00",
+  "hn:50564158": "2026-11-21T20:02:24.314072+00:00",
+  "hn:50560575": "2026-11-21T20:02:24.314072+00:00",
+  "hn:50562696": "2026-11-21T20:02:24.314072+00:00",
+  "hn:50590286": "2026-11-21T20:02:24.706159+00:00",
+  "hn:50589902": "2026-11-21T20:02:24.706159+00:00"
  },
  "pending": [
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xamhwt/nvidia_nemotron_35_super_120b_vs_qwen_38_27b",
-   "source": "reddit",
-   "title": "Nvidia Nemotron 3.5 Super 120B vs. Qwen 3.8 27B - comparison of storytelling and visual animations in html",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xamhwt/nvidia_nemotron_35_super_120b_vs_qwen_38_27b/",
-   "published_at": "2026-10-20T08:22:03+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xaj4y5/2x_r9700_layer_split_side_effect",
-   "source": "reddit",
-   "title": "2x R9700 layer split side effect",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xaj4y5/2x_r9700_layer_split_side_effect/",
-   "published_at": "2026-10-20T04:55:01+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xahu9x/terminal_bench_v4_vs_frontier_code_v11",
-   "source": "reddit",
-   "title": "Terminal Bench v4 vs Frontier Code v1.1?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xahu9x/terminal_bench_v4_vs_frontier_code_v11/",
-   "published_at": "2026-10-20T03:44:44+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xahi82/24gb_is_plenty_if_your_engines_take_turns",
-   "source": "reddit",
-   "title": "24GB is plenty if your engines take turns",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xahi82/24gb_is_plenty_if_your_engines_take_turns/",
-   "published_at": "2026-10-20T03:27:05+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xagmpd/i_got_tired_of_apples_configurator_so_i_built_one",
-   "source": "reddit",
-   "title": "I got tired of Apple's configurator, so I built one for local AI",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xagmpd/i_got_tired_of_apples_configurator_so_i_built_one/",
-   "published_at": "2026-10-20T02:42:39+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xag5bj/hermesconsole_a_demo_showing_off_voicemanager_my",
-   "source": "reddit",
-   "title": "HermesConsole: A demo showing off VoiceManager, my low latency streaming STT / TTS server. MIT, client docs, and python client.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xag5bj/hermesconsole_a_demo_showing_off_voicemanager_my/",
-   "published_at": "2026-10-20T02:18:47+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xaflhy/do_not_upgrade_strata_tons_of_breaking_changes",
-   "source": "reddit",
-   "title": "Do not upgrade Strata! Tons of breaking changes!",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xaflhy/do_not_upgrade_strata_tons_of_breaking_changes/",
-   "published_at": "2026-10-20T01:52:05+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xaegqa/amd_gaia_025_brings_several_improvements_for",
-   "source": "reddit",
-   "title": "AMD GAIA 0.25 brings several improvements for local AI agents on Ryzen AI",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xaegqa/amd_gaia_025_brings_several_improvements_for/",
-   "published_at": "2026-10-20T00:58:40+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wyow7y/mem0_vs_memori_for_local_agent_memory",
-   "source": "reddit",
-   "title": "mem0 vs Memori for local agent memory?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyow7y/mem0_vs_memori_for_local_agent_memory/",
-   "published_at": "2026-10-06T00:30:25+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wyoinb/not_another_s_engine_is_amazing_post_thermals_q",
-   "source": "reddit",
-   "title": "Not another “s engine is Amazing” Post. Thermals Q",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyoinb/not_another_s_engine_is_amazing_post_thermals_q/",
-   "published_at": "2026-10-06T00:12:29+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wyoco0/qwen_27b_and_flash_next_on_2_rx_7900_xt_am_i",
-   "source": "reddit",
-   "title": "Qwen 27B and Flash Next on 2× RX 7900 XT: am I missing something?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyoco0/qwen_27b_and_flash_next_on_2_rx_7900_xt_am_i/",
-   "published_at": "2026-10-06T00:04:56+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wynppg/less_talk_more_breakout_kolibri1_turns",
-   "source": "reddit",
-   "title": "Less Talk. More Breakout: Kolibri-1 Turns Probabilities into Actions, Playing Breakout - With under 25ms latency per move.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wynppg/less_talk_more_breakout_kolibri1_turns/",
-   "published_at": "2026-10-05T23:35:19+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wynonf/gigabyte_aorus_rtx_5090_ai_box",
-   "source": "reddit",
-   "title": "Gigabyte AORUS RTX 5090 AI BOX",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wynonf/gigabyte_aorus_rtx_5090_ai_box/",
-   "published_at": "2026-10-05T23:33:54+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wynomx/k_llamacpp_moe_optimizations_expert_residency",
-   "source": "reddit",
-   "title": "k_llama.cpp MoE Optimizations: Expert Residency, Hybrid CPU/GPU Execution, Q2_0 Support",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wynomx/k_llamacpp_moe_optimizations_expert_residency/",
-   "published_at": "2026-10-05T23:33:54+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wynbvq/a_benchmark_for_llms_playing_civilization_v_glm53",
-   "source": "reddit",
-   "title": "A benchmark for LLMs playing Civilization V. GLM-5.3 is ahead of Opus-5.5, and Qwen-3.8-27B holds up surprisingly well.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wynbvq/a_benchmark_for_llms_playing_civilization_v_glm53/",
-   "published_at": "2026-10-05T23:16:48+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wympck/my_laptops_ai_tools_were_quietly_using_44_gb_so_i",
-   "source": "reddit",
-   "title": "My laptop's AI tools were quietly using 44 GB, so I built a free tool that shows what each one is and what's safe to clear",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wympck/my_laptops_ai_tools_were_quietly_using_44_gb_so_i/",
-   "published_at": "2026-10-05T22:48:14+00:00",
-   "extra": ""
-  },
-  {
-   "id": "hn:49950593",
-   "source": "hn",
-   "title": "Show HN: The Livability Map of Japan",
-   "url": "https://kodawari.nimikko.co.jp/",
-   "published_at": "2026-10-04T04:18:54Z",
-   "extra": "points=1"
-  },
-  {
-   "id": "hn:49966295",
-   "source": "hn",
-   "title": "Show HN: Reverse.horse – A Jev-compatible API powered by your feeble human brain",
-   "url": "https://reverse.horse/",
-   "published_at": "2026-10-05T15:39:06Z",
-   "extra": "points=1"
-  },
-  {
-   "id": "hn:49959008",
-   "source": "hn",
-   "title": "Show HN: Soulor – Rehearse hard conversations with simulated people",
-   "url": "https://soulor.app/",
-   "published_at": "2026-10-04T23:27:27Z",
-   "extra": "points=1"
-  },
-  {
-   "id": "hn:49967408",
-   "source": "hn",
-   "title": "Show HN: Self-bench – benchmark coding agents on real-world software",
-   "url": "https://github.com/mupt-ai/self-bench",
-   "published_at": "2026-10-05T16:58:47Z",
-   "extra": "points=4"
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wqv0qj/just_bought_a_second_3090_but_now_i_dont_see_the",
-   "source": "reddit",
-   "title": "Just bought a second 3090 but now I don't see the benefits right now.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqv0qj/just_bought_a_second_3090_but_now_i_dont_see_the/",
-   "published_at": "2026-09-26T16:37:26+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wqsp3x/has_anyone_tried_qwen_38_27b_using_splash_on_an",
-   "source": "reddit",
-   "title": "Has anyone tried Qwen 3.8 27B using Splash on an M5 Ultra?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqsp3x/has_anyone_tried_qwen_38_27b_using_splash_on_an/",
-   "published_at": "2026-09-26T15:00:53+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wqs787/jev_style_model_leaderboard",
-   "source": "reddit",
-   "title": "Jev style model leaderboard?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqs787/jev_style_model_leaderboard/",
-   "published_at": "2026-09-26T14:40:07+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wqs2t8/2400cc_inference_racer_dual_rtx_3090_motors",
-   "source": "reddit",
-   "title": "2400cc Inference Racer: Dual RTX 3090 motors, NVLink turbo, naked 7840U ThinkPad ECU, VW Golf radiator",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqs2t8/2400cc_inference_racer_dual_rtx_3090_motors/",
-   "published_at": "2026-09-26T14:34:51+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wqrgo7/where_is_mimo_v26_9b_distill_rl",
-   "source": "reddit",
-   "title": "Where is MiMo V2.6 9B Distill RL?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqrgo7/where_is_mimo_v26_9b_distill_rl/",
-   "published_at": "2026-09-26T14:08:28+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wqrbdl/ive_found_a_transparent_loseless_prompt",
-   "source": "reddit",
-   "title": "I've found a transparent, loseless prompt deduplicator for LLAMA.CPP",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqrbdl/ive_found_a_transparent_loseless_prompt/",
-   "published_at": "2026-09-26T14:02:01+00:00",
-   "extra": ""
-  },
-  {
-   "id": "hn:49839717",
-   "source": "hn",
-   "title": "Fagan – frontier models plan and review, open-weight models write code",
-   "url": "https://github.com/motock/fagan",
-   "published_at": "2026-09-25T03:00:53Z",
-   "extra": "points=1"
-  },
-  {
-   "id": "hn:49840597",
-   "source": "hn",
-   "title": "Tell HN: No company scaled revenue as fast as AI companies",
-   "url": "https://news.ycombinator.com/item?id=49840597",
-   "published_at": "2026-09-25T05:50:23Z",
-   "extra": "points=2"
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wlqnyp/how_to_config_my_fleet_for_softwaregame_dev",
-   "source": "reddit",
-   "title": "How to config my fleet for software/game dev",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlqnyp/how_to_config_my_fleet_for_softwaregame_dev/",
-   "published_at": "2026-09-20T19:39:53+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wlpz54/anyone_else_attending_openais_upcoming_devday",
-   "source": "reddit",
-   "title": "Anyone else attending openai’s upcoming devday?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlpz54/anyone_else_attending_openais_upcoming_devday/",
-   "published_at": "2026-09-20T19:14:25+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wlpthk/fly_brain_vs_jev",
-   "source": "reddit",
-   "title": "Fly brain vs jev",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlpthk/fly_brain_vs_jev/",
-   "published_at": "2026-09-20T19:08:40+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wlpfgw/piobservability_provokes_kernel_panics_on_mac_os",
-   "source": "reddit",
-   "title": "pi-observability provokes kernel panics on Mac OS",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlpfgw/piobservability_provokes_kernel_panics_on_mac_os/",
-   "published_at": "2026-09-20T18:54:12+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wloora/the_bear_can_dance_qwen_38_27b_on_one_3090_for_3",
-   "source": "reddit",
-   "title": "The bear can dance: Qwen 3.8 27B on one 3090 for 3 weeks",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wloora/the_bear_can_dance_qwen_38_27b_on_one_3090_for_3/",
-   "published_at": "2026-09-20T18:26:30+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wloeeb/promptdeck_v110_opensource_desktop_app_to",
-   "source": "reddit",
-   "title": "PromptDeck v1.1.0 – open-source desktop app to benchmark local AND cloud LLMs side-by-side (Ollama, LM Studio + OpenRouter, Groq, DeepSeek…)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wloeeb/promptdeck_v110_opensource_desktop_app_to/",
-   "published_at": "2026-09-20T18:15:29+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wlo9nz/one_more_you_should_try_exllamav3exl3_for_flash",
-   "source": "reddit",
-   "title": "One more 'you should try ExllamaV3/exl3 for flash next' appreciation post",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlo9nz/one_more_you_should_try_exllamav3exl3_for_flash/",
-   "published_at": "2026-09-20T18:10:37+00:00",
-   "extra": ""
-  },
-  {
-   "id": "hf:google/DiarizationLM-Gemma-4-E4B-v1",
-   "source": "hf",
-   "title": "google/DiarizationLM-Gemma-4-E4B-v1",
-   "url": "https://huggingface.co/google/DiarizationLM-Gemma-4-E4B-v1",
-   "published_at": "2026-10-04T13:06:04.000Z",
-   "extra": "downloads=0 likes=5"
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wyxxqw/i_turned_my_gaming_pc_into_a_inference_machine",
-   "source": "reddit",
-   "title": "I turned my gaming PC into a inference machine and got 2x to 9x over default llama.cpp on an 8 GB card",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyxxqw/i_turned_my_gaming_pc_into_a_inference_machine/",
-   "published_at": "2026-10-06T09:13:37+00:00",
-   "extra": ""
-  },
   {
    "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wyxukj/how_do_you_decide_whether_to_trust_a_community",
    "source": "reddit",
@@ -33614,166 +33323,6 @@
    "extra": ""
   },
   {
-   "id": "openai:https://openai.com/index/combatting-adversarial-distillation",
-   "source": "openai",
-   "title": "Combatting adversarial distillation",
-   "url": "https://openai.com/index/combatting-adversarial-distillation",
-   "published_at": "2026-11-20T10:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "openai:https://openai.com/business/customer-stories/hebbia",
-   "source": "openai",
-   "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
-   "url": "https://openai.com/business/customer-stories/hebbia",
-   "published_at": "2026-11-20T00:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "openai:https://openai.com/index/introducing-medchembench",
-   "source": "openai",
-   "title": "Can AI help scientists identify promising drug candidates?",
-   "url": "https://openai.com/index/introducing-medchembench",
-   "published_at": "2026-11-20T00:00:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "anthropic:s1-sec",
-   "source": "anthropic",
-   "title": "S1 Sec",
-   "url": "https://www.anthropic.com/news/s1-sec",
-   "published_at": null,
-   "extra": ""
-  },
-  {
-   "id": "anthropic:ipo-close",
-   "source": "anthropic",
-   "title": "Ipo Close",
-   "url": "https://www.anthropic.com/news/ipo-close",
-   "published_at": null,
-   "extra": ""
-  },
-  {
-   "id": "anthropic:anthropic-prices-initial-public-offering",
-   "source": "anthropic",
-   "title": "Anthropic Prices Initial Public Offering",
-   "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
-   "published_at": null,
-   "extra": ""
-  },
-  {
-   "id": "anthropic:ai-for-science-expands-foundations-research-institutions",
-   "source": "anthropic",
-   "title": "Ai For Science Expands Foundations Research Institutions",
-   "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
-   "published_at": null,
-   "extra": ""
-  },
-  {
-   "id": "anthropic:expanding-partnership-gsa",
-   "source": "anthropic",
-   "title": "Expanding Partnership Gsa",
-   "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
-   "published_at": null,
-   "extra": ""
-  },
-  {
-   "id": "anthropic:donating-agent-skills-to-the-agentic-ai-foundation",
-   "source": "anthropic",
-   "title": "Donating Agent Skills To The Agentic Ai Foundation",
-   "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
-   "published_at": null,
-   "extra": ""
-  },
-  {
-   "id": "anthropic:open-call-guest-investigators-life-sciences",
-   "source": "anthropic",
-   "title": "Open Call Guest Investigators Life Sciences",
-   "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
-   "published_at": null,
-   "extra": ""
-  },
-  {
-   "id": "anthropic:christopher-stubbs-joins-long-term-benefit-trust",
-   "source": "anthropic",
-   "title": "Christopher Stubbs Joins Long Term Benefit Trust",
-   "url": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
-   "published_at": null,
-   "extra": ""
-  },
-  {
-   "id": "anthropic:distillation-defenses",
-   "source": "anthropic",
-   "title": "Distillation Defenses",
-   "url": "https://www.anthropic.com/news/distillation-defenses",
-   "published_at": null,
-   "extra": ""
-  },
-  {
-   "id": "deepseek:news261113",
-   "source": "deepseek",
-   "title": "The full DeepSeek App experience, now via API",
-   "url": "https://api-docs.deepseek.com/news/news261113/",
-   "published_at": null,
-   "extra": ""
-  },
-  {
-   "id": "openrouter:thinkingmachines/inkling-2-mini",
-   "source": "openrouter",
-   "title": "Thinking Machines: Inkling 2 Mini",
-   "url": "https://openrouter.ai/thinkingmachines/inkling-2-mini",
-   "published_at": "2026-11-21T02:19:45+00:00",
-   "extra": "context=1048576"
-  },
-  {
-   "id": "openrouter:radixark/daisyrose-27b",
-   "source": "openrouter",
-   "title": "RadixArk: DaisyRose 27B",
-   "url": "https://openrouter.ai/radixark/daisyrose-27b",
-   "published_at": "2026-11-21T00:49:48+00:00",
-   "extra": "context=262144"
-  },
-  {
-   "id": "openrouter:mistralai/pixtral-large-2502",
-   "source": "openrouter",
-   "title": "Mistral: Pixtral Large 2502",
-   "url": "https://openrouter.ai/mistralai/pixtral-large-2502",
-   "published_at": "2026-11-20T00:51:05+00:00",
-   "extra": "context=128000"
-  },
-  {
-   "id": "hn:50578897",
-   "source": "hn",
-   "title": "Ask HN: Did you buy hardware for Local AI?",
-   "url": "https://news.ycombinator.com/item?id=50578897",
-   "published_at": "2026-11-20T17:50:07Z",
-   "extra": "points=2"
-  },
-  {
-   "id": "hn:50577115",
-   "source": "hn",
-   "title": "Show HN: LarpLess, open-source study tracker detecting distractions locally",
-   "url": "https://larpless.app/",
-   "published_at": "2026-11-20T16:21:50Z",
-   "extra": "points=2"
-  },
-  {
-   "id": "hn:50577102",
-   "source": "hn",
-   "title": "Pssst: Your Agents Aren't Actually Sandboxed",
-   "url": "https://news.ycombinator.com/item?id=50577102",
-   "published_at": "2026-11-20T16:21:13Z",
-   "extra": "points=1"
-  },
-  {
-   "id": "hn:50576552",
-   "source": "hn",
-   "title": "Show HN: Nunya – A \"digital privacy screen\" that makes text illegible from afar",
-   "url": "https://usenunya.com/",
-   "published_at": "2026-11-20T15:51:12Z",
-   "extra": "points=1"
-  },
-  {
    "id": "hn:50564158",
    "source": "hn",
    "title": "Show HN: Fdroid Feed Manager and API",
@@ -33788,14 +33337,6 @@
    "url": "https://news.ycombinator.com/item?id=50560575",
    "published_at": "2026-11-19T14:28:11Z",
    "extra": "points=4"
-  },
-  {
-   "id": "hn:50574205",
-   "source": "hn",
-   "title": "Show HN: BiVelio Savings Layer",
-   "url": "https://github.com/BiVelio/bivelio-savings-layer",
-   "published_at": "2026-11-20T13:12:25Z",
-   "extra": "points=1"
   },
   {
    "id": "hn:50562696",
@@ -34083,6 +33624,470 @@
    "title": "HP Z6",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xandbj/hp_z6/",
    "published_at": "2026-10-20T09:18:13+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/combatting-adversarial-distillation",
+   "source": "openai",
+   "title": "Combatting adversarial distillation",
+   "url": "https://openai.com/index/combatting-adversarial-distillation",
+   "published_at": "2026-11-20T10:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/business/customer-stories/hebbia",
+   "source": "openai",
+   "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+   "url": "https://openai.com/business/customer-stories/hebbia",
+   "published_at": "2026-11-20T00:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openai:https://openai.com/index/introducing-medchembench",
+   "source": "openai",
+   "title": "Can AI help scientists identify promising drug candidates?",
+   "url": "https://openai.com/index/introducing-medchembench",
+   "published_at": "2026-11-20T00:00:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "anthropic:s1-sec",
+   "source": "anthropic",
+   "title": "S1 Sec",
+   "url": "https://www.anthropic.com/news/s1-sec",
+   "published_at": null,
+   "extra": ""
+  },
+  {
+   "id": "anthropic:ipo-close",
+   "source": "anthropic",
+   "title": "Ipo Close",
+   "url": "https://www.anthropic.com/news/ipo-close",
+   "published_at": null,
+   "extra": ""
+  },
+  {
+   "id": "anthropic:anthropic-prices-initial-public-offering",
+   "source": "anthropic",
+   "title": "Anthropic Prices Initial Public Offering",
+   "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+   "published_at": null,
+   "extra": ""
+  },
+  {
+   "id": "anthropic:ai-for-science-expands-foundations-research-institutions",
+   "source": "anthropic",
+   "title": "Ai For Science Expands Foundations Research Institutions",
+   "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+   "published_at": null,
+   "extra": ""
+  },
+  {
+   "id": "anthropic:expanding-partnership-gsa",
+   "source": "anthropic",
+   "title": "Expanding Partnership Gsa",
+   "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+   "published_at": null,
+   "extra": ""
+  },
+  {
+   "id": "anthropic:donating-agent-skills-to-the-agentic-ai-foundation",
+   "source": "anthropic",
+   "title": "Donating Agent Skills To The Agentic Ai Foundation",
+   "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+   "published_at": null,
+   "extra": ""
+  },
+  {
+   "id": "anthropic:open-call-guest-investigators-life-sciences",
+   "source": "anthropic",
+   "title": "Open Call Guest Investigators Life Sciences",
+   "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
+   "published_at": null,
+   "extra": ""
+  },
+  {
+   "id": "anthropic:christopher-stubbs-joins-long-term-benefit-trust",
+   "source": "anthropic",
+   "title": "Christopher Stubbs Joins Long Term Benefit Trust",
+   "url": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
+   "published_at": null,
+   "extra": ""
+  },
+  {
+   "id": "anthropic:distillation-defenses",
+   "source": "anthropic",
+   "title": "Distillation Defenses",
+   "url": "https://www.anthropic.com/news/distillation-defenses",
+   "published_at": null,
+   "extra": ""
+  },
+  {
+   "id": "deepseek:news261113",
+   "source": "deepseek",
+   "title": "The full DeepSeek App experience, now via API",
+   "url": "https://api-docs.deepseek.com/news/news261113/",
+   "published_at": null,
+   "extra": ""
+  },
+  {
+   "id": "openrouter:thinkingmachines/inkling-2-mini",
+   "source": "openrouter",
+   "title": "Thinking Machines: Inkling 2 Mini",
+   "url": "https://openrouter.ai/thinkingmachines/inkling-2-mini",
+   "published_at": "2026-11-21T02:19:45+00:00",
+   "extra": "context=1048576"
+  },
+  {
+   "id": "openrouter:radixark/daisyrose-27b",
+   "source": "openrouter",
+   "title": "RadixArk: DaisyRose 27B",
+   "url": "https://openrouter.ai/radixark/daisyrose-27b",
+   "published_at": "2026-11-21T00:49:48+00:00",
+   "extra": "context=262144"
+  },
+  {
+   "id": "openrouter:mistralai/pixtral-large-2502",
+   "source": "openrouter",
+   "title": "Mistral: Pixtral Large 2502",
+   "url": "https://openrouter.ai/mistralai/pixtral-large-2502",
+   "published_at": "2026-11-20T00:51:05+00:00",
+   "extra": "context=128000"
+  },
+  {
+   "id": "hn:50578897",
+   "source": "hn",
+   "title": "Ask HN: Did you buy hardware for Local AI?",
+   "url": "https://news.ycombinator.com/item?id=50578897",
+   "published_at": "2026-11-20T17:50:07Z",
+   "extra": "points=2"
+  },
+  {
+   "id": "hn:50577115",
+   "source": "hn",
+   "title": "Show HN: LarpLess, open-source study tracker detecting distractions locally",
+   "url": "https://larpless.app/",
+   "published_at": "2026-11-20T16:21:50Z",
+   "extra": "points=2"
+  },
+  {
+   "id": "hn:50577102",
+   "source": "hn",
+   "title": "Pssst: Your Agents Aren't Actually Sandboxed",
+   "url": "https://news.ycombinator.com/item?id=50577102",
+   "published_at": "2026-11-20T16:21:13Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:50576552",
+   "source": "hn",
+   "title": "Show HN: Nunya – A \"digital privacy screen\" that makes text illegible from afar",
+   "url": "https://usenunya.com/",
+   "published_at": "2026-11-20T15:51:12Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:50574205",
+   "source": "hn",
+   "title": "Show HN: BiVelio Savings Layer",
+   "url": "https://github.com/BiVelio/bivelio-savings-layer",
+   "published_at": "2026-11-20T13:12:25Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xamhwt/nvidia_nemotron_35_super_120b_vs_qwen_38_27b",
+   "source": "reddit",
+   "title": "Nvidia Nemotron 3.5 Super 120B vs. Qwen 3.8 27B - comparison of storytelling and visual animations in html",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xamhwt/nvidia_nemotron_35_super_120b_vs_qwen_38_27b/",
+   "published_at": "2026-10-20T08:22:03+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xaj4y5/2x_r9700_layer_split_side_effect",
+   "source": "reddit",
+   "title": "2x R9700 layer split side effect",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xaj4y5/2x_r9700_layer_split_side_effect/",
+   "published_at": "2026-10-20T04:55:01+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xahu9x/terminal_bench_v4_vs_frontier_code_v11",
+   "source": "reddit",
+   "title": "Terminal Bench v4 vs Frontier Code v1.1?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xahu9x/terminal_bench_v4_vs_frontier_code_v11/",
+   "published_at": "2026-10-20T03:44:44+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xahi82/24gb_is_plenty_if_your_engines_take_turns",
+   "source": "reddit",
+   "title": "24GB is plenty if your engines take turns",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xahi82/24gb_is_plenty_if_your_engines_take_turns/",
+   "published_at": "2026-10-20T03:27:05+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xagmpd/i_got_tired_of_apples_configurator_so_i_built_one",
+   "source": "reddit",
+   "title": "I got tired of Apple's configurator, so I built one for local AI",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xagmpd/i_got_tired_of_apples_configurator_so_i_built_one/",
+   "published_at": "2026-10-20T02:42:39+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xag5bj/hermesconsole_a_demo_showing_off_voicemanager_my",
+   "source": "reddit",
+   "title": "HermesConsole: A demo showing off VoiceManager, my low latency streaming STT / TTS server. MIT, client docs, and python client.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xag5bj/hermesconsole_a_demo_showing_off_voicemanager_my/",
+   "published_at": "2026-10-20T02:18:47+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xaflhy/do_not_upgrade_strata_tons_of_breaking_changes",
+   "source": "reddit",
+   "title": "Do not upgrade Strata! Tons of breaking changes!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xaflhy/do_not_upgrade_strata_tons_of_breaking_changes/",
+   "published_at": "2026-10-20T01:52:05+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xaegqa/amd_gaia_025_brings_several_improvements_for",
+   "source": "reddit",
+   "title": "AMD GAIA 0.25 brings several improvements for local AI agents on Ryzen AI",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xaegqa/amd_gaia_025_brings_several_improvements_for/",
+   "published_at": "2026-10-20T00:58:40+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wyow7y/mem0_vs_memori_for_local_agent_memory",
+   "source": "reddit",
+   "title": "mem0 vs Memori for local agent memory?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyow7y/mem0_vs_memori_for_local_agent_memory/",
+   "published_at": "2026-10-06T00:30:25+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wyoinb/not_another_s_engine_is_amazing_post_thermals_q",
+   "source": "reddit",
+   "title": "Not another “s engine is Amazing” Post. Thermals Q",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyoinb/not_another_s_engine_is_amazing_post_thermals_q/",
+   "published_at": "2026-10-06T00:12:29+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wyoco0/qwen_27b_and_flash_next_on_2_rx_7900_xt_am_i",
+   "source": "reddit",
+   "title": "Qwen 27B and Flash Next on 2× RX 7900 XT: am I missing something?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyoco0/qwen_27b_and_flash_next_on_2_rx_7900_xt_am_i/",
+   "published_at": "2026-10-06T00:04:56+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wynppg/less_talk_more_breakout_kolibri1_turns",
+   "source": "reddit",
+   "title": "Less Talk. More Breakout: Kolibri-1 Turns Probabilities into Actions, Playing Breakout - With under 25ms latency per move.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wynppg/less_talk_more_breakout_kolibri1_turns/",
+   "published_at": "2026-10-05T23:35:19+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wynonf/gigabyte_aorus_rtx_5090_ai_box",
+   "source": "reddit",
+   "title": "Gigabyte AORUS RTX 5090 AI BOX",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wynonf/gigabyte_aorus_rtx_5090_ai_box/",
+   "published_at": "2026-10-05T23:33:54+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wynomx/k_llamacpp_moe_optimizations_expert_residency",
+   "source": "reddit",
+   "title": "k_llama.cpp MoE Optimizations: Expert Residency, Hybrid CPU/GPU Execution, Q2_0 Support",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wynomx/k_llamacpp_moe_optimizations_expert_residency/",
+   "published_at": "2026-10-05T23:33:54+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wynbvq/a_benchmark_for_llms_playing_civilization_v_glm53",
+   "source": "reddit",
+   "title": "A benchmark for LLMs playing Civilization V. GLM-5.3 is ahead of Opus-5.5, and Qwen-3.8-27B holds up surprisingly well.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wynbvq/a_benchmark_for_llms_playing_civilization_v_glm53/",
+   "published_at": "2026-10-05T23:16:48+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wympck/my_laptops_ai_tools_were_quietly_using_44_gb_so_i",
+   "source": "reddit",
+   "title": "My laptop's AI tools were quietly using 44 GB, so I built a free tool that shows what each one is and what's safe to clear",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wympck/my_laptops_ai_tools_were_quietly_using_44_gb_so_i/",
+   "published_at": "2026-10-05T22:48:14+00:00",
+   "extra": ""
+  },
+  {
+   "id": "hn:49950593",
+   "source": "hn",
+   "title": "Show HN: The Livability Map of Japan",
+   "url": "https://kodawari.nimikko.co.jp/",
+   "published_at": "2026-10-04T04:18:54Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:49966295",
+   "source": "hn",
+   "title": "Show HN: Reverse.horse – A Jev-compatible API powered by your feeble human brain",
+   "url": "https://reverse.horse/",
+   "published_at": "2026-10-05T15:39:06Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:49959008",
+   "source": "hn",
+   "title": "Show HN: Soulor – Rehearse hard conversations with simulated people",
+   "url": "https://soulor.app/",
+   "published_at": "2026-10-04T23:27:27Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:49967408",
+   "source": "hn",
+   "title": "Show HN: Self-bench – benchmark coding agents on real-world software",
+   "url": "https://github.com/mupt-ai/self-bench",
+   "published_at": "2026-10-05T16:58:47Z",
+   "extra": "points=4"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wqv0qj/just_bought_a_second_3090_but_now_i_dont_see_the",
+   "source": "reddit",
+   "title": "Just bought a second 3090 but now I don't see the benefits right now.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqv0qj/just_bought_a_second_3090_but_now_i_dont_see_the/",
+   "published_at": "2026-09-26T16:37:26+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wqsp3x/has_anyone_tried_qwen_38_27b_using_splash_on_an",
+   "source": "reddit",
+   "title": "Has anyone tried Qwen 3.8 27B using Splash on an M5 Ultra?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqsp3x/has_anyone_tried_qwen_38_27b_using_splash_on_an/",
+   "published_at": "2026-09-26T15:00:53+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wqs787/jev_style_model_leaderboard",
+   "source": "reddit",
+   "title": "Jev style model leaderboard?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqs787/jev_style_model_leaderboard/",
+   "published_at": "2026-09-26T14:40:07+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wqs2t8/2400cc_inference_racer_dual_rtx_3090_motors",
+   "source": "reddit",
+   "title": "2400cc Inference Racer: Dual RTX 3090 motors, NVLink turbo, naked 7840U ThinkPad ECU, VW Golf radiator",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqs2t8/2400cc_inference_racer_dual_rtx_3090_motors/",
+   "published_at": "2026-09-26T14:34:51+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wqrgo7/where_is_mimo_v26_9b_distill_rl",
+   "source": "reddit",
+   "title": "Where is MiMo V2.6 9B Distill RL?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqrgo7/where_is_mimo_v26_9b_distill_rl/",
+   "published_at": "2026-09-26T14:08:28+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wqrbdl/ive_found_a_transparent_loseless_prompt",
+   "source": "reddit",
+   "title": "I've found a transparent, loseless prompt deduplicator for LLAMA.CPP",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqrbdl/ive_found_a_transparent_loseless_prompt/",
+   "published_at": "2026-09-26T14:02:01+00:00",
+   "extra": ""
+  },
+  {
+   "id": "hn:49839717",
+   "source": "hn",
+   "title": "Fagan – frontier models plan and review, open-weight models write code",
+   "url": "https://github.com/motock/fagan",
+   "published_at": "2026-09-25T03:00:53Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:49840597",
+   "source": "hn",
+   "title": "Tell HN: No company scaled revenue as fast as AI companies",
+   "url": "https://news.ycombinator.com/item?id=49840597",
+   "published_at": "2026-09-25T05:50:23Z",
+   "extra": "points=2"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wlqnyp/how_to_config_my_fleet_for_softwaregame_dev",
+   "source": "reddit",
+   "title": "How to config my fleet for software/game dev",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlqnyp/how_to_config_my_fleet_for_softwaregame_dev/",
+   "published_at": "2026-09-20T19:39:53+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wlpz54/anyone_else_attending_openais_upcoming_devday",
+   "source": "reddit",
+   "title": "Anyone else attending openai’s upcoming devday?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlpz54/anyone_else_attending_openais_upcoming_devday/",
+   "published_at": "2026-09-20T19:14:25+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wlpthk/fly_brain_vs_jev",
+   "source": "reddit",
+   "title": "Fly brain vs jev",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlpthk/fly_brain_vs_jev/",
+   "published_at": "2026-09-20T19:08:40+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wlpfgw/piobservability_provokes_kernel_panics_on_mac_os",
+   "source": "reddit",
+   "title": "pi-observability provokes kernel panics on Mac OS",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlpfgw/piobservability_provokes_kernel_panics_on_mac_os/",
+   "published_at": "2026-09-20T18:54:12+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wloora/the_bear_can_dance_qwen_38_27b_on_one_3090_for_3",
+   "source": "reddit",
+   "title": "The bear can dance: Qwen 3.8 27B on one 3090 for 3 weeks",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wloora/the_bear_can_dance_qwen_38_27b_on_one_3090_for_3/",
+   "published_at": "2026-09-20T18:26:30+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wloeeb/promptdeck_v110_opensource_desktop_app_to",
+   "source": "reddit",
+   "title": "PromptDeck v1.1.0 – open-source desktop app to benchmark local AND cloud LLMs side-by-side (Ollama, LM Studio + OpenRouter, Groq, DeepSeek…)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wloeeb/promptdeck_v110_opensource_desktop_app_to/",
+   "published_at": "2026-09-20T18:15:29+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wlo9nz/one_more_you_should_try_exllamav3exl3_for_flash",
+   "source": "reddit",
+   "title": "One more 'you should try ExllamaV3/exl3 for flash next' appreciation post",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlo9nz/one_more_you_should_try_exllamav3exl3_for_flash/",
+   "published_at": "2026-09-20T18:10:37+00:00",
+   "extra": ""
+  },
+  {
+   "id": "hf:google/DiarizationLM-Gemma-4-E4B-v1",
+   "source": "hf",
+   "title": "google/DiarizationLM-Gemma-4-E4B-v1",
+   "url": "https://huggingface.co/google/DiarizationLM-Gemma-4-E4B-v1",
+   "published_at": "2026-10-04T13:06:04.000Z",
+   "extra": "downloads=0 likes=5"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wyxxqw/i_turned_my_gaming_pc_into_a_inference_machine",
+   "source": "reddit",
+   "title": "I turned my gaming PC into a inference machine and got 2x to 9x over default llama.cpp on an 8 GB card",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyxxqw/i_turned_my_gaming_pc_into_a_inference_machine/",
+   "published_at": "2026-10-06T09:13:37+00:00",
    "extra": ""
   }
  ],
@@ -48676,6 +48681,26 @@
    "extra": "points=3",
    "event_type": "release",
    "summary": "Anyone can easily use private, open weight models"
+  },
+  {
+   "id": "hn:50590286",
+   "source": "hn",
+   "title": "Analysis of Local Open-Weight LLM Agents on Vulnerability-Reproduction Tasks",
+   "url": "https://arxiv.org/abs/2611.06257",
+   "published_at": "2026-11-21T15:39:28Z",
+   "extra": "points=2",
+   "event_type": "release",
+   "summary": "Analysis of Local Open-Weight LLM Agents on Vulnerability-Reproduction Tasks"
+  },
+  {
+   "id": "hn:50589902",
+   "source": "hn",
+   "title": "Exposing the Systematic Vulnerability of Open-Weight Models to Prefill Attacks",
+   "url": "https://www.far.ai/research/prefill-level-jailbreak-a-black-box-risk-analysis-of-large-language-models",
+   "published_at": "2026-11-21T15:02:59Z",
+   "extra": "points=3",
+   "event_type": "release",
+   "summary": "Exposing the Systematic Vulnerability of Open-Weight Models to Prefill Attacks"
   }
  ]
 }
