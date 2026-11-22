@@ -4251,345 +4251,12 @@
   "openai:https://openai.com/business/customer-stories/hebbia": "2026-11-22T00:16:49.204316+00:00",
   "openai:https://openai.com/index/introducing-medchembench": "2026-11-22T00:16:49.204316+00:00",
   "hn:50594171": "2026-11-22T00:16:49.534772+00:00",
-  "openrouter:mistralai/pixtral-large-2502": "2026-11-22T07:22:40.152424+00:00"
+  "openrouter:mistralai/pixtral-large-2502": "2026-11-22T07:22:40.152424+00:00",
+  "openai:https://openai.com/index/combatting-adversarial-distillation": "2026-11-22T15:37:43.721732+00:00",
+  "hn:50574205": "2026-11-22T15:37:43.721732+00:00",
+  "hn:50547235": "2026-11-22T15:37:43.721732+00:00"
  },
  "pending": [
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wqwzk3/new_to_playing_around_with_local_ai_why_are_they",
-   "source": "reddit",
-   "title": "New to playing around with local ai. why are they free?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqwzk3/new_to_playing_around_with_local_ai_why_are_they/",
-   "published_at": "2026-09-26T17:56:16+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wqwm3o/85_gb_deepseekv4flash_at_3_toks_on_a_12_gb_rtx",
-   "source": "reddit",
-   "title": "85 GB DeepSeek-V4-Flash at ~3 tok/s on a 12 GB RTX 3060 + 64 GB DDR5 RAM - Overspill for FreeToken, inspired by Colibri",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqwm3o/85_gb_deepseekv4flash_at_3_toks_on_a_12_gb_rtx/",
-   "published_at": "2026-09-26T17:41:06+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wqvb01/pacman_the_bane_of_my_qwens",
-   "source": "reddit",
-   "title": "PacMan, the bane of my Qwen(s)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqvb01/pacman_the_bane_of_my_qwens/",
-   "published_at": "2026-09-26T16:49:16+00:00",
-   "extra": ""
-  },
-  {
-   "id": "hn:49841824",
-   "source": "hn",
-   "title": "Who Is Open Source About?",
-   "url": "https://blog.glyph.im/2026/09/who-is-open-source-about.html",
-   "published_at": "2026-09-25T08:46:01Z",
-   "extra": "points=4"
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wiewo0/epyc_cpu_256gb_8ch_inference_rig_adding_a_single",
-   "source": "reddit",
-   "title": "Epyc CPU 256GB 8ch inference rig - adding a single 3090 worth it?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wiewo0/epyc_cpu_256gb_8ch_inference_rig_adding_a_single/",
-   "published_at": "2026-09-17T00:36:29+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wieixn/i_have_96gb_of_vram_sitting_here_what_would_you",
-   "source": "reddit",
-   "title": "I have 96GB of VRAM sitting here. What would YOU do with this machine?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wieixn/i_have_96gb_of_vram_sitting_here_what_would_you/",
-   "published_at": "2026-09-17T00:19:25+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1widoob/upgraded_my_local_setup_with_2_rtx_pros_and_its",
-   "source": "reddit",
-   "title": "Upgraded my local setup with 2 rtx pros and it's amazing.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1widoob/upgraded_my_local_setup_with_2_rtx_pros_and_its/",
-   "published_at": "2026-09-16T23:43:20+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1widomo/i_built_a_native_vulkan_training_backend_for_143",
-   "source": "reddit",
-   "title": "I built a native Vulkan training backend for 143 modern Transformer architectures — no CUDA or PyTorch required",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1widomo/i_built_a_native_vulkan_training_backend_for_143/",
-   "published_at": "2026-09-16T23:43:16+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wibgez/qwen_38_27b_do_you_like_sugar_or_pcp",
-   "source": "reddit",
-   "title": "Qwen 3.8 27B: Do you like sugar or PCP?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wibgez/qwen_38_27b_do_you_like_sugar_or_pcp/",
-   "published_at": "2026-09-16T22:08:49+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wib9kj/openjev",
-   "source": "reddit",
-   "title": "Openjev",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wib9kj/openjev/",
-   "published_at": "2026-09-16T22:01:13+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wzees0/localaistudio_update",
-   "source": "reddit",
-   "title": "Local-AI-Studio Update - https://github.com/vinnyclegg-dev/Local-AI-Studio",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzees0/localaistudio_update/",
-   "published_at": "2026-10-06T21:10:24+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wzecwb/demo_of_how_to_guarantee_untrusted_docker",
-   "source": "reddit",
-   "title": "Demo of how to guarantee untrusted Docker containers aren't allowed to connect out to upload your data",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzecwb/demo_of_how_to_guarantee_untrusted_docker/",
-   "published_at": "2026-10-06T21:08:19+00:00",
-   "extra": ""
-  },
-  {
-   "id": "openrouter:minimax/minimax-m3.1-flash:free",
-   "source": "openrouter",
-   "title": "MiniMax: MiniMax M3.1 Flash (free)",
-   "url": "https://openrouter.ai/minimax/minimax-m3.1-flash:free",
-   "published_at": "2026-10-19T03:12:49+00:00",
-   "extra": "context=1000000"
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xb9hrb/tried_lfm2524a2b_its_crap",
-   "source": "reddit",
-   "title": "Tried LFM2.5-24-A2B. It's crap",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xb9hrb/tried_lfm2524a2b_its_crap/",
-   "published_at": "2026-10-21T01:01:04+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xb8hxg/psa_american_ai_is_over_make_the_switch_to_chinese",
-   "source": "reddit",
-   "title": "PSA: American AI is over, make the switch to Chinese",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xb8hxg/psa_american_ai_is_over_make_the_switch_to_chinese/",
-   "published_at": "2026-10-21T00:13:28+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xaz9cs/3m_token_pool_for_nemotron_35_super_on_a_single",
-   "source": "reddit",
-   "title": "3M token pool for Nemotron 3.5 Super on a single RTX PRO 6000",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xaz9cs/3m_token_pool_for_nemotron_35_super_on_a_single/",
-   "published_at": "2026-10-20T17:59:01+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xayt9l/a_plain_fts5_baseline_beat_the_median_on_a_public",
-   "source": "reddit",
-   "title": "A plain FTS5 baseline beat the median on a public memory board",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xayt9l/a_plain_fts5_baseline_beat_the_median_on_a_public/",
-   "published_at": "2026-10-20T17:42:57+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xaxz80/agnesaiagnes30qwen_qfn_finetune",
-   "source": "reddit",
-   "title": "Agnes-AI/Agnes-3.0-Qwen (QFN finetune)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xaxz80/agnesaiagnes30qwen_qfn_finetune/",
-   "published_at": "2026-10-20T17:11:43+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xaxm6m/would_there_be_interest_in_cpufirst_ai_youtube",
-   "source": "reddit",
-   "title": "Would there be interest in cpu-first ai youtube channel?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xaxm6m/would_there_be_interest_in_cpufirst_ai_youtube/",
-   "published_at": "2026-10-20T16:59:00+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xaxffx/short_report_from_lithuanian_conference_on_ai",
-   "source": "reddit",
-   "title": "Short report from Lithuanian conference on AI Technologies in Medicine",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xaxffx/short_report_from_lithuanian_conference_on_ai/",
-   "published_at": "2026-10-20T16:51:37+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xaxbp3/qwen_3827bpi_on_30803060",
-   "source": "reddit",
-   "title": "Qwen 3.8-27B-pi on 3080+3060",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xaxbp3/qwen_3827bpi_on_30803060/",
-   "published_at": "2026-10-20T16:47:41+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xawa17/mimo_26_is_reasoning_is_like_the_crash_test",
-   "source": "reddit",
-   "title": "MiMo 2.6 is reasoning is like the crash test dummies",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xawa17/mimo_26_is_reasoning_is_like_the_crash_test/",
-   "published_at": "2026-10-20T16:08:49+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wzdzd3/an_opensource_alternative_to_cursor_with_agent",
-   "source": "reddit",
-   "title": "An open-source alternative to Cursor with Agent teams who talk to each other. AI code editor on CodeOSS, with OpenCode as its agentic harness. https://github.com/DragonBallerZ/dragon-ide",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzdzd3/an_opensource_alternative_to_cursor_with_agent/",
-   "published_at": "2026-10-06T20:53:27+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wzdti3/if_you_benchmark_llamacpp_on_amd_with_the",
-   "source": "reddit",
-   "title": "If you benchmark llama.cpp on AMD with the official ROCm builds, check that you're actually on the GPU",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzdti3/if_you_benchmark_llamacpp_on_amd_with_the/",
-   "published_at": "2026-10-06T20:46:48+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wzdn1r/we_gave_aleph_alphas_kolibri1_upto_72_action",
-   "source": "reddit",
-   "title": "We gave Aleph Alpha's Kolibri-1 up-to 72 action combinations and put it in Doom. What could go wrong? 🎮",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzdn1r/we_gave_aleph_alphas_kolibri1_upto_72_action/",
-   "published_at": "2026-10-06T20:39:45+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wzdhwf/i_made_an_opus_55_style_coderendered_video_but_on",
-   "source": "reddit",
-   "title": "I made an \"Opus 5.5 style\" code-rendered video — but on a local NVFP4 Qwen 3.8 27B",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzdhwf/i_made_an_opus_55_style_coderendered_video_but_on/",
-   "published_at": "2026-10-06T20:34:15+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wzd6kf/suppose_i_cpt_qwen359b_on_2b_legal_corpus_how",
-   "source": "reddit",
-   "title": "suppose I CPT qwen3.5-9B on 2B legal corpus, how will i turn it back into Instruct + thinking?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzd6kf/suppose_i_cpt_qwen359b_on_2b_legal_corpus_how/",
-   "published_at": "2026-10-06T20:21:48+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wzcvcb/any_new_hardware_drops_coming_soon",
-   "source": "reddit",
-   "title": "Any new hardware drops coming soon?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzcvcb/any_new_hardware_drops_coming_soon/",
-   "published_at": "2026-10-06T20:09:25+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wzcj77/been_out_of_the_loop_for_a_while",
-   "source": "reddit",
-   "title": "Been out of the loop for a while",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzcj77/been_out_of_the_loop_for_a_while/",
-   "published_at": "2026-10-06T19:56:43+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wzbuz0/repox_v020_added_architectural_outline_mode_80",
-   "source": "reddit",
-   "title": "repOx v0.2.0: Added architectural --outline mode (80% token reduction), synthetic tool-call JSON format, and Git diff packing based on your feedback",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzbuz0/repox_v020_added_architectural_outline_mode_80/",
-   "published_at": "2026-10-06T19:30:37+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wzb71t/pi_and_minisweagent_passed_99_checks_each_in_my",
-   "source": "reddit",
-   "title": "Pi and mini-swe-agent passed 9/9 checks each in my latest experiment. A second code review still found defects in both.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzb71t/pi_and_minisweagent_passed_99_checks_each_in_my/",
-   "published_at": "2026-10-06T19:05:26+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wz9vu8/hey_guys_newbie_here",
-   "source": "reddit",
-   "title": "Hey guys newbie here",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wz9vu8/hey_guys_newbie_here/",
-   "published_at": "2026-10-06T18:15:40+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wz9j0u/local_ai_ecosystem_overview",
-   "source": "reddit",
-   "title": "Local AI ecosystem overview",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wz9j0u/local_ai_ecosystem_overview/",
-   "published_at": "2026-10-06T18:02:17+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wz9g4i/are_ai_influencers_just_repeating_the_same",
-   "source": "reddit",
-   "title": "Are AI influencers just repeating the same talking points?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wz9g4i/are_ai_influencers_just_repeating_the_same/",
-   "published_at": "2026-10-06T17:59:29+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wz9cv5/at_q4_can_i_run_qwen_38_flash_next_with_strata_on",
-   "source": "reddit",
-   "title": "at q4 can i run qwen 3.8 flash next with strata on these specs? specs in desc",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wz9cv5/at_q4_can_i_run_qwen_38_flash_next_with_strata_on/",
-   "published_at": "2026-10-06T17:56:02+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wz924n/i_got_tired_of_paying_for_wispr_flow_so_i_built_a",
-   "source": "reddit",
-   "title": "I got tired of paying for Wispr Flow, so I built a free voice-typing daemon for Linux",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wz924n/i_got_tired_of_paying_for_wispr_flow_so_i_built_a/",
-   "published_at": "2026-10-06T17:44:30+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wiag69/qwen38flashnext_on_the_official_sglang_nvfp4",
-   "source": "reddit",
-   "title": "Qwen3.8-Flash-Next on the official SGLang NVFP4 image: 35 s → 22 s first token at 254K on one RTX PRO 6000, then I run 7 tests",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wiag69/qwen38flashnext_on_the_official_sglang_nvfp4/",
-   "published_at": "2026-09-16T21:28:53+00:00",
-   "extra": ""
-  },
-  {
-   "id": "hn:49712278",
-   "source": "hn",
-   "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
-   "url": "https://withcapsule.app/",
-   "published_at": "2026-09-15T13:31:40Z",
-   "extra": "points=168"
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wea0fl/deepseek_v41_flash_2_bit_with_dwarfstar_eng",
-   "source": "reddit",
-   "title": "DeepSeek v4.1 Flash 2 bit with DwarfStar (ENG)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wea0fl/deepseek_v41_flash_2_bit_with_dwarfstar_eng/",
-   "published_at": "2026-09-12T11:21:44+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wkdpsf/fear_mongering",
-   "source": "reddit",
-   "title": "Fear Mongering",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkdpsf/fear_mongering/",
-   "published_at": "2026-09-19T05:44:23+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wkaoaz/cactus_needle_3",
-   "source": "reddit",
-   "title": "Cactus Needle 3?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkaoaz/cactus_needle_3/",
-   "published_at": "2026-09-19T03:08:37+00:00",
-   "extra": ""
-  },
-  {
-   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wk9yiy/anthropic_just_named_seven_chinese_ai_labs_for",
-   "source": "reddit",
-   "title": "Anthropic just named seven Chinese AI labs for stealing Claude's reasoning. I read the full report and the Qwen part doesn't hold up the way the headline does.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wk9yiy/anthropic_just_named_seven_chinese_ai_labs_for/",
-   "published_at": "2026-09-19T02:33:53+00:00",
-   "extra": ""
-  },
   {
    "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wm3yvy/whats_the_verdict_on_ternary_bonsai_2_27b",
    "source": "reddit",
@@ -33647,131 +33314,11 @@
    "extra": ""
   },
   {
-   "id": "anthropic:s1-sec",
-   "source": "anthropic",
-   "title": "S1 Sec",
-   "url": "https://www.anthropic.com/news/s1-sec",
-   "published_at": null,
-   "extra": ""
-  },
-  {
-   "id": "anthropic:ipo-close",
-   "source": "anthropic",
-   "title": "Ipo Close",
-   "url": "https://www.anthropic.com/news/ipo-close",
-   "published_at": null,
-   "extra": ""
-  },
-  {
-   "id": "anthropic:anthropic-prices-initial-public-offering",
-   "source": "anthropic",
-   "title": "Anthropic Prices Initial Public Offering",
-   "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
-   "published_at": null,
-   "extra": ""
-  },
-  {
-   "id": "anthropic:ai-for-science-expands-foundations-research-institutions",
-   "source": "anthropic",
-   "title": "Ai For Science Expands Foundations Research Institutions",
-   "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
-   "published_at": null,
-   "extra": ""
-  },
-  {
-   "id": "anthropic:expanding-partnership-gsa",
-   "source": "anthropic",
-   "title": "Expanding Partnership Gsa",
-   "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
-   "published_at": null,
-   "extra": ""
-  },
-  {
-   "id": "anthropic:donating-agent-skills-to-the-agentic-ai-foundation",
-   "source": "anthropic",
-   "title": "Donating Agent Skills To The Agentic Ai Foundation",
-   "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
-   "published_at": null,
-   "extra": ""
-  },
-  {
-   "id": "anthropic:open-call-guest-investigators-life-sciences",
-   "source": "anthropic",
-   "title": "Open Call Guest Investigators Life Sciences",
-   "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
-   "published_at": null,
-   "extra": ""
-  },
-  {
-   "id": "anthropic:christopher-stubbs-joins-long-term-benefit-trust",
-   "source": "anthropic",
-   "title": "Christopher Stubbs Joins Long Term Benefit Trust",
-   "url": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
-   "published_at": null,
-   "extra": ""
-  },
-  {
-   "id": "anthropic:distillation-defenses",
-   "source": "anthropic",
-   "title": "Distillation Defenses",
-   "url": "https://www.anthropic.com/news/distillation-defenses",
-   "published_at": null,
-   "extra": ""
-  },
-  {
-   "id": "deepseek:news261113",
-   "source": "deepseek",
-   "title": "The full DeepSeek App experience, now via API",
-   "url": "https://api-docs.deepseek.com/news/news261113/",
-   "published_at": null,
-   "extra": ""
-  },
-  {
-   "id": "openrouter:thinkingmachines/inkling-2-mini",
-   "source": "openrouter",
-   "title": "Thinking Machines: Inkling 2 Mini",
-   "url": "https://openrouter.ai/thinkingmachines/inkling-2-mini",
-   "published_at": "2026-11-21T02:19:45+00:00",
-   "extra": "context=1048576"
-  },
-  {
-   "id": "openrouter:radixark/daisyrose-27b",
-   "source": "openrouter",
-   "title": "RadixArk: DaisyRose 27B",
-   "url": "https://openrouter.ai/radixark/daisyrose-27b",
-   "published_at": "2026-11-21T00:49:48+00:00",
-   "extra": "context=262144"
-  },
-  {
    "id": "hn:50595885",
    "source": "hn",
    "title": "Show HN: Hikari.ImGui, a pure C# re-implementation of Dear ImGui",
    "url": "https://github.com/LeastActionTech/Hikari.ImGui",
    "published_at": "2026-11-22T03:17:57Z",
-   "extra": "points=2"
-  },
-  {
-   "id": "hn:50594645",
-   "source": "hn",
-   "title": "Show HN: Reviving a 2012 open-source password manager for modern Android",
-   "url": "https://jurakovic.github.io/passdroid/",
-   "published_at": "2026-11-21T23:23:29Z",
-   "extra": "points=1"
-  },
-  {
-   "id": "hn:50578897",
-   "source": "hn",
-   "title": "Ask HN: Did you buy hardware for Local AI?",
-   "url": "https://news.ycombinator.com/item?id=50578897",
-   "published_at": "2026-11-20T17:50:07Z",
-   "extra": "points=2"
-  },
-  {
-   "id": "hn:50577115",
-   "source": "hn",
-   "title": "Show HN: LarpLess, open-source study tracker detecting distractions locally",
-   "url": "https://larpless.app/",
-   "published_at": "2026-11-20T16:21:50Z",
    "extra": "points=2"
   },
   {
@@ -33781,22 +33328,6 @@
    "url": "https://news.ycombinator.com/item?id=50577102",
    "published_at": "2026-11-20T16:21:13Z",
    "extra": "points=1"
-  },
-  {
-   "id": "hn:50576552",
-   "source": "hn",
-   "title": "Show HN: Nunya – A \"digital privacy screen\" that makes text illegible from afar",
-   "url": "https://usenunya.com/",
-   "published_at": "2026-11-20T15:51:12Z",
-   "extra": "points=1"
-  },
-  {
-   "id": "hn:50595097",
-   "source": "hn",
-   "title": "Open-Source FPGA The \"startup idea\" to \"go big fast\"",
-   "url": "https://news.ycombinator.com/item?id=50595097",
-   "published_at": "2026-11-22T00:41:59Z",
-   "extra": "points=2"
   },
   {
    "id": "hn:50574205",
@@ -34116,6 +33647,486 @@
    "title": "GitHub - giveen/ninfer-ext: ninfer-ext: He built the product, we are building the weapon.",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqz9cr/github_giveenninferext_ninferext_he_built_the/",
    "published_at": "2026-09-26T19:27:40+00:00",
+   "extra": ""
+  },
+  {
+   "id": "anthropic:s1-sec",
+   "source": "anthropic",
+   "title": "S1 Sec",
+   "url": "https://www.anthropic.com/news/s1-sec",
+   "published_at": null,
+   "extra": ""
+  },
+  {
+   "id": "anthropic:ipo-close",
+   "source": "anthropic",
+   "title": "Ipo Close",
+   "url": "https://www.anthropic.com/news/ipo-close",
+   "published_at": null,
+   "extra": ""
+  },
+  {
+   "id": "anthropic:anthropic-prices-initial-public-offering",
+   "source": "anthropic",
+   "title": "Anthropic Prices Initial Public Offering",
+   "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+   "published_at": null,
+   "extra": ""
+  },
+  {
+   "id": "anthropic:ai-for-science-expands-foundations-research-institutions",
+   "source": "anthropic",
+   "title": "Ai For Science Expands Foundations Research Institutions",
+   "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+   "published_at": null,
+   "extra": ""
+  },
+  {
+   "id": "anthropic:expanding-partnership-gsa",
+   "source": "anthropic",
+   "title": "Expanding Partnership Gsa",
+   "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+   "published_at": null,
+   "extra": ""
+  },
+  {
+   "id": "anthropic:donating-agent-skills-to-the-agentic-ai-foundation",
+   "source": "anthropic",
+   "title": "Donating Agent Skills To The Agentic Ai Foundation",
+   "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+   "published_at": null,
+   "extra": ""
+  },
+  {
+   "id": "anthropic:open-call-guest-investigators-life-sciences",
+   "source": "anthropic",
+   "title": "Open Call Guest Investigators Life Sciences",
+   "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
+   "published_at": null,
+   "extra": ""
+  },
+  {
+   "id": "anthropic:christopher-stubbs-joins-long-term-benefit-trust",
+   "source": "anthropic",
+   "title": "Christopher Stubbs Joins Long Term Benefit Trust",
+   "url": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
+   "published_at": null,
+   "extra": ""
+  },
+  {
+   "id": "anthropic:distillation-defenses",
+   "source": "anthropic",
+   "title": "Distillation Defenses",
+   "url": "https://www.anthropic.com/news/distillation-defenses",
+   "published_at": null,
+   "extra": ""
+  },
+  {
+   "id": "deepseek:news261113",
+   "source": "deepseek",
+   "title": "The full DeepSeek App experience, now via API",
+   "url": "https://api-docs.deepseek.com/news/news261113/",
+   "published_at": null,
+   "extra": ""
+  },
+  {
+   "id": "openrouter:thinkingmachines/inkling-2-mini",
+   "source": "openrouter",
+   "title": "Thinking Machines: Inkling 2 Mini",
+   "url": "https://openrouter.ai/thinkingmachines/inkling-2-mini",
+   "published_at": "2026-11-21T02:19:45+00:00",
+   "extra": "context=1048576"
+  },
+  {
+   "id": "openrouter:radixark/daisyrose-27b",
+   "source": "openrouter",
+   "title": "RadixArk: DaisyRose 27B",
+   "url": "https://openrouter.ai/radixark/daisyrose-27b",
+   "published_at": "2026-11-21T00:49:48+00:00",
+   "extra": "context=262144"
+  },
+  {
+   "id": "hn:50600516",
+   "source": "hn",
+   "title": "Show HN: RayClay – an open source C app framework for desktop, mobile, and web",
+   "url": "https://github.com/impizulu/rayclay",
+   "published_at": "2026-11-22T15:24:54Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:50594645",
+   "source": "hn",
+   "title": "Show HN: Reviving a 2012 open-source password manager for modern Android",
+   "url": "https://jurakovic.github.io/passdroid/",
+   "published_at": "2026-11-21T23:23:29Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:50578897",
+   "source": "hn",
+   "title": "Ask HN: Did you buy hardware for Local AI?",
+   "url": "https://news.ycombinator.com/item?id=50578897",
+   "published_at": "2026-11-20T17:50:07Z",
+   "extra": "points=2"
+  },
+  {
+   "id": "hn:50577115",
+   "source": "hn",
+   "title": "Show HN: LarpLess, open-source study tracker detecting distractions locally",
+   "url": "https://larpless.app/",
+   "published_at": "2026-11-20T16:21:50Z",
+   "extra": "points=2"
+  },
+  {
+   "id": "hn:50576552",
+   "source": "hn",
+   "title": "Show HN: Nunya – A \"digital privacy screen\" that makes text illegible from afar",
+   "url": "https://usenunya.com/",
+   "published_at": "2026-11-20T15:51:12Z",
+   "extra": "points=1"
+  },
+  {
+   "id": "hn:50595097",
+   "source": "hn",
+   "title": "Open-Source FPGA The \"startup idea\" to \"go big fast\"",
+   "url": "https://news.ycombinator.com/item?id=50595097",
+   "published_at": "2026-11-22T00:41:59Z",
+   "extra": "points=2"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wqwzk3/new_to_playing_around_with_local_ai_why_are_they",
+   "source": "reddit",
+   "title": "New to playing around with local ai. why are they free?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqwzk3/new_to_playing_around_with_local_ai_why_are_they/",
+   "published_at": "2026-09-26T17:56:16+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wqwm3o/85_gb_deepseekv4flash_at_3_toks_on_a_12_gb_rtx",
+   "source": "reddit",
+   "title": "85 GB DeepSeek-V4-Flash at ~3 tok/s on a 12 GB RTX 3060 + 64 GB DDR5 RAM - Overspill for FreeToken, inspired by Colibri",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqwm3o/85_gb_deepseekv4flash_at_3_toks_on_a_12_gb_rtx/",
+   "published_at": "2026-09-26T17:41:06+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wqvb01/pacman_the_bane_of_my_qwens",
+   "source": "reddit",
+   "title": "PacMan, the bane of my Qwen(s)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqvb01/pacman_the_bane_of_my_qwens/",
+   "published_at": "2026-09-26T16:49:16+00:00",
+   "extra": ""
+  },
+  {
+   "id": "hn:49841824",
+   "source": "hn",
+   "title": "Who Is Open Source About?",
+   "url": "https://blog.glyph.im/2026/09/who-is-open-source-about.html",
+   "published_at": "2026-09-25T08:46:01Z",
+   "extra": "points=4"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wiewo0/epyc_cpu_256gb_8ch_inference_rig_adding_a_single",
+   "source": "reddit",
+   "title": "Epyc CPU 256GB 8ch inference rig - adding a single 3090 worth it?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wiewo0/epyc_cpu_256gb_8ch_inference_rig_adding_a_single/",
+   "published_at": "2026-09-17T00:36:29+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wieixn/i_have_96gb_of_vram_sitting_here_what_would_you",
+   "source": "reddit",
+   "title": "I have 96GB of VRAM sitting here. What would YOU do with this machine?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wieixn/i_have_96gb_of_vram_sitting_here_what_would_you/",
+   "published_at": "2026-09-17T00:19:25+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1widoob/upgraded_my_local_setup_with_2_rtx_pros_and_its",
+   "source": "reddit",
+   "title": "Upgraded my local setup with 2 rtx pros and it's amazing.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1widoob/upgraded_my_local_setup_with_2_rtx_pros_and_its/",
+   "published_at": "2026-09-16T23:43:20+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1widomo/i_built_a_native_vulkan_training_backend_for_143",
+   "source": "reddit",
+   "title": "I built a native Vulkan training backend for 143 modern Transformer architectures — no CUDA or PyTorch required",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1widomo/i_built_a_native_vulkan_training_backend_for_143/",
+   "published_at": "2026-09-16T23:43:16+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wibgez/qwen_38_27b_do_you_like_sugar_or_pcp",
+   "source": "reddit",
+   "title": "Qwen 3.8 27B: Do you like sugar or PCP?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wibgez/qwen_38_27b_do_you_like_sugar_or_pcp/",
+   "published_at": "2026-09-16T22:08:49+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wib9kj/openjev",
+   "source": "reddit",
+   "title": "Openjev",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wib9kj/openjev/",
+   "published_at": "2026-09-16T22:01:13+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wzees0/localaistudio_update",
+   "source": "reddit",
+   "title": "Local-AI-Studio Update - https://github.com/vinnyclegg-dev/Local-AI-Studio",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzees0/localaistudio_update/",
+   "published_at": "2026-10-06T21:10:24+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wzecwb/demo_of_how_to_guarantee_untrusted_docker",
+   "source": "reddit",
+   "title": "Demo of how to guarantee untrusted Docker containers aren't allowed to connect out to upload your data",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzecwb/demo_of_how_to_guarantee_untrusted_docker/",
+   "published_at": "2026-10-06T21:08:19+00:00",
+   "extra": ""
+  },
+  {
+   "id": "openrouter:minimax/minimax-m3.1-flash:free",
+   "source": "openrouter",
+   "title": "MiniMax: MiniMax M3.1 Flash (free)",
+   "url": "https://openrouter.ai/minimax/minimax-m3.1-flash:free",
+   "published_at": "2026-10-19T03:12:49+00:00",
+   "extra": "context=1000000"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xb9hrb/tried_lfm2524a2b_its_crap",
+   "source": "reddit",
+   "title": "Tried LFM2.5-24-A2B. It's crap",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xb9hrb/tried_lfm2524a2b_its_crap/",
+   "published_at": "2026-10-21T01:01:04+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xb8hxg/psa_american_ai_is_over_make_the_switch_to_chinese",
+   "source": "reddit",
+   "title": "PSA: American AI is over, make the switch to Chinese",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xb8hxg/psa_american_ai_is_over_make_the_switch_to_chinese/",
+   "published_at": "2026-10-21T00:13:28+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xaz9cs/3m_token_pool_for_nemotron_35_super_on_a_single",
+   "source": "reddit",
+   "title": "3M token pool for Nemotron 3.5 Super on a single RTX PRO 6000",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xaz9cs/3m_token_pool_for_nemotron_35_super_on_a_single/",
+   "published_at": "2026-10-20T17:59:01+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xayt9l/a_plain_fts5_baseline_beat_the_median_on_a_public",
+   "source": "reddit",
+   "title": "A plain FTS5 baseline beat the median on a public memory board",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xayt9l/a_plain_fts5_baseline_beat_the_median_on_a_public/",
+   "published_at": "2026-10-20T17:42:57+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xaxz80/agnesaiagnes30qwen_qfn_finetune",
+   "source": "reddit",
+   "title": "Agnes-AI/Agnes-3.0-Qwen (QFN finetune)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xaxz80/agnesaiagnes30qwen_qfn_finetune/",
+   "published_at": "2026-10-20T17:11:43+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xaxm6m/would_there_be_interest_in_cpufirst_ai_youtube",
+   "source": "reddit",
+   "title": "Would there be interest in cpu-first ai youtube channel?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xaxm6m/would_there_be_interest_in_cpufirst_ai_youtube/",
+   "published_at": "2026-10-20T16:59:00+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xaxffx/short_report_from_lithuanian_conference_on_ai",
+   "source": "reddit",
+   "title": "Short report from Lithuanian conference on AI Technologies in Medicine",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xaxffx/short_report_from_lithuanian_conference_on_ai/",
+   "published_at": "2026-10-20T16:51:37+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xaxbp3/qwen_3827bpi_on_30803060",
+   "source": "reddit",
+   "title": "Qwen 3.8-27B-pi on 3080+3060",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xaxbp3/qwen_3827bpi_on_30803060/",
+   "published_at": "2026-10-20T16:47:41+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1xawa17/mimo_26_is_reasoning_is_like_the_crash_test",
+   "source": "reddit",
+   "title": "MiMo 2.6 is reasoning is like the crash test dummies",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xawa17/mimo_26_is_reasoning_is_like_the_crash_test/",
+   "published_at": "2026-10-20T16:08:49+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wzdzd3/an_opensource_alternative_to_cursor_with_agent",
+   "source": "reddit",
+   "title": "An open-source alternative to Cursor with Agent teams who talk to each other. AI code editor on CodeOSS, with OpenCode as its agentic harness. https://github.com/DragonBallerZ/dragon-ide",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzdzd3/an_opensource_alternative_to_cursor_with_agent/",
+   "published_at": "2026-10-06T20:53:27+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wzdti3/if_you_benchmark_llamacpp_on_amd_with_the",
+   "source": "reddit",
+   "title": "If you benchmark llama.cpp on AMD with the official ROCm builds, check that you're actually on the GPU",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzdti3/if_you_benchmark_llamacpp_on_amd_with_the/",
+   "published_at": "2026-10-06T20:46:48+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wzdn1r/we_gave_aleph_alphas_kolibri1_upto_72_action",
+   "source": "reddit",
+   "title": "We gave Aleph Alpha's Kolibri-1 up-to 72 action combinations and put it in Doom. What could go wrong? 🎮",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzdn1r/we_gave_aleph_alphas_kolibri1_upto_72_action/",
+   "published_at": "2026-10-06T20:39:45+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wzdhwf/i_made_an_opus_55_style_coderendered_video_but_on",
+   "source": "reddit",
+   "title": "I made an \"Opus 5.5 style\" code-rendered video — but on a local NVFP4 Qwen 3.8 27B",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzdhwf/i_made_an_opus_55_style_coderendered_video_but_on/",
+   "published_at": "2026-10-06T20:34:15+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wzd6kf/suppose_i_cpt_qwen359b_on_2b_legal_corpus_how",
+   "source": "reddit",
+   "title": "suppose I CPT qwen3.5-9B on 2B legal corpus, how will i turn it back into Instruct + thinking?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzd6kf/suppose_i_cpt_qwen359b_on_2b_legal_corpus_how/",
+   "published_at": "2026-10-06T20:21:48+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wzcvcb/any_new_hardware_drops_coming_soon",
+   "source": "reddit",
+   "title": "Any new hardware drops coming soon?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzcvcb/any_new_hardware_drops_coming_soon/",
+   "published_at": "2026-10-06T20:09:25+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wzcj77/been_out_of_the_loop_for_a_while",
+   "source": "reddit",
+   "title": "Been out of the loop for a while",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzcj77/been_out_of_the_loop_for_a_while/",
+   "published_at": "2026-10-06T19:56:43+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wzbuz0/repox_v020_added_architectural_outline_mode_80",
+   "source": "reddit",
+   "title": "repOx v0.2.0: Added architectural --outline mode (80% token reduction), synthetic tool-call JSON format, and Git diff packing based on your feedback",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzbuz0/repox_v020_added_architectural_outline_mode_80/",
+   "published_at": "2026-10-06T19:30:37+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wzb71t/pi_and_minisweagent_passed_99_checks_each_in_my",
+   "source": "reddit",
+   "title": "Pi and mini-swe-agent passed 9/9 checks each in my latest experiment. A second code review still found defects in both.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzb71t/pi_and_minisweagent_passed_99_checks_each_in_my/",
+   "published_at": "2026-10-06T19:05:26+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wz9vu8/hey_guys_newbie_here",
+   "source": "reddit",
+   "title": "Hey guys newbie here",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wz9vu8/hey_guys_newbie_here/",
+   "published_at": "2026-10-06T18:15:40+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wz9j0u/local_ai_ecosystem_overview",
+   "source": "reddit",
+   "title": "Local AI ecosystem overview",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wz9j0u/local_ai_ecosystem_overview/",
+   "published_at": "2026-10-06T18:02:17+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wz9g4i/are_ai_influencers_just_repeating_the_same",
+   "source": "reddit",
+   "title": "Are AI influencers just repeating the same talking points?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wz9g4i/are_ai_influencers_just_repeating_the_same/",
+   "published_at": "2026-10-06T17:59:29+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wz9cv5/at_q4_can_i_run_qwen_38_flash_next_with_strata_on",
+   "source": "reddit",
+   "title": "at q4 can i run qwen 3.8 flash next with strata on these specs? specs in desc",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wz9cv5/at_q4_can_i_run_qwen_38_flash_next_with_strata_on/",
+   "published_at": "2026-10-06T17:56:02+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wz924n/i_got_tired_of_paying_for_wispr_flow_so_i_built_a",
+   "source": "reddit",
+   "title": "I got tired of paying for Wispr Flow, so I built a free voice-typing daemon for Linux",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wz924n/i_got_tired_of_paying_for_wispr_flow_so_i_built_a/",
+   "published_at": "2026-10-06T17:44:30+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wiag69/qwen38flashnext_on_the_official_sglang_nvfp4",
+   "source": "reddit",
+   "title": "Qwen3.8-Flash-Next on the official SGLang NVFP4 image: 35 s → 22 s first token at 254K on one RTX PRO 6000, then I run 7 tests",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wiag69/qwen38flashnext_on_the_official_sglang_nvfp4/",
+   "published_at": "2026-09-16T21:28:53+00:00",
+   "extra": ""
+  },
+  {
+   "id": "hn:49712278",
+   "source": "hn",
+   "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
+   "url": "https://withcapsule.app/",
+   "published_at": "2026-09-15T13:31:40Z",
+   "extra": "points=168"
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wea0fl/deepseek_v41_flash_2_bit_with_dwarfstar_eng",
+   "source": "reddit",
+   "title": "DeepSeek v4.1 Flash 2 bit with DwarfStar (ENG)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wea0fl/deepseek_v41_flash_2_bit_with_dwarfstar_eng/",
+   "published_at": "2026-09-12T11:21:44+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wkdpsf/fear_mongering",
+   "source": "reddit",
+   "title": "Fear Mongering",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkdpsf/fear_mongering/",
+   "published_at": "2026-09-19T05:44:23+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wkaoaz/cactus_needle_3",
+   "source": "reddit",
+   "title": "Cactus Needle 3?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkaoaz/cactus_needle_3/",
+   "published_at": "2026-09-19T03:08:37+00:00",
+   "extra": ""
+  },
+  {
+   "id": "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1wk9yiy/anthropic_just_named_seven_chinese_ai_labs_for",
+   "source": "reddit",
+   "title": "Anthropic just named seven Chinese AI labs for stealing Claude's reasoning. I read the full report and the Qwen part doesn't hold up the way the headline does.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wk9yiy/anthropic_just_named_seven_chinese_ai_labs_for/",
+   "published_at": "2026-09-19T02:33:53+00:00",
    "extra": ""
   }
  ],
